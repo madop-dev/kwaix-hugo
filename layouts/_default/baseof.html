@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} — KWAIX</title>
+  <meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+</head>
+<body>
+  {{ partial "header" . }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer" . }}
+</body>
+</html>

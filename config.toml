@@ -1,0 +1,22 @@
+baseURL = "https://kwaix.de/"
+languageCode = "de-de"
+title = "KWAIX - KI Experte im Norden"
+
+[params]
+  description = "KWAIX: Team von KI-Spezialisten. Trainings, Automation, Chatbots für KMU im Norden."
+  tagline = "KI Experte im Norden"
+  email = "md@md-agenturnetzwerk.de"
+  phone = "+49 (421) XXX-XXXX"
+  colorPrimary = "#4f46e5"
+  colorAccent = "#f43f5e"
+
+[menu]
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+  [[menu.main]]
+    name = "Über uns"
+    url = "/about/"
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"

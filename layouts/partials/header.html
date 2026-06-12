@@ -1,0 +1,8 @@
+<header style="padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e5e5e5; background: #fff; position: sticky; top: 0; z-index: 100;">
+  <a href="{{ .Site.BaseURL }}" style="text-decoration: none; font-size: 24px; font-weight: 900;"><span style="color: #4f46e5;">KW</span><span style="color: #f43f5e;">AI</span><span style="color: #1a1a1a;">X</span></a>
+  <div style="font-size: 12px; letter-spacing: 2px; color: #888; text-transform: uppercase;">{{ .Site.Params.tagline }}</div>
+  <nav style="display: flex; gap: 32px; font-size: 14px;">
+    {{ range .Site.Menus.main }}<a href="{{ .URL }}" style="text-decoration: none; color: #666;">{{ .Name }}</a>{{ end }}
+  </nav>
+  <a href="/contact/" style="padding: 10px 24px; background: #f43f5e; color: white; border: none; font-weight: 600; border-radius: 6px; text-decoration: none; font-size: 14px;">Beratung</a>
+</header>
