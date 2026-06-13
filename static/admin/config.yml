@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: madop-dev/kwaix-hugo
+  name: git-gateway
   branch: master
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
 
 media_folder: static/uploads
 public_folder: /uploads
