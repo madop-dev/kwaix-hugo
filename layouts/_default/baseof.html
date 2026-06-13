@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}KWAIX — KI-Lösungen für Mittelstand{{ else }}{{ .Title }} — KWAIX{{ end }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="KWAIX">
+<meta property="og:locale" content="de_DE">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+<meta name="theme-color" content="{{ .Site.Params.colorPrimary }}">
+<meta name="geo.region" content="DE-HB">
+<meta name="geo.placename" content="Bremen">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "KWAIX",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "email": "{{ .Site.Params.email }}",
+  "telephone": "{{ .Site.Params.phone }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bremen",
+    "addressRegion": "Bremen",
+    "addressCountry": "DE"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "Bremen"},
+    {"@type": "City", "name": "Delmenhorst"},
+    {"@type": "City", "name": "Achim"}
+  ],
+  "priceRange": "€€",
+  "knowsAbout": ["Künstliche Intelligenz", "KI-Training", "KI-Automation", "KI-Chatbots", "Digitalisierung"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "KI-Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "KI-Training",
+          "description": "60-Minuten KI-Workshops für Teams und Führungskräfte"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "KI-Automation",
+          "description": "Automatisierung von Geschäftsprozessen mit KI"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "KI-Chatbots",
+          "description": "Intelligente Chatbots für Kundensupport"
+        }
+      }
+    ]
+  }
+}
+</script>
+{{ end }}
+{{ if .Params.schemaType }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Params.schemaType }}",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "KWAIX",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+{{ end }}
+</head>
+<body>
+{{ partial "header.html" . }}
+<main>
+{{ block "main" . }}{{ end }}
+</main>
+{{ partial "footer.html" . }}
+<script src="/js/main.js"></script>
+</body>
+</html>

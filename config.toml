@@ -1,0 +1,64 @@
+baseURL = "https://kwaix.de/"
+languageCode = "de-de"
+title = "KWAIX"
+enableRobotsTXT = true
+
+[params]
+  description = "KI-Lösungen für Mittelstand: Training, Automation, Chatbots — Bremen, Delmenhorst, Achim"
+  author = "KWAIX"
+  email = "hallo@kwaix.de"
+  phone = "+49 (0) 421 12345"
+  city = "Bremen"
+  region = "Bremen, Delmenhorst, Achim"
+  colorPrimary = "#4f46e5"
+  colorAccent = "#f43f5e"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 1
+    hasChildren = true
+  [[menu.main]]
+    parent = "Services"
+    name = "KI-Training"
+    url = "/services/ki-training/"
+    weight = 1
+  [[menu.main]]
+    parent = "Services"
+    name = "KI-Automation"
+    url = "/services/ki-automation/"
+    weight = 2
+  [[menu.main]]
+    parent = "Services"
+    name = "KI-Chatbots"
+    url = "/services/ki-chatbots/"
+    weight = 3
+  [[menu.main]]
+    name = "Über uns"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+  [[menu.main]]
+    name = "Kontakt"
+    url = "/contact/"
+    weight = 4
