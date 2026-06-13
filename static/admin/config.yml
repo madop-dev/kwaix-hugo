@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: madop-dev/kwaix-hugo
+  branch: master
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - name: "pages"
+    label: "Seiten"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - { label: "Beschreibung", name: "description", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
