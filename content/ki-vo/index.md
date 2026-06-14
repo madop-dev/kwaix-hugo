@@ -6,7 +6,7 @@ draft: true
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
 
-{{< figure src="header-illustration.webp" alt="Platzhalter: Header-Illustration KI-Verordnung (EU AI Act)" caption="Platzhalter-Bildunterschrift" >}}
+{{< figure src="header-compliance-grid.svg" alt="Compliance-Grid zur KI-Verordnung: Pflichten, Risikoklassen, KI-Kompetenz und Nachweise" caption="Platzhalter-Bildunterschrift" >}}
 
 ## Einleitung
 
@@ -27,7 +27,7 @@ draft: true
 
 [Platzhalter]
 
-{{< diagram src="prozess.svg" alt="Platzhalter: Übersichtsdiagramm KI-VO-Pflichten" >}}
+{{< diagram src="flow-schulung-nachweis-policy-updates.svg" alt="Ablauf: Schulung führt zu Kompetenznachweis, KI-Policy und laufenden Updates" >}}
 
 ## Für wen
 
