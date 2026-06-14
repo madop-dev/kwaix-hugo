@@ -1,0 +1,22 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $class := .Get "class" -}}
+{{- $res := .Page.Resources.GetMatch $src -}}
+<figure class="kx-figure{{ with $class }} {{ . }}{{ end }}">
+{{- if $res -}}
+  {{- if and (eq $res.ResourceType "image") (ne $res.MediaType.SubType "svg") -}}
+    {{- $small := $res.Resize "480x" -}}
+    {{- $medium := $res.Resize "960x" -}}
+    {{- $large := $res.Resize "1600x" -}}
+    <img src="{{ $medium.RelPermalink }}" srcset="{{ $small.RelPermalink }} 480w, {{ $medium.RelPermalink }} 960w, {{ $large.RelPermalink }} 1600w" sizes="(max-width: 600px) 480px, (max-width: 1200px) 960px, 1600px" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- else -}}
+    <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- end -}}
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{- end -}}
+{{- with $caption }}
+<figcaption>{{ . }}</figcaption>
+{{- end }}
+</figure>

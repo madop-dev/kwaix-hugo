@@ -1,0 +1,13 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $class := .Get "class" -}}
+{{- $res := .Page.Resources.GetMatch $src -}}
+<div class="kx-mockup{{ with $class }} {{ . }}{{ end }}">
+<div class="kx-mockup-frame">
+{{- if $res -}}
+  <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+{{- end -}}
+</div>
+</div>
