@@ -931,3 +931,123 @@ body {
 @media (max-width: 480px) {
   .footer-grid { grid-template-columns: 1fr; }
 }
+
+/* ===== CONTENT SHORTCODES (figure, diagram, mockup, kpiStrip) ===== */
+.kx-figure {
+  margin: 32px 0;
+}
+.kx-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  display: block;
+}
+.kx-figure figcaption {
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.kx-diagram {
+  margin: 32px 0;
+  padding: 24px;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-align: center;
+}
+.kx-diagram img {
+  max-width: 100%;
+  height: auto;
+}
+
+.kx-mockup {
+  margin: 32px 0;
+}
+.kx-mockup-frame {
+  padding: 16px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-lg);
+}
+.kx-mockup-frame img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+.kx-mockup.device-frame .kx-mockup-frame {
+  max-width: 360px;
+  margin: 0 auto;
+  padding: 16px 8px;
+  border-radius: 24px;
+}
+
+.kx-kpi-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+  margin: 32px 0;
+}
+.kx-kpi-card {
+  padding: 24px;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-align: center;
+}
+.kx-kpi-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 6px;
+}
+.kx-kpi-label {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+/* Wide variant: make figure/diagram blocks stand out as full-width sections */
+.kx-figure.kx-wide,
+.kx-diagram.kx-wide {
+  width: 100%;
+  margin: 56px 0;
+  padding: 40px;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-sizing: border-box;
+}
+.kx-figure.kx-wide img,
+.kx-diagram.kx-wide img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: 480px;
+  object-fit: contain;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+.kx-figure.kx-wide figcaption {
+  margin-top: 16px;
+}
+
+/* Wrapper for pages that need a wider content column (see shortcodes/wideContent.html) */
+.kx-wide-content {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Wrapper for large visual blocks (diagrams/figures) that may exceed the text column width */
+.kx-wide-visual {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 24px;
+}

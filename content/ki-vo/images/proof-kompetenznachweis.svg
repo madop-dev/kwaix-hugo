@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="kwaix-kompetenznachweis-title">
+  <title id="kwaix-kompetenznachweis-title">Beispiel-Kompetenznachweis gemäß Artikel 4 der KI-Verordnung</title>
+  <defs>
+    <linearGradient id="knIndigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="knCoral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="480" fill="#ffffff"/>
+
+  <!-- document card -->
+  <rect x="300" y="30" width="600" height="420" rx="16" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- header bar -->
+  <rect x="300" y="30" width="600" height="84" rx="16" fill="url(#knIndigo)"/>
+  <rect x="300" y="78" width="600" height="36" fill="url(#knIndigo)"/>
+  <rect x="332" y="56" width="40" height="40" rx="10" fill="#ffffff" fill-opacity="0.18"/>
+  <circle cx="352" cy="70" r="9" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <path d="M 345 76 l 4 4 l 8 -9" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="388" y="64" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Kompetenznachweis</text>
+  <text x="388" y="92" font-family="Inter, sans-serif" font-size="15" fill="#e0e7ff">gemäß Artikel 4 EU-KI-Verordnung</text>
+
+  <!-- field rows -->
+  <g font-family="Inter, sans-serif">
+    <text x="332" y="160" font-size="13" font-weight="700" fill="#9ca3af" letter-spacing="1">NAME</text>
+    <rect x="332" y="170" width="536" height="14" rx="7" fill="#e5e7eb"/>
+
+    <text x="332" y="216" font-size="13" font-weight="700" fill="#9ca3af" letter-spacing="1">UNTERNEHMEN</text>
+    <rect x="332" y="226" width="536" height="14" rx="7" fill="#e5e7eb"/>
+
+    <text x="332" y="272" font-size="13" font-weight="700" fill="#9ca3af" letter-spacing="1">SCHULUNG</text>
+    <rect x="332" y="282" width="536" height="14" rx="7" fill="#eef2ff"/>
+    <text x="340" y="293" font-size="13" fill="#4f46e5" font-weight="600">KI-Training für Teams (Art. 4 KI-Kompetenz)</text>
+
+    <text x="332" y="332" font-size="13" font-weight="700" fill="#9ca3af" letter-spacing="1">DATUM</text>
+    <rect x="332" y="342" width="250" height="14" rx="7" fill="#e5e7eb"/>
+
+    <text x="618" y="332" font-size="13" font-weight="700" fill="#9ca3af" letter-spacing="1">GÜLTIG BIS</text>
+    <rect x="618" y="342" width="250" height="14" rx="7" fill="#e5e7eb"/>
+  </g>
+
+  <!-- footer: signature + stamp -->
+  <line x1="332" y1="400" x2="560" y2="400" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="332" y="424" font-family="Inter, sans-serif" font-size="13" fill="#9ca3af">Unterschrift / ausstellende Person</text>
+
+  <circle cx="800" cy="390" r="36" fill="none" stroke="url(#knCoral)" stroke-width="4"/>
+  <path d="M 786 390 l 8 8 l 16 -19" fill="none" stroke="url(#knCoral)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="800" y="444" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#6b7280">ausgestellt von KWAIX</text>
+</svg>

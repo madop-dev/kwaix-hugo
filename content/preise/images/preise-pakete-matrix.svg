@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="kwaix-preise-matrix-title">
+  <title id="kwaix-preise-matrix-title">Paketmatrix: Kick-off, Live-Training und Plattform je nach Paket enthalten oder optional</title>
+  <defs>
+    <linearGradient id="matrixIndigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#ffffff"/>
+
+  <!-- header row -->
+  <rect x="40" y="20" width="220" height="60" rx="12" fill="#ffffff"/>
+  <rect x="280" y="20" width="290" height="60" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="425" y="56" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Kick-off</text>
+  <rect x="590" y="20" width="290" height="60" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="735" y="56" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Live-Training</text>
+  <rect x="900" y="20" width="260" height="60" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="1030" y="56" text-anchor="middle" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Plattform</text>
+
+  <!-- row: Starter -->
+  <rect x="40" y="100" width="220" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="64" y="153" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Starter</text>
+  <rect x="280" y="100" width="290" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="425" cy="145" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 416 145 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="425" y="180" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+  <rect x="590" y="100" width="290" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="735" cy="145" r="18" fill="none" stroke="#cbd5e1" stroke-width="3" stroke-dasharray="4 4"/>
+  <text x="735" y="180" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#6b7280">optional</text>
+  <rect x="900" y="100" width="260" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="1030" cy="145" r="18" fill="none" stroke="#cbd5e1" stroke-width="3" stroke-dasharray="4 4"/>
+  <text x="1030" y="180" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#6b7280">optional</text>
+
+  <!-- row: Team -->
+  <rect x="40" y="200" width="220" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="64" y="253" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Team</text>
+  <rect x="280" y="200" width="290" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="425" cy="245" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 416 245 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="425" y="280" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+  <rect x="590" y="200" width="290" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="735" cy="245" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 726 245 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="735" y="280" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+  <rect x="900" y="200" width="260" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="1030" cy="245" r="18" fill="none" stroke="#cbd5e1" stroke-width="3" stroke-dasharray="4 4"/>
+  <text x="1030" y="280" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#6b7280">optional</text>
+
+  <!-- row: Enterprise -->
+  <rect x="40" y="300" width="220" height="90" rx="12" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <text x="64" y="353" font-family="Inter, sans-serif" font-size="20" font-weight="700" fill="#111827">Enterprise</text>
+  <rect x="280" y="300" width="290" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="425" cy="345" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 416 345 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="425" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+  <rect x="590" y="300" width="290" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="735" cy="345" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 726 345 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="735" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+  <rect x="900" y="300" width="260" height="90" rx="12" fill="#eef2ff" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="1030" cy="345" r="18" fill="url(#matrixIndigo)"/>
+  <path d="M 1021 345 l 6 6 l 12 -14" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1030" y="380" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" fill="#4b5563">enthalten</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="kwaix-kivo-header-title">
+  <title id="kwaix-kivo-header-title">Compliance-Grid zur KI-Verordnung: Pflichten, Risikoklassen, KI-Kompetenz und Nachweise</title>
+  <defs>
+    <linearGradient id="cellIndigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="cellCoral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#ffffff"/>
+
+  <!-- 2x2 compliance grid -->
+  <!-- Cell 1: Pflichten / Dokument -->
+  <g>
+    <rect x="60" y="40" width="510" height="160" rx="16" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+    <rect x="92" y="72" width="56" height="56" rx="12" fill="url(#cellIndigo)"/>
+    <rect x="108" y="88" width="24" height="4" fill="#ffffff"/>
+    <rect x="108" y="98" width="24" height="4" fill="#ffffff"/>
+    <rect x="108" y="108" width="16" height="4" fill="#ffffff"/>
+    <text x="168" y="98" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">Pflichten</text>
+    <text x="168" y="126" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">für Anbieter &amp; Betreiber von KI-Systemen</text>
+  </g>
+
+  <!-- Cell 2: Risikoklassen / Waage -->
+  <g>
+    <rect x="630" y="40" width="510" height="160" rx="16" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+    <rect x="662" y="72" width="56" height="56" rx="12" fill="url(#cellCoral)"/>
+    <line x1="690" y1="84" x2="690" y2="116" stroke="#ffffff" stroke-width="4"/>
+    <line x1="674" y1="92" x2="706" y2="92" stroke="#ffffff" stroke-width="4"/>
+    <circle cx="674" cy="100" r="6" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="706" cy="100" r="6" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <text x="738" y="98" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">Risikoklassen</text>
+    <text x="738" y="126" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">von minimal bis hochriskant</text>
+  </g>
+
+  <!-- Cell 3: KI-Kompetenz / Person -->
+  <g>
+    <rect x="60" y="220" width="510" height="160" rx="16" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+    <rect x="92" y="252" width="56" height="56" rx="12" fill="url(#cellCoral)"/>
+    <circle cx="120" cy="270" r="9" fill="#ffffff"/>
+    <path d="M 102 298 a 18 18 0 0 1 36 0 Z" fill="#ffffff"/>
+    <text x="168" y="278" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">KI-Kompetenz</text>
+    <text x="168" y="306" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">Artikel 4: Schulungspflicht für Mitarbeitende</text>
+  </g>
+
+  <!-- Cell 4: Nachweis / Siegel -->
+  <g>
+    <rect x="630" y="220" width="510" height="160" rx="16" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+    <rect x="662" y="252" width="56" height="56" rx="12" fill="url(#cellIndigo)"/>
+    <circle cx="690" cy="272" r="16" fill="none" stroke="#ffffff" stroke-width="4"/>
+    <path d="M 682 272 l 6 6 l 10 -12" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 682 286 l -6 14 l 14 -4 z" fill="#ffffff"/>
+    <path d="M 698 286 l 6 14 l -14 -4 z" fill="#ffffff"/>
+    <text x="738" y="278" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">Nachweise</text>
+    <text x="738" y="306" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">Dokumentation &amp; Kompetenznachweis</text>
+  </g>
+</svg>
