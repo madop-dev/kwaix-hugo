@@ -7,10 +7,10 @@ description: "Angaben gemäß §5 TMG"
 
 KWAIX GmbH
 Vertreten durch: Marion Dopmann
-Bremen, Deutschland
+Waller Stieg 3, 28217 Bremen
 
-**E-Mail:** hallo@kwaix.de
-**Telefon:** +49 (0) 421 69199730
+**E-Mail:** info@kwaix.de
+**Telefon:** +49 421 69190969
 
 ## Registereintrag
 

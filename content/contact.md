@@ -5,8 +5,9 @@ description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratu
 
 ## Lass uns reden.
 
-**E-Mail:** [hallo@kwaix.de](mailto:hallo@kwaix.de)
-**Telefon:** +49 (0) 421 69199730
+**E-Mail:** [info@kwaix.de](mailto:info@kwaix.de)
+**Telefon:** +49 421 69190969
+**Adresse:** Waller Stieg 3, 28217 Bremen
 **Standort:** Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg
 
 ## Was Sie erwarten können

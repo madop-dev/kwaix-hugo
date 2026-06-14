@@ -7,8 +7,8 @@ description: "Datenschutzerklärung gemäß DSGVO"
 
 ### Verantwortlicher
 
-KWAIX GmbH, Bremen, Deutschland
-E-Mail: hallo@kwaix.de
+KWAIX GmbH, Waller Stieg 3, 28217 Bremen
+E-Mail: info@kwaix.de
 
 ### Hosting
 
@@ -24,6 +24,6 @@ Diese Website nutzt Google Fonts zur Darstellung von Schriften. Beim Aufruf werd
 
 ### Ihre Rechte
 
-Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung. Kontaktieren Sie uns: hallo@kwaix.de
+Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung. Kontaktieren Sie uns: info@kwaix.de
 
 **Letzte Aktualisierung:** Juni 2025

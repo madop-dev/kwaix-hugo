@@ -6,8 +6,9 @@ enableRobotsTXT = true
 [params]
   description = "KI-Lösungen für Mittelstand: Training, Automation, Chatbots — Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg"
   author = "KWAIX"
-  email = "hallo@kwaix.de"
-  phone = "+49 (0) 421 69199730"
+  email = "info@kwaix.de"
+  phone = "+49 421 69190969"
+  address = "Waller Stieg 3, 28217 Bremen"
   city = "Bremen"
   region = "Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg"
   colorPrimary = "#4f46e5"
