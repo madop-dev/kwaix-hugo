@@ -6,6 +6,8 @@ draft: true
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
 
+{{% wideContent %}}
+
 {{< figure src="header-modul-strecke.svg" alt="Trainingsstrecke: Kick-off, Live-Training und Trainingsplattform als drei verbundene Module" caption="Vom Kick-off über das Live-Training bis zur Trainingsplattform" class="kx-wide" >}}
 
 ## Einleitung
@@ -76,3 +78,5 @@ Ja, das Training deckt die Anforderungen an KI-Kompetenz nach Artikel 4 der EU-K
 ## CTA
 
 [KI-Check buchen](/contact/) · [Angebot anfordern](/contact/)
+
+{{% /wideContent %}}

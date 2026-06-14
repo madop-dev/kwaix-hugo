@@ -6,6 +6,8 @@ draft: true
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
 
+{{% wideContent %}}
+
 ## Einleitung
 
 Unsere Preise sind in klar abgegrenzte Pakete gegliedert, die sich an Teamgröße und Bedarf orientieren. So wissen Sie von Anfang an, welche Leistungen enthalten sind und mit welchen Kosten Sie planen können. Für individuelle Anforderungen erstellen wir auf Wunsch ein maßgeschneidertes Angebot.
@@ -74,3 +76,5 @@ Nutzen Sie unseren [ROI-Rechner](/preise/roi/), um den Nutzen von KI-Training un
 ## CTA
 
 [KI-Check buchen](/contact/) · [Angebot anfordern](/contact/)
+
+{{% /wideContent %}}
