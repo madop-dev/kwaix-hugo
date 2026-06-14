@@ -78,6 +78,30 @@ function calculate() {
 
 calculate();
 
+// Rotating hero banner
+var heroItems = [
+  { icon: '🎓', label: 'TRAINING' },
+  { icon: '⚡', label: 'AUTOMATION' },
+  { icon: '🤖', label: 'CHATBOTS' }
+];
+var heroIndex = 0;
+var heroIconEl = document.getElementById('heroIcon');
+var heroLabelEl = document.getElementById('heroLabel');
+
+if (heroIconEl && heroLabelEl) {
+  setInterval(function() {
+    heroIconEl.classList.add('fade-out');
+    heroLabelEl.classList.add('fade-out');
+    setTimeout(function() {
+      heroIndex = (heroIndex + 1) % heroItems.length;
+      heroIconEl.textContent = heroItems[heroIndex].icon;
+      heroLabelEl.textContent = heroItems[heroIndex].label;
+      heroIconEl.classList.remove('fade-out');
+      heroLabelEl.classList.remove('fade-out');
+    }, 400);
+  }, 2800);
+}
+
 // FAQ accordion
 function toggleFaq(btn) {
   var item = btn.parentElement;
