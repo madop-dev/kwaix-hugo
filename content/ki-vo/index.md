@@ -6,7 +6,9 @@ draft: true
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
 
-{{< figure src="header-compliance-grid.svg" alt="Compliance-Grid zur KI-Verordnung: Pflichten, Risikoklassen, KI-Kompetenz und Nachweise" caption="Platzhalter-Bildunterschrift" >}}
+{{% wideVisual %}}
+{{< figure src="header-compliance-grid.svg" alt="Compliance-Grid zur KI-Verordnung: Pflichten, Risikoklassen, KI-Kompetenz und Nachweise" caption="Platzhalter-Bildunterschrift" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## Einleitung
 
@@ -27,7 +29,9 @@ draft: true
 
 [Platzhalter]
 
-{{< diagram src="flow-schulung-nachweis-policy-updates.svg" alt="Ablauf: Schulung führt zu Kompetenznachweis, KI-Policy und laufenden Updates" >}}
+{{% wideVisual %}}
+{{< diagram src="flow-schulung-nachweis-policy-updates.svg" alt="Ablauf: Schulung führt zu Kompetenznachweis, KI-Policy und laufenden Updates" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## Für wen
 
@@ -44,6 +48,10 @@ draft: true
 ## Deliverables
 
 [Platzhalter]
+
+{{% wideVisual %}}
+{{< mockup src="proof-kompetenznachweis.svg" alt="Beispiel-Kompetenznachweis gemäß Artikel 4 der KI-Verordnung" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## FAQ
 

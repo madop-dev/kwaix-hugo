@@ -65,6 +65,10 @@ Das Training folgt einem klaren 5-Schritte-Ablauf – von der Bedarfsanalyse üb
 - Handout mit den wichtigsten Inhalten zum Nachlesen
 - Liste empfohlener KI-Tools inkl. kurzer Einschätzung zu Einsatz und Risiken
 
+{{% wideVisual %}}
+{{< mockup src="proof-promptkarte.svg" alt="Beispiel-Promptkarte für eine Angebots-E-Mail mit Rolle, Aufgabe, Kontext und Format" class="kx-wide" >}}
+{{% /wideVisual %}}
+
 ## FAQ
 
 **Für wie viele Personen ist das Training geeignet?**

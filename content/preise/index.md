@@ -60,6 +60,10 @@ Die Pakete unterscheiden sich darin, welche Module enthalten sind:
 {{< figure src="preise-deliverables.svg" alt="Deliverables im Überblick: Policy-Template, Prompt-Bibliothek, Use-Case-Backlog und Kompetenznachweis" caption="Diese Unterlagen erhalten Sie nach Abschluss des Trainings" class="kx-wide" >}}
 {{% /wideVisual %}}
 
+{{% wideVisual %}}
+{{< mockup src="proof-lieferobjekte.svg" alt="Vorschau der Lieferobjekte: Policy-Template, Prompt-Bibliothek und Use-Case-Backlog als Dokumentkarten" class="kx-wide" >}}
+{{% /wideVisual %}}
+
 ## FAQ
 
 **Wie setzen sich die Preise zusammen?**
