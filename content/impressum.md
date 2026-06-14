@@ -14,14 +14,17 @@ Waller Stieg 3, 28217 Bremen
 
 ## Registereintrag
 
-Eingetragen im Handelsregister
+Eintragung im Handelsregister
 Registergericht: Amtsgericht Bremen
-Handelsregisternummer: [wird noch eingetragen]
-Umsatzsteuer-ID: [wird noch eingetragen]
+Registernummer: HRB 31551 HB
 
-## Verantwortlich für redaktionelle Inhalte
+## Umsatzsteuer-Identifikationsnummer
 
-Marion Dopmann, KWAIX GmbH
+DE307865941
+
+## Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV
+
+Frau Marion Dopmann (Anschrift s.o.)
 
 ## Haftungsausschluss
 
