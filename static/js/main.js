@@ -79,27 +79,26 @@ function calculate() {
 calculate();
 
 // Rotating hero banner
-var heroItems = [
-  { icon: '🎓', label: 'TRAINING' },
-  { icon: '⚡', label: 'AUTOMATION' },
-  { icon: '🤖', label: 'CHATBOTS' }
-];
-var heroIndex = 0;
-var heroIconEl = document.getElementById('heroIcon');
-var heroLabelEl = document.getElementById('heroLabel');
+var heroSlides = document.querySelectorAll('.hero-slide');
+var heroDots = document.querySelectorAll('.hero-dot');
+var heroSlideIndex = 0;
 
-if (heroIconEl && heroLabelEl) {
+if (heroSlides.length) {
   setInterval(function() {
-    heroIconEl.classList.add('fade-out');
-    heroLabelEl.classList.add('fade-out');
+    heroSlides[heroSlideIndex].classList.remove('active');
+    heroSlides[heroSlideIndex].classList.add('prev');
+    if (heroDots[heroSlideIndex]) heroDots[heroSlideIndex].classList.remove('active');
+
+    var finishedIndex = heroSlideIndex;
+    heroSlideIndex = (heroSlideIndex + 1) % heroSlides.length;
+
+    heroSlides[heroSlideIndex].classList.add('active');
+    if (heroDots[heroSlideIndex]) heroDots[heroSlideIndex].classList.add('active');
+
     setTimeout(function() {
-      heroIndex = (heroIndex + 1) % heroItems.length;
-      heroIconEl.textContent = heroItems[heroIndex].icon;
-      heroLabelEl.textContent = heroItems[heroIndex].label;
-      heroIconEl.classList.remove('fade-out');
-      heroLabelEl.classList.remove('fade-out');
-    }, 400);
-  }, 2800);
+      heroSlides[finishedIndex].classList.remove('prev');
+    }, 500);
+  }, 3500);
 }
 
 // FAQ accordion
