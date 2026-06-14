@@ -188,7 +188,7 @@ body {
   transform: translateY(-2px);
 }
 
-.trust { font-size: 13px; color: var(--text-muted); }
+.trust { font-size: 15px; font-weight: 600; color: var(--text-muted); }
 .trust .check { color: var(--primary); font-weight: 600; }
 
 .hero-visual {
