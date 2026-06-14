@@ -10,7 +10,7 @@ Vertreten durch: Marion Dopmann
 Bremen, Deutschland
 
 **E-Mail:** hallo@kwaix.de
-**Telefon:** +49 (0) 421 12345
+**Telefon:** +49 (0) 421 69199730
 
 ## Registereintrag
 

@@ -13,7 +13,7 @@ KWAIX ist ein Team von KI-Spezialisten im Norden Deutschlands. Wir bauen Lösung
 
 **Transparent.** Sie verstehen, was passiert. Kein Black Box, kein Vendor Lock-in.
 
-**Im Norden zuhause.** Bremen, Delmenhorst, Achim. Wir sprechen die Sprache von KMUs hier.
+**Im Norden zuhause.** Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg. Wir sprechen die Sprache von KMUs hier.
 
 **Ergebnisorientiert.** Nicht die neueste Technologie — die richtige.
 
