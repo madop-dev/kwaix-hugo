@@ -1040,6 +1040,14 @@ body {
 
 /* Wrapper for pages that need a wider content column (see shortcodes/wideContent.html) */
 .kx-wide-content {
-  max-width: 1100px;
+  max-width: 1040px;
   margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Wrapper for large visual blocks (diagrams/figures) that may exceed the text column width */
+.kx-wide-visual {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 0 24px;
 }

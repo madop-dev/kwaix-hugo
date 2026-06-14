@@ -8,7 +8,9 @@ draft: true
 
 {{% wideContent %}}
 
+{{% wideVisual %}}
 {{< figure src="header-modul-strecke.svg" alt="Trainingsstrecke: Kick-off, Live-Training und Trainingsplattform als drei verbundene Module" caption="Vom Kick-off über das Live-Training bis zur Trainingsplattform" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## Einleitung
 
@@ -39,7 +41,9 @@ Das KI-Training richtet sich an Teams, die KI-Tools wie ChatGPT, Copilot & Co. i
 
 Das Training folgt einem klaren 5-Schritte-Ablauf – von der Bedarfsanalyse über den Kick-off-Workshop und das Live-Training bis zur Praxisphase im Team und dem Abschluss mit Zertifikat. So stellen wir sicher, dass die Inhalte zu Ihren Aufgaben passen und im Alltag ankommen.
 
+{{% wideVisual %}}
 {{< diagram src="ablauf-5-schritte.svg" alt="Ablauf des KI-Trainings in 5 Schritten: Anfrage, Kick-off, Live-Training, Praxisphase, Abschluss" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## Inhalte/Module
 

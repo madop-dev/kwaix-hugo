@@ -43,7 +43,9 @@ Die Pakete unterscheiden sich darin, welche Module enthalten sind:
 - **Team:** Kick-off-Workshop und Live-Training enthalten, Trainingsplattform optional zubuchbar
 - **Enterprise:** Kick-off-Workshop, Live-Training und Trainingsplattform vollständig enthalten
 
+{{% wideVisual %}}
 {{< diagram src="preise-pakete-matrix.svg" alt="Paketmatrix: Kick-off, Live-Training und Plattform sind je Paket enthalten oder optional zubuchbar" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## Deliverables
 
@@ -54,7 +56,9 @@ Die Pakete unterscheiden sich darin, welche Module enthalten sind:
 - Handout mit den wichtigsten Trainingsinhalten zum Nachlesen
 - Bei Plattformzugang: Zugangsdaten und Einrichtung der Trainingsplattform für Ihr Team
 
+{{% wideVisual %}}
 {{< figure src="preise-deliverables.svg" alt="Deliverables im Überblick: Policy-Template, Prompt-Bibliothek, Use-Case-Backlog und Kompetenznachweis" caption="Diese Unterlagen erhalten Sie nach Abschluss des Trainings" class="kx-wide" >}}
+{{% /wideVisual %}}
 
 ## FAQ
 
