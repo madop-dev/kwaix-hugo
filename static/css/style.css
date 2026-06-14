@@ -244,7 +244,7 @@ body {
 .hero-slide-icon {
   width: 140px;
   height: 140px;
-  border-radius: 32px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -252,7 +252,7 @@ body {
   animation: float 3s ease-in-out infinite;
   box-shadow: 0 20px 40px -12px rgba(79,70,229,0.45);
 }
-.hero-slide-icon svg { width: 72px; height: 72px; }
+.hero-slide-icon svg { width: 64px; height: 64px; }
 .hero-slide-icon--training { background: linear-gradient(135deg, #4f46e5, #818cf8); }
 .hero-slide-icon--automation { background: linear-gradient(135deg, #4338ca, #6366f1); }
 .hero-slide-icon--chatbot { background: linear-gradient(135deg, #6366f1, #a855f7); }
@@ -261,13 +261,13 @@ body {
   50% { transform: translateY(-12px); }
 }
 .hero-slide-title {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 800;
   color: var(--primary-dark);
   margin-bottom: 8px;
 }
 .hero-slide-desc {
-  font-size: 16px;
+  font-size: 15px;
   color: var(--text-muted);
 }
 .hero-dots {
