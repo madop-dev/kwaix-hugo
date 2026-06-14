@@ -1,0 +1,33 @@
+<title>{{ if .IsHome }}KWAIX — KI-Lösungen für Mittelstand{{ else }}{{ .Title }} — KWAIX{{ end }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- if .Params.noindex }}
+<meta name="robots" content="noindex, nofollow">
+{{- else }}
+<meta name="robots" content="index, follow">
+{{- end }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Description | default .Site.Params.description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="KWAIX">
+<meta property="og:locale" content="de_DE">
+{{- with .Params.ogImage }}
+{{- $img := $.Resources.GetMatch . }}
+{{- if $img }}
+<meta property="og:image" content="{{ $img.Permalink }}">
+{{- else }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{- end }}
+{{- end }}
+<meta name="twitter:card" content="{{ if .Params.ogImage }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
+{{- with .Params.ogImage }}
+{{- $img := $.Resources.GetMatch . }}
+{{- if $img }}
+<meta name="twitter:image" content="{{ $img.Permalink }}">
+{{- else }}
+<meta name="twitter:image" content="{{ . | absURL }}">
+{{- end }}
+{{- end }}
