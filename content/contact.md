@@ -1,13 +1,13 @@
 ---
-title: "Kontakt"
+title: "KI Training für KMU und Mittelstand"
 description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
 ---
 
 ## Lass uns reden.
 
 **E-Mail:** [hallo@kwaix.de](mailto:hallo@kwaix.de)
-**Telefon:** +49 (0) 421 12345
-**Standort:** Bremen, Delmenhorst, Achim
+**Telefon:** +49 (0) 421 69199730
+**Standort:** Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg
 
 ## Was Sie erwarten können
 

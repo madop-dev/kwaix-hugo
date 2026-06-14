@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: static/uploads
-public_folder: /uploads
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 collections:
   - name: "pages"
@@ -15,7 +15,6 @@ collections:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Beschreibung", name: "description", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "services"
     label: "Services"
     folder: "content/services"
@@ -24,9 +23,7 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Beschreibung", name: "description", widget: "string" }
-      - { label: "Schema Type", name: "schemaType", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
@@ -36,6 +33,4 @@ collections:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Beschreibung", name: "description", widget: "string" }
       - { label: "Datum", name: "date", widget: "datetime" }
-      - { label: "Tags", name: "tags", widget: "list", required: false }
-      - { label: "Kategorien", name: "categories", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
