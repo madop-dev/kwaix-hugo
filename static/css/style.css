@@ -1009,3 +1009,19 @@ body {
   font-size: 14px;
   color: var(--text-secondary);
 }
+
+/* Wide variant: make figure/diagram blocks stand out as full-width sections */
+.kx-figure.kx-wide,
+.kx-diagram.kx-wide {
+  width: 100%;
+  margin: 48px 0;
+}
+.kx-figure.kx-wide img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: contain;
+  background: var(--bg-alt);
+}
+.kx-diagram.kx-wide {
+  padding: 32px;
+}
