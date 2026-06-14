@@ -2,6 +2,9 @@
 {{- $alt := .Get "alt" -}}
 {{- $class := .Get "class" -}}
 {{- $res := .Page.Resources.GetMatch $src -}}
+{{- if not $res -}}
+  {{- $res = .Page.Resources.GetMatch (printf "images/%s" $src) -}}
+{{- end -}}
 <div class="kx-diagram{{ with $class }} {{ . }}{{ end }}">
 {{- if $res -}}
   <img src="{{ $res.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async">

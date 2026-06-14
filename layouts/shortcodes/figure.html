@@ -3,6 +3,9 @@
 {{- $caption := .Get "caption" -}}
 {{- $class := .Get "class" -}}
 {{- $res := .Page.Resources.GetMatch $src -}}
+{{- if not $res -}}
+  {{- $res = .Page.Resources.GetMatch (printf "images/%s" $src) -}}
+{{- end -}}
 <figure class="kx-figure{{ with $class }} {{ . }}{{ end }}">
 {{- if $res -}}
   {{- if and (eq $res.ResourceType "image") (ne $res.MediaType.SubType "svg") -}}
