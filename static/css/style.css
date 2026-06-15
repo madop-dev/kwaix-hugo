@@ -1026,8 +1026,6 @@ body {
   width: 100%;
   max-width: 100%;
   height: auto;
-  max-height: 480px;
-  object-fit: contain;
   background: transparent;
   border: none;
   border-radius: 8px;
@@ -1038,6 +1036,34 @@ body {
   margin-top: 16px;
 }
 
+/* More presence for wide mockups: same card treatment as wide figures/diagrams */
+.kx-mockup.kx-wide {
+  width: 100%;
+  margin: 56px 0;
+  padding: 40px;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-sizing: border-box;
+}
+.kx-mockup.kx-wide .kx-mockup-frame {
+  box-shadow: var(--shadow-lg);
+}
+
+/* Explicit image sizing for shortcode visuals (no implicit max-width caps) */
+.kx-diagram img,
+.kx-figure img,
+.kx-mockup img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.kx-wide-visual .kx-diagram img,
+.kx-wide-visual .kx-figure img,
+.kx-wide-visual .kx-mockup img {
+  max-width: 100%;
+}
+
 /* Wrapper for pages that need a wider content column (see shortcodes/wideContent.html) */
 .kx-wide-content {
   max-width: 1040px;
@@ -1045,9 +1071,14 @@ body {
   padding: 0 24px;
 }
 
-/* Wrapper for large visual blocks (diagrams/figures) that may exceed the text column width */
+/* Wrapper for large visual blocks (diagrams/figures): viewport breakout so visuals can
+   become wider than .page-content's 800px cap, centered on the viewport (not on
+   .page-content, which sits off-center within .container once it hits its 800px cap). */
 .kx-wide-visual {
-  max-width: 1320px;
-  margin: 0 auto;
+  width: min(1320px, calc(100vw - 48px));
+  position: relative;
+  left: calc(50vw - max(56px, calc(50vw - 494px)));
+  transform: translateX(-50%);
   padding: 0 24px;
+  box-sizing: border-box;
 }
