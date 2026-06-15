@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.kwaix\.de$ [NC]
+RewriteRule ^(.*)$ https://kwaix.de/$1 [R=301,L]
+</IfModule>
