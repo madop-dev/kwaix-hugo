@@ -10,42 +10,73 @@ draft: false
 
 ## Einleitung
 
-Unsere Preise sind in klar abgegrenzte Pakete gegliedert, die sich an Teamgröße und Bedarf orientieren. So wissen Sie von Anfang an, welche Leistungen enthalten sind und mit welchen Kosten Sie planen können. Für individuelle Anforderungen erstellen wir auf Wunsch ein maßgeschneidertes Angebot.
+Sie wissen vorher, was Sie bekommen und was es kostet — keine versteckten Zusatzkosten, kein Kleingedrucktes. Das **KI READY Training** ist unser Kernangebot: ein Live-Training für Ihr Team, das Sie direkt einsatzfähig macht und die Anforderungen an KI-Kompetenz nach Artikel 4 der KI-Verordnung abdeckt. Optional ergänzen Sie es um den **KI-Kickoff** für die ganze Belegschaft oder die **Trainingsplattform** für den dauerhaften Zugriff.
 
-## TL;DR
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
 
-- **Planbarkeit:** feste Pakete mit klar definiertem Leistungsumfang statt versteckter Zusatzkosten
-- **Pakete:** Starter, Team und Enterprise – abgestuft nach Teamgröße und Funktionsumfang
-- **Enthalten:** Kick-off-Workshop in jedem Paket, Live-Training und Trainingsplattform je nach Paket
-- **KI-VO/Kompetenznachweis:** alle Pakete decken die Anforderungen an KI-Kompetenz nach Artikel 4 ab und beinhalten einen Kompetenznachweis
-- **Nächster Schritt:** unverbindliches Angebot anfordern oder ROI mit dem [ROI-Rechner](/preise/roi/) abschätzen
+{{< kpiStrip k1_label="Kern" k1_value="KI READY Training (Live)" k2_label="Optional davor" k2_value="KI-Kickoff für alle" k3_label="Optional danach" k3_value="Trainingsplattform" k4_label="Nachweis" k4_value="Kompetenznachweis Art. 4 KI-VO" >}}
 
-## Überblick
+## Ihre Investition — transparent & skalierbar
 
-KWAIX bietet drei Pakete für den Einstieg in KI-Training und KI-Automation – von einem einzelnen Kick-off-Workshop bis zur vollständigen Trainingsstrecke inklusive Plattformzugang. Jedes Paket enthält feste Leistungen und Deliverables, sodass der Aufwand für Sie von Anfang an transparent ist. Abweichende Teamgrößen, zusätzliche Module oder Sonderwünsche fließen in ein individuelles Angebot ein.
+### Kick-off Veranstaltung
 
-## Für wen
+**Preis auf Anfrage**
 
-- Kleinere Teams, die mit einem einzelnen Kick-off-Workshop starten möchten
-- Unternehmen, die ein vollständiges Trainingsprogramm inkl. Live-Sessions suchen
-- Mittelständische Unternehmen mit mehreren Abteilungen, die dauerhaften Plattformzugang benötigen
-- Unternehmen, die ihre Pflichten aus der KI-Verordnung (Artikel 4, KI-Kompetenz) nachweisbar erfüllen müssen
+Impulsvortrag vor Ort, gesamte Belegschaft, multimedial, 2–3 Stunden. Mehr dazu: [KI-Kickoff](/leistungen/ki-kickoff/).
 
-## Ablauf
+### KI READY Training
 
-Nach einem kurzen, unverbindlichen Erstgespräch ordnen wir Ihren Bedarf einem der drei Pakete zu oder stellen ein individuelles Angebot zusammen. Sie erhalten ein schriftliches Angebot mit Leistungsumfang, Zeitrahmen und Preis – ohne versteckte Zusatzkosten. Erst nach Ihrer Freigabe planen wir die Termine für Kick-off, Live-Training und Plattformzugang.
+Das **[KI READY Training](/leistungen/ki-training-live/)** ist das Kernangebot — ein Live-Training, vor Ort oder remote, für ein einzelnes Team oder einen Fachbereich:
 
-## Inhalte/Module
+| Teilnehmerzahl | Gesamtpreis | Preis pro Teilnehmer | Bemerkung |
+|---|---|---|---|
+| 1–5 Mitarbeitende | 2.400 € | 480 € | Einstiegspaket für kleine Teams |
+| 6–10 Mitarbeitende | 3.600 € | 360 € | Preisvorteil durch Gruppengröße |
+| 11–15 Mitarbeitende | 4.650 € | 310 € | Ideal für mittlere Fachbereiche |
+| >15 Mitarbeitende | auf Anfrage | auf Anfrage | Maximalpaket mit Gruppendynamik-Bonus |
 
-Die Pakete unterscheiden sich darin, welche Module enthalten sind:
+*Alle Preise zzgl. MwSt.*
 
-- **Starter:** Kick-off-Workshop enthalten, Live-Training und Trainingsplattform optional zubuchbar
-- **Team:** Kick-off-Workshop und Live-Training enthalten, Trainingsplattform optional zubuchbar
-- **Enterprise:** Kick-off-Workshop, Live-Training und Trainingsplattform vollständig enthalten
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
 
-{{% wideVisual %}}
-{{< diagram src="preise-pakete-matrix.svg" alt="Paketmatrix: Kick-off, Live-Training und Plattform sind je Paket enthalten oder optional zubuchbar" class="kx-wide" >}}
-{{% /wideVisual %}}
+#### Was enthalten ist
+
+- Vorab-Umfrage zum Wissensstand und den Anforderungen Ihres Teams
+- Live-Training gemäß unserem [Trainingsprogramm](/training/)
+- Prompting-Standards für den täglichen Einsatz
+- Use Cases aus Ihrem Arbeitsalltag, live im Training erarbeitet
+- [Kompetenznachweis](/ki-vo/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung
+- Handout mit den wichtigsten Trainingsinhalten zum Nachlesen
+
+#### Was nicht enthalten ist
+
+- Rechtsberatung
+- Tool-Lizenzen
+
+### Optional: Trainingsplattform
+
+Das Live-Training ist der Kern und steht für sich. Wer den Lernstand im Team dauerhaft festigen will, kann im Anschluss optional die **[Trainingsplattform](/leistungen/trainingsplattform/)** dazu buchen — Preis auf Anfrage, abhängig von Teamgröße und Laufzeit.
+
+## Für wen passt das?
+
+- KMU und Mittelständler, die ein Team oder einen Fachbereich konkret auf KI-Einsatz im Alltag vorbereiten wollen
+- Unternehmen, die die Anforderungen an KI-Kompetenz nach Artikel 4 der KI-Verordnung nachweisbar erfüllen müssen
+- Teams, die bereits erste Tools nutzen, aber ohne klare Standards und Prompting-Praxis arbeiten
+- Geschäftsführungen, die vorab einen Überblick für die gesamte Belegschaft wollen (KI-Kickoff) und danach gezielt einzelne Teams schulen
+
+## Wann passt es nicht?
+
+- Wenn Sie eine reine Rechtsberatung zur KI-Verordnung suchen — dafür empfehlen wir spezialisierte Kanzleien
+- Wenn Sie ausschließlich Tool-Lizenzen einkaufen möchten, ohne Training oder Begleitung
+- Wenn Sie eine Individualentwicklung oder ein Automation-Projekt ohne Trainingsanteil benötigen — sprechen Sie uns trotzdem an, wir vermitteln dann passend weiter
+
+## So läuft's ab
+
+1. **Vorgespräch (30 Min)** — Wir klären Ihren Bedarf, Teamgröße und Format (vor Ort/remote), unverbindlich und kostenfrei.
+2. **KI-Kickoff (optional)** — Impulsvortrag für die gesamte Belegschaft, schafft ein gemeinsames Verständnis als Ausgangspunkt.
+3. **KI READY Training (Live)** — Das eigentliche Training für Ihr Team, nach der Preisstaffel oben.
+4. **Trainingsplattform (optional)** — Im Anschluss buchbar, um den Lernstand im Team zu festigen.
+5. **Nachsteuerung / Partnernetzwerk** — Bei weiterem Bedarf (z. B. Automation-Projekte oder Spezialthemen) vermitteln wir bei Bedarf an unser [Partnernetzwerk](/partnernetzwerk/).
 
 ## Deliverables
 
@@ -66,23 +97,49 @@ Die Pakete unterscheiden sich darin, welche Module enthalten sind:
 
 ## FAQ
 
-**Wie setzen sich die Preise zusammen?**
-Jedes Paket hat einen festen Leistungsumfang. Der Preis richtet sich nach Teamgröße und gewählten Modulen (Kick-off, Live-Training, Plattform) und wird Ihnen vor Beauftragung schriftlich genannt.
+**Wie lange dauert das KI READY Training?**
+Die Dauer richtet sich nach Teamgröße und Vorkenntnissen und wird im Vorgespräch festgelegt. Den Rahmen sehen Sie im [Trainingsprogramm](/training/).
 
-**Gibt es versteckte Zusatzkosten?**
-Nein. Alle im Paket enthaltenen Leistungen sind im genannten Preis abgedeckt. Zusätzliche Module werden vorab transparent ausgewiesen und nur nach Ihrer Freigabe beauftragt.
+**Wie viele Teilnehmende können mitmachen?**
+Die Preisstaffel deckt Gruppen von 1 bis über 15 Mitarbeitenden ab. Für größere Gruppen (>15) erstellen wir ein individuelles Angebot.
 
-**Können wir später von einem kleineren auf ein größeres Paket wechseln?**
-Ja, ein Upgrade ist jederzeit möglich. Bereits erbrachte Leistungen werden beim Wechsel angerechnet.
+**Findet das Training vor Ort oder remote statt?**
+Beides ist möglich. Wir besprechen im Vorgespräch, was für Ihr Team und Ihren Standort am sinnvollsten ist.
 
-**Erhalten wir einen Nachweis für die KI-Verordnung?**
-Ja, alle Pakete beinhalten einen Kompetenznachweis gemäß Artikel 4 der KI-Verordnung für die teilnehmenden Mitarbeitenden.
+**Was müssen wir vorbereiten?**
+Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus. Daraus leiten wir die Inhalte und Use Cases für Ihr Training ab.
 
-**Wie kann ich abschätzen, welches Paket sich für uns lohnt?**
-Nutzen Sie unseren [ROI-Rechner](/preise/roi/), um den Nutzen von KI-Training und Automation für Ihr Unternehmen einzuschätzen, oder vereinbaren Sie ein unverbindliches Erstgespräch.
+**Wie geht KWAIX mit unseren Daten und vertraulichen Informationen um?**
+Vertraulich und DSGVO-konform. Details finden Sie in unserer [Datenschutzerklärung](/datenschutz/). Eine Weitergabe an Dritte erfolgt nur mit Ihrer Einwilligung.
+
+**Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?**
+Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-vo/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung. Mehr zum Hintergrund: [KI-Verordnung](/ki-vo/).
+
+**Welche technischen Voraussetzungen brauchen wir?**
+Im Regelfall reichen ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den im Training genutzten KI-Tools. Details klären wir im Vorgespräch.
+
+**Ist das Training förderfähig?**
+Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können dazu keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer zuständigen Stelle oder Kammer.
+
+**Fallen Reisekosten an, wenn ihr vor Ort kommt?**
+Für Vor-Ort-Termine im Norden (Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg) sind Reisezeiten in der Regel bereits berücksichtigt. Für weiter entfernte Standorte besprechen wir das transparent im Angebot.
+
+**Ist die Trainingsplattform Pflicht?**
+Nein. Das Live-Training ist der Kern und funktioniert eigenständig. Die [Trainingsplattform](/leistungen/trainingsplattform/) ist eine optionale Ergänzung danach.
+
+**Wie kommen wir zu einem Termin oder Angebot?**
+Schreiben Sie uns für ein [Vorgespräch (30 Min)](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) oder fordern Sie direkt ein [Angebot](mailto:info@kwaix.de?subject=Angebot%20anfordern) an.
+
+**Gibt es eine Nachbetreuung?**
+Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Bei weiterem Bedarf — etwa für Automation-Projekte — sprechen wir über die nächsten Schritte oder vermitteln passend weiter.
+
+**Wir sind selbst Dienstleister — können wir an euch vermitteln oder umgekehrt?**
+Ja, gerne. Details dazu finden Sie in unserem [Partnernetzwerk](/partnernetzwerk/).
 
 ## CTA
 
 [Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
+
+Sie sind Partner und möchten Anfragen weitervermitteln oder erhalten? [Weitervermittlung besprechen →](/partnernetzwerk/)
 
 {{% /wideContent %}}
