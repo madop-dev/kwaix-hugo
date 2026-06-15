@@ -39,6 +39,8 @@ Das **[KI READY Training](/leistungen/ki-training-live/)** ist das Kernangebot �
 
 [Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
 
+Optional: [ROI grob überschlagen (5 Min) →](/preise/roi/)
+
 #### Was enthalten ist
 
 - Vorab-Umfrage zum Wissensstand und den Anforderungen Ihres Teams
