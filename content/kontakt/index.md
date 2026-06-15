@@ -1,10 +1,14 @@
 ---
-title: "KI Training für KMU und Mittelstand"
+title: "Kontakt"
 description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
-draft: true
+draft: false
+aliases:
+  - /contact/
 ---
 
 ## Lass uns reden.
+
+**Vorgespräch (30 Min):** Kostenlos und unverbindlich — wir klären gemeinsam, wo KI in Ihrem Unternehmen den größten Hebel bringt.
 
 **E-Mail:** [info@kwaix.de](mailto:info@kwaix.de)
 **Telefon:** +49 421 69190969
@@ -31,3 +35,7 @@ Nein. Online-Trainings und Remote-Projekte sind Standard. Vor-Ort-Termine in Bre
 
 **Seid ihr DSGVO-konform?**
 Ja. Ohne Ausnahmen.
+
+## CTA
+
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)

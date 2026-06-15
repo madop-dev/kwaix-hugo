@@ -32,34 +32,30 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 1
-    hasChildren = true
-  [[menu.main]]
-    parent = "Services"
-    name = "KI-Training"
-    url = "/services/ki-training/"
+    name = "Leistungen"
+    url = "/leistungen/"
     weight = 1
   [[menu.main]]
-    parent = "Services"
-    name = "KI-Automation"
-    url = "/services/ki-automation/"
+    name = "Training"
+    url = "/training/"
     weight = 2
   [[menu.main]]
-    parent = "Services"
-    name = "KI-Chatbots"
-    url = "/services/ki-chatbots/"
+    name = "KI-VO"
+    url = "/ki-vo/"
     weight = 3
+  [[menu.main]]
+    name = "Preise"
+    url = "/preise/"
+    weight = 4
+  [[menu.main]]
+    name = "Wissen"
+    url = "/wissen/"
+    weight = 5
   [[menu.main]]
     name = "Über uns"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    weight = 3
+    url = "/ueber-uns/"
+    weight = 6
   [[menu.main]]
     name = "Kontakt"
-    url = "/contact/"
-    weight = 4
+    url = "/kontakt/"
+    weight = 7

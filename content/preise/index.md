@@ -1,7 +1,7 @@
 ---
 title: "Preise"
 description: "Transparente Preise für KI-Training, Automation und Beratung von KWAIX."
-draft: true
+draft: false
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
@@ -83,6 +83,6 @@ Nutzen Sie unseren [ROI-Rechner](/preise/roi/), um den Nutzen von KI-Training un
 
 ## CTA
 
-[KI-Check buchen](/contact/) · [Angebot anfordern](/contact/)
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
 
 {{% /wideContent %}}

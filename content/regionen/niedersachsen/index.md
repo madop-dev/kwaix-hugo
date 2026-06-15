@@ -73,4 +73,4 @@ KWAIX bietet Trainings und Beratung für Unternehmen in Niedersachsen sowohl **v
 
 ## CTA
 
-[Platzhalter]
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)

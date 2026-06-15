@@ -1,47 +1,44 @@
 ---
 title: "Partnernetzwerk"
-description: "Werden Sie KWAIX-Partner und bieten Sie Ihren Kunden KI-Training und Automation aus einer Hand."
-draft: true
+description: "Das KWAIX-Partnernetzwerk: Best-Fit-Lösungen für Ihr Unternehmen — aus eigener Hand oder über geprüfte Partner."
+draft: false
 ---
-
-<!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
 
 ## Einleitung
 
-[Platzhalter: Kurze Einführung in das KWAIX-Partnernetzwerk.]
+KWAIX deckt KI-Training und Automation für den Mittelstand selbst ab. Für Themen außerhalb unseres Kernangebots greifen wir auf ein Netzwerk geprüfter Partner zurück — damit Sie für Ihr Anliegen immer die passende Lösung erhalten, nicht nur die, die wir gerade anbieten.
 
 ## TL;DR
 
-- [Platzhalter: Wer kann Partner werden]
-- [Platzhalter: Welche Vorteile bietet die Partnerschaft]
-- [Platzhalter: Wie läuft die Zusammenarbeit ab]
-- [Platzhalter: Konditionen/Modell]
-- [Platzhalter: Wie kann man sich bewerben]
+- KWAIX liefert KI-Training, KI-Kickoff und Automation selbst — direkt und aus einer Hand
+- Für angrenzende Themen vermitteln wir an geprüfte Partner aus unserem Netzwerk
+- Sie erhalten in jedem Fall eine konkrete Empfehlung, keine Weiterleitung ins Ungewisse
+- Die Vermittlung ist für Sie kostenfrei und unverbindlich
+- Ihre Daten geben wir nur mit Ihrer Einwilligung an einen Partner weiter
 
-## Überblick
+## Warum Best-Fit?
 
-[Platzhalter]
+Nicht jedes Anliegen passt zu jedem Anbieter — auch nicht zu uns. Statt Projekte anzunehmen, die nicht zu unserem Profil passen, sagen wir das offen und empfehlen einen Partner, der die Anforderung besser abdeckt. So bekommen Sie eine Lösung, die wirklich passt, und wir bleiben bei dem, was wir gut können.
 
-## Für wen
+## Wann KWAIX liefert
 
-[Platzhalter]
+KWAIX übernimmt direkt, wenn es um KI-Training (Kickoff, Live-Training, Trainingsplattform), KI-Kompetenznachweis nach Artikel 4 der KI-Verordnung oder Automation mit Open-Source-Tools wie n8n und Make geht.
 
-## Ablauf
+## Wann wir vermitteln
 
-[Platzhalter]
+Liegt Ihr Bedarf außerhalb dieses Kerns — etwa bei sehr spezifischen Branchenlösungen, größeren Individualentwicklungen oder Themen, die ein spezialisierter Partner besser abdeckt — empfehlen wir einen passenden Partner aus unserem Netzwerk und stellen den Kontakt her.
 
-## Inhalte/Module
+## Prozess in 4 Schritten
 
-[Platzhalter]
+1. **Anfrage** — Sie schildern uns Ihr Anliegen im Erstgespräch.
+2. **Einordnung** — Wir prüfen, ob KWAIX die beste Lösung ist oder ein Partner besser passt.
+3. **Empfehlung** — Sie erhalten eine konkrete Empfehlung — von KWAIX oder einem Partner.
+4. **Übergabe** — Bei einer Partnerempfehlung stellen wir den Kontakt nur mit Ihrer Einwilligung her.
 
-## Deliverables
+## Datenschutz und Einwilligung
 
-[Platzhalter]
-
-## FAQ
-
-[Platzhalter]
+Ihre Daten werden ausschließlich für die Bearbeitung Ihrer Anfrage genutzt. Eine Weitergabe an einen Partner erfolgt erst nach Ihrer ausdrücklichen Einwilligung. Details finden Sie in unserer [Datenschutzerklärung](/datenschutz/).
 
 ## CTA
 
-[Platzhalter]
+[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)

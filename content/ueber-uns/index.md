@@ -1,7 +1,9 @@
 ---
 title: "Über KWAIX"
 description: "KI-Spezialisten im Norden — pragmatisch, transparent, ergebnisorientiert"
-draft: true
+draft: false
+aliases:
+  - /about/
 ---
 
 ## Wir machen KI praktisch.
@@ -29,6 +31,8 @@ KWAIX ist ein Team von KI-Spezialisten im Norden Deutschlands. Wir bauen Lösung
 
 Marion führt KWAIX. Dazu kommt ein flexibles Netzwerk von KI-Trainern, Entwicklern und Automation-Spezialisten — je nach Projekt.
 
+Mehr über Marion: [Marion Dopmann →](/ueber-uns/marion-dopmann/)
+
 **Erfahrung:** GenAI, n8n, Make, Open Source, Custom Development
 
 ## Was wir glauben
@@ -41,4 +45,4 @@ Marion führt KWAIX. Dazu kommt ein flexibles Netzwerk von KI-Trainern, Entwickl
 
 ---
 
-**Lust auf ein Gespräch?** [Kontakt aufnehmen →](/contact/)
+**Lust auf ein Gespräch?** [Kontakt aufnehmen →](/kontakt/)
