@@ -1,11 +1,29 @@
 {{ define "main" }}
 <article class="page">
 <div class="container">
-<h1 class="reveal">{{ .Title }}</h1>
-{{ if .Description }}<p class="page-desc reveal d1">{{ .Description }}</p>{{ end }}
-<div class="page-content reveal d2">
-{{ .Content }}
-</div>
+
+  <header class="page-hero reveal">
+    <div class="page-hero-text">
+      {{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with (or .Params.lede .Description) }}<p class="page-desc">{{ . }}</p>{{ end }}
+      {{ with .Params.ctaPrimaryHref }}
+      <div class="cta-row">
+        <a class="btn btn-primary" href="{{ . }}">{{ $.Params.ctaPrimaryText | default "Kontakt" }}</a>
+        {{ with $.Params.ctaSecondaryHref }}
+        <a class="btn btn-secondary" href="{{ . }}">{{ $.Params.ctaSecondaryText | default "Mehr erfahren" }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ with .Params.badge }}<span class="badge">{{ . }}</span>{{ end }}
+    </div>
+    <div class="page-hero-visual" aria-hidden="true"></div>
+  </header>
+
+  <div class="page-content reveal d2">
+    {{ .Content }}
+  </div>
+
 </div>
 </article>
 {{ end }}
