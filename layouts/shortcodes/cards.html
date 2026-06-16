@@ -1,0 +1,5 @@
+{{- $cols := .Get "cols" | default "4" -}}
+{{- $type := .Get "type" | default "" -}}
+<div class="cards-grid{{ with $type }} cards-grid--{{ . }}{{ end }}" style="--cols: {{ $cols }}">
+{{ .Inner }}
+</div>
