@@ -1,0 +1,3 @@
+/admin/*
+  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net https://api.github.com https://github.com
+  X-Frame-Options: SAMEORIGIN
