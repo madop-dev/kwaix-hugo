@@ -2,8 +2,7 @@ backend:
   name: github
   repo: madop-dev/kwaix-hugo
   branch: master
-  auth_type: pkce
-  app_id: 0v23ctZN0zhDM0G34ghb
+  base_url: https://kwaix-cms-auth.md-5ec.workers.dev
 
 media_folder: static/images
 public_folder: /images
