@@ -1,0 +1,137 @@
+backend:
+  name: github
+  repo: madop-dev/kwaix-hugo
+  branch: master
+
+media_folder: static/images
+public_folder: /images
+locale: de
+
+collections:
+  - name: leistungen
+    label: "Leistungen"
+    files:
+      - name: leistungen_hub
+        label: "Leistungen Uebersicht"
+        file: content/leistungen/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_kickoff
+        label: "KI-Kickoff"
+        file: content/leistungen/ki-kickoff/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_training_live
+        label: "KI-Training Live"
+        file: content/leistungen/ki-training-live/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: trainingsplattform
+        label: "Trainingsplattform"
+        file: content/leistungen/trainingsplattform/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: ki_verordnung
+    label: "KI-Verordnung"
+    files:
+      - name: ki_vo_hub
+        label: "KI-Verordnung Uebersicht"
+        file: content/ki-vo/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: artikel_4
+        label: "Artikel 4 KI-Kompetenz"
+        file: content/ki-vo/artikel-4/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: kompetenznachweis
+        label: "Kompetenznachweis"
+        file: content/ki-vo/kompetenznachweis/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_policy
+        label: "KI-Policy"
+        file: content/ki-vo/ki-policy/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: datenschutz
+        label: "Datenschutz DSGVO"
+        file: content/ki-vo/datenschutz-dsgvo/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: use_cases
+    label: "Use Cases"
+    files:
+      - name: vertrieb
+        label: "KI Vertrieb"
+        file: content/use-cases/vertrieb/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: marketing
+        label: "KI Marketing"
+        file: content/use-cases/marketing/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: hr
+        label: "KI HR Personal"
+        file: content/use-cases/hr/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: management
+        label: "KI Management"
+        file: content/use-cases/management/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: unternehmen
+    label: "Unternehmen"
+    files:
+      - name: ueber_uns
+        label: "Ueber uns"
+        file: content/ueber-uns/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: kontakt
+        label: "Kontakt"
+        file: content/kontakt/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: preise
+        label: "Preise"
+        file: content/preise/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Inhalt", name: body, widget: markdown }
