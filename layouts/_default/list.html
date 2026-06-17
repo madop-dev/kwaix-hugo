@@ -10,7 +10,7 @@
 <div class="post-list">
 {{ range .Pages }}
 <a href="{{ .Permalink }}" class="post-card reveal">
-<div class="post-meta">{{ .Date.Format "02.01.2006" }}</div>
+{{ if not .Date.IsZero }}<div class="post-meta">{{ .Date.Format "02.01.2006" }}</div>{{ end }}
 <h2>{{ .Title }}</h2>
 <p>{{ .Description | default (.Summary | truncate 160) }}</p>
 <span class="post-link">Weiterlesen →</span>
