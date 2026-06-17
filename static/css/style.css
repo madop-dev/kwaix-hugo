@@ -1537,14 +1537,20 @@ body {
   box-shadow: var(--shadow-lg);
   border-color: var(--primary);
 }
-a.card--link {
-  display: block;
+.card-cta {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 8px 16px;
+  background: var(--primary);
+  color: white;
+  border-radius: var(--radius);
   text-decoration: none;
-  color: inherit;
-  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 600;
+  transition: background 0.2s;
 }
-a.card--link:hover .card-title {
-  color: var(--primary);
+.card-cta:hover {
+  background: var(--primary-dark);
 }
 .card-icon {
   width: 44px;
