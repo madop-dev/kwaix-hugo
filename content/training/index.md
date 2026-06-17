@@ -4,7 +4,8 @@ description: "Das KWAIX-Trainingsprogramm für KMU in drei Schritten: KI-Kickoff
 eyebrow: "Trainingsprogramm"
 lede: "Vom ersten Überblick bis zur dauerhaften KI-Kompetenz im Team — in drei aufeinander aufbauenden Schritten."
 draft: false
-canonical: "https://kwaix.de/training/"
+canonical: "https://kwaix.de/ki-training/"
+url: "/ki-training/"
 schemaType: "course"
 priceRange: "2400-4650"
 heroCards:
