@@ -1537,6 +1537,16 @@ body {
   box-shadow: var(--shadow-lg);
   border-color: var(--primary);
 }
+.article-meta {
+  display: flex;
+  gap: 16px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
+.article-date {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
 .card-cta {
   display: inline-block;
   margin-top: 16px;

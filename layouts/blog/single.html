@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="page">
+<div class="container">
+
+  <header class="page-hero reveal">
+    <div class="page-hero-text">
+      {{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with (or .Params.lede .Description) }}<p class="page-desc">{{ . }}</p>{{ end }}
+      <div class="article-meta">
+        {{ if not .Date.IsZero }}<span class="article-date">Veröffentlicht: {{ .Date.Format "02.01.2006" }}</span>{{ end }}
+        {{ if not .Lastmod.IsZero }}{{ if ne (.Lastmod.Format "02.01.2006") (.Date.Format "02.01.2006") }}<span class="article-date">Aktualisiert: {{ .Lastmod.Format "02.01.2006" }}</span>{{ end }}{{ end }}
+      </div>
+    </div>
+    <div class="page-hero-visual" aria-hidden="true"></div>
+  </header>
+
+  <div class="page-content reveal d2">
+    {{ .Content }}
+  </div>
+
+</div>
+</article>
+{{ end }}
