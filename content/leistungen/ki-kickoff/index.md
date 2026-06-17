@@ -53,7 +53,7 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 - Kein Mitarbeiter-Training (dafür: [KI-Training Live](/leistungen/ki-training-live/))
 - Keine rechtsverbindliche KI-VO-Bewertung
 
-## TL;DR
+## Auf einen Blick
 
 - **Dauer:** 90–120 Minuten, remote oder vor Ort
 - **Teilnehmende:** 2–10 Personen (Leitung + Fachbereiche + IT/Datenschutz)
