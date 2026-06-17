@@ -5,6 +5,16 @@ eyebrow: "Branchen · Dienstleistung"
 lede: "In wissensintensiven Dienstleistungsunternehmen ist Zeit das knappe Gut. KI hilft dort, wo Routinearbeit Kapazität frisst, die eigentlich für Mandanten und Kunden gebraucht wird."
 draft: false
 canonical: "https://kwaix.de/branchen/dienstleistung/"
+schemaType: "service"
+faqItems:
+  - q: "Für welche Dienstleistungsunternehmen ist KI-Training geeignet?"
+    a: "Für alle wissensintensiven Dienstleistungsunternehmen: Unternehmensberatung, Steuerberatung, Wirtschaftsprüfung, Agenturen (Marketing, PR, Kommunikation), Kanzleien (nicht als Rechtsberatung-Ersatz), IT-Dienstleister, Coaches und Freiberufler. Überall dort, wo viel geschrieben, analysiert und kommuniziert wird."
+  - q: "Welche Use Cases bringen Dienstleistungsunternehmen den größten Nutzen?"
+    a: "Die stärksten Use Cases: Berichte und Analysen aus Rohdaten strukturieren, Präsentationen aus Stichpunkten erstellen, E-Mail-Kommunikation standardisieren, Protokolle aus Meeting-Notizen, Angebote und Leistungsbeschreibungen, Content für Marketing und Social Media — alles mit Zeitersparnis von 40–70%."
+  - q: "Wie geht KWAIX mit mandanten- oder kundenbezogenen Daten im Training um?"
+    a: "Im Training arbeiten wir mit anonymisierten oder frei gewählten Beispielen. Echte Mandantendaten dürfen ohne AVV nicht in öffentliche KI-Tools eingegeben werden. Wir erklären im Training konkret, welche Daten sicher eingegeben werden dürfen und welche nicht (Platzhalter-Methode)."
+  - q: "Gilt die KI-Verordnung auch für Dienstleistungsunternehmen?"
+    a: "Ja. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben — unabhängig von Branche oder Größe. Steuerberater, Agenturen und Beratungen sind Betreiber im Sinne der Verordnung, sobald sie KI-Tools beruflich einsetzen."
 heroCards:
   - type: prompt
     title: "Texte & Berichte"

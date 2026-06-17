@@ -1,7 +1,28 @@
 ---
-title: "ROI-Rechner: Zeitersparnis durch KI"
-description: "Konservative ROI-Schätzung für KMU: Zeitersparnis in Minuten → Euro pro Monat/Jahr. Mit transparenten Annahmen."
+title: "KI-ROI-Rechner: Zeitersparnis durch KI-Training in Euro"
+description: "Konservative ROI-Schätzung für KI-Training in KMU: Zeitersparnis in Minuten → Euro pro Monat und Jahr. Transparente Formel, realistische Annahmen."
 draft: false
+canonical: "https://kwaix.de/preise/roi/"
+schemaType: "service"
+faqItems:
+  - q: "Wie wird der ROI des KI-Trainings berechnet?"
+    a: "Formel: Mitarbeitende × (Minuten Zeitersparnis/Tag ÷ 60) × Arbeitstage × Stundensatz − laufender Aufwand. Beispiel: 8 Personen × 12 Min/Tag ÷ 60 × 20 Tage × 55 €/Std = ca. 1.760 € Bruttowert minus 110 € laufender Aufwand = ca. 1.650 € Nettogewinn pro Monat."
+  - q: "Was ist ein realistischer Wert für die tägliche Zeitersparnis durch KI?"
+    a: "Für ein gut geschultes Team mit klaren Use Cases und Prompting-Standards: 8–20 Minuten täglich pro Person sind realistisch. 12 Minuten gilt als konservativer Mittelwert. Bedingung: das Team hat konkrete, wiederholbare Use Cases und arbeitet mit erprobten Prompt-Vorlagen."
+  - q: "Wie schnell amortisiert sich das KI-Training?"
+    a: "Im konservativen Szenario (8 Mitarbeitende, 8 Min/Tag, 55 €/Std): ca. 1.060 € Nettogewinn pro Monat. Bei Trainingskosten von 2.400 € amortisiert sich das Training nach ca. 2,3 Monaten. Im realistischen Szenario (12 Min/Tag): Break-even nach ca. 1,5 Monaten."
+  - q: "Was beeinflusst den ROI am stärksten?"
+    a: "Die drei größten Hebel: 1. Prompt-Standards — einheitliche Vorlagen vervielfachen die Wirkung gegenüber individuellem Experimentieren. 2. Use-Case-Fokus — nur 3–5 gut gewählte, wiederholbare Aufgaben statt beliebiger Nutzung. 3. Team-Breite — je mehr Personen KI sinnvoll einsetzen, desto höher der Gesamteffekt."
+heroCards:
+  - type: roi
+    title: "ROI‑Rechner"
+    subtitle: "Konservativ rechnen"
+  - type: backlog
+    title: "Annahmen"
+    subtitle: "Use‑Cases sauber wählen"
+  - type: prompt
+    title: "Hebel"
+    subtitle: "Standards erhöhen Wirkung"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->

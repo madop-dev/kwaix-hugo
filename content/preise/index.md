@@ -1,9 +1,33 @@
 ---
-title: "Preise für KI-Training"
-description: "Transparente Preise für KI-Training für KMU und Mittelstand — Staffelung nach Teamgröße, ohne versteckte Kosten."
+title: "Preise KI-Training: Staffelpreise für Teams ab 2.400 €"
+description: "Transparente Staffelpreise für KI-Training für KMU: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (netto). Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Preise"
 lede: "Klare Staffelpreise nach Teamgröße. Kein Abo, keine Lizenzfallen — einmal trainieren, dauerhaft nutzen."
 draft: false
+canonical: "https://kwaix.de/preise/"
+schemaType: "service"
+priceRange: "2400-4650"
+faqItems:
+  - q: "Was kostet das KI-Training Live bei KWAIX?"
+    a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (alle Preise netto zzgl. MwSt.). Für Gruppen ab 16 Personen erstellen wir ein individuelles Angebot."
+  - q: "Was ist im Trainingspreis enthalten?"
+    a: "Enthalten: Vorab-Umfrage zum Wissensstand, Live-Training (remote oder vor Ort), Prompting-Standards, Use Cases aus Ihrem Arbeitsalltag, Kompetenznachweis nach Artikel 4 KI-Verordnung, Prompt-Bibliothek, Policy-Template und Handout. Nicht enthalten: Rechtsberatung, Tool-Lizenzen."
+  - q: "Wie lange dauert das Training?"
+    a: "Die Dauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt. Den Rahmen sehen Sie im Trainingsprogramm unter /training/."
+  - q: "Findet das Training vor Ort oder remote statt?"
+    a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Für Vor-Ort-Termine werden etwaige Reisekosten transparent im Angebot ausgewiesen."
+  - q: "Wie hoch ist der ROI des Trainings?"
+    a: "Ein Team von 5 Personen mit je 45 Minuten täglicher Zeitersparnis durch KI ergibt bei 220 Arbeitstagen und 35 €/Std. ca. 86.000 € jährliche Wertschöpfung — bei Trainingskosten von 2.400 €. Konservativer Rechner: /preise/roi/."
+  - q: "Ist das KI-Training förderfähig?"
+    a: "Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer Kammer oder der zuständigen Förderstelle."
+  - q: "Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?"
+    a: "Ja. Teilnehmende erhalten einen Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025. Details: /ki-vo/kompetenznachweis/."
+  - q: "Was kostet der KI-Kickoff?"
+    a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format. Er ist eine optionale Vorbereitung auf das KI-Training Live."
+  - q: "Was kostet die Trainingsplattform?"
+    a: "Die Trainingsplattform wird nach Teamgröße und Laufzeit individuell angeboten. Sie ist eine optionale Ergänzung nach dem KI-Training Live."
+  - q: "Fallen Reisekosten an?"
+    a: "Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit (DE, AT, CH)."
 heroCards:
   - type: roi
     title: "ROI grob überschlagen"
@@ -16,9 +40,7 @@ heroCards:
     subtitle: "Standards & Vorlagen"
 ---
 
-<!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
-
-{{% wideContent %}}
+{{< section tone="plain" >}}
 
 ## Einleitung
 
@@ -101,13 +123,9 @@ Das Live-Training ist der Kern und steht für sich. Wer den Lernstand im Team da
 - Handout mit den wichtigsten Trainingsinhalten zum Nachlesen
 - Bei Plattformzugang: Zugangsdaten und Einrichtung der Trainingsplattform für Ihr Team
 
-{{% wideVisual %}}
-{{< figure src="preise-deliverables.svg" alt="Deliverables im Überblick: Policy-Template, Prompt-Bibliothek, Use-Case-Backlog und Kompetenznachweis" caption="Diese Unterlagen erhalten Sie nach Abschluss des Trainings" class="kx-wide" >}}
-{{% /wideVisual %}}
+{{< /section >}}
 
-{{% wideVisual %}}
-{{< mockup src="proof-lieferobjekte.svg" alt="Vorschau der Lieferobjekte: Policy-Template, Prompt-Bibliothek und Use-Case-Backlog als Dokumentkarten" class="kx-wide" >}}
-{{% /wideVisual %}}
+{{< section tone="plain" >}}
 
 ## FAQ
 
@@ -136,7 +154,7 @@ Im Regelfall reichen ein internetfähiges Gerät pro Teilnehmendem und Zugang zu
 Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können dazu keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer zuständigen Stelle oder Kammer.
 
 **Fallen Reisekosten an, wenn ihr vor Ort kommt?**
-Für Vor-Ort-Termine im Norden (Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg) sind Reisezeiten in der Regel bereits berücksichtigt. Für weiter entfernte Standorte besprechen wir das transparent im Angebot.
+Für Vor-Ort-Termine werden etwaige Reisekosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit.
 
 **Ist die Trainingsplattform Pflicht?**
 Nein. Das Live-Training ist der Kern und funktioniert eigenständig. Die [Trainingsplattform](/leistungen/trainingsplattform/) ist eine optionale Ergänzung danach.
@@ -150,10 +168,6 @@ Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Be
 **Wir sind selbst Dienstleister — können wir an euch vermitteln oder umgekehrt?**
 Ja, gerne. Details dazu finden Sie in unserem [Partnernetzwerk](/partnernetzwerk/).
 
-## CTA
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="ROI grob überschlagen: /preise/roi/" >}}
 
-[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
-
-Sie sind Partner und möchten Anfragen weitervermitteln oder erhalten? [Weitervermittlung besprechen →](/partnernetzwerk/)
-
-{{% /wideContent %}}
+{{< /section >}}

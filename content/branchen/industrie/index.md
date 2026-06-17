@@ -5,6 +5,16 @@ eyebrow: "Branchen · Industrie"
 lede: "In Produktion und Industrie entscheidet nicht nur Maschinenleistung — sondern wie schnell Wissen dokumentiert, weitergegeben und in Entscheidungen übersetzt wird."
 draft: false
 canonical: "https://kwaix.de/branchen/industrie/"
+schemaType: "service"
+faqItems:
+  - q: "Welche KI-Use Cases sind in Industrie und Produktion am wirkungsvollsten?"
+    a: "Die stärksten Use Cases: Technische Dokumentation aus Stichpunkten erstellen, Wartungsberichte strukturieren, Arbeitssicherheitsunterweisungen dokumentieren, Lieferantenkommunikation und Qualitätsberichte, Einarbeitungsunterlagen für neue Mitarbeitende, Übergabeprotokolle zwischen Schichten. Überall dort, wo Wissen dokumentiert und weitergegeben werden muss."
+  - q: "Wie geht KWAIX mit sensiblen Produktions- und Unternehmensdaten um?"
+    a: "Im Training arbeiten wir mit anonymisierten oder frei gewählten Beispielen. Produktionsdaten, Kundendaten und vertrauliche Unternehmensinformationen dürfen ohne AVV nicht in öffentliche KI-Tools eingegeben werden. Wir erklären konkret, was sicher ist und was nicht — und wie die Platzhalter-Methode funktioniert."
+  - q: "Gilt die EU KI-Verordnung für Industrieunternehmen?"
+    a: "Ja. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 für alle Betreiber von KI-Systemen. Wenn Mitarbeitende KI-Tools beruflich einsetzen, sind Sie Betreiber. Für Produktions-KI (Qualitätskontrolle, Predictive Maintenance) gelten ab August 2026 zusätzliche Hochrisiko-Anforderungen nach Artikel 26."
+  - q: "Funktioniert KI-Training auch für gewerbliche Mitarbeitende ohne Bürojob?"
+    a: "Das hängt vom Use Case ab. Für Produktionsmitarbeitende ohne Bildschirmarbeitsplatz sind KI-Tools in der Regel nicht direkt einsetzbar. Das Training richtet sich dann primär an Teamleitungen, Qualitätssicherung, Planung und Verwaltung — also die Rollen, die dokumentieren, kommunizieren und entscheiden."
 heroCards:
   - type: policy
     title: "Dokumentation"

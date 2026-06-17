@@ -5,6 +5,16 @@ eyebrow: "Branchen · Handel"
 lede: "Im Handel entscheidet Geschwindigkeit. Wer Produkttexte schneller schreibt, Kundenanfragen zügiger beantwortet und Einkaufsentscheidungen besser vorbereitet, gewinnt."
 draft: false
 canonical: "https://kwaix.de/branchen/handel/"
+schemaType: "service"
+faqItems:
+  - q: "Welche KI-Use Cases sind im Handel am wirkungsvollsten?"
+    a: "Die wirkungsvollsten Use Cases: Produktbeschreibungen in Masse erstellen (von 6 Std auf 45 Min für 10 Artikel), Kundenanfragen und Reklamationen beantworten, Einkaufsberichte und Lieferantenkommunikation, Social-Media-Posts für Aktionen und Neuheiten. Stationär und Online-Handel profitieren unterschiedlich — wir priorisieren im Kickoff."
+  - q: "Kann KI im Handel auch für Produktbeschreibungen in Serie genutzt werden?"
+    a: "Ja — das ist einer der stärksten Anwendungsfälle. Eingabe: Produktname, Merkmale, Zielgruppe, Kategorie. Ausgabe: SEO-freundliche Produktbeschreibung im Firmenton. 10 Produktbeschreibungen: früher 5–6 Stunden, mit KI 45–60 Minuten. Skalierbar auf ganze Kataloge."
+  - q: "Wie nutze ich KI im Kundenservice des Handels datenschutzkonform?"
+    a: "Kundendaten (Namen, Bestellnummern, Kontaktdaten) dürfen ohne AVV nicht in öffentliche KI-Tools eingegeben werden. Im Training zeigen wir die Platzhalter-Methode: Kundendaten werden durch Platzhalter (z.B. 'Kunde A', 'Bestellnummer X') ersetzt — so bleibt die KI-Nutzung effektiv und DSGVO-konform."
+  - q: "Lohnt sich KI-Training für stationäre Händler ohne Online-Shop?"
+    a: "Ja. Die größten Zeitgewinne im stationären Handel liegen nicht im Produktmanagement, sondern in Büro- und Kommunikationsaufgaben: Lieferantenkorrespondenz, Personalplanung, Aushänge und Ankündigungen, Stellenanzeigen und Onboarding-Unterlagen. Auch diese Aufgaben profitieren stark von KI."
 heroCards:
   - type: prompt
     title: "Produkttexte"

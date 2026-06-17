@@ -5,6 +5,18 @@ eyebrow: "Branchen · Handwerk"
 lede: "Im Handwerk entscheidet nicht die beste Technik, sondern wer schneller ein sauberes Angebot schreibt, besser kommuniziert und seine Abläufe im Griff hat."
 draft: false
 canonical: "https://kwaix.de/branchen/handwerk/"
+schemaType: "service"
+faqItems:
+  - q: "Lohnt sich KI-Training für Handwerksbetriebe?"
+    a: "Ja — gerade in Handwerksbetrieben stecken die größten Zeitgewinne in Routineaufgaben: Angebote formulieren, Kundenmails beantworten, Protokolle erstellen. Ein typisches Team von 5 Personen spart 30–60 Minuten täglich. Voraussetzung: kein IT-Vorwissen nötig."
+  - q: "Welche KI-Use Cases bringen Handwerksbetrieben am meisten?"
+    a: "Die wirkungsvollsten Use Cases: Angebotserstellung (von 60 Min auf 10–15 Min), Kundenkommunikation (Standardmails in 2 Min), Übergabe- und Abnahmeprotokolle, Arbeitssicherheitsunterweisungen dokumentieren und Stellenanzeigen schreiben. Alle ohne IT-Vorwissen einsetzbar."
+  - q: "Brauchen wir für das Training technisches Vorwissen?"
+    a: "Nein. KI-Tools wie ChatGPT oder Microsoft Copilot sind browserbasiert und erfordern keine IT-Kenntnisse. Das Training startet genau dort, wo Ihr Team heute steht."
+  - q: "Gibt es Fördermöglichkeiten für KI-Training im Handwerk?"
+    a: "Betriebliche Weiterbildung kann in vielen Bundesländern über BAFA oder Landesförderprogramme bezuschusst werden. Bitte bei Ihrer Kammer oder zuständigen Förderstelle prüfen — wir können dazu keine verbindliche Aussage treffen."
+  - q: "Was ist der Kompetenznachweis nach Artikel 4 KI-Verordnung?"
+    a: "Seit 2. August 2025 müssen Unternehmen nachweisbar sicherstellen, dass Mitarbeitende mit KI-Kompetenz ausgestattet sind (Artikel 4, Verordnung (EU) 2024/1689). Unser Training liefert diesen Nachweis für jeden Teilnehmenden. Details: /ki-vo/kompetenznachweis/."
 heroCards:
   - type: prompt
     title: "Angebote & Texte"
