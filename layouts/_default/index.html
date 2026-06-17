@@ -1,52 +1,41 @@
 {{ define "main" }}
 
-{{/* ── HERO ─────────────────────────────────────────────────────────────── */}}
-<section class="hero">
+{{/* ── HERO HOME ────────────────────────────────────────────────────────── */}}
+<section class="hero-home">
+<div class="hero-home-bg" aria-hidden="true">
+  <div class="hero-home-orb hero-home-orb--1"></div>
+  <div class="hero-home-orb hero-home-orb--2"></div>
+  <div class="hero-home-grid"></div>
+</div>
 <div class="container">
-<div class="hero-grid">
-<div class="hero-text">
-<p class="eyebrow reveal">KI-Training für KMU · DACH-weit</p>
-<h1 class="reveal">KI-Training, das wirkt.<br><em>Im Alltag. Im Team. Nachweisbar.</em></h1>
-<p class="hero-sub reveal d1">KWAIX trainiert KMU und Mittelstand in Deutschland, Österreich und der Schweiz — praxisnah, mit echten Use Cases, inkl. Kompetenznachweis nach Artikel&nbsp;4 der EU&nbsp;KI-Verordnung. Ab 2.400&nbsp;€ netto.</p>
-<div class="hero-buttons reveal d2">
-<a href="/leistungen/ki-training-live/" class="btn btn-primary">KI-Training ansehen →</a>
-<a href="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" class="btn btn-outline">Vorgespräch (30&nbsp;Min, kostenlos)</a>
-</div>
-<p class="trust reveal d3"><span class="check">✓</span> Kompetenznachweis Art.&nbsp;4 KI-VO &nbsp;·&nbsp; DACH-weit &nbsp;·&nbsp; Kein Abo-Zwang</p>
-</div>
-<div class="hero-visual reveal d2">
-<div class="hero-pulse"></div>
-<div class="hero-visual-inner">
-<div class="hero-rotator" id="heroRotator">
-<div class="hero-slide active">
-<div class="hero-slide-icon hero-slide-icon--training">
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3L1 9l11 6 9-4.91V17h2V9L12 3z" fill="#fff"/><path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z" fill="#fff" opacity="0.65"/></svg>
-</div>
-<div class="hero-slide-title">KI-Training</div>
-<div class="hero-slide-desc">Ihr Team setzt KI sicher ein</div>
-</div>
-<div class="hero-slide">
-<div class="hero-slide-icon hero-slide-icon--automation">
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 00.12-.61l-1.92-3.32a.488.488 0 00-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.484.484 0 00-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96c-.22-.08-.47 0-.59.22L2.74 8.87c-.12.21-.08.47.12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58a.49.49 0 00-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32a.49.49 0 00-.12-.61l-2.01-1.58zM12 15.6c-1.98 0-3.6-1.62-3.6-3.6s1.62-3.6 3.6-3.6 3.6 1.62 3.6 3.6-1.62 3.6-3.6 3.6z" fill="#fff"/></svg>
-</div>
-<div class="hero-slide-title">Kompetenznachweis</div>
-<div class="hero-slide-desc">Artikel 4 KI-Verordnung</div>
-</div>
-<div class="hero-slide">
-<div class="hero-slide-icon hero-slide-icon--chatbot">
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9 11H7v2h2v-2zm4 0h-2v2h2v-2zm4 0h-2v2h2v-2zm2-7h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V9h14v11z" fill="#fff"/></svg>
-</div>
-<div class="hero-slide-title">KI-Kickoff</div>
-<div class="hero-slide-desc">Use Cases priorisieren</div>
-</div>
-</div>
-<div class="hero-dots">
-<span class="hero-dot active"></span>
-<span class="hero-dot"></span>
-<span class="hero-dot"></span>
-</div>
-</div>
-</div>
+<div class="hero-home-inner">
+  <div class="hero-home-text">
+    <div class="hero-home-badge reveal">KI-Training für KMU · DACH-weit · Kompetenznachweis Art. 4 KI-VO</div>
+    <h1 class="hero-home-h1 reveal d1">KI spart Zeit.<br><em>Nur wenn Ihr<br>Team weiß, wie.</em></h1>
+    <p class="hero-home-sub reveal d2">KWAIX trainiert KMU und Mittelstand in Deutschland, Österreich und der Schweiz — mit echten Use Cases aus Ihrem Alltag, Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel&nbsp;4 der EU&nbsp;KI-Verordnung.</p>
+    <div class="hero-home-buttons reveal d3">
+      <a href="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" class="btn-hero-primary">Kostenloses Vorgespräch anfragen →</a>
+      <a href="/leistungen/ki-training-live/" class="btn-hero-secondary">KI-Training ansehen</a>
+    </div>
+  </div>
+  <div class="hero-home-cards reveal d2" aria-hidden="true">
+    <div class="hero-stat-card">
+      <div class="hero-stat-num">−83%</div>
+      <div class="hero-stat-label">Zeitersparnis<br>Angebotserstellung</div>
+    </div>
+    <div class="hero-stat-card hero-stat-card--accent">
+      <div class="hero-stat-num">Art. 4</div>
+      <div class="hero-stat-label">KI-Verordnung<br>Kompetenznachweis</div>
+    </div>
+    <div class="hero-stat-card">
+      <div class="hero-stat-num">ab<br>2.400€</div>
+      <div class="hero-stat-label">netto · zzgl. MwSt.<br>Teams bis 5 Personen</div>
+    </div>
+    <div class="hero-stat-card">
+      <div class="hero-stat-num">DACH</div>
+      <div class="hero-stat-label">Remote &amp; vor Ort<br>DE · AT · CH</div>
+    </div>
+  </div>
 </div>
 </div>
 </section>
