@@ -21,9 +21,9 @@ KWAIX bietet KI-Training und KI-Kickoff für KMU und Mittelstand in Deutschland,
 ## Regionale Seiten
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="Bremen" text="KI-Training für KMU in Bremen und Umgebung — vor Ort und remote. → /regionen/bremen/" >}}
-{{< card icon="default" title="Niedersachsen" text="KI-Training für KMU in Niedersachsen — Hannover, Osnabrück, Braunschweig u.a. → /regionen/niedersachsen/" >}}
-{{< card icon="default" title="Hamburg" text="KI-Training für KMU in Hamburg und Metropolregion. → /regionen/hamburg/" >}}
+{{< card icon="default" title="Bremen" text="KI-Training für KMU in Bremen und Umgebung — vor Ort und remote." href="/regionen/bremen/" cta="KI-Training Bremen ansehen" >}}
+{{< card icon="default" title="Niedersachsen" text="KI-Training für KMU in Niedersachsen — Hannover, Osnabrück, Braunschweig u.a." href="/regionen/niedersachsen/" cta="KI-Training Niedersachsen ansehen" >}}
+{{< card icon="default" title="Hamburg" text="KI-Training für KMU in Hamburg und Metropolregion." href="/regionen/hamburg/" cta="KI-Training Hamburg ansehen" >}}
 {{< /cards >}}
 
 ## Die EU KI-Verordnung gilt DACH-weit

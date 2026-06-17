@@ -78,7 +78,7 @@ Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für 
 ## Wann passt es nicht
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="Priorisierung fehlt" text="Noch kein klarer Use-Case-Fokus? Starten Sie zuerst mit dem KI-Kickoff." >}}
+{{< card icon="default" title="Priorisierung fehlt" text="Noch kein klarer Use-Case-Fokus? Starten Sie zuerst mit dem KI-Kickoff." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="default" title="Nur Lizenzen gesucht" text="Reine Tool-Lizenz ohne Training oder Begleitung — das ist nicht unser Angebot." >}}
 {{< card icon="default" title="Rechtsberatung nötig" text="Für KI-VO-Rechtsfragen empfehlen wir spezialisierte Kanzleien." >}}
 {{< /cards >}}
@@ -114,7 +114,7 @@ Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für 
 {{< card icon="default" title="03 Live-Training" text="Praxisnahes Training mit Prompting-Standards und Use Cases aus Ihrem Alltag." >}}
 {{< card icon="proof" title="04 Kompetenznachweis" text="Teilnehmende erhalten den Nachweis gemäß Artikel 4 der KI-Verordnung." >}}
 {{< card icon="policy" title="05 Materialien" text="Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen." >}}
-{{< card icon="default" title="06 Plattform (optional)" text="Trainingsplattform im Anschluss buchbar, um den Lernstand zu festigen." >}}
+{{< card icon="default" title="06 Plattform (optional)" text="Trainingsplattform im Anschluss buchbar, um den Lernstand zu festigen." href="/leistungen/trainingsplattform/" cta="Zur Trainingsplattform" >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}

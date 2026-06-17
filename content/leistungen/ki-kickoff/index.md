@@ -84,7 +84,7 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 {{< card icon="default" title="03 Kickoff-Workshop" text="90–120 Minuten: Use-Case-Inventur, Einordnung, Risikocheck — mit Geschäftsführung und Fachbereichen." >}}
 {{< card icon="backlog" title="04 Ergebnisdokument" text="Priorisierte Use-Case-Shortlist mit Risiko- und Machbarkeitsnotizen und Trainingsempfehlung." >}}
 {{< card icon="policy" title="05 Pilot-Roadmap (opt.)" text="Optional: grober Fahrplan für einen 2–4-wöchigen Pilot zum Top-Use-Case." >}}
-{{< card icon="training" title="06 Nächster Schritt" text="KI-Training Live für die betroffenen Teams — aufbauend auf den priorisierten Use Cases." >}}
+{{< card icon="training" title="06 Nächster Schritt" text="KI-Training Live für die betroffenen Teams — aufbauend auf den priorisierten Use Cases." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}
 
 ## Was Sie bekommen

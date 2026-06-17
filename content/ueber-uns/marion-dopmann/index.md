@@ -28,9 +28,9 @@ Der Ansatz ist direkt aus der Praxis entstanden: In vielen Unternehmen fehlt nic
 ## Schwerpunkte
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="KI-Training für Teams" text="Praxisnahes Team-Training mit Prompting-Standards und echten Use Cases — für Fachbereiche, die KI im Alltag einsetzen wollen." >}}
-{{< card icon="proof" title="EU KI-Verordnung" text="Einordnung der KI-VO-Pflichten (Artikel 4, Betreiberpflichten) für KMU — orientierend, verständlich, ohne Juristendeutsch." >}}
-{{< card icon="policy" title="KI-Policy & Standards" text="Erarbeitung interner KI-Richtlinien und Prompting-Standards — für einheitlichen, sicheren KI-Einsatz im Unternehmen." >}}
+{{< card icon="training" title="KI-Training für Teams" text="Praxisnahes Team-Training mit Prompting-Standards und echten Use Cases — für Fachbereiche, die KI im Alltag einsetzen wollen." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="proof" title="EU KI-Verordnung" text="Einordnung der KI-VO-Pflichten (Artikel 4, Betreiberpflichten) für KMU — orientierend, verständlich, ohne Juristendeutsch." href="/ki-verordnung/" cta="KI-Verordnung verstehen" >}}
+{{< card icon="policy" title="KI-Policy & Standards" text="Erarbeitung interner KI-Richtlinien und Prompting-Standards — für einheitlichen, sicheren KI-Einsatz im Unternehmen." href="/ki-verordnung/ki-policy/" cta="KI-Policy ansehen" >}}
 {{< /cards >}}
 
 ## Hintergrund

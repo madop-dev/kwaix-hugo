@@ -60,9 +60,9 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 ## Die drei Bausteine im Überblick
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="1. KI-Kickoff" text="90–120 Minuten mit Geschäftsführung und Fachbereichen. Ergebnis: priorisierte Use-Case-Shortlist, orientierende Datenschutz- und KI-VO-Einordnung, konkreter Plan. Details: /leistungen/ki-kickoff/" >}}
-{{< card icon="training" title="2. KI-Training Live" text="Praxisnahes Team-Training mit Prompting-Standards und Use Cases aus Ihrem Alltag. Ergebnis: Kompetenznachweis nach Artikel 4 KI-VO, Prompt-Bibliothek, Policy-Template. Details: /leistungen/ki-training-live/" >}}
-{{< card icon="platform" title="3. Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für den Alltag. Für Teams ab 5 Personen, auch standortübergreifend. Details: /leistungen/trainingsplattform/" >}}
+{{< card icon="backlog" title="1. KI-Kickoff" text="90–120 Minuten mit Geschäftsführung und Fachbereichen. Ergebnis: priorisierte Use-Case-Shortlist, orientierende Datenschutz- und KI-VO-Einordnung, konkreter Plan." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="training" title="2. KI-Training Live" text="Praxisnahes Team-Training mit Prompting-Standards und Use Cases aus Ihrem Alltag. Ergebnis: Kompetenznachweis nach Artikel 4 KI-VO, Prompt-Bibliothek, Policy-Template." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="platform" title="3. Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für den Alltag. Für Teams ab 5 Personen, auch standortübergreifend." href="/leistungen/trainingsplattform/" cta="Zur Trainingsplattform" >}}
 {{< /cards >}}
 
 ## Inhalte des KI-Trainings Live

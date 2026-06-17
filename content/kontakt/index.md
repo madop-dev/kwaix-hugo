@@ -63,7 +63,7 @@ KWAIX arbeitet **DACH-weit** — remote und vor Ort in Deutschland, Österreich 
 {{< cards cols="3" >}}
 {{< card icon="default" title="Schriftliches Angebot" text="Nach dem Vorgespräch erhalten Sie ein Angebot mit Preis, Leistungsumfang und Ablauf — klar, ohne Kleingedrucktes." >}}
 {{< card icon="default" title="Vorab-Umfrage" text="Nach Auftragserteilung: kurze Erhebung zum Wissensstand Ihres Teams als Grundlage für die Trainingsinhalte." >}}
-{{< card icon="training" title="Training & Nachweis" text="Praxisnahes Team-Training mit Kompetenznachweis nach Artikel 4 KI-VO — remote oder vor Ort." >}}
+{{< card icon="training" title="Training & Nachweis" text="Praxisnahes Team-Training mit Kompetenznachweis nach Artikel 4 KI-VO — remote oder vor Ort." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}
 
 {{< kpiStrip k1_label="Erstgespräch" k1_value="Kostenlos · 30 Min" k2_label="Antwortzeit" k2_value="Nächster Werktag" k3_label="KWAIX" k3_value="DACH-weit" k4_label="Format" k4_value="Remote & vor Ort" >}}

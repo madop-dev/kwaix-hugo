@@ -76,17 +76,17 @@ KI-Kompetenz ist in Artikel 3 Nr. 56 definiert als: *„die Fähigkeiten, Kenntn
 Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen, die Hochrisiko-KI-Systeme einsetzen (z.B. KI für Personalentscheidungen, Kreditvergabe, Strafverfolgung). Für die meisten KMU greifen die allgemeinen Hochrisiko-Pflichten erst ab August 2026. Artikel 4 gilt bereits jetzt.
 
 {{< cards cols="3" >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. KWAIX stellt ihn nach dem Training aus. Details: /ki-verordnung/kompetenznachweis/" >}}
-{{< card icon="policy" title="KI-Policy" text="Interne Richtlinie: welche Tools erlaubt sind, welche Daten eingegeben werden dürfen, wer verantwortlich ist. Kein Pflichtdokument, aber sinnvoll. Details: /ki-verordnung/ki-policy/" >}}
-{{< card icon="training" title="KI-Training" text="Praxisnahes Live-Training mit echten Use Cases — und Kompetenznachweis nach Artikel 4. Details: /leistungen/ki-training-live/" >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. KWAIX stellt ihn nach dem Training aus." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="policy" title="KI-Policy" text="Interne Richtlinie: welche Tools erlaubt sind, welche Daten eingegeben werden dürfen, wer verantwortlich ist. Kein Pflichtdokument, aber sinnvoll." href="/ki-verordnung/ki-policy/" cta="KI-Policy ansehen" >}}
+{{< card icon="training" title="KI-Training" text="Praxisnahes Live-Training mit echten Use Cases — und Kompetenznachweis nach Artikel 4." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}
 
 ## Was KWAIX konkret liefert
 
 {{< cards cols="4" >}}
-{{< card icon="training" title="KI-Training Live" text="Praxisnahes Team-Training mit Prompting-Standards und Use Cases aus Ihrem Alltag." >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 für jeden Teilnehmenden." >}}
-{{< card icon="policy" title="KI-Policy-Template" text="Vorlage und Erstellung einer internen KI-Richtlinie für Ihr Unternehmen." >}}
+{{< card icon="training" title="KI-Training Live" text="Praxisnahes Team-Training mit Prompting-Standards und Use Cases aus Ihrem Alltag." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 für jeden Teilnehmenden." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="policy" title="KI-Policy-Template" text="Vorlage und Erstellung einer internen KI-Richtlinie für Ihr Unternehmen." href="/ki-verordnung/ki-policy/" cta="KI-Policy ansehen" >}}
 {{< card icon="backlog" title="Orientierungscheck" text="Orientierende Einordnung Ihrer KI-Nutzung im Kickoff — keine Rechtsberatung." >}}
 {{< /cards >}}
 
@@ -99,10 +99,10 @@ Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen,
 ## Alle Themen zur KI-Verordnung
 
 {{< cards cols="4" >}}
-{{< card icon="proof" title="Artikel 4 KI-VO" text="Was die KI-Kompetenz-Pflicht konkret verlangt und wie Sie sie erfüllen." >}}
-{{< card icon="training" title="Kompetenznachweis" text="Was der Nachweis enthält, wie er ausgestellt wird und was er beweist." >}}
-{{< card icon="policy" title="KI-Policy" text="Vorlage und Aufbau einer internen KI-Richtlinie in 6 Schritten." >}}
-{{< card icon="backlog" title="Datenschutz & DSGVO" text="Wo DSGVO und KI-VO sich überschneiden — und was das für die Praxis bedeutet." >}}
+{{< card icon="proof" title="Artikel 4 KI-VO" text="Was die KI-Kompetenz-Pflicht konkret verlangt und wie Sie sie erfüllen." href="/ki-verordnung/artikel-4-ki-kompetenz/" cta="Artikel 4 lesen" >}}
+{{< card icon="training" title="Kompetenznachweis" text="Was der Nachweis enthält, wie er ausgestellt wird und was er beweist." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="policy" title="KI-Policy" text="Vorlage und Aufbau einer internen KI-Richtlinie in 6 Schritten." href="/ki-verordnung/ki-policy/" cta="KI-Policy ansehen" >}}
+{{< card icon="backlog" title="Datenschutz & DSGVO" text="Wo DSGVO und KI-VO sich überschneiden — und was das für die Praxis bedeutet." href="/ki-verordnung/datenschutz-dsgvo/" cta="Datenschutz & DSGVO lesen" >}}
 {{< /cards >}}
 
 ## FAQ: EU KI-Verordnung für Unternehmen

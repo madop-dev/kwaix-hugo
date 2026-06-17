@@ -32,12 +32,12 @@ Die Inhalte sind bewusst zitierfähig aufgebaut: klare Definitionen, spezifische
 ## Schnelleinstieg: Was suchen Sie?
 
 {{< cards cols="3" >}}
-{{< card icon="policy" title="EU KI-Verordnung verstehen" text="Was gilt seit wann, für wen, und was müssen Unternehmen konkret tun? Fristen, Pflichten, Bußgelder — ohne Juristendeutsch. → /ki-verordnung/" >}}
-{{< card icon="proof" title="Kompetenznachweis Artikel 4" text="Was der Nachweis nach Artikel 4 enthält, wer ihn ausstellt, wie er dokumentiert wird. Gilt seit 2. August 2025. → /ki-verordnung/kompetenznachweis/" >}}
-{{< card icon="backlog" title="KI Use Cases mit Zahlen" text="Welche Aufgaben KI wirklich beschleunigt — mit Vorher/Nachher-Tabelle und Datenschutz-Einordnung. → /use-cases/" >}}
-{{< card icon="training" title="KI-Training vs. KI-Workshop" text="Was der Unterschied ist, was ein gutes Training ausmacht und woran man schlechte Angebote erkennt. → /leistungen/" >}}
-{{< card icon="roi" title="KI-ROI berechnen" text="Wie viel ist KI-Zeitersparnis in Euro wert? Transparente Formel, konservative Schätzung. → /preise/ki-roi-rechner/" >}}
-{{< card icon="prompt" title="KI-Automatisierung für KMU" text="Was KI-Automatisierung bedeutet, was sie von klassischer Automation unterscheidet und wie KMU starten. → /use-cases/" >}}
+{{< card icon="policy" title="EU KI-Verordnung verstehen" text="Was gilt seit wann, für wen, und was müssen Unternehmen konkret tun? Fristen, Pflichten, Bußgelder — ohne Juristendeutsch." href="/ki-verordnung/" cta="KI-Verordnung verstehen" >}}
+{{< card icon="proof" title="Kompetenznachweis Artikel 4" text="Was der Nachweis nach Artikel 4 enthält, wer ihn ausstellt, wie er dokumentiert wird. Gilt seit 2. August 2025." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="backlog" title="KI Use Cases mit Zahlen" text="Welche Aufgaben KI wirklich beschleunigt — mit Vorher/Nachher-Tabelle und Datenschutz-Einordnung." href="/use-cases/" cta="KI Use Cases ansehen" >}}
+{{< card icon="training" title="KI-Training vs. KI-Workshop" text="Was der Unterschied ist, was ein gutes Training ausmacht und woran man schlechte Angebote erkennt." href="/leistungen/" cta="Leistungen vergleichen" >}}
+{{< card icon="roi" title="KI-ROI berechnen" text="Wie viel ist KI-Zeitersparnis in Euro wert? Transparente Formel, konservative Schätzung." href="/preise/ki-roi-rechner/" cta="ROI jetzt berechnen" >}}
+{{< card icon="prompt" title="KI-Automatisierung für KMU" text="Was KI-Automatisierung bedeutet, was sie von klassischer Automation unterscheidet und wie KMU starten." href="/use-cases/" cta="Use Cases ansehen" >}}
 {{< /cards >}}
 
 ## Wichtige Definitionen — zitierfähig
