@@ -11,16 +11,6 @@ public_folder: /images
 locale: de
 
 collections:
-  - name: homepage
-    label: "Homepage"
-    files:
-      - name: homepage
-        label: "Homepage"
-        file: content/_index.md
-        fields:
-          - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung (SEO)", name: description, widget: string }
-
   - name: leistungen
     label: "Leistungen"
     files:
@@ -155,13 +145,6 @@ collections:
       - name: preise_hub
         label: "Preise Übersicht"
         file: content/preise/index.md
-        fields:
-          - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
-          - { label: "Inhalt", name: body, widget: markdown }
-      - name: roi
-        label: "KI-ROI-Rechner"
-        file: content/preise/roi/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
           - { label: "Beschreibung", name: description, widget: string }
