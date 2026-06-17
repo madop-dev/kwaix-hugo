@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="kwaix-header-title">
+  <title id="kwaix-header-title">KWAIX Trainingsstrecke: Kick-off, Live-Training, Trainingsplattform</title>
+  <defs>
+    <linearGradient id="blob1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="blob2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#fb7185" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="nodeIndigo" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="nodeCoral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#ffffff"/>
+
+  <!-- organic background blobs -->
+  <path d="M -80 320 C 120 220, 260 420, 480 340 C 700 260, 760 60, 1000 120 C 1180 165, 1260 300, 1320 260 L 1320 460 L -80 460 Z" fill="url(#blob1)"/>
+  <path d="M -60 80 C 160 10, 320 140, 540 70 C 760 0, 900 120, 1100 60 C 1220 25, 1280 90, 1320 70 L 1320 -40 L -60 -40 Z" fill="url(#blob2)"/>
+  <circle cx="170" cy="90" r="60" fill="url(#blob2)"/>
+  <circle cx="1080" cy="330" r="80" fill="url(#blob1)"/>
+
+  <!-- connecting path between the three modules -->
+  <path d="M 230 230 C 360 140, 470 320, 600 230 C 730 140, 840 320, 970 230"
+        fill="none" stroke="#c7d2fe" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 14"/>
+
+  <!-- Module 1: Kick-off -->
+  <g>
+    <circle cx="230" cy="230" r="64" fill="url(#nodeIndigo)"/>
+    <path d="M 212 230 l 14 14 l 26 -30" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="230" y="330" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">1. Kick-off</text>
+    <text x="230" y="358" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">Ziele &amp; Bedarf klären</text>
+  </g>
+
+  <!-- Module 2: Live-Training -->
+  <g>
+    <circle cx="600" cy="230" r="64" fill="url(#nodeCoral)"/>
+    <rect x="572" y="206" width="56" height="40" rx="6" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <path d="M 600 246 v 14 M 584 268 h 32" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+    <text x="600" y="330" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">2. Live-Training</text>
+    <text x="600" y="358" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">Workshops vor Ort &amp; remote</text>
+  </g>
+
+  <!-- Module 3: Trainingsplattform -->
+  <g>
+    <circle cx="970" cy="230" r="64" fill="url(#nodeIndigo)"/>
+    <rect x="940" y="204" width="60" height="44" rx="8" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <circle cx="970" cy="226" r="9" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <text x="970" y="330" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="700" fill="#111827">3. Trainingsplattform</text>
+    <text x="970" y="358" text-anchor="middle" font-family="Inter, sans-serif" font-size="15" fill="#6b7280">Lerninhalte zum Nacharbeiten</text>
+  </g>
+</svg>

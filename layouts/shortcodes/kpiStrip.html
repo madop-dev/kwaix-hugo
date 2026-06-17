@@ -1,0 +1,13 @@
+{{- $page := . -}}
+<div class="kx-kpi-strip">
+{{- range $i := (slice 1 2 3 4) }}
+  {{- $label := $page.Get (printf "k%d_label" $i) }}
+  {{- $value := $page.Get (printf "k%d_value" $i) }}
+  {{- if and $label $value }}
+<div class="kx-kpi-card">
+<div class="kx-kpi-value">{{ $value }}</div>
+<div class="kx-kpi-label">{{ $label }}</div>
+</div>
+  {{- end }}
+{{- end }}
+</div>

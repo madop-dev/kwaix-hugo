@@ -1,11 +1,219 @@
 {{ define "main" }}
 <article class="page">
 <div class="container">
-<h1 class="reveal">{{ .Title }}</h1>
-{{ if .Description }}<p class="page-desc reveal d1">{{ .Description }}</p>{{ end }}
-<div class="page-content reveal d2">
-{{ .Content }}
-</div>
+
+  <header class="page-hero reveal">
+    <div class="page-hero-text">
+      {{ with .Params.eyebrow }}<p class="eyebrow">{{ . }}</p>{{ end }}
+      <h1>{{ .Title }}</h1>
+      {{ with (or .Params.lede .Description) }}<p class="page-desc">{{ . }}</p>{{ end }}
+      {{ with .Params.ctaPrimaryHref }}
+      <div class="cta-row">
+        <a class="btn btn-primary" href="{{ . }}">{{ $.Params.ctaPrimaryText | default "Kontakt" }}</a>
+        {{ with $.Params.ctaSecondaryHref }}
+        <a class="btn btn-secondary" href="{{ . }}">{{ $.Params.ctaSecondaryText | default "Mehr erfahren" }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ with .Params.badge }}<span class="badge">{{ . }}</span>{{ end }}
+    </div>
+
+    {{ if .Params.heroCards }}
+    <div class="hero-deck" aria-hidden="true">
+      {{- range $i, $card := .Params.heroCards -}}
+      {{- $type := $card.type | default "training" -}}
+      <div class="hero-card hero-card--i{{ $i }} hero-card--{{ $type }}">
+        <div class="hero-card-icon">
+          {{- if eq $type "training" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <circle cx="32" cy="32" r="6" stroke="#4f46e5" stroke-width="2.6"/>
+            <circle cx="14" cy="18" r="4" stroke="#4338ca" stroke-width="2.2"/>
+            <circle cx="50" cy="18" r="4" stroke="#4338ca" stroke-width="2.2"/>
+            <circle cx="14" cy="46" r="4" stroke="#4338ca" stroke-width="2.2"/>
+            <circle cx="50" cy="46" r="4" stroke="#4338ca" stroke-width="2.2"/>
+            <line x1="18" y1="21" x2="27" y2="27" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+            <line x1="46" y1="21" x2="37" y2="27" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+            <line x1="18" y1="43" x2="27" y2="37" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+            <line x1="46" y1="43" x2="37" y2="37" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          {{- else if eq $type "automation" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <rect x="8" y="10" width="16" height="16" rx="4" stroke="#4f46e5" stroke-width="2.6"/>
+            <rect x="40" y="10" width="16" height="16" rx="4" stroke="#4f46e5" stroke-width="2.6"/>
+            <rect x="24" y="38" width="16" height="16" rx="4" stroke="#4338ca" stroke-width="2.6"/>
+            <line x1="24" y1="18" x2="40" y2="18" stroke="#4338ca" stroke-width="2" stroke-linecap="round"/>
+            <path d="M48 26L48 34L32 34L32 38" stroke="#4338ca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M16 26L16 34L24 34" stroke="#4338ca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          {{- else if eq $type "chatbot" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <rect x="10" y="12" width="44" height="32" rx="6" stroke="#4f46e5" stroke-width="2.6"/>
+            <path d="M22 44L26 50L30 44" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle cx="22" cy="28" r="3" fill="#ff5a6a"/>
+            <circle cx="32" cy="28" r="3" fill="rgba(79,70,229,0.55)"/>
+            <circle cx="42" cy="28" r="3" fill="rgba(67,56,202,0.40)"/>
+          </svg>
+          {{- else if eq $type "prompt" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <path d="M20 24.5C20 20.9101 22.9101 18 26.5 18H38.5C42.0899 18 45 20.9101 45 24.5V33.5C45 37.0899 42.0899 40 38.5 40H32L25 45V40H26.5C22.9101 40 20 37.0899 20 33.5V24.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+            <path d="M34.5 22.5L35.7 25.2L38.5 26.4L35.7 27.6L34.5 30.3L33.3 27.6L30.5 26.4L33.3 25.2L34.5 22.5Z" fill="#ff5a6a"/>
+            <path d="M25.5 28.5L29 32L25.5 35.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M39 35.5H33.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round"/>
+          </svg>
+          {{- else if eq $type "proof" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <path d="M32 16.5L37 19.5L42.8 19.8L45.2 25.1L49.5 29L47.8 34.7L49.5 40.4L45.2 44.3L42.8 49.6L37 49.9L32 52.9L27 49.9L21.2 49.6L18.8 44.3L14.5 40.4L16.2 34.7L14.5 29L18.8 25.1L21.2 19.8L27 19.5L32 16.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+            <path d="M24.5 34.2L29.3 39L40 28.3" stroke="#ff5a6a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          {{- else if eq $type "backlog" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <rect x="18" y="18" width="28" height="28" rx="6" stroke="#4f46e5" stroke-width="2.6"/>
+            <path d="M27.3 20.8V43.2M36.7 20.8V43.2" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round"/>
+            <rect x="20.6" y="23" width="4.8" height="6.2" rx="2.2" fill="#ff5a6a"/>
+            <rect x="30" y="26" width="4.8" height="9.2" rx="2.2" fill="rgba(79,70,229,0.55)"/>
+            <rect x="38.9" y="30" width="4.8" height="5.2" rx="2.2" fill="rgba(67,56,202,0.40)"/>
+          </svg>
+          {{- else if eq $type "policy" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <path d="M22 18.5H36L42 24.5V45.5C42 48.2614 39.7614 50.5 37 50.5H22C19.2386 50.5 17 48.2614 17 45.5V23.5C17 20.7386 19.2386 18.5 22 18.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+            <path d="M36 18.5V25H42" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M30.5 29.5L38 32.8V38.6C38 42.7 34.7 46 30.5 46C26.3 46 23 42.7 23 38.6V32.8L30.5 29.5Z" stroke="#ff5a6a" stroke-width="2.6" stroke-linejoin="round"/>
+          </svg>
+          {{- else if eq $type "roi" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <path d="M20 40.5C20 32.768 25.8203 26.5 33 26.5C40.1797 26.5 46 32.768 46 40.5" stroke="#4f46e5" stroke-width="2.6" stroke-linecap="round"/>
+            <path d="M33 31.5V40.5L39.5 37.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M24 44.5H42" stroke="rgba(11,16,32,0.25)" stroke-width="2.6" stroke-linecap="round"/>
+            <path d="M41 20.5L47 14.5M47 14.5V20.5M47 14.5H41" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          {{- else if eq $type "platform" }}
+          <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+            <path d="M20 28.5L32 22.5L44 28.5L32 34.5L20 28.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+            <path d="M20 34.5L32 40.5L44 34.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M20 40.5L32 46.5L44 40.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M46.5 25.5C46.5 22.1863 43.8137 19.5 40.5 19.5" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round"/>
+            <path d="M39 17.8L40.9 19.6L39 21.4" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          {{- end }}
+        </div>
+        <p class="hero-card-title">{{ $card.title }}</p>
+        {{ with $card.subtitle }}<p class="hero-card-subtitle">{{ . }}</p>{{ end }}
+        <div class="hero-card-pager">
+          {{- range $j, $_ := $.Params.heroCards }}
+          <span class="hero-card-dot{{ if eq $j $i }} hero-card-dot--active{{ end }}"></span>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    </div>
+    {{ else if .Params.heroIcon }}
+    {{- $icon := .Params.heroIcon -}}
+    <div class="hero-media" aria-hidden="true">
+      <div class="hero-media-icon">
+        {{- if eq $icon "training" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <circle cx="32" cy="32" r="6" stroke="#4f46e5" stroke-width="2.6"/>
+          <circle cx="14" cy="18" r="4" stroke="#4338ca" stroke-width="2.2"/>
+          <circle cx="50" cy="18" r="4" stroke="#4338ca" stroke-width="2.2"/>
+          <circle cx="14" cy="46" r="4" stroke="#4338ca" stroke-width="2.2"/>
+          <circle cx="50" cy="46" r="4" stroke="#4338ca" stroke-width="2.2"/>
+          <line x1="18" y1="21" x2="27" y2="27" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+          <line x1="46" y1="21" x2="37" y2="27" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+          <line x1="18" y1="43" x2="27" y2="37" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+          <line x1="46" y1="43" x2="37" y2="37" stroke="#4f46e5" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        {{- else if eq $icon "automation" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <rect x="8" y="10" width="16" height="16" rx="4" stroke="#4f46e5" stroke-width="2.6"/>
+          <rect x="40" y="10" width="16" height="16" rx="4" stroke="#4f46e5" stroke-width="2.6"/>
+          <rect x="24" y="38" width="16" height="16" rx="4" stroke="#4338ca" stroke-width="2.6"/>
+          <line x1="24" y1="18" x2="40" y2="18" stroke="#4338ca" stroke-width="2" stroke-linecap="round"/>
+          <path d="M48 26L48 34L32 34L32 38" stroke="#4338ca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M16 26L16 34L24 34" stroke="#4338ca" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        {{- else if eq $icon "chatbot" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <rect x="10" y="12" width="44" height="32" rx="6" stroke="#4f46e5" stroke-width="2.6"/>
+          <path d="M22 44L26 50L30 44" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="22" cy="28" r="3" fill="#ff5a6a"/>
+          <circle cx="32" cy="28" r="3" fill="rgba(79,70,229,0.55)"/>
+          <circle cx="42" cy="28" r="3" fill="rgba(67,56,202,0.40)"/>
+        </svg>
+        {{- else if eq $icon "prompt" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <path d="M20 24.5C20 20.9101 22.9101 18 26.5 18H38.5C42.0899 18 45 20.9101 45 24.5V33.5C45 37.0899 42.0899 40 38.5 40H32L25 45V40H26.5C22.9101 40 20 37.0899 20 33.5V24.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+          <path d="M34.5 22.5L35.7 25.2L38.5 26.4L35.7 27.6L34.5 30.3L33.3 27.6L30.5 26.4L33.3 25.2L34.5 22.5Z" fill="#ff5a6a"/>
+          <path d="M25.5 28.5L29 32L25.5 35.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M39 35.5H33.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round"/>
+        </svg>
+        {{- else if eq $icon "proof" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <path d="M32 16.5L37 19.5L42.8 19.8L45.2 25.1L49.5 29L47.8 34.7L49.5 40.4L45.2 44.3L42.8 49.6L37 49.9L32 52.9L27 49.9L21.2 49.6L18.8 44.3L14.5 40.4L16.2 34.7L14.5 29L18.8 25.1L21.2 19.8L27 19.5L32 16.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+          <path d="M24.5 34.2L29.3 39L40 28.3" stroke="#ff5a6a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        {{- else if eq $icon "backlog" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <rect x="18" y="18" width="28" height="28" rx="6" stroke="#4f46e5" stroke-width="2.6"/>
+          <path d="M27.3 20.8V43.2M36.7 20.8V43.2" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round"/>
+          <rect x="20.6" y="23" width="4.8" height="6.2" rx="2.2" fill="#ff5a6a"/>
+          <rect x="30" y="26" width="4.8" height="9.2" rx="2.2" fill="rgba(79,70,229,0.55)"/>
+          <rect x="38.9" y="30" width="4.8" height="5.2" rx="2.2" fill="rgba(67,56,202,0.40)"/>
+        </svg>
+        {{- else if eq $icon "policy" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <path d="M22 18.5H36L42 24.5V45.5C42 48.2614 39.7614 50.5 37 50.5H22C19.2386 50.5 17 48.2614 17 45.5V23.5C17 20.7386 19.2386 18.5 22 18.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+          <path d="M36 18.5V25H42" stroke="#4338ca" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M30.5 29.5L38 32.8V38.6C38 42.7 34.7 46 30.5 46C26.3 46 23 42.7 23 38.6V32.8L30.5 29.5Z" stroke="#ff5a6a" stroke-width="2.6" stroke-linejoin="round"/>
+        </svg>
+        {{- else if eq $icon "roi" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <path d="M20 40.5C20 32.768 25.8203 26.5 33 26.5C40.1797 26.5 46 32.768 46 40.5" stroke="#4f46e5" stroke-width="2.6" stroke-linecap="round"/>
+          <path d="M33 31.5V40.5L39.5 37.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M24 44.5H42" stroke="rgba(11,16,32,0.25)" stroke-width="2.6" stroke-linecap="round"/>
+          <path d="M41 20.5L47 14.5M47 14.5V20.5M47 14.5H41" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        {{- else if eq $icon "platform" }}
+        <svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="6" y="6" width="52" height="52" rx="16" fill="rgba(79,70,229,0.10)"/>
+          <path d="M20 28.5L32 22.5L44 28.5L32 34.5L20 28.5Z" stroke="#4f46e5" stroke-width="2.6" stroke-linejoin="round"/>
+          <path d="M20 34.5L32 40.5L44 34.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M20 40.5L32 46.5L44 40.5" stroke="#4338ca" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M46.5 25.5C46.5 22.1863 43.8137 19.5 40.5 19.5" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round"/>
+          <path d="M39 17.8L40.9 19.6L39 21.4" stroke="#ff5a6a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        {{- end }}
+      </div>
+    </div>
+    {{ else if .Params.heroVisual }}
+    <div class="hero-media" aria-hidden="true">
+      <img class="hero-media-img" src="{{ .Params.heroVisual }}" alt="{{ .Params.heroVisualAlt | default .Title }}">
+    </div>
+    {{ else }}
+    <div class="page-hero-visual" aria-hidden="true"></div>
+    {{ end }}
+  </header>
+
+  <div class="page-content reveal d2">
+    {{ .Content }}
+  </div>
+
 </div>
 </article>
 {{ end }}

@@ -1,0 +1,192 @@
+{{- $site := .Site -}}
+{{- $page := . -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "EducationalOrganization", "ProfessionalService"],
+      "@id": "https://kwaix.de/#organization",
+      "name": "KWAIX",
+      "legalName": "KWAIX",
+      "description": "KI-Training, KI-Kickoff und Trainingsplattform für KMU und Mittelstand — DACH-weit, remote und vor Ort.",
+      "url": "https://kwaix.de/",
+      "email": "info@kwaix.de",
+      "telephone": "+494216919096",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Waller Stieg 3",
+        "postalCode": "28217",
+        "addressLocality": "Bremen",
+        "addressRegion": "Bremen",
+        "addressCountry": "DE"
+      },
+      "areaServed": [
+        {"@type": "Country", "name": "Deutschland"},
+        {"@type": "Country", "name": "Österreich"},
+        {"@type": "Country", "name": "Schweiz"}
+      ],
+      "serviceArea": {
+        "@type": "AdministrativeArea",
+        "name": "DACH"
+      },
+      "knowsAbout": [
+        "Künstliche Intelligenz",
+        "KI-Training für Unternehmen",
+        "EU KI-Verordnung Artikel 4",
+        "KI-Kompetenznachweis",
+        "Prompt Engineering",
+        "KI-Policy",
+        "KI-Kickoff",
+        "KI-Strategie KMU",
+        "Mittelstand Digitalisierung"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "KWAIX Leistungen",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "KI-Kickoff",
+              "description": "90-minütiger Workshop zur Identifikation und Priorisierung von KI-Use-Cases für KMU",
+              "url": "https://kwaix.de/leistungen/ki-kickoff/"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "KI-Training Live",
+              "description": "Praxisnahes Live-Training für Teams inkl. Kompetenznachweis nach Artikel 4 KI-Verordnung",
+              "url": "https://kwaix.de/leistungen/ki-training-live/",
+              "offers": {
+                "@type": "Offer",
+                "priceCurrency": "EUR",
+                "priceRange": "2400-4650",
+                "description": "Staffelpreise: 1–5 MA 2.400 €, 6–10 MA 3.600 €, 11–15 MA 4.650 €"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Trainingsplattform",
+              "description": "Digitale Lernplattform mit Prompt-Bibliothek und KI-Lernpfaden für Teams",
+              "url": "https://kwaix.de/leistungen/trainingsplattform/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://kwaix.de/#website",
+      "name": "KWAIX",
+      "url": "https://kwaix.de/",
+      "inLanguage": "de-DE",
+      "publisher": {
+        "@id": "https://kwaix.de/#organization"
+      }
+    }{{- if not .IsHome }},
+    {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title }}",
+      "description": "{{ .Description }}",
+      "inLanguage": "de-DE",
+      "isPartOf": {"@id": "https://kwaix.de/#website"},
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Start",
+            "item": "https://kwaix.de/"
+          }{{ if .Parent }}{{ if not .Parent.IsHome }},
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ .Parent.Title }}",
+            "item": "{{ .Parent.Permalink }}"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{ .Title }}",
+            "item": "{{ .Permalink }}"
+          }{{ else }},
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{ .Title }}",
+            "item": "{{ .Permalink }}"
+          }{{ end }}{{ end }}
+        ]
+      }
+    }{{ end }}{{ with .Params.schemaType }}{{- $type := lower . }},
+    {{- if eq $type "course" }}
+    {
+      "@type": "Course",
+      "@id": "{{ $page.Permalink }}#course",
+      "name": "{{ $page.Title }}",
+      "description": "{{ $page.Description }}",
+      "url": "{{ $page.Permalink }}",
+      "provider": {"@id": "https://kwaix.de/#organization"},
+      "courseMode": ["onsite", "online"],
+      "inLanguage": "de-DE",
+      "availableLanguage": "de",
+      "educationalLevel": "beginner"{{ with $page.Params.priceRange }},
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "priceRange": "{{ . }}",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2025-01-01"
+      }{{ end }}
+    }
+    {{- else if eq $type "service" }}
+    {
+      "@type": "Service",
+      "@id": "{{ $page.Permalink }}#service",
+      "name": "{{ $page.Title }}",
+      "description": "{{ $page.Description }}",
+      "url": "{{ $page.Permalink }}",
+      "provider": {"@id": "https://kwaix.de/#organization"},
+      "areaServed": [
+        {"@type": "Country", "name": "Deutschland"},
+        {"@type": "Country", "name": "Österreich"},
+        {"@type": "Country", "name": "Schweiz"}
+      ]{{ with $page.Params.priceRange }},
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "priceRange": "{{ . }}"
+      }{{ end }}
+    }
+    {{- end }}{{ end }}{{ with .Params.faqItems }},
+    {
+      "@type": "FAQPage",
+      "@id": "{{ $page.Permalink }}#faq",
+      "url": "{{ $page.Permalink }}",
+      "name": "FAQ: {{ $page.Title }}",
+      "mainEntity": [
+        {{- range $i, $item := . }}{{ if $i }},{{ end }}
+        {
+          "@type": "Question",
+          "name": {{ $item.q | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ $item.a | jsonify }}
+          }
+        }
+        {{- end }}
+      ]
+    }{{ end }}
+  ]
+}
+</script>

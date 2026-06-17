@@ -1,6 +1,7 @@
 ---
 title: "Über KWAIX"
 description: "KI-Spezialisten im Norden — pragmatisch, transparent, ergebnisorientiert"
+draft: true
 ---
 
 ## Wir machen KI praktisch.

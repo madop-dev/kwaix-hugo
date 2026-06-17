@@ -1,6 +1,7 @@
 ---
 title: "KI Training für KMU und Mittelstand"
 description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
+draft: true
 ---
 
 ## Lass uns reden.

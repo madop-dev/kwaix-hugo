@@ -1,0 +1,14 @@
+{{- $primaryHref := .Get "primaryHref" -}}
+{{- $primaryText := .Get "primaryText" | default "Kontakt" -}}
+{{- $secondaryHref := .Get "secondaryHref" -}}
+{{- $secondaryText := .Get "secondaryText" | default "Mehr erfahren" -}}
+{{- $note := .Get "note" -}}
+<div class="cta-block">
+  {{- with $primaryHref }}
+  <a class="btn btn-primary" href="{{ . }}">{{ $primaryText }}</a>
+  {{- end }}
+  {{- with $secondaryHref }}
+  <a class="btn btn-secondary" href="{{ . }}">{{ $secondaryText }}</a>
+  {{- end }}
+  {{- with $note }}<p class="cta-note">{{ . }}</p>{{ end }}
+</div>
