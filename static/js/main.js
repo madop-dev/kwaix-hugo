@@ -76,7 +76,9 @@ function calculate() {
   result.classList.add('pop');
 }
 
-calculate();
+if (document.getElementById('resultMonth')) {
+  calculate();
+}
 
 // Rotating hero banner
 var heroSlides = document.querySelectorAll('.hero-slide');
