@@ -78,9 +78,9 @@ Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag — n
 ## Alle Leistungen im Detail
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="KI-Kickoff" text="Für Geschäftsführung und Fachbereiche: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-VO, konkreter Plan für die nächsten 30 Tage. 90–120 Min, remote oder vor Ort. → /leistungen/ki-kickoff/" >}}
-{{< card icon="training" title="KI-Training Live" text="Praxisnahes Team-Training: Prompting-Standards, echte Use Cases aus dem Alltag, Kompetenznachweis nach Artikel 4 KI-VO. Für 1–15+ Personen, ab 2.400 € netto. → /leistungen/ki-training-live/" >}}
-{{< card icon="platform" title="Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für dauerhaften Kompetenzaufbau. Für Teams ab 5 Personen, auch standortübergreifend. → /leistungen/trainingsplattform/" >}}
+{{< card icon="backlog" title="KI-Kickoff" text="Für Geschäftsführung und Fachbereiche: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-VO, konkreter Plan für die nächsten 30 Tage. 90–120 Min, remote oder vor Ort." href="/leistungen/ki-kickoff/" >}}
+{{< card icon="training" title="KI-Training Live" text="Praxisnahes Team-Training: Prompting-Standards, echte Use Cases aus dem Alltag, Kompetenznachweis nach Artikel 4 KI-VO. Für 1–15+ Personen, ab 2.400 € netto." href="/leistungen/ki-training-live/" >}}
+{{< card icon="platform" title="Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für dauerhaften Kompetenzaufbau. Für Teams ab 5 Personen, auch standortübergreifend." href="/leistungen/trainingsplattform/" >}}
 {{< /cards >}}
 
 ## Für wen KWAIX das Richtige ist

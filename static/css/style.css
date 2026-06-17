@@ -1537,6 +1537,15 @@ body {
   box-shadow: var(--shadow-lg);
   border-color: var(--primary);
 }
+a.card--link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+a.card--link:hover .card-title {
+  color: var(--primary);
+}
 .card-icon {
   width: 44px;
   height: 44px;
