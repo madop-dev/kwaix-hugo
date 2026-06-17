@@ -2,7 +2,8 @@
 title: "KI-ROI-Rechner: Zeitersparnis durch KI-Training in Euro"
 description: "Konservative ROI-Schätzung für KI-Training in KMU: Zeitersparnis in Minuten → Euro pro Monat und Jahr. Transparente Formel, realistische Annahmen."
 draft: false
-canonical: "https://kwaix.de/preise/roi/"
+canonical: "https://kwaix.de/preise/ki-roi-rechner/"
+url: "/preise/ki-roi-rechner/"
 schemaType: "service"
 faqItems:
   - q: "Wie wird der ROI des KI-Trainings berechnet?"

@@ -4,7 +4,8 @@ description: "Konkrete KI-Anwendungsfälle im Kundenservice für KMU: Standardan
 eyebrow: "Use Case · Kundenservice"
 lede: "60–80 % der Kundenanfragen in KMU wiederholen sich. KI beantwortet sie in Sekunden — individuell, nicht generisch, wenn die Prompt-Vorlagen stimmen."
 draft: false
-canonical: "https://kwaix.de/use-cases/kundenservice/"
+canonical: "https://kwaix.de/use-cases/ki-kundenservice/"
+url: "/use-cases/ki-kundenservice/"
 schemaType: "service"
 heroCards:
   - type: prompt
@@ -68,7 +69,7 @@ KI-Tools verändern diesen Prozess: Aus einer strukturierten Eingabe — Anfrage
 {{< card icon="training" title="Onboarding Service-Team" text="Eingabe: häufige Anfragetypen + Musterantworten. Ausgabe: Lernunterlagen und Übungsszenarien für neue Mitarbeitende." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Kundenservice%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Kundenservice%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -86,7 +87,7 @@ In der Praxis: 40–70 % schneller pro Anfrage. Eine Standardantwort, die vorher
 Das hängt von der Prompt-Qualität ab. Mit unternehmensspezifischen Vorlagen, die Ton, Anrede und Firmensprache vorgeben, klingt die Ausgabe wie ein erfahrener Servicemitarbeitender.
 
 **Was ist mit Datenschutz bei Kundendaten?**
-Kundendaten ohne AVV nicht in öffentliche KI-Tools. Pragmatische Lösung: Platzhalter-Methode — Kundendaten werden erst nach der Generierung in die Antwort eingefügt. Details: [Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/).
+Kundendaten ohne AVV nicht in öffentliche KI-Tools. Pragmatische Lösung: Platzhalter-Methode — Kundendaten werden erst nach der Generierung in die Antwort eingefügt. Details: [Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/).
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 

@@ -107,7 +107,7 @@ KI-Kickoff (Priorisierung), KI-Training Live (Team-Training, Kompetenznachweis),
 1–5 Personen: 2.400 €. 6–10 Personen: 3.600 €. 11–15 Personen: 4.650 € (alle zzgl. MwSt.). Größere Gruppen auf Anfrage. [Vollständige Preisübersicht →](/preise/)
 
 **Ist der Kompetenznachweis nach Artikel 4 KI-VO im Training enthalten?**
-Ja — für jeden Teilnehmenden. Die Pflicht gilt seit 2. August 2025. [Details →](/ki-vo/kompetenznachweis/)
+Ja — für jeden Teilnehmenden. Die Pflicht gilt seit 2. August 2025. [Details →](/ki-verordnung/kompetenznachweis/)
 
 **Wie unterscheidet sich KWAIX von anderen Anbietern?**
 Training mit echten Use Cases aus dem Arbeitsalltag der Teilnehmenden — keine generischen Demos. Kein Abo-Zwang, kein Vendor Lock-in, kein Buzzword-Bingo.
@@ -118,6 +118,6 @@ Nein. Das KI-Training Live ist das Kernangebot und eigenständig buchbar.
 **Wie starte ich?**
 Kostenloses Vorgespräch (30 Min): [info@kwaix.de](mailto:info@kwaix.de?subject=Vorgespräch%20anfragen). Rückmeldung innerhalb eines Werktags.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-vo/" secondaryText="KI-Verordnung erklärt" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-verordnung/" secondaryText="KI-Verordnung erklärt" >}}
 
 {{< /section >}}

@@ -82,12 +82,12 @@ Der Begriff "KI Use Case" wird in Präsentationen oft für alles verwendet. Im K
 ## Use Cases nach Funktion
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="Vertrieb" text="Angebote formulieren (−83 %), Nachfassmails, CRM-Einträge aus Gesprächsnotizen, Präsentationen für Kundentermine. 5 Personen Vertrieb = 12–25 Stunden pro Woche zurück. → /use-cases/vertrieb/" >}}
-{{< card icon="prompt" title="Kundenservice" text="Standardanfragen, Reklamationen, Eskalationen — einheitlich und deeskalierend beantworten. Platzhalter-Methode für DSGVO-konforme Nutzung. → /use-cases/kundenservice/" >}}
-{{< card icon="training" title="HR & Personal" text="Stellenanzeigen (−88 %), Onboarding-Unterlagen, Arbeitszeugnisse, Unterweisungsprotokolle nach ArbSchG. 4–8 Stunden Ersparnis pro Woche. → /use-cases/hr/" >}}
-{{< card icon="prompt" title="Marketing" text="Social-Media-Posts, Newsletter, Produktbeschreibungen — 50–70 % schneller. Schlüssel: Markenstimmen-Prompt für einheitlichen Ton. → /use-cases/marketing/" >}}
-{{< card icon="policy" title="Office & Projekte" text="Protokolle (5 Min statt 30), Statusberichte, schwierige E-Mails, Präsentationsgliederungen. 60–90 Min täglich für Bürorollen. → /use-cases/office-projekt/" >}}
-{{< card icon="roi" title="Management" text="20-Seiten-Bericht in 2 Min, Entscheidungsvorlagen in 10 Min, adressatengerechte Kommunikation in 5 Min. Halluzinationen bei Fakten immer prüfen. → /use-cases/management/" >}}
+{{< card icon="backlog" title="Vertrieb" text="Angebote formulieren (−83 %), Nachfassmails, CRM-Einträge aus Gesprächsnotizen, Präsentationen für Kundentermine. 5 Personen Vertrieb = 12–25 Stunden pro Woche zurück. → /use-cases/ki-vertrieb/" >}}
+{{< card icon="prompt" title="Kundenservice" text="Standardanfragen, Reklamationen, Eskalationen — einheitlich und deeskalierend beantworten. Platzhalter-Methode für DSGVO-konforme Nutzung. → /use-cases/ki-kundenservice/" >}}
+{{< card icon="training" title="HR & Personal" text="Stellenanzeigen (−88 %), Onboarding-Unterlagen, Arbeitszeugnisse, Unterweisungsprotokolle nach ArbSchG. 4–8 Stunden Ersparnis pro Woche. → /use-cases/ki-hr-personal/" >}}
+{{< card icon="prompt" title="Marketing" text="Social-Media-Posts, Newsletter, Produktbeschreibungen — 50–70 % schneller. Schlüssel: Markenstimmen-Prompt für einheitlichen Ton. → /use-cases/ki-marketing/" >}}
+{{< card icon="policy" title="Office & Projekte" text="Protokolle (5 Min statt 30), Statusberichte, schwierige E-Mails, Präsentationsgliederungen. 60–90 Min täglich für Bürorollen. → /use-cases/ki-office-projekt/" >}}
+{{< card icon="roi" title="Management" text="20-Seiten-Bericht in 2 Min, Entscheidungsvorlagen in 10 Min, adressatengerechte Kommunikation in 5 Min. Halluzinationen bei Fakten immer prüfen. → /use-cases/ki-management/" >}}
 {{< /cards >}}
 
 ## Datenschutz: Was darf in KI-Tools, was nicht?
@@ -133,7 +133,7 @@ Eine konkrete, wiederkehrende Aufgabe, die mit KI-Tools messbar schneller erledi
 Protokolle (−83 %), Stellenanzeigen (−88 %), Angebote (−83 %), Berichte zusammenfassen (−90 %). Vollständige Tabelle oben auf dieser Seite.
 
 **Wie viel Zeit spart KI realistisch?**
-8–20 Minuten pro Person täglich bei geschultem Team mit klaren Use Cases. Konservativer ROI-Rechner: [/preise/roi/](/preise/roi/).
+8–20 Minuten pro Person täglich bei geschultem Team mit klaren Use Cases. Konservativer ROI-Rechner: [/preise/ki-roi-rechner/](/preise/ki-roi-rechner/).
 
 **Was darf nicht in KI-Tools eingegeben werden?**
 Personenbezogene Daten (Kundennamen, Mitarbeiterdaten) ohne AVV. Lösung: Platzhalter-Methode — im Training erklärt.

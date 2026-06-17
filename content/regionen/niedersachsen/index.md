@@ -22,7 +22,7 @@ faqItems:
   - q: "Welche Branchen betreut KWAIX in Niedersachsen besonders?"
     a: "Niedersachsen-Schwerpunkte: Industrie und Automobilzulieferer (Dokumentation, Qualitätsberichte), Maschinenbau (Technische Dokumentation, Servicekommunikation), Handwerk (Angebote, Protokolle), Agrar und Lebensmittelwirtschaft (Berichte, Compliance-Dokumentation), Logistik und Handel."
   - q: "Gibt es spezielle Angebote für kleinere Handwerksbetriebe in Niedersachsen?"
-    a: "Nein — kein Extra-Angebot, aber die Staffelung macht es für kleine Teams erschwinglich: 1–5 Mitarbeitende 2.400 € netto. Handwerksbetriebe in Niedersachsen profitieren besonders von Angebotserstellung, Kundenkommunikation und Protokollen. Details: /branchen/handwerk/."
+    a: "Nein — kein Extra-Angebot, aber die Staffelung macht es für kleine Teams erschwinglich: 1–5 Mitarbeitende 2.400 € netto. Handwerksbetriebe in Niedersachsen profitieren besonders von Angebotserstellung, Kundenkommunikation und Protokollen. Details: /branchen/ki-training-handwerk/."
   - q: "Wie schnell ist ein Training-Termin in Niedersachsen möglich?"
     a: "In der Regel 1–3 Wochen nach Auftragserteilung. Remote-Termine können oft schneller organisiert werden als Vor-Ort-Termine."
 ---
@@ -75,7 +75,7 @@ Ja. KWAIX betreut Unternehmen in ganz Niedersachsen — remote ohne Aufpreis, vo
 Industrie und Maschinenbau, Handwerk, Logistik, Agrar- und Lebensmittelwirtschaft, Dienstleister. Use Cases werden branchenspezifisch im KI-Kickoff priorisiert.
 
 **Gibt es spezielle Pakete für kleine Handwerksbetriebe?**
-Kein Extra-Paket, aber die Preisgestaffelung gilt: 1–5 Personen ab 2.400 € netto. Handwerk profitiert vor allem von Angebotserstellung, Protokollen und Kundenkommunikation. Details: [/branchen/handwerk/](/branchen/handwerk/).
+Kein Extra-Paket, aber die Preisgestaffelung gilt: 1–5 Personen ab 2.400 € netto. Handwerk profitiert vor allem von Angebotserstellung, Protokollen und Kundenkommunikation. Details: [/branchen/ki-training-handwerk/](/branchen/ki-training-handwerk/).
 
 **Wie schnell ist ein Termin möglich?**
 1–3 Wochen nach Auftragserteilung. Remote-Termine oft schneller als Vor-Ort.

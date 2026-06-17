@@ -4,7 +4,8 @@ description: "Was Unternehmen beim KI-Einsatz datenschutzrechtlich beachten müs
 eyebrow: "KI-VO · Datenschutz & DSGVO"
 lede: "KI-Tools verarbeiten Daten. Was dabei DSGVO-konform ist, hängt vom Tool, der Konfiguration und der Nutzung ab — nicht von einer pauschalen Regel."
 draft: false
-canonical: "https://kwaix.de/ki-vo/datenschutz-dsgvo/"
+canonical: "https://kwaix.de/ki-verordnung/datenschutz-dsgvo/"
+url: "/ki-verordnung/datenschutz-dsgvo/"
 schemaType: "service"
 heroCards:
   - type: policy
@@ -73,7 +74,7 @@ Der Einsatz von KI-Tools im Unternehmen ist nicht automatisch DSGVO-widrig. Ents
 | **Für KMU relevant** | Immer, wenn Kundendaten verarbeitet werden | Seit 2. August 2025 (Artikel 4 KI-Kompetenz) |
 | **Sanktionen** | Bis 20 Mio. € / 4 % Jahresumsatz | Bis 15 Mio. € / 3 % Jahresumsatz |
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Datenschutz%20KI-Einsatz%20besprechen" primaryText="Datenschutz im KI-Kickoff klären" secondaryHref="/ki-vo/ki-policy/" secondaryText="KI-Policy erstellen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Datenschutz%20KI-Einsatz%20besprechen" primaryText="Datenschutz im KI-Kickoff klären" secondaryHref="/ki-verordnung/ki-policy/" secondaryText="KI-Policy erstellen" >}}
 
 {{< /section >}}
 
@@ -96,6 +97,6 @@ Beide gelten parallel und ergänzen sich. Die DSGVO regelt den Schutz personenbe
 **Brauche ich für KI-Tools eine Datenschutz-Folgenabschätzung?**
 Nur bei hohem Risiko — z.B. systematisches KI-basiertes Profiling von Kunden oder Mitarbeitenden. Für üblichen Einsatz zur Texterstellung oder Recherche in der Regel nicht. Prüfung durch den Datenschutzbeauftragten empfohlen.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=DSGVO%20KI-Einsatz%20anfragen" primaryText="Im Kickoff besprechen" secondaryHref="/ki-vo/" secondaryText="KI-VO Übersicht" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=DSGVO%20KI-Einsatz%20anfragen" primaryText="Im Kickoff besprechen" secondaryHref="/ki-verordnung/" secondaryText="KI-VO Übersicht" >}}
 
 {{< /section >}}

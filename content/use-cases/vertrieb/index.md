@@ -4,7 +4,8 @@ description: "Konkrete KI-Anwendungsfälle im Vertrieb für KMU: Angebote schnel
 eyebrow: "Use Case · Vertrieb"
 lede: "Vertriebsteams verlieren täglich 30–60 Minuten mit Aufgaben, die nichts mit Verkaufen zu tun haben. KI holt diese Zeit zurück — wenn das Team weiß, wie."
 draft: false
-canonical: "https://kwaix.de/use-cases/vertrieb/"
+canonical: "https://kwaix.de/use-cases/ki-vertrieb/"
+url: "/use-cases/ki-vertrieb/"
 schemaType: "service"
 heroCards:
   - type: prompt
@@ -68,7 +69,7 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 {{< card icon="backlog" title="Einwand-Leitfaden" text="Eingabe: häufige Einwände aus dem Vertriebsalltag. Ausgabe: strukturierter Gesprächsleitfaden mit Einwandbehandlung und Überbrückungsformulierungen." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -97,7 +98,7 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 KI unterstützt bei: Angebotserstellung aus Stichpunkten, individuellen Nachfassmails, CRM-Aufbereitung von Gesprächsnotizen, Kundenrecherche, Einwandbehandlungs-Leitfäden und Kaltakquise-Texten. KI trifft keine Verkaufsentscheidungen — sie beschleunigt Vorbereitung und Nachbereitung.
 
 **Wie viel Zeit spart KI im Vertrieb tatsächlich?**
-Vertriebsteams berichten von 30–60 Minuten täglich, die durch KI-Unterstützung eingespart werden. Das entspricht bei 5 Personen rund 12–25 Stunden pro Woche. Konservativer ROI: [Rechner](/preise/roi/).
+Vertriebsteams berichten von 30–60 Minuten täglich, die durch KI-Unterstützung eingespart werden. Das entspricht bei 5 Personen rund 12–25 Stunden pro Woche. Konservativer ROI: [Rechner](/preise/ki-roi-rechner/).
 
 **Kann ich KI nutzen, ohne das CRM zu wechseln?**
 Ja. KI-Tools arbeiten parallel zu bestehenden Systemen. Das Ergebnis wird manuell übertragen. Eine direkte Integration ist möglich, aber keine Voraussetzung.
@@ -106,7 +107,7 @@ Ja. KI-Tools arbeiten parallel zu bestehenden Systemen. Das Ergebnis wird manuel
 Durch unternehmensspezifische Prompt-Vorlagen mit Tonalität, Firmensprache und Angebotsstruktur. Diese erarbeiten wir im Training direkt mit Ihren eigenen Beispielen.
 
 **Was müssen Vertriebsteams über Datenschutz wissen?**
-Kundendaten dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentliche KI-Tools. Mit AVV (z.B. Microsoft Copilot Enterprise) unter den Bedingungen des Vertrags möglich. Details: [Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/).
+Kundendaten dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentliche KI-Tools. Mit AVV (z.B. Microsoft Copilot Enterprise) unter den Bedingungen des Vertrags möglich. Details: [Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/).
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20anfragen" primaryText="Jetzt anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
 

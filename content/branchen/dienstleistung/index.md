@@ -4,7 +4,8 @@ description: "KI-Training für Beratung, Steuerberatung, Agenturen und Freiberuf
 eyebrow: "Branchen · Dienstleistung"
 lede: "In wissensintensiven Dienstleistungsunternehmen ist Zeit das knappe Gut. KI hilft dort, wo Routinearbeit Kapazität frisst, die eigentlich für Mandanten und Kunden gebraucht wird."
 draft: false
-canonical: "https://kwaix.de/branchen/dienstleistung/"
+canonical: "https://kwaix.de/branchen/ki-training-dienstleistung/"
+url: "/branchen/ki-training-dienstleistung/"
 schemaType: "service"
 faqItems:
   - q: "Für welche Dienstleistungsunternehmen ist KI-Training geeignet?"
@@ -83,7 +84,7 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) zur Verstetigung und für neue Mitarbeitende." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -95,7 +96,7 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 Im Training arbeiten wir ausschließlich mit anonymisierten oder synthetischen Beispieldaten. Welche Tools datenschutzkonform eingesetzt werden dürfen, klären wir im Kickoff.
 
 **Können wir KI-Tools einsetzen, ohne die DSGVO zu verletzen?**
-Ja — es kommt auf die Konfiguration und den Einsatzbereich an. Wir geben eine Orientierung, empfehlen aber für verbindliche Datenschutzfragen die eigene Datenschutzbeauftragte oder eine Kanzlei. Hintergrund: [Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/).
+Ja — es kommt auf die Konfiguration und den Einsatzbereich an. Wir geben eine Orientierung, empfehlen aber für verbindliche Datenschutzfragen die eigene Datenschutzbeauftragte oder eine Kanzlei. Hintergrund: [Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/).
 
 **Was ist der Unterschied zum allgemeinen KI-Training?**
 Wir arbeiten mit Beispielen aus Ihrem konkreten Arbeitsalltag — keine generischen Tool-Demos. Das erhöht den Transfer deutlich.

@@ -21,7 +21,7 @@ heroIcon: "backlog"
 {{< card icon="training" title="Trainingsprogramm" text="Wie läuft ein KI-Training bei KWAIX ab? Überblick über Ablauf, Inhalte und Formate." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="/ki-vo/" primaryText="KI-VO im Überblick" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="/ki-verordnung/" primaryText="KI-VO im Überblick" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -29,10 +29,10 @@ heroIcon: "backlog"
 
 ## Hintergrund & Weiterführendes
 
-- **[KI-Verordnung (KI-VO)](/ki-vo/)** — Was gilt ab wann, für wen, und was müssen Unternehmen konkret tun?
-- **[Artikel 4 KI-VO — Kompetenzpflicht](/ki-vo/artikel-4/)** — Die Anforderung an KI-Kompetenz im Unternehmen, erklärt
-- **[KI-Policy](/ki-vo/ki-policy/)** — Wie eine interne KI-Richtlinie aufgebaut ist und was sie enthalten sollte
-- **[Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/)** — Was beim KI-Einsatz aus Datenschutzsicht zu beachten ist
-- **[FAQ KI-VO](/ki-vo/faq/)** — Die häufigsten Fragen zur KI-Verordnung im Unternehmenskontext
+- **[KI-Verordnung (KI-VO)](/ki-verordnung/)** — Was gilt ab wann, für wen, und was müssen Unternehmen konkret tun?
+- **[Artikel 4 KI-VO — Kompetenzpflicht](/ki-verordnung/artikel-4-ki-kompetenz/)** — Die Anforderung an KI-Kompetenz im Unternehmen, erklärt
+- **[KI-Policy](/ki-verordnung/ki-policy/)** — Wie eine interne KI-Richtlinie aufgebaut ist und was sie enthalten sollte
+- **[Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/)** — Was beim KI-Einsatz aus Datenschutzsicht zu beachten ist
+- **[FAQ KI-VO](/ki-verordnung/faq/)** — Die häufigsten Fragen zur KI-Verordnung im Unternehmenskontext
 
 {{< /section >}}

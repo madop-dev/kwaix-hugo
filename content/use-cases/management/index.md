@@ -4,7 +4,8 @@ description: "KI für Geschäftsführung und Führungskräfte in KMU: Berichte z
 eyebrow: "Use Case · Management"
 lede: "Führungskräfte in KMU treffen Entscheidungen mit zu viel Informationsrauschen und zu wenig Zeit. KI hilft, das Wesentliche schneller zu finden — kein Entscheider, aber ein guter Vorbereiter."
 draft: false
-canonical: "https://kwaix.de/use-cases/management/"
+canonical: "https://kwaix.de/use-cases/ki-management/"
+url: "/use-cases/ki-management/"
 schemaType: "service"
 heroCards:
   - type: roi
@@ -91,6 +92,6 @@ KI trifft keine Entscheidungen. Sie kann Optionen strukturieren, Vor- und Nachte
 **Wie steige ich als Geschäftsführer ohne KI-Erfahrung ein?**
 Drei Aufgaben, die sofort Wirkung zeigen: Berichte zusammenfassen lassen, Meeting-Agendas strukturieren, E-Mails vorformulieren. Im [KI-Kickoff](/leistungen/ki-kickoff/) priorisieren wir die 3 wirksamsten Use Cases für Ihre Situation.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Management%20anfragen" primaryText="Kickoff anfragen" secondaryHref="/ki-vo/artikel-4/" secondaryText="Artikel 4 KI-VO" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Management%20anfragen" primaryText="Kickoff anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
 {{< /section >}}

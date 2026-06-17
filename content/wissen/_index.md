@@ -32,11 +32,11 @@ Die Inhalte sind bewusst zitierfähig aufgebaut: klare Definitionen, spezifische
 ## Schnelleinstieg: Was suchen Sie?
 
 {{< cards cols="3" >}}
-{{< card icon="policy" title="EU KI-Verordnung verstehen" text="Was gilt seit wann, für wen, und was müssen Unternehmen konkret tun? Fristen, Pflichten, Bußgelder — ohne Juristendeutsch. → /ki-vo/" >}}
-{{< card icon="proof" title="Kompetenznachweis Artikel 4" text="Was der Nachweis nach Artikel 4 enthält, wer ihn ausstellt, wie er dokumentiert wird. Gilt seit 2. August 2025. → /ki-vo/kompetenznachweis/" >}}
+{{< card icon="policy" title="EU KI-Verordnung verstehen" text="Was gilt seit wann, für wen, und was müssen Unternehmen konkret tun? Fristen, Pflichten, Bußgelder — ohne Juristendeutsch. → /ki-verordnung/" >}}
+{{< card icon="proof" title="Kompetenznachweis Artikel 4" text="Was der Nachweis nach Artikel 4 enthält, wer ihn ausstellt, wie er dokumentiert wird. Gilt seit 2. August 2025. → /ki-verordnung/kompetenznachweis/" >}}
 {{< card icon="backlog" title="KI Use Cases mit Zahlen" text="Welche Aufgaben KI wirklich beschleunigt — mit Vorher/Nachher-Tabelle und Datenschutz-Einordnung. → /use-cases/" >}}
 {{< card icon="training" title="KI-Training vs. KI-Workshop" text="Was der Unterschied ist, was ein gutes Training ausmacht und woran man schlechte Angebote erkennt. → /leistungen/" >}}
-{{< card icon="roi" title="KI-ROI berechnen" text="Wie viel ist KI-Zeitersparnis in Euro wert? Transparente Formel, konservative Schätzung. → /preise/roi/" >}}
+{{< card icon="roi" title="KI-ROI berechnen" text="Wie viel ist KI-Zeitersparnis in Euro wert? Transparente Formel, konservative Schätzung. → /preise/ki-roi-rechner/" >}}
 {{< card icon="prompt" title="KI-Automatisierung für KMU" text="Was KI-Automatisierung bedeutet, was sie von klassischer Automation unterscheidet und wie KMU starten. → /use-cases/" >}}
 {{< /cards >}}
 
@@ -83,14 +83,14 @@ Wenn Aufgaben vollständig ohne menschliche Eingabe ablaufen sollen — z.B. aut
 
 ## Alle Themen zur EU KI-Verordnung
 
-- **[KI-Verordnung Überblick](/ki-vo/)** — Was gilt, für wen, ab wann
-- **[Artikel 4 — Kompetenzpflicht](/ki-vo/artikel-4/)** — Die Anforderung im Wortlaut und in der Praxis
-- **[Kompetenznachweis](/ki-vo/kompetenznachweis/)** — Was er enthält, wer ihn ausstellt
-- **[KI-Policy](/ki-vo/ki-policy/)** — Vorlage und Aufbau einer internen KI-Richtlinie
-- **[Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/)** — Überschneidungen und Praxis-Hinweise
-- **[FAQ KI-Verordnung](/ki-vo/faq/)** — Die häufigsten Fragen kompakt beantwortet
+- **[KI-Verordnung Überblick](/ki-verordnung/)** — Was gilt, für wen, ab wann
+- **[Artikel 4 — Kompetenzpflicht](/ki-verordnung/artikel-4-ki-kompetenz/)** — Die Anforderung im Wortlaut und in der Praxis
+- **[Kompetenznachweis](/ki-verordnung/kompetenznachweis/)** — Was er enthält, wer ihn ausstellt
+- **[KI-Policy](/ki-verordnung/ki-policy/)** — Vorlage und Aufbau einer internen KI-Richtlinie
+- **[Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/)** — Überschneidungen und Praxis-Hinweise
+- **[FAQ KI-Verordnung](/ki-verordnung/faq/)** — Die häufigsten Fragen kompakt beantwortet
 
-{{< cta primaryHref="/ki-vo/" primaryText="KI-Verordnung vollständig erklärt" secondaryHref="/use-cases/" secondaryText="KI Use Cases mit Zahlen" >}}
+{{< cta primaryHref="/ki-verordnung/" primaryText="KI-Verordnung vollständig erklärt" secondaryHref="/use-cases/" secondaryText="KI Use Cases mit Zahlen" >}}
 
 {{< /section >}}
 
@@ -105,14 +105,14 @@ Die Fähigkeit, KI-Systeme sachkundig einzusetzen und Chancen, Risiken und Schä
 Konsequente Nutzung von KI-Tools für wiederkehrende Schreibaufgaben — ohne Programmierung. Nicht zu verwechseln mit technischer Workflow-Automation (n8n, Make). Der Einstieg: 3–5 Use Cases mit Prompt-Vorlagen.
 
 **Was kostet KI-Training im Vergleich zum ROI?**
-Bei 8 Mitarbeitenden und 12 Min Zeitersparnis täglich: ca. 21.000 € jährliche Wertschöpfung (bei 55 €/Std). Training für 8 Personen: 3.600 €. Break-even: ca. 2 Monate. [Rechner →](/preise/roi/)
+Bei 8 Mitarbeitenden und 12 Min Zeitersparnis täglich: ca. 21.000 € jährliche Wertschöpfung (bei 55 €/Std). Training für 8 Personen: 3.600 €. Break-even: ca. 2 Monate. [Rechner →](/preise/ki-roi-rechner/)
 
 **Was ist GEO und warum ist es relevant?**
 Generative Engine Optimization — Optimierung für KI-Suchmaschinen (ChatGPT, Perplexity, Google AI Overviews). KWAIX optimiert Inhalte so, dass KI-Systeme präzise Antworten auf Nutzerfragen mit diesen Inhalten generieren können: klare Definitionen, spezifische Zahlen, FAQ-Format.
 
 **Wie fange ich mit KI im Unternehmen an?**
-Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — 3–5 Use Cases priorisieren. 2. [KI-Training Live](/leistungen/ki-training-live/) — Team schulen, Nachweis ausstellen. 3. [KI-Policy](/ki-vo/ki-policy/) — interne Leitplanken schriftlich festhalten.
+Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — 3–5 Use Cases priorisieren. 2. [KI-Training Live](/leistungen/ki-training-live/) — Team schulen, Nachweis ausstellen. 3. [KI-Policy](/ki-verordnung/ki-policy/) — interne Leitplanken schriftlich festhalten.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (kostenlos)" secondaryHref="/ki-vo/artikel-4/" secondaryText="Artikel 4 KI-VO" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (kostenlos)" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
 {{< /section >}}

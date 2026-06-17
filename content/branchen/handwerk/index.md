@@ -4,7 +4,8 @@ description: "KI-Training für Handwerksbetriebe: Angebotserstellung, Kundenkomm
 eyebrow: "Branchen · Handwerk"
 lede: "Im Handwerk entscheidet nicht die beste Technik, sondern wer schneller ein sauberes Angebot schreibt, besser kommuniziert und seine Abläufe im Griff hat."
 draft: false
-canonical: "https://kwaix.de/branchen/handwerk/"
+canonical: "https://kwaix.de/branchen/ki-training-handwerk/"
+url: "/branchen/ki-training-handwerk/"
 schemaType: "service"
 faqItems:
   - q: "Lohnt sich KI-Training für Handwerksbetriebe?"
@@ -16,7 +17,7 @@ faqItems:
   - q: "Gibt es Fördermöglichkeiten für KI-Training im Handwerk?"
     a: "Betriebliche Weiterbildung kann in vielen Bundesländern über BAFA oder Landesförderprogramme bezuschusst werden. Bitte bei Ihrer Kammer oder zuständigen Förderstelle prüfen — wir können dazu keine verbindliche Aussage treffen."
   - q: "Was ist der Kompetenznachweis nach Artikel 4 KI-Verordnung?"
-    a: "Seit 2. August 2025 müssen Unternehmen nachweisbar sicherstellen, dass Mitarbeitende mit KI-Kompetenz ausgestattet sind (Artikel 4, Verordnung (EU) 2024/1689). Unser Training liefert diesen Nachweis für jeden Teilnehmenden. Details: /ki-vo/kompetenznachweis/."
+    a: "Seit 2. August 2025 müssen Unternehmen nachweisbar sicherstellen, dass Mitarbeitende mit KI-Kompetenz ausgestattet sind (Artikel 4, Verordnung (EU) 2024/1689). Unser Training liefert diesen Nachweis für jeden Teilnehmenden. Details: /ki-verordnung/kompetenznachweis/."
 heroCards:
   - type: prompt
     title: "Angebote & Texte"
@@ -85,7 +86,7 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für Onboarding neuer Mitarbeitender oder Auffrischung." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -109,6 +110,6 @@ Staffelung nach Teamgröße — Details unter [Preise](/preise/). Für kleine Te
 Betriebliche Weiterbildung kann in vielen Bundesländern über BAFA oder Landesförderprogramme bezuschusst werden. Wir beraten Sie dazu gerne im Vorgespräch.
 
 **Was ist der Kompetenznachweis nach Artikel 4 KI-VO?**
-Seit August 2025 sind Unternehmen verpflichtet, sicherzustellen, dass Mitarbeitende, die KI-Systeme einsetzen, über ausreichende KI-Kompetenz verfügen. Unser Training dokumentiert dies nachweisbar. Mehr dazu: [KI-VO Kompetenznachweis](/ki-vo/kompetenznachweis/).
+Seit August 2025 sind Unternehmen verpflichtet, sicherzustellen, dass Mitarbeitende, die KI-Systeme einsetzen, über ausreichende KI-Kompetenz verfügen. Unser Training dokumentiert dies nachweisbar. Mehr dazu: [KI-VO Kompetenznachweis](/ki-verordnung/kompetenznachweis/).
 
 {{< /section >}}

@@ -4,7 +4,8 @@ description: "Konkrete KI-Anwendungsfälle in HR für KMU: Stellenanzeigen erste
 eyebrow: "Use Case · HR & Personal"
 lede: "HR-Teams in KMU erledigen täglich Aufgaben, die KI zuverlässig beschleunigt: Stellenanzeigen schreiben, Onboarding-Unterlagen erstellen, Unterweisungen dokumentieren."
 draft: false
-canonical: "https://kwaix.de/use-cases/hr/"
+canonical: "https://kwaix.de/use-cases/ki-hr-personal/"
+url: "/use-cases/ki-hr-personal/"
 schemaType: "service"
 heroCards:
   - type: training
@@ -75,7 +76,7 @@ HR-Teams in KMU leisten täglich Schreibarbeit, die keinen direkten Mehrwert fü
 {{< card icon="default" title="Arbeitsrechtliche Entscheidungen" text="KI kann Entwürfe liefern — Kündigungen, Abmahnungen und ähnliche Dokumente müssen von Führungskraft und ggf. Rechtsberatung freigegeben werden." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20HR%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20HR%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -93,8 +94,8 @@ KI-gestützte Bewerberauswahl ist nach EU KI-Verordnung Hochrisiko-KI. Uneingesc
 Stellenanzeigen enthalten keine personenbezogenen Daten der Bewerber — KI darf problemlos eingesetzt werden. KI-generierte Texte auf AGG-Konformität prüfen: keine diskriminierenden Formulierungen.
 
 **Wie viel Zeit spart KI in HR?**
-Typisch: 4–8 Stunden pro Woche für eine HR-Person in einem Unternehmen mit 20–50 MA. Konkrete Werte: [ROI-Rechner](/preise/roi/).
+Typisch: 4–8 Stunden pro Woche für eine HR-Person in einem Unternehmen mit 20–50 MA. Konkrete Werte: [ROI-Rechner](/preise/ki-roi-rechner/).
 
-{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/ki-vo/datenschutz-dsgvo/" secondaryText="Datenschutz bei KI" >}}
+{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/ki-verordnung/datenschutz-dsgvo/" secondaryText="Datenschutz bei KI" >}}
 
 {{< /section >}}

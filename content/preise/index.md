@@ -17,11 +17,11 @@ faqItems:
   - q: "Findet das Training vor Ort oder remote statt?"
     a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Für Vor-Ort-Termine werden etwaige Reisekosten transparent im Angebot ausgewiesen."
   - q: "Wie hoch ist der ROI des Trainings?"
-    a: "Ein Team von 5 Personen mit je 45 Minuten täglicher Zeitersparnis durch KI ergibt bei 220 Arbeitstagen und 35 €/Std. ca. 86.000 € jährliche Wertschöpfung — bei Trainingskosten von 2.400 €. Konservativer Rechner: /preise/roi/."
+    a: "Ein Team von 5 Personen mit je 45 Minuten täglicher Zeitersparnis durch KI ergibt bei 220 Arbeitstagen und 35 €/Std. ca. 86.000 € jährliche Wertschöpfung — bei Trainingskosten von 2.400 €. Konservativer Rechner: /preise/ki-roi-rechner/."
   - q: "Ist das KI-Training förderfähig?"
     a: "Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer Kammer oder der zuständigen Förderstelle."
   - q: "Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?"
-    a: "Ja. Teilnehmende erhalten einen Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025. Details: /ki-vo/kompetenznachweis/."
+    a: "Ja. Teilnehmende erhalten einen Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025. Details: /ki-verordnung/kompetenznachweis/."
   - q: "Was kostet der KI-Kickoff?"
     a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format. Er ist eine optionale Vorbereitung auf das KI-Training Live."
   - q: "Was kostet die Trainingsplattform?"
@@ -73,7 +73,7 @@ Das **[KI READY Training](/leistungen/ki-training-live/)** ist das Kernangebot �
 
 [Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
 
-Optional: [ROI grob überschlagen (5 Min) →](/preise/roi/)
+Optional: [ROI grob überschlagen (5 Min) →](/preise/ki-roi-rechner/)
 
 #### Was enthalten ist
 
@@ -81,7 +81,7 @@ Optional: [ROI grob überschlagen (5 Min) →](/preise/roi/)
 - Live-Training gemäß unserem [Trainingsprogramm](/training/)
 - Prompting-Standards für den täglichen Einsatz
 - Use Cases aus Ihrem Arbeitsalltag, live im Training erarbeitet
-- [Kompetenznachweis](/ki-vo/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung
+- [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung
 - Handout mit den wichtigsten Trainingsinhalten zum Nachlesen
 
 #### Was nicht enthalten ist
@@ -145,7 +145,7 @@ Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus. Dara
 Vertraulich und DSGVO-konform. Details finden Sie in unserer [Datenschutzerklärung](/datenschutz/). Eine Weitergabe an Dritte erfolgt nur mit Ihrer Einwilligung.
 
 **Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?**
-Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-vo/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung. Mehr zum Hintergrund: [KI-Verordnung](/ki-vo/).
+Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) gemäß Artikel 4 der KI-Verordnung. Mehr zum Hintergrund: [KI-Verordnung](/ki-verordnung/).
 
 **Welche technischen Voraussetzungen brauchen wir?**
 Im Regelfall reichen ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den im Training genutzten KI-Tools. Details klären wir im Vorgespräch.
@@ -168,6 +168,6 @@ Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Be
 **Wir sind selbst Dienstleister — können wir an euch vermitteln oder umgekehrt?**
 Ja, gerne. Details dazu finden Sie in unserem [Partnernetzwerk](/partnernetzwerk/).
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="ROI grob überschlagen: /preise/roi/" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="ROI grob überschlagen: /preise/ki-roi-rechner/" >}}
 
 {{< /section >}}

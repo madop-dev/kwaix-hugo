@@ -77,10 +77,10 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 ## Für welche Branche arbeiten Sie?
 
 {{< cards cols="4" >}}
-{{< card icon="backlog" title="Handwerk" text="Angebote (−83 %), Übergabeprotokolle, Kundenmails, Arbeitssicherheitsdokumentation, Social Media. Kein IT-Vorwissen nötig. Für Betriebe ab 3 Mitarbeitenden. → /branchen/handwerk/" >}}
-{{< card icon="prompt" title="Dienstleistung" text="Beratung, Steuerberatung, Agenturen: Berichte, Angebote, Mandantenkommunikation, Präsentationen — 40–70 % schneller. Platzhalter-Methode für Datenschutz. → /branchen/dienstleistung/" >}}
-{{< card icon="backlog" title="Handel" text="Produktbeschreibungen skalieren (10 Texte in 45 Min statt 6 Std), Kundenservice, Aktionskommunikation, stationär und Online. → /branchen/handel/" >}}
-{{< card icon="training" title="Industrie" text="Technische Dokumentation, Wartungsberichte, Qualitätssicherung, Unterweisungen nach ArbSchG. Für Verwaltung, Teamleitung und Qualitätssicherung. → /branchen/industrie/" >}}
+{{< card icon="backlog" title="Handwerk" text="Angebote (−83 %), Übergabeprotokolle, Kundenmails, Arbeitssicherheitsdokumentation, Social Media. Kein IT-Vorwissen nötig. Für Betriebe ab 3 Mitarbeitenden. → /branchen/ki-training-handwerk/" >}}
+{{< card icon="prompt" title="Dienstleistung" text="Beratung, Steuerberatung, Agenturen: Berichte, Angebote, Mandantenkommunikation, Präsentationen — 40–70 % schneller. Platzhalter-Methode für Datenschutz. → /branchen/ki-training-dienstleistung/" >}}
+{{< card icon="backlog" title="Handel" text="Produktbeschreibungen skalieren (10 Texte in 45 Min statt 6 Std), Kundenservice, Aktionskommunikation, stationär und Online. → /branchen/ki-training-handel/" >}}
+{{< card icon="training" title="Industrie" text="Technische Dokumentation, Wartungsberichte, Qualitätssicherung, Unterweisungen nach ArbSchG. Für Verwaltung, Teamleitung und Qualitätssicherung. → /branchen/ki-training-industrie/" >}}
 {{< /cards >}}
 
 ## Was alle Branchen verbindet: die KI-Kompetenzpflicht
@@ -91,7 +91,7 @@ Seit dem 2. August 2025 gilt Artikel 4 der Verordnung (EU) 2024/1689 für alle U
 
 **Was KWAIX dazu liefert:** Jede teilnehmende Person erhält nach dem Training einen dokumentierten Kompetenznachweis gemäß Artikel 4. Das gilt für Handwerksbetriebe genauso wie für Industrieunternehmen oder Steuerberatungskanzleien.
 
-Details: [Kompetenznachweis nach Artikel 4 KI-VO →](/ki-vo/kompetenznachweis/)
+Details: [Kompetenznachweis nach Artikel 4 KI-VO →](/ki-verordnung/kompetenznachweis/)
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen" primaryText="Vorgespräch für Ihre Branche anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
@@ -124,6 +124,6 @@ Gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Persone
 **Wie fange ich an?**
 Kostenloses Vorgespräch (30 Min): [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen) — wir klären Branche, Use Cases, Teamgröße und Format.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-vo/artikel-4/" secondaryText="Artikel 4 KI-VO" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
 {{< /section >}}

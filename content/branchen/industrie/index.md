@@ -4,7 +4,8 @@ description: "KI-Training für Industrieunternehmen: Dokumentation, Qualitätssi
 eyebrow: "Branchen · Industrie"
 lede: "In Produktion und Industrie entscheidet nicht nur Maschinenleistung — sondern wie schnell Wissen dokumentiert, weitergegeben und in Entscheidungen übersetzt wird."
 draft: false
-canonical: "https://kwaix.de/branchen/industrie/"
+canonical: "https://kwaix.de/branchen/ki-training-industrie/"
+url: "/branchen/ki-training-industrie/"
 schemaType: "service"
 faqItems:
   - q: "Welche KI-Use Cases sind in Industrie und Produktion am wirkungsvollsten?"
@@ -75,7 +76,7 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für neue Mitarbeitende und Auffrischung." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 

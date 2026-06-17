@@ -4,7 +4,8 @@ description: "Konkrete KI-Anwendungsfälle im Marketing für KMU: Social-Media-P
 eyebrow: "Use Case · Marketing"
 lede: "KMU ohne Marketingteam produzieren zu wenig Content, weil zu wenig Zeit da ist. KI löst den Engpass — wenn Markenstimme und Qualitätsprüfung stimmen."
 draft: false
-canonical: "https://kwaix.de/use-cases/marketing/"
+canonical: "https://kwaix.de/use-cases/ki-marketing/"
+url: "/use-cases/ki-marketing/"
 schemaType: "service"
 heroCards:
   - type: prompt
@@ -68,7 +69,7 @@ Das häufigste Marketing-Problem in KMU: Zu wenig Zeit für zu viele Kanäle. De
 {{< card icon="policy" title="Markenstimmen-Vorlage" text="Einmalige Erarbeitung im Training: Tonalität, Dos & Don'ts, typische Formulierungen, Zielgruppe — als wiederverwendbarer Basis-Prompt." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Marketing%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Marketing%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 

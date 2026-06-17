@@ -4,7 +4,8 @@ description: "Was Artikel 4 der EU KI-Verordnung von Unternehmen fordert: KI-Kom
 eyebrow: "KI-VO · Artikel 4"
 lede: "Artikel 4 der EU KI-Verordnung ist seit dem 2. August 2025 verpflichtend. Er fordert von jedem Unternehmen, das KI-Systeme einsetzt, den Nachweis ausreichender KI-Kompetenz seiner Mitarbeitenden."
 draft: false
-canonical: "https://kwaix.de/ki-vo/artikel-4/"
+canonical: "https://kwaix.de/ki-verordnung/artikel-4-ki-kompetenz/"
+url: "/ki-verordnung/artikel-4-ki-kompetenz/"
 schemaType: "service"
 heroCards:
   - type: proof
@@ -48,7 +49,7 @@ Artikel 4 der **Verordnung (EU) 2024/1689** — der EU KI-Verordnung — lautet 
 - **Was „Kompetenz" bedeutet:** Kritisches Verständnis von Funktionsweise, Risiken und Grenzen von KI
 - **Format Nachweis:** Nicht vorgeschrieben — ein dokumentiertes Training reicht
 - **Sanktionen bei Verstoß:** Bis zu 15 Mio. € oder 3 % Jahresumsatz
-- **Umsetzung:** [KI-Training Live](/leistungen/ki-training-live/) + [Kompetenznachweis](/ki-vo/kompetenznachweis/) bei KWAIX
+- **Umsetzung:** [KI-Training Live](/leistungen/ki-training-live/) + [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) bei KWAIX
 
 {{< kpiStrip k1_label="Gilt seit" k1_value="2. Aug. 2025" k2_label="Sanktion" k2_value="bis 15 Mio. € / 3 %" k3_label="Für wen" k3_value="Alle KI-Betreiber" k4_label="Umsetzung" k4_value="Training + Nachweis" >}}
 
@@ -74,7 +75,7 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 - Unternehmen, die KI-Komponenten in **ERP-, CRM- oder HR-Systemen** einsetzen
 - Dienstleister, die KI-Tools **im Kundenauftrag** verwenden
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Umsetzung%20anfragen" primaryText="Umsetzung besprechen" secondaryHref="/ki-vo/kompetenznachweis/" secondaryText="Kompetenznachweis im Detail" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Umsetzung%20anfragen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis im Detail" >}}
 
 {{< /section >}}
 
@@ -113,8 +114,8 @@ Betreiber ist laut Artikel 3 Nr. 4 KI-VO jede juristische oder natürliche Perso
 Bei Verstößen durch Betreiber sieht die KI-Verordnung Geldbußen von bis zu 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes vor.
 
 **Wie setzt man Artikel 4 KI-VO in einem KMU um?**
-In vier Schritten: Inventur (welche Tools von wem?), Schulung (praxisnahes Training), Dokumentation (Nachweis für alle Teilnehmenden), Aktualisierung (Auffrischung bei Änderungen). Details: [KI-Training Live + Kompetenznachweis](/ki-vo/kompetenznachweis/).
+In vier Schritten: Inventur (welche Tools von wem?), Schulung (praxisnahes Training), Dokumentation (Nachweis für alle Teilnehmenden), Aktualisierung (Auffrischung bei Änderungen). Details: [KI-Training Live + Kompetenznachweis](/ki-verordnung/kompetenznachweis/).
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20anfragen" primaryText="Jetzt umsetzen" secondaryHref="/ki-vo/kompetenznachweis/" secondaryText="Kompetenznachweis" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20anfragen" primaryText="Jetzt umsetzen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis" >}}
 
 {{< /section >}}

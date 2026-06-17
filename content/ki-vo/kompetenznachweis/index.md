@@ -4,7 +4,8 @@ description: "Was der KI-Kompetenznachweis nach Artikel 4 EU KI-Verordnung für 
 eyebrow: "KI-VO · Kompetenznachweis"
 lede: "Seit dem 2. August 2025 sind Unternehmen verpflichtet, KI-Kompetenz ihrer Mitarbeitenden sicherzustellen und nachweisbar zu dokumentieren — Artikel 4 EU KI-Verordnung."
 draft: false
-canonical: "https://kwaix.de/ki-vo/kompetenznachweis/"
+canonical: "https://kwaix.de/ki-verordnung/kompetenznachweis/"
+url: "/ki-verordnung/kompetenznachweis/"
 schemaType: "service"
 heroCards:
   - type: proof
@@ -132,6 +133,6 @@ Die EU KI-Verordnung sieht Bußgelder vor. Bei Verstößen durch Betreiber könn
 **Wie läuft die Ausstellung des Nachweises bei KWAIX ab?**
 Nach dem abgeschlossenen Training stellt KWAIX für jede Teilnehmende ein individuelles Zertifikat als PDF aus. Dieses enthält Schulungsdatum, Inhalte, Name und die Bestätigung der Kompetenzziele nach Artikel 4 KI-VO. Die Archivierung obliegt dem Unternehmen.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20Artikel%204%20KI-VO%20anfragen" primaryText="Nachweis-Training anfragen" secondaryHref="/ki-vo/artikel-4/" secondaryText="Artikel 4 im Detail" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20Artikel%204%20KI-VO%20anfragen" primaryText="Nachweis-Training anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 im Detail" >}}
 
 {{< /section >}}

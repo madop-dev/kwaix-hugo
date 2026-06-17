@@ -4,7 +4,8 @@ description: "KI-Training für stationären Handel und E-Commerce: Produkttexte,
 eyebrow: "Branchen · Handel"
 lede: "Im Handel entscheidet Geschwindigkeit. Wer Produkttexte schneller schreibt, Kundenanfragen zügiger beantwortet und Einkaufsentscheidungen besser vorbereitet, gewinnt."
 draft: false
-canonical: "https://kwaix.de/branchen/handel/"
+canonical: "https://kwaix.de/branchen/ki-training-handel/"
+url: "/branchen/ki-training-handel/"
 schemaType: "service"
 faqItems:
   - q: "Welche KI-Use Cases sind im Handel am wirkungsvollsten?"
@@ -75,7 +76,7 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) zur Einarbeitung neuer Mitarbeitender." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 

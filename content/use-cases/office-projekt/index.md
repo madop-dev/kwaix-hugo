@@ -4,7 +4,8 @@ description: "Konkrete KI-Anwendungsfälle im Büroalltag und Projektmanagement 
 eyebrow: "Use Case · Office & Projekte"
 lede: "Im Büroalltag von KMU verschwinden täglich 1–2 Stunden in Schreib- und Strukturierungsaufgaben. KI holt sie zurück — ohne den Inhalt zu liefern, nur die Form."
 draft: false
-canonical: "https://kwaix.de/use-cases/office-projekt/"
+canonical: "https://kwaix.de/use-cases/ki-office-projekt/"
+url: "/use-cases/ki-office-projekt/"
 schemaType: "service"
 heroCards:
   - type: policy
@@ -69,7 +70,7 @@ Das entspricht bei einer 5-Tage-Woche rund **5–7 Stunden zurückgewonnen pro W
 {{< card icon="backlog" title="Projektdokumentation" text="Projektphasen + Entscheidungen + Meilensteine → Ausgabe: strukturierter Projektabschlussbericht oder Risikoliste — einheitlich, vollständig." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Office%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/roi/" secondaryText="ROI berechnen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Office%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
 {{< /section >}}
 
@@ -87,7 +88,7 @@ Stichpunkte während des Meetings notieren → nach dem Meeting in KI-Tool einge
 Ja — Mahnungen, Absagen, Eskalationen, Kritik. KI formuliert sachlich und deeskalierend, ohne die Kernbotschaft zu verwässern. Einer der stärksten Anwendungsfälle im Büroalltag.
 
 **Wie viel Zeit spart KI realistisch?**
-60–90 Minuten täglich für Rollen mit hohem Schreibanteil. Das entspricht 5–7 Stunden pro Woche. Konservativer ROI: [Rechner](/preise/roi/).
+60–90 Minuten täglich für Rollen mit hohem Schreibanteil. Das entspricht 5–7 Stunden pro Woche. Konservativer ROI: [Rechner](/preise/ki-roi-rechner/).
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 

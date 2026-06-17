@@ -4,7 +4,8 @@ description: "Die EU KI-Verordnung (EU) 2024/1689 gilt seit August 2025. Was das
 eyebrow: "KI-Verordnung (EU AI Act)"
 lede: "Die EU KI-Verordnung ist in Kraft. Artikel 4 gilt seit 2. August 2025. Was das für Ihr Unternehmen bedeutet — ohne Juristendeutsch."
 draft: false
-canonical: "https://kwaix.de/ki-vo/"
+canonical: "https://kwaix.de/ki-verordnung/"
+url: "/ki-verordnung/"
 schemaType: "service"
 heroCards:
   - type: proof
@@ -28,7 +29,7 @@ faqItems:
   - q: "Was ist eine KI-Policy und brauche ich eine?"
     a: "Eine KI-Policy ist eine interne Richtlinie, die festlegt, welche KI-Tools im Unternehmen eingesetzt werden dürfen, welche Daten eingegeben werden dürfen und welche Verhaltensregeln gelten. Sie ist kein gesetzliches Pflichtdokument, aber eine sinnvolle Ergänzung zum Kompetenznachweis nach Artikel 4 — und Bestandteil eines strukturierten KI-Einsatzes."
   - q: "Wie unterstützt KWAIX bei der Umsetzung der KI-Verordnung?"
-    a: "KWAIX bietet: KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 (/leistungen/ki-training-live/), KI-Policy-Template und Erstellung (/ki-vo/ki-policy/), orientierende Datenschutz- und DSGVO-Einordnung (/ki-vo/datenschutz-dsgvo/). Keine Rechtsberatung — für juristische Fragen empfehlen wir spezialisierte Kanzleien."
+    a: "KWAIX bietet: KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 (/leistungen/ki-training-live/), KI-Policy-Template und Erstellung (/ki-verordnung/ki-policy/), orientierende Datenschutz- und DSGVO-Einordnung (/ki-verordnung/datenschutz-dsgvo/). Keine Rechtsberatung — für juristische Fragen empfehlen wir spezialisierte Kanzleien."
 ---
 
 {{< section tone="plain" >}}
@@ -75,8 +76,8 @@ KI-Kompetenz ist in Artikel 3 Nr. 56 definiert als: *„die Fähigkeiten, Kenntn
 Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen, die Hochrisiko-KI-Systeme einsetzen (z.B. KI für Personalentscheidungen, Kreditvergabe, Strafverfolgung). Für die meisten KMU greifen die allgemeinen Hochrisiko-Pflichten erst ab August 2026. Artikel 4 gilt bereits jetzt.
 
 {{< cards cols="3" >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. KWAIX stellt ihn nach dem Training aus. Details: /ki-vo/kompetenznachweis/" >}}
-{{< card icon="policy" title="KI-Policy" text="Interne Richtlinie: welche Tools erlaubt sind, welche Daten eingegeben werden dürfen, wer verantwortlich ist. Kein Pflichtdokument, aber sinnvoll. Details: /ki-vo/ki-policy/" >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. KWAIX stellt ihn nach dem Training aus. Details: /ki-verordnung/kompetenznachweis/" >}}
+{{< card icon="policy" title="KI-Policy" text="Interne Richtlinie: welche Tools erlaubt sind, welche Daten eingegeben werden dürfen, wer verantwortlich ist. Kein Pflichtdokument, aber sinnvoll. Details: /ki-verordnung/ki-policy/" >}}
 {{< card icon="training" title="KI-Training" text="Praxisnahes Live-Training mit echten Use Cases — und Kompetenznachweis nach Artikel 4. Details: /leistungen/ki-training-live/" >}}
 {{< /cards >}}
 
@@ -89,7 +90,7 @@ Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen,
 {{< card icon="backlog" title="Orientierungscheck" text="Orientierende Einordnung Ihrer KI-Nutzung im Kickoff — keine Rechtsberatung." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-vo/artikel-4/" secondaryText="Artikel 4 im Detail" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 im Detail" >}}
 
 {{< /section >}}
 
@@ -119,11 +120,11 @@ Nachweisbare KI-Kompetenz für Mitarbeitende, die KI-Systeme einsetzen. Definiti
 Für Verstöße gegen Betreiberpflichten (u.a. Artikel 4): bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes. Für KMU verhältnismäßig, aber nicht null.
 
 **Was ist der Unterschied zwischen KI-VO und DSGVO?**
-Die DSGVO schützt personenbezogene Daten — sie gilt beim Verarbeiten von Kunden- oder Mitarbeiterdaten. Die KI-VO reguliert KI-Systeme selbst — Risikoklassen, Kompetenzpflichten, Transparenzanforderungen. Beide Regelwerke können gleichzeitig anwendbar sein. Details: [Datenschutz & DSGVO](/ki-vo/datenschutz-dsgvo/).
+Die DSGVO schützt personenbezogene Daten — sie gilt beim Verarbeiten von Kunden- oder Mitarbeiterdaten. Die KI-VO reguliert KI-Systeme selbst — Risikoklassen, Kompetenzpflichten, Transparenzanforderungen. Beide Regelwerke können gleichzeitig anwendbar sein. Details: [Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/).
 
 **Wie fange ich an?**
-Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — Use Cases priorisieren, KI-VO orientierend einordnen. 2. [KI-Training Live](/leistungen/ki-training-live/) — Team schulen, Kompetenznachweis ausstellen. 3. [KI-Policy](/ki-vo/ki-policy/) — interne Leitplanken schriftlich festhalten.
+Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — Use Cases priorisieren, KI-VO orientierend einordnen. 2. [KI-Training Live](/leistungen/ki-training-live/) — Team schulen, Kompetenznachweis ausstellen. 3. [KI-Policy](/ki-verordnung/ki-policy/) — interne Leitplanken schriftlich festhalten.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-vo/kompetenznachweis/" secondaryText="Kompetenznachweis ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis ansehen" >}}
 
 {{< /section >}}

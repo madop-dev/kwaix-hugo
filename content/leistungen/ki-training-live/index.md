@@ -141,7 +141,7 @@ Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus. Dara
 Vertraulich und DSGVO-konform. Details finden Sie in unserer [Datenschutzerklärung](/datenschutz/).
 
 **Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?**
-Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-vo/kompetenznachweis/) gemäß Artikel 4. Hintergrund dazu: [KI-Verordnung](/ki-vo/).
+Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) gemäß Artikel 4. Hintergrund dazu: [KI-Verordnung](/ki-verordnung/).
 
 **Welche technischen Voraussetzungen brauchen wir?**
 Im Regelfall reichen ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den im Training genutzten KI-Tools. Details klären wir im Vorgespräch.

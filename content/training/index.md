@@ -104,7 +104,7 @@ Nein. Das Training startet bei den Grundlagen. Vorab erheben wir per Umfrage den
 Ja — das ist das Kernprinzip. Use Cases werden live im Training bearbeitet, nicht nur erwähnt.
 
 **Erfüllt das Training Artikel 4 der KI-Verordnung?**
-Ja. Teilnehmende erhalten einen dokumentierten Kompetenznachweis. Die Pflicht gilt seit 2. August 2025. Details: [/ki-vo/kompetenznachweis/](/ki-vo/kompetenznachweis/).
+Ja. Teilnehmende erhalten einen dokumentierten Kompetenznachweis. Die Pflicht gilt seit 2. August 2025. Details: [/ki-verordnung/kompetenznachweis/](/ki-verordnung/kompetenznachweis/).
 
 **Findet das Training vor Ort oder remote statt?**
 Beides ist möglich. KWAIX arbeitet DACH-weit — DE, AT, CH.
