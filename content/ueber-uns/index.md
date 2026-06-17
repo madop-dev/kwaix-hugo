@@ -59,7 +59,7 @@ KWAIX ist ein KI-Trainingsanbieter für KMU und Mittelstand im DACH-Raum. Das kl
 {{< card icon="default" title="Ergebnisorientiert" text="Nicht die neueste Technologie — die richtige. Use Cases, die wirklich in Ihrem Alltag funktionieren." >}}
 {{< /cards >}}
 
-## TL;DR
+## Auf einen Blick
 
 - **Wer:** Marion Dopmann, KI-Trainerin, + flexibles Netzwerk aus Spezialisten
 - **Was:** KI-Training, Kompetenznachweis, KI-Kickoff, Trainingsplattform

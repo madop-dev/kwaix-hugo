@@ -33,7 +33,7 @@ heroCards:
 
 Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — erfahrener Mitarbeitender, die in Rente gehen, oder Fachkräfte, die kaum zu finden sind. KI-Tools können helfen, dieses Wissen zu dokumentieren, Routineprozesse zu unterstützen und Kommunikation zu beschleunigen — in der Verwaltung ebenso wie im technischen Bereich.
 
-## TL;DR
+## Auf einen Blick
 
 - **Für wen:** Fertigungs-, Produktions- und Industrieunternehmen (10–200 MA)
 - **Typische Use Cases:** Technische Dokumentation, Wartungsberichte, Qualitätsprotokolle, interne Kommunikation, Stellenbeschreibungen

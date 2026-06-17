@@ -39,7 +39,7 @@ Der Einsatz von KI-Tools im Unternehmen ist nicht automatisch DSGVO-widrig. Ents
 
 **Wichtig:** Diese Seite gibt eine Orientierung, ersetzt aber keine Rechtsberatung. Für verbindliche Datenschutzfragen wenden Sie sich an Ihren Datenschutzbeauftragten oder eine spezialisierte Kanzlei.
 
-## TL;DR
+## Auf einen Blick
 
 - **Grundregel:** Keine personenbezogenen Daten ohne Auftragsverarbeitungsvertrag (AVV) in KI-Tools
 - **Tools mit AVV:** Microsoft 365 Copilot, Google Workspace, ChatGPT Enterprise/Team

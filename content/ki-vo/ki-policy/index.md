@@ -44,7 +44,7 @@ Eine **KI-Policy** ist eine interne Unternehmensrichtlinie, die festlegt:
 
 **Warum das jetzt wichtig ist:** Seit dem 2. August 2025 gilt Artikel 4 der EU KI-Verordnung. Der sicherste Weg, die Anforderungen zu erfüllen, ist eine klare Policy kombiniert mit einem nachweisbaren Training.
 
-## TL;DR
+## Auf einen Blick
 
 - **Was es ist:** Interne Richtlinie für den KI-Einsatz im Unternehmen
 - **Umfang für KMU:** 1–2 Seiten — präzise, nicht umfassend

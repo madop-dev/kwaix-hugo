@@ -45,7 +45,7 @@ Artikel 4 der **EU KI-Verordnung (Verordnung (EU) 2024/1689)** verpflichtet Unte
 
 **Klartext:** Wer im Unternehmen KI-Tools einsetzt — ob ChatGPT, Microsoft Copilot, oder branchenspezifische KI-Anwendungen — unterliegt als Betreiber der Pflicht aus Artikel 4. Das betrifft heute nahezu jedes KMU.
 
-## TL;DR
+## Auf einen Blick
 
 - **Pflicht seit:** 2. August 2025
 - **Für wen:** Alle Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen (Betreiber i.S.d. KI-VO)

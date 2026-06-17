@@ -35,7 +35,7 @@ heroCards:
 
 KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die größten Zeitfresser oft in Aufgaben, die KI-Tools heute zuverlässig übernehmen können: Angebote formulieren, Rechnungstexte anpassen, Kundenmails beantworten, Übergabeprotokolle erstellen.
 
-## TL;DR
+## Auf einen Blick
 
 - **Für wen:** Handwerksbetriebe (SHK, Elektro, Bau, Reinigung, Kfz, Gebäude u.v.m.) mit 3–50 Mitarbeitenden
 - **Typische Use Cases:** Angebotserstellung, Kundenkommunikation, Protokolle, Dokumentation, Reklamationsbearbeitung

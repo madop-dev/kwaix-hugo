@@ -33,7 +33,7 @@ heroCards:
 
 Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicherungsmakler: Sie alle kennen das Muster. Der Tag ist voll, aber ein erheblicher Teil der Arbeitszeit fließt in Texte, Zusammenfassungen, Recherchen und Kommunikationsaufgaben, die KI-Tools heute zuverlässig und schnell unterstützen können.
 
-## TL;DR
+## Auf einen Blick
 
 - **Für wen:** Beratungs-, Kanzlei- und Agenturumfelder mit 3–50 Mitarbeitenden
 - **Typische Use Cases:** Berichte, Protokolle, Mandantenkommunikation, Angebote, Recherche-Zusammenfassungen

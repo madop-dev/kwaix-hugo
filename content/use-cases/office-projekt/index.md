@@ -44,7 +44,7 @@ Assistenz, Sachbearbeitung, Projektkoordination, Office-Management: Diese Rollen
 
 Das entspricht bei einer 5-Tage-Woche rund **5–7 Stunden zurückgewonnen pro Woche**.
 
-## TL;DR
+## Auf einen Blick
 
 - **Hauptgewinn:** 60–90 Minuten täglich bei Schreib- und Strukturierungsaufgaben
 - **Sofort umsetzbar:** Protokolle, E-Mails, Zusammenfassungen

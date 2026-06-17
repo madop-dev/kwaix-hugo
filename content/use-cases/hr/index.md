@@ -42,7 +42,7 @@ HR-Teams in KMU leisten täglich Schreibarbeit, die keinen direkten Mehrwert fü
 - Unterweisungsprotokoll: von 20 Min auf 5 Min
 - **Gesamtersparnis** bei einer HR-Person: 4–8 Stunden pro Woche
 
-## TL;DR
+## Auf einen Blick
 
 - **Zeitersparnis:** 40–60 % bei Routine-Schreibaufgaben in HR
 - **Sofort umsetzbar:** Stellenanzeigen, Onboarding-Unterlagen, Unterweisungsdokumentation

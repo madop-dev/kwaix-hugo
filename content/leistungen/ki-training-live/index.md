@@ -46,7 +46,7 @@ faqItems:
 
 Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für Ihr Team, das konkrete Anwendungsfälle aus Ihrem Arbeitsalltag aufgreift, Prompting-Standards vermittelt und die Anforderungen an KI-Kompetenz nach Artikel 4 der KI-Verordnung abdeckt — vor Ort oder remote.
 
-## TL;DR
+## Auf einen Blick
 
 - **Format:** Live-Training, vor Ort oder remote
 - **Gruppengröße:** 1 bis über 15 Mitarbeitende, gestaffelte Preise siehe [/preise/](/preise/)

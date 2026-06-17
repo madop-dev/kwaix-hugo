@@ -10,7 +10,7 @@ draft: true
 
 [Platzhalter: Kurze Einführung in das KI-Training-Angebot von KWAIX für Unternehmen in Oldenburg.]
 
-## TL;DR
+## Auf einen Blick
 
 - [Platzhalter: KWAIX bietet KI-Training und Beratung auch in Oldenburg an]
 - [Platzhalter: Training vor Ort oder remote möglich]

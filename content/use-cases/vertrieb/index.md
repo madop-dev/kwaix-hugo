@@ -43,7 +43,7 @@ Der Vertriebsalltag in KMU besteht zu 30–50 % aus Aufgaben, die wenig mit Kund
 
 Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückgewonnener Zeit pro Woche**.
 
-## TL;DR
+## Auf einen Blick
 
 - **Hauptgewinn:** 30–60 Minuten täglich pro Person bei Routine-Schreibaufgaben
 - **Sofort umsetzbar:** Angebotserstellung, Nachfassmails, Gesprächsdokumentation

@@ -51,7 +51,7 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 - Unternehmen, die intern eine Prompt-Bibliothek mit eigenen Use Cases aufbauen wollen
 - Nach dem KI-Training Live — als direkter Anschluss zum Festigen des Lernstands
 
-## TL;DR
+## Auf einen Blick
 
 - **Für wen:** Teams ab ~5 Personen, auch standortübergreifend
 - **Was ist drin:** Prompt-Bibliothek (rollenbasiert), Vorlagen, Micro-Learnings, interne Standards, Update-Module

@@ -45,7 +45,7 @@ KWAIX hat einen klar abgegrenzten Kern: KI-Training, KI-Kickoff und Trainingspla
 - Spezialisierte Rechtsberatung zur KI-Verordnung
 - Themen, die ein anderer Anbieter nachweislich besser abdeckt
 
-## TL;DR
+## Auf einen Blick
 
 - **Kernangebot KWAIX:** KI-Training, KI-Kickoff, Trainingsplattform — selbst geliefert
 - **Partnervermittlung:** für Themen außerhalb des Kerns — kostenlos, ehrlich, nur mit Ihrer Einwilligung

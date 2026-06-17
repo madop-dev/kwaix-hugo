@@ -61,7 +61,7 @@ Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag — n
 
 **Der Mittelweg:** KI-Kickoff (einmalig, 90 Min) + KI-Training Live (Kernangebot) + Prompt-Bibliothek (aus dem Training). Die Trainingsplattform ist optional für Teams, die mehr wollen.
 
-## TL;DR
+## Auf einen Blick
 
 - **Kernangebot:** KI-Training Live — ab 2.400 € netto, inkl. Kompetenznachweis Art. 4 KI-VO
 - **Einstieg:** KI-Kickoff — 90 Min, Use Cases priorisieren, bevor das Team trainiert

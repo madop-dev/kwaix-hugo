@@ -43,7 +43,7 @@ KI-Tools verändern diesen Prozess: Aus einer strukturierten Eingabe — Anfrage
 - FAQ-Eintrag pflegen: von 20 Min auf 5 Min
 - Bei 20 Anfragen täglich: **2–3 Stunden täglich zurückgewonnen**
 
-## TL;DR
+## Auf einen Blick
 
 - **Zeitersparnis:** 40–70 % pro Antwort, 2–3 Stunden täglich bei hohem Anfrageaufkommen
 - **Sofort umsetzbar:** Standardanfragen, Reklamationen, Statusupdates

@@ -39,7 +39,7 @@ KWAIX begleitet Hamburger KMU und Mittelstand beim praxisnahen KI-Einstieg — r
 - Compliance-konforme Dokumentation in Logistik und Finanzsektor
 - Einheitliche KI-Standards, wenn mehrere Standorte oder Remote-Teams betroffen sind
 
-## TL;DR
+## Auf einen Blick
 
 - **Remote:** Standard für Hamburger Unternehmen — vollwertig, ohne Qualitätsverlust
 - **Vor Ort:** möglich nach Absprache, Reisekosten transparent im Angebot

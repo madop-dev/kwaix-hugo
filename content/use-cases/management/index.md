@@ -46,7 +46,7 @@ Geschäftsführerinnen und Führungskräfte in KMU sind nicht entscheidungsmüde
 - Kontext aus dem letzten Kundengespräch kennt sie nicht
 - Urteilen und Entscheiden übernimmt die Führungskraft
 
-## TL;DR
+## Auf einen Blick
 
 - **Hauptgewinn:** Bessere Vorbereitung in weniger Zeit
 - **Sofort umsetzbar:** Berichte zusammenfassen, Agenda strukturieren, E-Mails vorformulieren

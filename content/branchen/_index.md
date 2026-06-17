@@ -60,7 +60,7 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 
 *Alle Werte konservativ. Tatsächliche Ersparnis abhängig von Teamgröße, Use-Case-Fokus und Prompting-Qualität.*
 
-## TL;DR
+## Auf einen Blick
 
 - **4 Branchen:** Handwerk, Dienstleistung, Handel, Industrie — DACH-weit
 - **Prinzip:** echte Use Cases aus Ihrer Branche, nicht generische Demos

@@ -35,7 +35,7 @@ KWAIX begleitet Unternehmen in ganz Niedersachsen beim praxisnahen KI-Einstieg �
 
 **Niedersachsen-spezifisch:** Die Wirtschaftsstruktur in Niedersachsen ist breiter als in vielen anderen Bundesländern — Industrie und Automobilzulieferer, starkes Handwerk, Agrarwirtschaft, wachsender Dienstleistungssektor. Das Training wird an Ihre spezifische Branche und Ihre Use Cases angepasst.
 
-## TL;DR
+## Auf einen Blick
 
 - **Remote:** Standard für alle niedersächsischen Standorte
 - **Vor Ort:** Hannover, Oldenburg, Osnabrück, Braunschweig und weitere — nach Absprache

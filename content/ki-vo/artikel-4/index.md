@@ -41,7 +41,7 @@ Artikel 4 der **Verordnung (EU) 2024/1689** — der EU KI-Verordnung — lautet 
 
 **Gilt seit:** 2. August 2025.
 
-## TL;DR
+## Auf einen Blick
 
 - **Pflicht:** KI-Kompetenz aller Mitarbeitenden sicherstellen, die KI-Systeme bedienen
 - **Gilt für:** Betreiber (jedes Unternehmen, das KI-Tools beruflich einsetzt) und Anbieter

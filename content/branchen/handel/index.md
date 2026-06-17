@@ -33,7 +33,7 @@ heroCards:
 
 Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die täglich Zeit kosten, sind oft dieselben. Produktbeschreibungen schreiben, Kundenanfragen beantworten, Angebote formulieren, Lieferantenkorrespondenz. KI-Tools können hier zuverlässig entlasten — wenn das Team weiß, wie man sie sinnvoll einsetzt.
 
-## TL;DR
+## Auf einen Blick
 
 - **Für wen:** Fachhandel, Großhandel, E-Commerce, Franchise-Systeme (3–50 MA)
 - **Typische Use Cases:** Produkttexte, Kundenservice-Antworten, Angebote, Lieferantenkorrespondenz, Social-Media-Posts

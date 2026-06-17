@@ -65,7 +65,7 @@ Der Begriff "KI Use Case" wird in Präsentationen oft für alles verwendet. Im K
 
 *Werte aus KWAIX-Trainingsdaten. Tatsächliche Ersparnis abhängig von Prompting-Qualität und Use-Case-Klarheit.*
 
-## TL;DR
+## Auf einen Blick
 
 - **Einstieg:** 3–5 wiederholbare Aufgaben mit hoher Frequenz und klarer Struktur
 - **Bester ROI:** Protokolle, Stellenanzeigen, Angebote, Zusammenfassungen

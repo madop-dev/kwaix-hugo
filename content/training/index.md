@@ -42,7 +42,7 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 
 **Das Kernprinzip:** Kein generischer Überblick ohne Praxisbezug. Im Training arbeiten wir mit echten Use Cases aus Ihrem Arbeitsalltag — konkret, wiederholbar, sofort einsetzbar.
 
-## TL;DR
+## Auf einen Blick
 
 - **Baustein 1:** KI-Kickoff — 90–120 Min, Priorisierung und Risikocheck für Führungsebene
 - **Baustein 2:** KI-Training Live — Praxistraining für Teams, Kompetenznachweis nach Artikel 4 KI-VO

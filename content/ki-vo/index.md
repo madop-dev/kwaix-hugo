@@ -46,7 +46,7 @@ Die Verordnung (EU) 2024/1689, bekannt als EU AI Act, ist das erste umfassende K
 
 **Was "Betreiber" bedeutet:** Wer ein KI-System im beruflichen Kontext einsetzt — also z.B. ChatGPT für Kundenkommunikation, KI für Texterstellung oder KI für die Personalarbeit — ist Betreiber im Sinne von Artikel 3 Nr. 4 der Verordnung. Das betrifft nahezu jedes Unternehmen, das KI aktiv nutzt.
 
-## TL;DR
+## Auf einen Blick
 
 - **Artikel 4 gilt seit 2. August 2025** — KI-Kompetenz für KI-einsetzendes Personal nachweisen
 - **Betreiber = fast jedes Unternehmen**, das KI im Arbeitsalltag nutzt

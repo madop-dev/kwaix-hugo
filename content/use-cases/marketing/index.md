@@ -43,7 +43,7 @@ Das häufigste Marketing-Problem in KMU: Zu wenig Zeit für zu viele Kanäle. De
 
 **Das entscheidende Problem:** Ohne Markenstimmen-Prompt klingt KI-Content generisch. Der erste Schritt im Training ist deshalb die Erstellung eines unternehmensindividuellen Markenstimmen-Prompts — die Vorlage, die jeder Content-Prompt als Basis bekommt.
 
-## TL;DR
+## Auf einen Blick
 
 - **Hauptgewinn:** 50–70 % weniger Zeit bei Texterstellung
 - **Sofort umsetzbar:** Social Media, Newsletter, Produktbeschreibungen
