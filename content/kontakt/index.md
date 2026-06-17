@@ -1,7 +1,10 @@
 ---
 title: "Kontakt"
-description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
+description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Training und Kickoff für Ihr Unternehmen anfragen."
+eyebrow: "Kontakt"
+lede: "30 Minuten Vorgespräch — kostenlos, unverbindlich, ohne Formular."
 draft: false
+heroIcon: "prompt"
 aliases:
   - /contact/
 ---

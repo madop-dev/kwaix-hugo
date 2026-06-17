@@ -12,6 +12,13 @@
   --border: #e5e7eb;
   --radius: 12px;
   --shadow-lg: 0 10px 25px rgba(0,0,0,0.08);
+  /* ── Semantic tokens ── */
+  --kx-ink:    #1e1b4b;            /* very dark indigo navy — stage bands, CTA */
+  --kx-tint:   var(--primary-light); /* light indigo tint — tint bands */
+  --kx-violet: #7c3aed;            /* indigo-violet (homepage benefit icon g2) */
+  --kx-sky:    #0891b2;            /* cyan-sky (homepage benefit icon g5) */
+  --kx-muted:  var(--text-muted);  /* = #6b7280 */
+  --kx-roi:    #0ea5e9;            /* sky-blue for ROI type */
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -695,7 +702,7 @@ body {
   margin-bottom: 48px;
   line-height: 1.7;
 }
-.page-content { max-width: 800px; line-height: 1.8; }
+.page-content { max-width: 780px; margin-inline: auto; line-height: 1.8; }
 .page-content h2 {
   font-size: 24px;
   font-weight: 700;
@@ -1058,29 +1065,64 @@ body {
   height: auto;
   display: block;
 }
-.kx-wide-visual .kx-diagram img,
-.kx-wide-visual .kx-figure img,
-.kx-wide-visual .kx-mockup img {
-  max-width: 100%;
-}
+/* ── BREAKOUT SYSTEM ──────────────────────────────────────────────────────────
+   Both .kx-wide-content and .kx-wide-visual use:
+     margin-inline: calc(50% − desired-half-width)
+   Margin % resolves against the containing block width, so the formula centres
+   the element precisely on screen regardless of where the text column sits.
+   ──────────────────────────────────────────────────────────────────────────── */
 
-/* Wrapper for pages that need a wider content column (see shortcodes/wideContent.html) */
+/* Wide content column: breaks out of the 780px text column to ~1040px.
+   Used on pages that wrap all content in {{% wideContent %}}. */
 .kx-wide-content {
-  max-width: 1040px;
-  margin: 0 auto;
-  padding: 0 24px;
+  width: min(1040px, 100vw - 48px);
+  margin-inline: calc(50% - min(520px, 50vw - 24px));
+  box-sizing: border-box;
 }
 
-/* Wrapper for large visual blocks (diagrams/figures): viewport breakout so visuals can
-   become wider than .page-content's 800px cap, centered on the viewport (not on
-   .page-content, which sits off-center within .container once it hits its 800px cap). */
-.kx-wide-visual {
-  width: min(1320px, calc(100vw - 48px));
-  position: relative;
-  left: calc(50vw - max(56px, calc(50vw - 494px)));
-  transform: translateX(-50%);
-  padding: 0 24px;
+/* Visual stage: breaks out to ~1200px with a subtle background so
+   illustrations and diagrams get real breathing room. */
+.kx-wide-visual,
+.wide-visual {
+  width: min(1200px, 100vw - 48px);
+  margin-inline: calc(50% - min(600px, 50vw - 24px));
+  margin-block: 48px;
+  padding: 40px 48px;
+  background: var(--bg-alt);
+  border-radius: var(--radius);
   box-sizing: border-box;
+}
+
+/* Images inside the stage always fill the available width */
+.kx-wide-visual img,
+.wide-visual img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Strip redundant card-treatment from .kx-figure.kx-wide nested inside the
+   visual stage — the stage itself provides the background and padding. */
+.kx-wide-visual .kx-figure.kx-wide,
+.wide-visual .kx-figure.kx-wide {
+  width: 100%; margin: 0; padding: 0;
+  background: none; border: none; border-radius: 0; box-shadow: none;
+}
+
+/* Mobile: zero out the breakout, keep stage padding comfortable */
+@media (max-width: 640px) {
+  .kx-wide-content,
+  .kx-wide-visual,
+  .wide-visual {
+    width: 100%;
+    margin-inline: 0;
+  }
+  .kx-wide-visual,
+  .wide-visual {
+    padding: 28px 20px;
+    border-radius: 0;
+    margin-block: 32px;
+  }
 }
 
 /* ===== MARKDOWN TABLES ===== */
@@ -1171,10 +1213,15 @@ body {
 /* ===== Page Hero (Single) ===== */
 .page-hero {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 64px;
+  grid-template-columns: minmax(260px, 1fr) minmax(0, 540px);
+  gap: 56px;
   align-items: center;
-  padding: 64px 0 48px;
+  padding: 48px 32px 36px;
+  box-sizing: border-box;
+  /* break out of container's inner padding so hero spans full 1100px */
+  width: calc(100% + 64px);
+  margin-left: -32px;
+  max-width: 1160px;
 }
 
 .page-hero-text {
@@ -1268,21 +1315,205 @@ body {
   }
   .page-hero-text h1 { font-size: 32px; }
   .page-hero-visual { min-height: 180px; }
+  .hero-media { width: 100%; }
+  .hero-deck { height: auto; }
+  .hero-card { position: static; opacity: 0; animation: none; padding: 28px 24px 22px; }
+  .hero-card--i0 { opacity: 1; }
+  .hero-card--i1, .hero-card--i2 { display: none; }
   .cta-row { flex-direction: column; }
+}
+
+/* ===== HERO MEDIA (optional image — set heroVisual: in front matter) ===== */
+
+.hero-media {
+  width: 100%;
+  min-height: 320px;
+  background-color: var(--kx-tint);
+  background-image:
+    radial-gradient(circle, rgba(79,70,229,0.16) 1.5px, transparent 1.5px),
+    repeating-linear-gradient(135deg, transparent 0px, transparent 32px, rgba(79,70,229,0.05) 32px, rgba(79,70,229,0.05) 33px);
+  background-size: 22px 22px, 46px 46px;
+  border: 1px solid rgba(79,70,229,0.14);
+  border-radius: 20px;
+  padding: 32px;
+  box-shadow: 0 4px 24px rgba(79,70,229,0.08);
+  box-sizing: border-box;
+  align-self: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-media-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.hero-media-icon {
+  width: min(240px, 100%);
+  margin-inline: auto;
+  display: block;
+}
+.hero-media-icon svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ===== HERO DECK (heroCards slider — CSS-only, no JS) ===== */
+
+.hero-deck {
+  position: relative;
+  width: 100%;
+  height: 460px;
+  align-self: center;
+}
+
+@keyframes card-cycle {
+  0%      { opacity: 0; transform: translateY(8px)  scale(0.98); }
+  4%      { opacity: 1; transform: translateY(0)     scale(1);    }
+  29%     { opacity: 1; transform: translateY(0)     scale(1);    }
+  33.34%  { opacity: 0; transform: translateY(-8px)  scale(0.98); }
+  100%    { opacity: 0; }
+}
+
+.hero-card {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  /* default accent — overridden per type below */
+  --hc-accent: var(--primary);
+  background-color: var(--kx-tint);
+  /* glow (accent) + dot grid + diagonal stripe */
+  background-image:
+    radial-gradient(ellipse 65% 55% at 95% 95%, color-mix(in srgb, var(--hc-accent) 13%, transparent) 0%, transparent 70%),
+    radial-gradient(circle, color-mix(in srgb, var(--hc-accent) 16%, transparent) 1.5px, transparent 1.5px),
+    repeating-linear-gradient(135deg, transparent 0px, transparent 32px, color-mix(in srgb, var(--hc-accent) 5%, transparent) 32px, color-mix(in srgb, var(--hc-accent) 5%, transparent) 33px);
+  background-size: 100% 100%, 22px 22px, 46px 46px;
+  border: 1px solid rgba(79,70,229,0.14);
+  border-radius: 20px;
+  padding: 36px 44px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  box-shadow: 0 4px 24px rgba(79,70,229,0.08);
+  animation: card-cycle 18s ease-in-out infinite backwards;
+}
+
+.hero-card--i0 { animation-delay: 0s; }
+.hero-card--i1 { animation-delay: 6s; }
+.hero-card--i2 { animation-delay: 12s; }
+
+.hero-deck:hover .hero-card { animation-play-state: paused; }
+
+.hero-card-icon {
+  width: 92px;
+  height: 92px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero-card-icon svg { width: 92px; height: 92px; display: block; }
+
+.hero-card-title    { font-size: 30px; font-weight: 700; color: var(--primary-dark); line-height: 1.15; margin-top: 10px; }
+.hero-card-subtitle { font-size: 18px; color: var(--kx-muted); line-height: 1.45; }
+
+/* visual zone: node-graph illustration between subtitle and pager */
+.hero-card-visual {
+  flex: 1;
+  min-height: 120px;
+  margin-top: 10px;
+  border-radius: 12px;
+  background-color: rgba(79,70,229,0.04);
+  border: 1px solid rgba(79,70,229,0.09);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 120'%3E%3Cline x1='48' y1='60' x2='148' y2='26' stroke='rgba(79,70,229,0.22)' stroke-width='1.5'/%3E%3Cline x1='48' y1='60' x2='148' y2='94' stroke='rgba(79,70,229,0.22)' stroke-width='1.5'/%3E%3Cline x1='172' y1='26' x2='272' y2='60' stroke='rgba(79,70,229,0.22)' stroke-width='1.5'/%3E%3Cline x1='172' y1='94' x2='272' y2='60' stroke='rgba(79,70,229,0.22)' stroke-width='1.5'/%3E%3Cline x1='152' y1='26' x2='168' y2='94' stroke='rgba(79,70,229,0.10)' stroke-width='1'/%3E%3Cline x1='48' y1='60' x2='272' y2='60' stroke='rgba(79,70,229,0.07)' stroke-width='1' stroke-dasharray='4 6'/%3E%3Ccircle cx='44' cy='60' r='6' fill='rgba(79,70,229,0.38)'/%3E%3Ccircle cx='160' cy='26' r='6' fill='rgba(79,70,229,0.38)'/%3E%3Ccircle cx='160' cy='94' r='6' fill='rgba(79,70,229,0.38)'/%3E%3Ccircle cx='276' cy='60' r='6' fill='rgba(79,70,229,0.38)'/%3E%3Ccircle cx='44' cy='60' r='2.5' fill='rgba(79,70,229,0.80)'/%3E%3Ccircle cx='160' cy='26' r='2.5' fill='rgba(79,70,229,0.80)'/%3E%3Ccircle cx='160' cy='94' r='2.5' fill='rgba(79,70,229,0.80)'/%3E%3Ccircle cx='276' cy='60' r='2.5' fill='rgba(79,70,229,0.80)'/%3E%3Ccircle cx='102' cy='40' r='3.5' fill='rgba(79,70,229,0.22)'/%3E%3Ccircle cx='218' cy='78' r='3.5' fill='rgba(79,70,229,0.22)'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 85% auto;
+}
+
+.hero-card-pager { display: flex; align-items: center; gap: 6px; margin-top: 14px; }
+.hero-card-dot   { width: 8px; height: 8px; border-radius: 50%; background: rgba(79,70,229,0.18); }
+.hero-card-dot--active { width: 24px; border-radius: 4px; background: var(--primary); }
+
+/* ===== HERO CARD TYPE ACCENTS ===== */
+
+/* Per-type --hc-accent token */
+.hero-card--training  { --hc-accent: var(--primary); }
+.hero-card--policy    { --hc-accent: var(--primary); }
+.hero-card--automation{ --hc-accent: var(--primary-dark); }
+.hero-card--platform  { --hc-accent: var(--primary-dark); }
+.hero-card--prompt    { --hc-accent: var(--kx-violet); }
+.hero-card--chatbot   { --hc-accent: var(--kx-violet); }
+.hero-card--proof     { --hc-accent: var(--accent); }
+.hero-card--backlog   { --hc-accent: var(--kx-sky); }
+.hero-card--roi       { --hc-accent: var(--kx-roi); }
+
+/* Title: accent color per type (higher specificity than base rule) */
+.hero-card .hero-card-title {
+  color: var(--hc-accent);
+}
+
+/* Active pager dot: accent color */
+.hero-card .hero-card-dot--active {
+  background: var(--hc-accent);
+}
+
+/* Icon: coloured glow via drop-shadow */
+.hero-card .hero-card-icon {
+  filter: drop-shadow(0 0 10px color-mix(in srgb, var(--hc-accent) 40%, transparent));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-card .hero-card-icon { filter: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-deck { height: auto; }
+  .hero-card { position: static; opacity: 0; animation: none; }
+  .hero-card--i0 { opacity: 1; }
+  .hero-card--i1, .hero-card--i2 { display: none; }
 }
 
 /* ===== CTA BLOCK (shortcode) ===== */
 .cta-block {
+  background: linear-gradient(135deg, var(--kx-ink) 0%, var(--primary-dark) 100%);
+  border-radius: var(--radius);
+  padding: 28px 32px;
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
   align-items: center;
-  margin: 32px 0;
+  margin: 40px 0;
+}
+/* Buttons inverted on dark band */
+.cta-block .btn-primary {
+  background: white;
+  color: var(--kx-ink);
+}
+.cta-block .btn-primary:hover {
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.25);
+}
+.cta-block .btn-secondary {
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.9);
+  border-color: rgba(255,255,255,0.2);
+}
+.cta-block .btn-secondary:hover {
+  background: rgba(255,255,255,0.16);
+  color: white;
+  border-color: rgba(255,255,255,0.4);
+  transform: translateY(-2px);
 }
 .cta-note {
   width: 100%;
   font-size: 13px;
-  color: var(--text-muted);
+  color: rgba(255,255,255,0.6);
   margin: 4px 0 0;
   line-height: 1.5;
 }
@@ -1341,42 +1572,61 @@ body {
 
 /* ===== CARD ACCENT SYSTEM ===== */
 
-/* Icon gradients per type */
-.card--policy .card-icon  { background: linear-gradient(135deg, #2563eb, #60a5fa); color: white; }
-.card--prompt .card-icon  { background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; }
-.card--backlog .card-icon { background: linear-gradient(135deg, #0891b2, #22d3ee); color: white; }
-.card--proof .card-icon   { background: linear-gradient(135deg, #f43f5e, #fb7185); color: white; }
-.card--default .card-icon { background: linear-gradient(135deg, var(--primary), #818cf8); color: white; }
+/* Icon gradients — mapped to semantic tokens */
+.card--policy .card-icon  { background: linear-gradient(135deg, var(--primary),   #818cf8); color: white; }
+.card--prompt .card-icon  { background: linear-gradient(135deg, var(--kx-violet), #a78bfa); color: white; }
+.card--backlog .card-icon { background: linear-gradient(135deg, var(--kx-sky),    #22d3ee); color: white; }
+.card--proof .card-icon   { background: linear-gradient(135deg, var(--accent),    #fb7185); color: white; }
+.card--default .card-icon { background: linear-gradient(135deg, var(--primary),   #818cf8); color: white; }
 
-/* Tinted border + shadow on hover per type */
-.card--policy:hover  { border-color: #2563eb; box-shadow: 0 8px 24px -4px rgba(37,99,235,0.15); }
-.card--prompt:hover  { border-color: #7c3aed; box-shadow: 0 8px 24px -4px rgba(124,58,237,0.15); }
-.card--backlog:hover { border-color: #0891b2; box-shadow: 0 8px 24px -4px rgba(8,145,178,0.15); }
-.card--proof:hover   { border-color: #f43f5e; box-shadow: 0 8px 24px -4px rgba(244,63,94,0.15); }
-.card--default:hover { border-color: var(--primary); box-shadow: 0 8px 24px -4px rgba(79,70,229,0.15); }
+/* Tinted border + coloured shadow on hover — rgba values match the token hex */
+.card--policy:hover  { border-color: var(--primary);   box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);  transform: translateY(-3px); }
+.card--prompt:hover  { border-color: var(--kx-violet); box-shadow: 0 8px 24px -4px rgba(124,58,237,0.18); transform: translateY(-3px); }
+.card--backlog:hover { border-color: var(--kx-sky);    box-shadow: 0 8px 24px -4px rgba(8,145,178,0.18);  transform: translateY(-3px); }
+.card--proof:hover   { border-color: var(--accent);    box-shadow: 0 8px 24px -4px rgba(244,63,94,0.18);  transform: translateY(-3px); }
+.card--default:hover { border-color: var(--primary);   box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);  transform: translateY(-3px); }
 
 /* Improved card text */
 .card-title { font-size: 15px; }
-.card-text  { color: #555f6d; }
+.card-text  { color: var(--kx-muted); }
 
-/* Step-cards: CSS counter via .cards-grid--steps (use type="steps" on the shortcode) */
-.cards-grid--steps { counter-reset: step-counter; }
+/* Step-cards: numbered circle marker + desktop connector line
+   Activate by adding type="steps" to the cards shortcode */
+.cards-grid--steps { counter-reset: step-counter; overflow: visible; }
 .cards-grid--steps .card {
   counter-increment: step-counter;
   position: relative;
-  padding-top: 40px;
+  padding-top: 44px;
 }
+/* Filled circle with step number */
 .cards-grid--steps .card::before {
-  content: counter(step-counter, decimal-leading-zero);
+  content: counter(step-counter);
   position: absolute;
-  top: 16px;
-  left: 20px;
-  font-size: 22px;
-  font-weight: 800;
-  letter-spacing: -1px;
-  color: var(--primary);
-  opacity: 0.18;
-  line-height: 1;
+  top: 14px;
+  left: 18px;
+  width: 26px;
+  height: 26px;
+  background: var(--primary);
+  color: white;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  box-shadow: 0 0 0 4px rgba(79,70,229,0.12);
+}
+/* Connector line to next card (desktop only) */
+.cards-grid--steps .card:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 26px;
+  right: -21px;
+  width: 21px;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(79,70,229,0.3), transparent);
+}
+@media (max-width: 900px) {
+  .cards-grid--steps .card:not(:last-child)::after { display: none; }
 }
 
 /* ===== SECTION RHYTHM ===== */
@@ -1417,6 +1667,86 @@ body {
   border-radius: var(--radius);
   padding: 20px 24px;
   margin: 28px 0;
+}
+
+/* ===== SECTION BANDS (shortcode: {{< section tone="plain|tint|stage" >}}) ===== */
+
+/* Full-viewport breakout from the narrow .page-content column.
+   margin-inline: calc(50% − 50vw) escapes any centred container to the viewport edge. */
+.kx-section {
+  width: 100vw;
+  margin-inline: calc(50% - 50vw);
+  padding-block: 80px;
+  box-sizing: border-box;
+}
+
+/* Tone: plain — white, same as page background */
+.kx-section--plain {
+  background: var(--bg);
+}
+
+/* Tone: tint — very light indigo, matches homepage card backgrounds */
+.kx-section--tint {
+  background: var(--kx-tint);
+}
+
+/* Tone: stage — dark indigo navy, light text */
+.kx-section--stage {
+  background: linear-gradient(160deg, var(--kx-ink) 0%, var(--primary-dark) 100%);
+  color: rgba(255,255,255,0.9);
+}
+.kx-section--stage h2,
+.kx-section--stage h3,
+.kx-section--stage h4 { color: white; }
+.kx-section--stage p,
+.kx-section--stage li  { color: rgba(255,255,255,0.8); }
+.kx-section--stage a   { color: #93c5fd; }
+.kx-section--stage strong { color: white; }
+
+/* Cards inside stage band: glassmorphism treatment */
+.kx-section--stage .card {
+  background: rgba(255,255,255,0.06);
+  border-color: rgba(255,255,255,0.12);
+}
+.kx-section--stage .card-title { color: white; }
+.kx-section--stage .card-text  { color: rgba(255,255,255,0.7); }
+.kx-section--stage .card:hover {
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.22);
+  box-shadow: 0 8px 24px -4px rgba(0,0,0,0.35);
+}
+
+/* CTA block inside stage band: inherit dark feel, lighter outline variant */
+.kx-section--stage .cta-block {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.14);
+}
+
+/* Optional section title (via title="" param) */
+.kx-section-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: inherit;
+  margin-bottom: 32px;
+}
+
+/* Inline visual: SVG/figure displayed at reading width, centred — used in plain band */
+.kx-figure.kx-inline {
+  max-width: 720px;
+  margin-inline: auto;
+  margin-block: 40px;
+}
+.kx-figure.kx-inline img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .kx-section { padding-block: 56px; }
+}
+@media (max-width: 480px) {
+  .kx-section { padding-block: 40px; }
 }
 
 /* ===== ACCESSIBILITY / MOTION ===== */

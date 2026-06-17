@@ -1,7 +1,19 @@
 ---
 title: "KI-Kickoff"
 description: "KI-Kickoff für Geschäftsführung und Fachbereiche: in 90–120 Minuten zu einer priorisierten Use-Case-Shortlist und klaren nächsten Schritten."
+eyebrow: "KI-Kickoff"
+lede: "Klarheit in 90 Minuten — mit priorisierten Use Cases und einem Plan für die nächsten 30 Tage."
 draft: false
+heroCards:
+  - type: backlog
+    title: "Use‑Case‑Backlog"
+    subtitle: "Priorisiert & umsetzbar"
+  - type: policy
+    title: "Leitplanken"
+    subtitle: "Datenschutz & KI‑VO Orientierung"
+  - type: roi
+    title: "Business Case"
+    subtitle: "Zeit & Wirkung grob abschätzen"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->

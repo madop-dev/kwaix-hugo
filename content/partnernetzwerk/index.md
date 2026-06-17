@@ -1,7 +1,10 @@
 ---
 title: "Partnernetzwerk"
 description: "Das KWAIX-Partnernetzwerk: Best-Fit-Lösungen für Ihr Unternehmen — aus eigener Hand oder über geprüfte Partner."
+eyebrow: "Partnernetzwerk"
+lede: "Wenn KWAIX nicht die beste Lösung für Ihr Anliegen ist, vermitteln wir weiter — an geprüfte Partner mit Branchenbezug."
 draft: false
+heroIcon: "backlog"
 ---
 
 ## Einleitung

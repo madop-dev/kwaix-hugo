@@ -1,7 +1,10 @@
 ---
 title: "Über KWAIX"
-description: "KI-Spezialisten im Norden — pragmatisch, transparent, ergebnisorientiert"
+description: "KI-Spezialisten im Norden — pragmatisch, transparent, ergebnisorientiert. KI-Training und Kickoff für KMU und Mittelstand."
+eyebrow: "Über KWAIX"
+lede: "Wir machen KI praktisch — für Teams, die keine Zeit für Experimente haben."
 draft: false
+heroIcon: "training"
 aliases:
   - /about/
 ---

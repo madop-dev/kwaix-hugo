@@ -1,7 +1,19 @@
 ---
-title: "Preise"
-description: "Transparente Preise für KI-Training, Automation und Beratung von KWAIX."
+title: "Preise für KI-Training"
+description: "Transparente Preise für KI-Training für KMU und Mittelstand — Staffelung nach Teamgröße, ohne versteckte Kosten."
+eyebrow: "Preise"
+lede: "Klare Staffelpreise nach Teamgröße. Kein Abo, keine Lizenzfallen — einmal trainieren, dauerhaft nutzen."
 draft: false
+heroCards:
+  - type: roi
+    title: "ROI grob überschlagen"
+    subtitle: "Zeitersparnis → €"
+  - type: training
+    title: "Staffelpreise"
+    subtitle: "1–15+ Mitarbeitende"
+  - type: policy
+    title: "Enthalten"
+    subtitle: "Standards & Vorlagen"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->

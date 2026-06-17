@@ -1,7 +1,19 @@
 ---
 title: "Trainingsplattform"
 description: "Prompt-Bibliothek, Vorlagen und Updates zum Üben und Dranbleiben nach dem Live-Training – für Teams und mehrere Standorte."
+eyebrow: "Trainingsplattform"
+lede: "Inhalte, Prompt-Bibliothek und Standards an einem Ort — damit KI-Kompetenz im Unternehmen bleibt."
 draft: false
+heroCards:
+  - type: platform
+    title: "Trainingsplattform"
+    subtitle: "Dranbleiben im Alltag"
+  - type: prompt
+    title: "Bibliothek"
+    subtitle: "Vorlagen & Beispiele"
+  - type: policy
+    title: "Standards"
+    subtitle: "Team‑Regeln & Freigaben"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->

@@ -1,7 +1,19 @@
 ---
 title: "KI-Training für Teams"
 description: "KI-Trainings für Mittelstand und KMU: Workshops, Live-Sessions und Trainingsplattform für Ihr Team."
+eyebrow: "Trainingsprogramm"
+lede: "Vom ersten Überblick bis zur dauerhaften KI-Kompetenz im Team — in drei aufeinander aufbauenden Schritten."
 draft: false
+heroCards:
+  - type: backlog
+    title: "KI-Kickoff"
+    subtitle: "Klarheit & Priorisierung"
+  - type: training
+    title: "Live-Training"
+    subtitle: "Praxis mit echten Use Cases"
+  - type: platform
+    title: "Trainingsplattform"
+    subtitle: "Dranbleiben & vertiefen"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->

@@ -1,7 +1,19 @@
 ---
 title: "KI-Verordnung (EU AI Act) für Unternehmen"
 description: "Was die EU-KI-Verordnung für Ihr Unternehmen bedeutet — Überblick, Pflichten und wie KWAIX unterstützt."
-draft: true
+eyebrow: "KI-VO & Sicherheit"
+lede: "Die EU KI-Verordnung ist in Kraft. Was das für Ihr Unternehmen konkret bedeutet — ohne Juristendeutsch."
+draft: false
+heroCards:
+  - type: proof
+    title: "Kompetenznachweis"
+    subtitle: "Artikel 4 KI-Verordnung"
+  - type: policy
+    title: "KI-Policy"
+    subtitle: "Interne Leitplanken setzen"
+  - type: training
+    title: "KI-Training"
+    subtitle: "Pflicht & Praxis verbinden"
 ---
 
 <!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
