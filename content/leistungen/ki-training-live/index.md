@@ -43,22 +43,18 @@ faqItems:
 
 {{< section tone="plain" >}}
 
-## KI-Training Live: Was es leistet — und was nicht
+## KI-Training Live für Ihr Team
 
-Das KI-Training Live ist das Kernangebot von KWAIX: ein praxisnahes Team-Training, das konkrete Anwendungsfälle aus Ihrem Arbeitsalltag aufgreift, einheitliche Prompting-Standards vermittelt und den Kompetenznachweis nach Artikel 4 der EU KI-Verordnung dokumentiert — vor Ort oder remote, für Teams von 1 bis 15+ Personen.
+KWAIX trainiert Ihr Team mit echten Aufgaben aus dem eigenen Arbeitsalltag: Berichte, Angebote, Protokolle, Kundenkommunikation — mit einheitlichen Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung. Kein generisches Seminar, kein Tool-Vortrag ohne Praxisbezug.
 
-**Kein Tool-Vortrag. Kein generisches KI-Seminar.** Ihr Team arbeitet im Training an echten Aufgaben aus dem eigenen Alltag: Berichte, Angebote, Protokolle, Kundenkommunikation — mit erprobten Prompt-Vorlagen und klaren Standards, die direkt in den Arbeitsalltag übernommen werden.
-
-Was das Training **nicht** ist: kein allgemeiner Tool-Überblick ohne Praxisbezug, keine Strategieberatung für die Geschäftsführung (dafür: [KI-Kickoff](/leistungen/ki-kickoff/)), kein Dauerzugang zu Lerninhalten (dafür optional: [Trainingsplattform](/leistungen/trainingsplattform/)).
-
-## Auf einen Blick
-
-- **Format:** Live-Training, vor Ort oder remote, DACH-weit
-- **Gruppengröße:** 1 bis über 15 Mitarbeitende, gestaffelte Preise: [/preise/](/preise/)
-- **Dauer:** halber bis ganzer Tag — richtet sich nach Teamgröße und Vorkenntnissen
-- **Praxisanteil:** Use Cases aus Ihrem Arbeitsalltag werden live erarbeitet
-- **Ergebnis:** Kompetenznachweis nach Artikel 4 KI-Verordnung für jeden Teilnehmenden
-- **Einstieg:** kostenloses Vorgespräch (30 Min), kein Formular
+{{< cards cols="3" >}}
+{{< card icon="training" title="Format" text="Live-Training vor Ort oder remote — DACH-weit, kein Reiseaufwand nötig." >}}
+{{< card icon="default" title="Teamgröße" text="1 bis über 15 Mitarbeitende — gestaffelte Preise, details unter /preise/." href="/preise/" >}}
+{{< card icon="default" title="Dauer" text="Halber bis ganzer Tag — richtet sich nach Teamgröße und Vorkenntnissen." >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Jeder Teilnehmende erhält den Nachweis nach Artikel 4 EU KI-Verordnung." >}}
+{{< card icon="prompt" title="Im Preis enthalten" text="Handout, Prompt-Bibliothek, Policy-Template und Kompetenznachweis — alles inklusive." >}}
+{{< card icon="default" title="Einstieg" text="Kostenloses Vorgespräch (30 Min) — kein Formular, einfach per E-Mail." href="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" >}}
+{{< /cards >}}
 
 {{< kpiStrip k1_label="Format" k1_value="Live vor Ort oder remote" k2_label="Teamgröße" k2_value="1–15+ Mitarbeitende" k3_label="Praxisanteil" k3_value="Use Cases live" k4_label="Ergebnis" k4_value="Nachweis Art. 4 KI-VO" >}}
 
