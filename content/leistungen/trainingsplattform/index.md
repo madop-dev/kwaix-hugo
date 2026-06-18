@@ -1,9 +1,10 @@
 ---
-title: "KI-Trainingsplattform für Teams: Prompt-Bibliothek, Standards, Updates"
-description: "Die KWAIX-Trainingsplattform für KMU: Prompt-Bibliothek, Vorlagen, interne KI-Standards und Update-Module — für Teams, die KI-Kompetenz dauerhaft verankern wollen."
+title: "KI-Trainingsplattform: Prompt-Bibliothek, KI-Standards und Micro-Learnings für Teams"
+description: "KWAIX-Trainingsplattform für KMU: Prompt-Bibliothek (rollenbasiert), interne KI-Standards, Vorlagen und Update-Module — KI-Kompetenz dauerhaft verankern, nicht nur einmalig schulen."
 eyebrow: "Trainingsplattform"
-lede: "Inhalte, Prompt-Bibliothek und KI-Standards an einem Ort — damit KI-Kompetenz nicht nach zwei Wochen wieder verblasst."
+lede: "Prompt-Bibliothek, KI-Standards und Micro-Learnings an einem Ort — damit KI-Kompetenz nach dem Training nicht nach drei Wochen verblasst."
 draft: false
+herocta: "Trainingsplattform anfragen →"
 canonical: "https://kwaix.de/leistungen/trainingsplattform/"
 schemaType: "service"
 heroCards:
@@ -76,12 +77,12 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 {{< card icon="default" title="Teambereich" text="Rollen und Teams werden im Setup eingerichtet — für Fachbereiche und Standorte mit unterschiedlichen Schwerpunkten." >}}
 {{< /cards >}}
 
-## Ablauf
+## So starten Sie mit der Trainingsplattform
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="01 Training abschließen" text="Idealerweise zuerst das KI-Training Live — dann sind Vorlagen und Übungen direkt an Ihren Use Cases ausgerichtet." >}}
-{{< card icon="default" title="02 Setup-Call" text="Kurzes Gespräch (30–60 Min) zu Zielen, Rollen und Teams. Einrichtung der Zugänge." >}}
-{{< card icon="platform" title="03 Zugang & Startpaket" text="Zugangsdaten, Startpaket mit ersten Vorlagen und Übungen — sofort einsatzbereit." >}}
+{{< card icon="training" title="01 KI-Training Live (empfohlen)" text="Idealerweise zuerst das KI-Training Live — dann sind Vorlagen und Micro-Learnings direkt an Ihren Use Cases ausgerichtet." >}}
+{{< card icon="default" title="02 Setup-Call (30–60 Min)" text="Kurzes Gespräch zu Zielen, Rollen und Fachbereichen. Einrichtung der Zugänge und Teams." >}}
+{{< card icon="platform" title="03 Zugang & Startpaket" text="Zugangsdaten, Prompt-Bibliothek und erste Übungen — sofort einsatzbereit, kein IT-Projekt." >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Erst KI-Training ansehen" >}}

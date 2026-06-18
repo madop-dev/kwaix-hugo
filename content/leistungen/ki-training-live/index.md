@@ -1,22 +1,23 @@
 ---
-title: "KI-Training Live für Teams: Praxis, Standards, Kompetenznachweis"
-description: "KI-Training Live für KMU und Mittelstand: praxisnahes Team-Training mit Prompt-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+title: "KI-Training Live: Team-Training mit Kompetenznachweis nach Artikel 4 KI-VO"
+description: "KI-Training Live für KMU — praxisnahes Team-Training mit echten Use Cases, Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel 4 EU KI-Verordnung. Ab 2.400 € netto, remote oder vor Ort."
 draft: false
-eyebrow: "KI READY Training"
-lede: "Praxisnahes KI‑Training für KMU – vor Ort oder remote, inkl. Kompetenznachweis nach Artikel 4 KI‑Verordnung."
+eyebrow: "KI-Training Live"
+lede: "Praxisnahes Team-Training mit echten Use Cases aus Ihrem Alltag — inkl. Kompetenznachweis nach Artikel 4 KI-Verordnung, remote oder vor Ort."
 canonical: "https://kwaix.de/leistungen/ki-training-live/"
 schemaType: "course"
 priceRange: "2400-4650"
+herocta: "KI-Training Live anfragen →"
 heroCards:
   - type: prompt
-    title: "Prompt‑Standards"
-    subtitle: "Qualität, Sicherheit, Wiederholbarkeit"
-  - type: training
-    title: "KI‑Training Live"
-    subtitle: "Praxisnah für Teams"
+    title: "Prompting-Standards"
+    subtitle: "Einheitlich, sicher, wiederholbar"
   - type: proof
     title: "Kompetenznachweis"
-    subtitle: "Artikel 4 KI‑Verordnung"
+    subtitle: "Artikel 4 EU KI-Verordnung"
+  - type: training
+    title: "Echte Use Cases"
+    subtitle: "Aus Ihrem Arbeitsalltag"
 faqItems:
   - q: "Wie lange dauert das KI-Training Live?"
     a: "Die Trainingsdauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt. Üblich sind ein halber bis ein voller Tag. Den Rahmen finden Sie im Trainingsprogramm unter /training/."
@@ -37,22 +38,27 @@ faqItems:
   - q: "Gibt es nach dem Training eine Nachbetreuung?"
     a: "Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Optional schließt sich die Trainingsplattform (/leistungen/trainingsplattform/) an, um den Lernstand zu festigen."
   - q: "Wie kommen wir zu einem Termin?"
-    a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'Vorgespräch anfragen'. Wir melden uns innerhalb von einem Werktag."
+    a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'KI-Training Live anfragen'. Wir melden uns innerhalb von einem Werktag."
 ---
 
 {{< section tone="plain" >}}
 
-## Einleitung
+## KI-Training Live: Was es leistet — und was nicht
 
-Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für Ihr Team, das konkrete Anwendungsfälle aus Ihrem Arbeitsalltag aufgreift, Prompting-Standards vermittelt und die Anforderungen an KI-Kompetenz nach Artikel 4 der KI-Verordnung abdeckt — vor Ort oder remote.
+Das KI-Training Live ist das Kernangebot von KWAIX: ein praxisnahes Team-Training, das konkrete Anwendungsfälle aus Ihrem Arbeitsalltag aufgreift, einheitliche Prompting-Standards vermittelt und den Kompetenznachweis nach Artikel 4 der EU KI-Verordnung dokumentiert — vor Ort oder remote, für Teams von 1 bis 15+ Personen.
+
+**Kein Tool-Vortrag. Kein generisches KI-Seminar.** Ihr Team arbeitet im Training an echten Aufgaben aus dem eigenen Alltag: Berichte, Angebote, Protokolle, Kundenkommunikation — mit erprobten Prompt-Vorlagen und klaren Standards, die direkt in den Arbeitsalltag übernommen werden.
+
+Was das Training **nicht** ist: kein allgemeiner Tool-Überblick ohne Praxisbezug, keine Strategieberatung für die Geschäftsführung (dafür: [KI-Kickoff](/leistungen/ki-kickoff/)), kein Dauerzugang zu Lerninhalten (dafür optional: [Trainingsplattform](/leistungen/trainingsplattform/)).
 
 ## Auf einen Blick
 
-- **Format:** Live-Training, vor Ort oder remote
-- **Gruppengröße:** 1 bis über 15 Mitarbeitende, gestaffelte Preise siehe [/preise/](/preise/)
-- **Dauer:** richtet sich nach Teamgröße und Vorkenntnissen, Rahmen siehe [Trainingsprogramm](/training/)
-- **Praxisanteil:** Use Cases aus Ihrem Arbeitsalltag werden live im Training erarbeitet
-- **Buchungsprozess:** Vorgespräch → Angebot → Termin — kein Formular, einfach per E-Mail
+- **Format:** Live-Training, vor Ort oder remote, DACH-weit
+- **Gruppengröße:** 1 bis über 15 Mitarbeitende, gestaffelte Preise: [/preise/](/preise/)
+- **Dauer:** halber bis ganzer Tag — richtet sich nach Teamgröße und Vorkenntnissen
+- **Praxisanteil:** Use Cases aus Ihrem Arbeitsalltag werden live erarbeitet
+- **Ergebnis:** Kompetenznachweis nach Artikel 4 KI-Verordnung für jeden Teilnehmenden
+- **Einstieg:** kostenloses Vorgespräch (30 Min), kein Formular
 
 {{< kpiStrip k1_label="Format" k1_value="Live vor Ort oder remote" k2_label="Teamgröße" k2_value="1–15+ Mitarbeitende" k3_label="Praxisanteil" k3_value="Use Cases live" k4_label="Ergebnis" k4_value="Nachweis Art. 4 KI-VO" >}}
 
@@ -60,22 +66,20 @@ Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für 
 
 {{< section tone="tint" >}}
 
-## Überblick
+## Was im KI-Training Live passiert
 
-**Was passiert im Training:** Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-Tools sinnvoll eingesetzt werden. Wir vermitteln Prompting-Standards, arbeiten Use Cases live durch und dokumentieren die Teilnahme als Kompetenznachweis gemäß Artikel 4 der KI-Verordnung.
+Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-Tools sinnvoll und sicher eingesetzt werden. Einheitliche Prompting-Standards sorgen dafür, dass alle Teilnehmenden nach dem Training nach denselben Regeln arbeiten. Die Teilnahme wird als Kompetenznachweis gemäß Artikel 4 der EU KI-Verordnung dokumentiert.
 
-**Was nicht passiert:** Das Training ist kein allgemeiner Tool-Überblick ohne Praxisbezug und keine Strategieberatung auf Geschäftsführungsebene — dafür ist der [KI-Kickoff](/leistungen/ki-kickoff/) der passende vorgelagerte Schritt. Kein Dauerzugang zu Lerninhalten — das deckt optional die [Trainingsplattform](/leistungen/trainingsplattform/) danach ab.
-
-## Für wen
+## Für wen das KI-Training Live das Richtige ist
 
 {{< cards cols="4" >}}
-{{< card icon="default" title="Teams & Fachbereiche" text="KI-Tools im Alltag konkret und sicher einsetzen — mit echten Use Cases aus dem eigenen Arbeitsalltag." >}}
+{{< card icon="default" title="Teams & Fachbereiche" text="KI-Tools konkret und sicher im Alltag einsetzen — mit echten Use Cases, nicht mit Demo-Screenshots." >}}
 {{< card icon="proof" title="Artikel 4 KI-VO" text="Unternehmen, die den Kompetenznachweis nach Art. 4 der KI-Verordnung nachweisbar erfüllen müssen." >}}
-{{< card icon="backlog" title="Nach dem Kickoff" text="Wer bereits priorisierte Use Cases hat und jetzt mit dem Team ins Umsetzen kommen will." >}}
+{{< card icon="backlog" title="Nach dem Kickoff" text="Wer bereits priorisierte Use Cases hat und mit dem Team jetzt ins Umsetzen kommen will." >}}
 {{< card icon="prompt" title="Ohne Standards" text="Teams mit erster Tool-Erfahrung, die aber ohne einheitliche Prompting-Praxis arbeiten." >}}
 {{< /cards >}}
 
-## Wann passt es nicht
+## Wann das Training nicht passt
 
 {{< cards cols="3" >}}
 {{< card icon="default" title="Priorisierung fehlt" text="Noch kein klarer Use-Case-Fokus? Starten Sie zuerst mit dem KI-Kickoff." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
@@ -83,81 +87,75 @@ Das **KI READY Training** ist das Kernangebot von KWAIX: ein Live-Training für 
 {{< card icon="default" title="Rechtsberatung nötig" text="Für KI-VO-Rechtsfragen empfehlen wir spezialisierte Kanzleien." >}}
 {{< /cards >}}
 
-## Inhalte/Module
+## Was im Training vermittelt wird
 
-- **Prompting-Standards:** einheitliche, erprobte Vorgehensweisen für den täglichen Einsatz von KI-Tools
-- **Use Cases live:** konkrete Aufgaben aus Ihrem Arbeitsalltag werden gemeinsam im Training bearbeitet
-- **KI-Kompetenznachweis:** Inhalte und Nachweisführung gemäß Artikel 4 der KI-Verordnung
+- **Prompting-Standards:** einheitliche, erprobte Vorgehensweisen für den täglichen KI-Einsatz
+- **Use Cases live:** konkrete Aufgaben aus Ihrem Arbeitsalltag werden gemeinsam erarbeitet
+- **Kompetenznachweis:** Inhalte und Nachweisführung gemäß Artikel 4 KI-Verordnung
 - **Tool-Praxis:** Arbeiten mit den in Ihrem Unternehmen eingesetzten oder geplanten KI-Tools
 - **Q&A und Vertiefung:** Raum für individuelle Fragen aus dem Team
 
-## Deliverables
+## Was Ihr Team nach dem Training hat
 
 {{< cards cols="4" >}}
-{{< card icon="policy" title="Policy-Template" text="Vorlage für Ihre KI-Richtlinie" >}}
-{{< card icon="prompt" title="Prompt-Bibliothek" text="Erprobte Vorlagen für den Arbeitsalltag" >}}
-{{< card icon="backlog" title="Use-Case-Backlog" text="Priorisierte Anwendungsfälle" >}}
-{{< card icon="proof" title="Nachweis" text="Kompetenznachweis nach Artikel 4 KI-VO" >}}
+{{< card icon="policy" title="Policy-Template" text="Vorlage für Ihre unternehmensinterne KI-Richtlinie" >}}
+{{< card icon="prompt" title="Prompt-Bibliothek" text="Erprobte Vorlagen für konkrete Aufgaben im Arbeitsalltag" >}}
+{{< card icon="backlog" title="Use-Case-Backlog" text="Priorisierte Anwendungsfälle für den direkten Einsatz" >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentiert nach Artikel 4 EU KI-Verordnung für jeden Teilnehmenden" >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung ansehen" >}}
 
 {{< /section >}}
 
 {{< section tone="stage" >}}
 
-## Ablauf
+## Ablauf: Vom Vorgespräch bis zum Kompetenznachweis
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="01 Vorgespräch" text="Teamgröße, Vorkenntnisse, Format und Termin klären — 30 Min, kostenfrei." >}}
-{{< card icon="default" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und Anforderungen Ihres Teams." >}}
-{{< card icon="default" title="03 Live-Training" text="Praxisnahes Training mit Prompting-Standards und Use Cases aus Ihrem Alltag." >}}
-{{< card icon="proof" title="04 Kompetenznachweis" text="Teilnehmende erhalten den Nachweis gemäß Artikel 4 der KI-Verordnung." >}}
-{{< card icon="policy" title="05 Materialien" text="Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen." >}}
-{{< card icon="default" title="06 Plattform (optional)" text="Trainingsplattform im Anschluss buchbar, um den Lernstand zu festigen." href="/leistungen/trainingsplattform/" cta="Zur Trainingsplattform" >}}
+{{< card icon="default" title="01 Vorgespräch (kostenlos)" text="Teamgröße, Vorkenntnisse, Format und Wunschtermin klären — 30 Min, kostenfrei." >}}
+{{< card icon="default" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und Anforderungen Ihres Teams — 10–15 Min Aufwand." >}}
+{{< card icon="default" title="03 KI-Training Live" text="Praxisnahes Training mit Prompting-Standards und echten Use Cases aus Ihrem Alltag." >}}
+{{< card icon="proof" title="04 Kompetenznachweis" text="Alle Teilnehmenden erhalten den Nachweis gemäß Artikel 4 der EU KI-Verordnung." >}}
+{{< card icon="policy" title="05 Trainingsmaterialien" text="Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen und Weiterverwenden." >}}
+{{< card icon="default" title="06 Trainingsplattform (opt.)" text="Optional im Anschluss: Prompt-Bibliothek, Micro-Learnings und KI-Standards auf einer Plattform." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/leistungen/ki-kickoff/" secondaryText="Erst KI-Kickoff ansehen" >}}
 
 {{< /section >}}
 
 {{< section tone="plain" >}}
 
-## FAQ
+## FAQ: KI-Training Live
 
 **Wie lange dauert das Training?**
 Die Dauer richtet sich nach Teamgröße und Vorkenntnissen und wird im Vorgespräch festgelegt. Den Rahmen sehen Sie im [Trainingsprogramm](/training/).
 
 **Wie viele Teilnehmende können mitmachen?**
-Von 1 bis über 15 Mitarbeitenden — die gestaffelten Preise finden Sie unter [/preise/](/preise/).
+Von 1 bis über 15 Mitarbeitenden — gestaffelte Preise finden Sie unter [/preise/](/preise/).
 
 **Findet das Training vor Ort oder remote statt?**
-Beides ist möglich. Wir besprechen im Vorgespräch, was für Ihr Team und Ihren Standort am sinnvollsten ist.
+Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im Vorgespräch, was für Ihr Team am sinnvollsten ist.
 
 **Was müssen wir vorbereiten?**
-Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus. Daraus leiten wir die Inhalte und Use Cases für Ihr Training ab.
-
-**Wie geht ihr mit unseren Daten und vertraulichen Informationen um?**
-Vertraulich und DSGVO-konform. Details finden Sie in unserer [Datenschutzerklärung](/datenschutz/).
+Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus — 10–15 Min Aufwand. Daraus leiten wir Inhalte und Use Cases für Ihr Training ab.
 
 **Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?**
-Ja. Teilnehmende erhalten einen [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) gemäß Artikel 4. Hintergrund dazu: [KI-Verordnung](/ki-verordnung/).
+Ja. Alle Teilnehmenden erhalten einen [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) gemäß Artikel 4. Pflicht seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben.
+
+**Wie geht KWAIX mit unseren Daten um?**
+Vertraulich und DSGVO-konform. Im Training arbeiten wir mit anonymisierten Beispielen. Details: [Datenschutzerklärung](/datenschutz/).
 
 **Welche technischen Voraussetzungen brauchen wir?**
-Im Regelfall reichen ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den im Training genutzten KI-Tools. Details klären wir im Vorgespräch.
+Ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den genutzten KI-Tools. Details klären wir im Vorgespräch.
 
 **Brauchen wir vorher einen KI-Kickoff?**
-Nicht zwingend. Wenn Sie bereits wissen, welche Anwendungsfälle relevant sind, können Sie direkt mit dem Live-Training starten. Ohne klare Priorisierung empfehlen wir vorab den [KI-Kickoff](/leistungen/ki-kickoff/).
+Nicht zwingend. Wenn Sie bereits wissen, welche Use Cases relevant sind, können Sie direkt starten. Ohne klare Priorisierung empfehlen wir vorab den [KI-Kickoff](/leistungen/ki-kickoff/).
 
-**Ist die Trainingsplattform Pflicht?**
-Nein. Das Live-Training funktioniert eigenständig. Die [Trainingsplattform](/leistungen/trainingsplattform/) ist eine optionale Ergänzung danach, um den Lernstand zu festigen.
+**Gibt es Nachbetreuung?**
+Sie erhalten Handout, Prompt-Bibliothek und Policy-Template. Optional schließt sich die [Trainingsplattform](/leistungen/trainingsplattform/) an.
 
-**Wie kommen wir zu einem Termin oder Angebot?**
-Schreiben Sie uns für ein [Vorgespräch (30 Min)](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) oder fordern Sie direkt ein [Angebot](mailto:info@kwaix.de?subject=Angebot%20anfordern) an.
-
-**Gibt es eine Nachbetreuung?**
-Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Bei weiterem Bedarf sprechen wir über die nächsten Schritte, z. B. die Trainingsplattform oder weitere Trainingsrunden.
-
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="Preise und Staffelung: /preise/" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
 {{< /section >}}

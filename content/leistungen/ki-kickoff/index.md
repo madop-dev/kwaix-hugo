@@ -1,9 +1,10 @@
 ---
-title: "KI-Kickoff: Klarheit über KI-Potenziale in 90 Minuten"
-description: "KI-Kickoff für KMU und Mittelstand: in 90–120 Minuten zu einer priorisierten Use-Case-Shortlist, Risikocheck und konkretem Plan — remote oder vor Ort."
+title: "KI-Kickoff: Use-Case-Priorisierung und Risikocheck in 90 Minuten"
+description: "KI-Kickoff für KMU und Mittelstand: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-Verordnung, konkreter Plan — in 90–120 Min, remote oder vor Ort."
 draft: false
 eyebrow: "KI-Kickoff"
-lede: "Entscheidungssicherheit in 90 Minuten — priorisierte Use Cases, Risikocheck, klarer nächster Schritt."
+lede: "Klarheit über KI-Potenziale in 90 Minuten: priorisierte Use Cases, Risikocheck, konkreter Plan — bevor Geld in KI-Projekte fließt."
+herocta: "KI-Kickoff anfragen →"
 canonical: "https://kwaix.de/leistungen/ki-kickoff/"
 schemaType: "service"
 heroCards:
@@ -67,7 +68,7 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 
 {{< section tone="tint" >}}
 
-## Für wen
+## Für wen der KI-Kickoff das Richtige ist
 
 {{< cards cols="4" >}}
 {{< card icon="roi" title="Vor der Investition" text="Geschäftsführungen, die wissen wollen, wo KI den größten Hebel hat — bevor Geld in KI-Projekte fließt." >}}
@@ -87,7 +88,7 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 {{< card icon="training" title="06 Nächster Schritt" text="KI-Training Live für die betroffenen Teams — aufbauend auf den priorisierten Use Cases." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}
 
-## Was Sie bekommen
+## Was Sie aus dem KI-Kickoff mitnehmen
 
 {{< cards cols="4" >}}
 {{< card icon="backlog" title="Use-Case-Backlog" text="Priorisierte Liste konkreter Anwendungsfälle, nach Aufwand und Nutzen eingeordnet." >}}

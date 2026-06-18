@@ -3,10 +3,21 @@ title: 'KI-Training und KI-Workshops für Unternehmen: Leistungen von KWAIX'
 description: KI-Training, KI-Kickoff und KI-Workshops für KMU und Mittelstand im DACH-Raum — praxisnah, mit Kompetenznachweis nach Artikel 4 KI-Verordnung, ab 2.400 € netto.
 priceRange: 2400-4650
 draft: false
-eyebrow: Leistungen
-lede: KI-Training, KI-Kickoff und Trainingsplattform für Teams, die KI wirklich einsetzen — nicht nur darüber reden.
+eyebrow: Leistungen · KWAIX
+lede: KI-Training, KI-Kickoff und Trainingsplattform für Teams, die KI wirklich einsetzen — mit Kompetenznachweis nach Artikel 4 KI-Verordnung, ab 2.400 € netto.
 canonical: https://kwaix.de/leistungen/
 schemaType: service
+herocta: "Vorgespräch anfragen →"
+heroCards:
+  - type: training
+    title: "KI-Training Live"
+    subtitle: "Kompetenznachweis Art. 4 KI-VO"
+  - type: backlog
+    title: "KI-Kickoff"
+    subtitle: "Use-Case-Priorisierung in 90 Min"
+  - type: platform
+    title: "Trainingsplattform"
+    subtitle: "Prompt-Bibliothek & Standards"
 faqItems:
   - q: Was bietet KWAIX für Unternehmen an?
     a: 'KWAIX bietet drei aufeinander aufbauende Leistungen: 1. KI-Kickoff (90–120 Min) — Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche. 2. KI-Training Live — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform — Prompt-Bibliothek, Vorlagen und Update-Module für dauerhaften Kompetenzaufbau. Alle Leistungen einzeln oder kombiniert buchbar, DACH-weit remote und vor Ort.'

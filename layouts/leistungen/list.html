@@ -16,7 +16,6 @@
     <h1 class="leistung-hero-h1 reveal d1">{{ .Title }}</h1>
     {{ with (or .Params.lede .Description) }}<p class="leistung-hero-sub reveal d2">{{ . }}</p>{{ end }}
 
-    {{/* ── Benefits (from heroCards) ── */}}
     {{ if .Params.heroCards }}
     <ul class="leistung-hero-benefits reveal d2">
       {{ range .Params.heroCards }}
@@ -34,7 +33,6 @@
     </div>
   </div>
 
-  {{/* ── Proof strip ── */}}
   <div class="leistung-hero-proof reveal d2" aria-hidden="true">
     {{ if $priceRange }}
     {{- $parts := split $priceRange "-" -}}
