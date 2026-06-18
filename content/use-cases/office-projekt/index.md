@@ -6,7 +6,11 @@ lede: "Im Büroalltag von KMU verschwinden täglich 1–2 Stunden in Schreib- un
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-office-projekt/"
 url: "/use-cases/ki-office-projekt/"
+type: leistungen
 schemaType: "service"
+herocta: "KI in Office & Projekten besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: policy
     title: "Protokolle"

@@ -6,7 +6,11 @@ lede: "Vertriebsteams verlieren täglich 30–60 Minuten mit Aufgaben, die nicht
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-vertrieb/"
 url: "/use-cases/ki-vertrieb/"
+type: leistungen
 schemaType: "service"
+herocta: "KI im Vertrieb besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: prompt
     title: "Angebote"

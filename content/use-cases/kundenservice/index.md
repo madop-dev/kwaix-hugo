@@ -6,7 +6,11 @@ lede: "60–80 % der Kundenanfragen in KMU wiederholen sich. KI beantwortet sie 
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-kundenservice/"
 url: "/use-cases/ki-kundenservice/"
+type: leistungen
 schemaType: "service"
+herocta: "KI im Kundenservice besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: prompt
     title: "Antworten"

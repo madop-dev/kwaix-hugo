@@ -6,7 +6,11 @@ lede: "KMU ohne Marketingteam produzieren zu wenig Content, weil zu wenig Zeit d
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-marketing/"
 url: "/use-cases/ki-marketing/"
+type: leistungen
 schemaType: "service"
+herocta: "KI im Marketing besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: prompt
     title: "Content schneller"

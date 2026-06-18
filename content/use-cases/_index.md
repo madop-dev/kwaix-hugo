@@ -4,8 +4,12 @@ description: "Konkrete KI-Anwendungsfälle für KMU und Mittelstand: Vertrieb, K
 eyebrow: "KI Use Cases"
 lede: "Nicht jede KI-Anwendung lohnt sich. Diese Seite zeigt, welche Use Cases in KMU wirklich Zeit sparen — mit konkreten Zahlen, nicht mit Versprechen."
 draft: false
+type: leistungen
 canonical: "https://kwaix.de/use-cases/"
 schemaType: "service"
+herocta: "Use Cases besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: backlog
     title: "Use-Case-Backlog"
@@ -33,51 +37,26 @@ faqItems:
     a: "Ein KI Use Case ist eine konkrete, wiederholbare Aufgabe, die ein Mitarbeitender mit einem bestehenden KI-Tool (ChatGPT, Copilot) selbst erledigt — ohne IT-Projekt, ohne Entwicklung. Ein KI-Projekt ist eine technische Implementierung: eigenes KI-Modell, API-Integration, automatisierter Workflow. KMU sollten mit Use Cases starten, nicht mit KI-Projekten."
 ---
 
-{{< section tone="plain" >}}
+{{< section tone="tint" >}}
 
-## Was ein guter KI Use Case ist — und was nicht
+## Die wirkungsvollsten KI Use Cases für KMU
 
-Der Begriff "KI Use Case" wird in Präsentationen oft für alles verwendet. Im KMU-Kontext ist die Definition enger und praktischer: Ein Use Case ist eine konkrete, wiederkehrende Aufgabe, bei der KI-Tools (ChatGPT, Microsoft Copilot, Gemini u.a.) messbar schneller oder besser arbeiten als ohne KI.
+Konkrete, wiederkehrende Aufgaben — hohe Frequenz, klare Eingabe, definiertes Ausgabeformat. Werte aus KWAIX-Trainingsdaten.
 
-**Ein guter KI Use Case hat vier Eigenschaften:**
-1. **Wiederholfrequenz:** Die Aufgabe kommt täglich oder wöchentlich vor — nicht einmal im Jahr.
-2. **Klare Eingabe:** Es gibt Stichpunkte, Rohdaten, Notizen oder einen Entwurf als Eingabe — kein leeres Blatt.
-3. **Definiertes Ausgabeformat:** Das Ergebnis hat eine bekannte Struktur — E-Mail, Protokoll, Stellenanzeige, Zusammenfassung.
-4. **Kein zwingender Urteilsakt:** Die Aufgabe erfordert keine juristische Entscheidung, keine Haftung und kein Echtzeit-Urteilsvermögen.
-
-**Was kein guter Use Case ist:**
-- "KI recherchiert die Marktlage" → halluziniert Quellen, nicht zuverlässig genug für geschäftliche Entscheidungen
-- "KI trifft die Personalentscheidung" → Hochrisiko-KI nach KI-VO, DSGVO-kritisch
-- "KI ersetzt den Kundendialog" → Kunden merken es, Vertrauen leidet
-
-## Die wichtigsten KI Use Cases für KMU — nach Wirkung sortiert
-
-| Use Case | Zeitvorher | Zeitnachher | Ersparnis |
-|---|---|---|---|
-| Meetingprotokoll aus Stichpunkten | 20–30 Min | 3–5 Min | 80–85 % |
-| Stellenanzeige erstellen | 60–90 Min | 10–15 Min | 82–88 % |
-| Angebot formulieren | 45–60 Min | 8–12 Min | 78–83 % |
-| Newsletter-Entwurf | 120–180 Min | 30–45 Min | 70–78 % |
-| 20-seitiger Bericht zusammenfassen | 30–45 Min | 2–5 Min | 88–95 % |
-| Schwierige E-Mail (Mahnung, Absage) | 15–20 Min | 3–5 Min | 73–80 % |
-| Produktbeschreibung (einzeln) | 20–30 Min | 4–6 Min | 79–83 % |
-| Arbeitssicherheitsunterweisung dokumentieren | 20–30 Min | 4–6 Min | 78–83 % |
-
-*Werte aus KWAIX-Trainingsdaten. Tatsächliche Ersparnis abhängig von Prompting-Qualität und Use-Case-Klarheit.*
-
-## Auf einen Blick
-
-- **Einstieg:** 3–5 wiederholbare Aufgaben mit hoher Frequenz und klarer Struktur
-- **Bester ROI:** Protokolle, Stellenanzeigen, Angebote, Zusammenfassungen
-- **Datenschutz:** keine Personendaten ohne AVV in öffentliche Tools
-- **Realistisch:** 8–20 Min täglich pro Person bei geschultem Team
-- **Priorisierung:** im [KI-Kickoff](/leistungen/ki-kickoff/) — 90 Min, DACH-weit
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Meetingprotokoll" text="Vorher: 20–30 Min · Nachher: 3–5 Min · Ersparnis: −83 %. Eingabe: Stichpunkte. Ausgabe: strukturiertes Protokoll mit TODOs." >}}
+{{< card icon="training" title="Stellenanzeige" text="Vorher: 60–90 Min · Nachher: 10–15 Min · Ersparnis: −88 %. Eingabe: Anforderungen + Tonalität. Ausgabe: fertige Anzeige." >}}
+{{< card icon="prompt" title="Angebot formulieren" text="Vorher: 45–60 Min · Nachher: 8–12 Min · Ersparnis: −83 %. Eingabe: Gesprächsnotizen + Preisliste. Ausgabe: individuelles Angebot." >}}
+{{< card icon="prompt" title="Newsletter-Entwurf" text="Vorher: 2–3 Std · Nachher: 30–45 Min · Ersparnis: −75 %. Eingabe: Thema + Ton + CTA. Ausgabe: versandbereiter Entwurf." >}}
+{{< card icon="roi" title="Bericht zusammenfassen" text="Vorher: 30–45 Min · Nachher: 2–5 Min · Ersparnis: −90 %. Eingabe: 20 Seiten PDF. Ausgabe: Kernaussagen auf einer Seite." >}}
+{{< card icon="policy" title="Schwierige E-Mail" text="Vorher: 15–20 Min · Nachher: 3–5 Min · Ersparnis: −77 %. Eingabe: Situation + gewünschter Ton. Ausgabe: deeskalierende E-Mail." >}}
+{{< /cards >}}
 
 {{< kpiStrip k1_label="Beste Ersparnis" k1_value="Protokoll −83 %" k2_label="Realistisch/Tag" k2_value="8–20 Min/Person" k3_label="ROI (8 MA)" k3_value="~21.000 €/Jahr" k4_label="Einstieg" k4_value="Top 3–5 Use Cases" >}}
 
 {{< /section >}}
 
-{{< section tone="tint" >}}
+{{< section tone="plain" >}}
 
 ## Use Cases nach Funktion
 
@@ -114,15 +93,21 @@ Die häufigste Frage in jedem Training: Welche Daten dürfen wir eingeben?
 
 {{< /section >}}
 
-{{< section tone="plain" >}}
+{{< section tone="stage" >}}
 
 ## Wie KWAIX Use Cases im Training einsetzt
 
-**Schritt 1 — Priorisierung im KI-Kickoff:** Gemeinsam mit Geschäftsführung und Fachbereichen identifizieren wir die 3–5 wirkungsvollsten Use Cases für Ihr Unternehmen. Kriterien: Häufigkeit, Standardisierbarkeit, Datenschutzrisiko. Dauer: 90–120 Minuten.
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="01 Priorisierung (KI-Kickoff)" text="Gemeinsam mit Geschäftsführung und Fachbereichen: Top 3–5 Use Cases nach Häufigkeit, Standardisierbarkeit und Datenschutzrisiko. 90–120 Min." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="training" title="02 Erarbeitung (Training)" text="Die priorisierten Use Cases werden live mit echten Aufgaben aus Ihrem Alltag bearbeitet — kein Demo-Content. Ergebnis: sofort einsetzbare Prompt-Vorlagen." href="/leistungen/ki-training-live/" cta="Training ansehen" >}}
+{{< card icon="prompt" title="03 Prompt-Bibliothek" text="Nach dem Training: Zugriff auf erprobte Vorlagen für Ihre spezifischen Use Cases. Keine Generic-Prompts — konkrete Vorlagen für Ihr Unternehmen." >}}
+{{< /cards >}}
 
-**Schritt 2 — Erarbeitung im KI-Training Live:** Die priorisierten Use Cases werden live im Training bearbeitet — nicht als Demo mit anonymisierten Beispielen, sondern mit echten Aufgaben aus Ihrem Arbeitsalltag. Ergebnis: erprobte Prompt-Vorlagen, direkt einsetzbar.
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/leistungen/ki-kickoff/" secondaryText="KI-Kickoff buchen" >}}
 
-**Schritt 3 — Prompt-Bibliothek:** Nach dem Training haben alle Teilnehmenden Zugriff auf eine Prompt-Bibliothek mit getesteten Vorlagen für ihre spezifischen Use Cases — keine leere Sammlung von Generic-Prompts, sondern konkrete Vorlagen für Ihr Unternehmen.
+{{< /section >}}
+
+{{< section tone="plain" >}}
 
 ## FAQ: KI Use Cases für KMU
 

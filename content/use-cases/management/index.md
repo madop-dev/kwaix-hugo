@@ -6,7 +6,11 @@ lede: "Führungskräfte in KMU treffen Entscheidungen mit zu viel Informationsra
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-management/"
 url: "/use-cases/ki-management/"
+type: leistungen
 schemaType: "service"
+herocta: "KI im Management besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: roi
     title: "Entscheidungen"

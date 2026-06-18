@@ -6,7 +6,11 @@ lede: "HR-Teams in KMU erledigen täglich Aufgaben, die KI zuverlässig beschleu
 draft: false
 canonical: "https://kwaix.de/use-cases/ki-hr-personal/"
 url: "/use-cases/ki-hr-personal/"
+type: leistungen
 schemaType: "service"
+herocta: "KI in HR besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: training
     title: "Onboarding"
