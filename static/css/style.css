@@ -1205,27 +1205,41 @@ body {
 
 .kx-kpi-strip {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 16px;
-  margin: 32px 0;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0;
+  margin: 40px 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
 }
 .kx-kpi-card {
-  padding: 24px;
-  background: white;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  padding: 20px 24px;
   text-align: center;
+  border-right: 1px solid var(--border);
 }
-.kx-kpi-value {
-  font-size: 28px;
+.kx-kpi-card:last-child { border-right: none; }
+.kx-kpi-label {
+  font-size: 11px;
   font-weight: 700;
-  color: var(--primary);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
   margin-bottom: 6px;
 }
-.kx-kpi-label {
-  font-size: 14px;
-  color: var(--text-secondary);
+.kx-kpi-value {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--kx-ink);
+  line-height: 1.2;
 }
+/* Stage-Sektion: Linien und Text anpassen */
+.kx-section--stage .kx-kpi-strip {
+  border-color: rgba(255,255,255,0.15);
+}
+.kx-section--stage .kx-kpi-card {
+  border-color: rgba(255,255,255,0.15);
+}
+.kx-section--stage .kx-kpi-label { color: rgba(255,255,255,0.55); }
+.kx-section--stage .kx-kpi-value { color: white; }
 
 /* Wide variant: make figure/diagram blocks stand out as full-width sections */
 .kx-figure.kx-wide,
