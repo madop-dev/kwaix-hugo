@@ -1,47 +1,95 @@
 ---
-title: "KI-Training in Bremerhaven"
-description: "KI-Training und Automation für Unternehmen in Bremerhaven — vor Ort oder remote mit KWAIX."
-draft: true
+title: "KI-Training Bremerhaven: Für KMU in der Seestadt"
+description: "KI-Training und KI-Kickoff für Unternehmen in Bremerhaven — remote oder vor Ort, für Hafenwirtschaft, Logistik, Fischerei, Tourismus und Handel. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+eyebrow: "Region · Bremerhaven"
+lede: "KI-Training für Bremerhavener KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
+draft: false
+canonical: "https://kwaix.de/regionen/bremen/bremerhaven/"
+schemaType: "service"
+heroCards:
+  - type: training
+    title: "Bremerhaven"
+    subtitle: "Vor Ort & Remote"
+  - type: backlog
+    title: "Use Cases"
+    subtitle: "Aus der Seestadt"
+  - type: proof
+    title: "KI-VO konform"
+    subtitle: "Kompetenznachweis Art. 4"
+faqItems:
+  - q: "Bietet KWAIX KI-Training direkt in Bremerhaven vor Ort an?"
+    a: "Ja. KWAIX trainiert Unternehmen in Bremerhaven vor Ort in Ihren Räumen oder remote. Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind ohne weite Anreise möglich."
+  - q: "Welche Branchen sind in Bremerhaven besonders relevant für KI-Training?"
+    a: "Bremerhavener Schwerpunkte: Hafenwirtschaft und Logistik (Dokumentation, Kommunikation), Fischereiwirtschaft und Lebensmittelverarbeitung, Tourismus und Stadtmarketing, Handel. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
+  - q: "Wie schnell ist ein Training-Termin in Bremerhaven möglich?"
+    a: "In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung. Kostenfreies Vorgespräch: info@kwaix.de, Betreff 'KI-Training Bremerhaven anfragen'."
+  - q: "Sind Reisekosten für Vor-Ort-Trainings in Bremerhaven enthalten?"
+    a: "Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Anfahrtszeiten sind in der Regel bereits im Angebot berücksichtigt. Details werden transparent kommuniziert."
 ---
 
-<!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
+{{< section tone="plain" >}}
 
-## Einleitung
+## KI-Training für Unternehmen in Bremerhaven
 
-[Platzhalter: Kurze Einführung in das KI-Training-Angebot von KWAIX für Unternehmen in Bremerhaven.]
+KWAIX begleitet KMU und Mittelstand in Bremerhaven beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+
+**Format:** Vor Ort in Ihren Räumlichkeiten in Bremerhaven oder remote. Bremerhaven liegt in der direkten Einzugsregion von Bremen — Vor-Ort-Termine sind unkompliziert.
+
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen) · +49 421 69190969
 
 ## Auf einen Blick
 
-- [Platzhalter: KWAIX bietet KI-Training und Beratung auch in Bremerhaven an]
-- [Platzhalter: Training vor Ort oder remote möglich]
-- [Platzhalter: Branchenschwerpunkte in Bremerhaven — Hafenwirtschaft, Logistik, Fischereiwirtschaft]
-- [Platzhalter: Passendes Trainingspaket je nach Unternehmensgröße]
-- [Platzhalter: Kontaktaufnahme für ein unverbindliches Erstgespräch]
+- **Vor Ort:** Trainings in Ihren Räumen in Bremerhaven (kurze Anfahrt vom Bremer KWAIX-Standort)
+- **Remote:** Für Teams, die flexibel und standortübergreifend trainieren wollen
+- **Typische Branchen:** Hafenwirtschaft, Logistik, Fischereiwirtschaft, Tourismus, Handel
+- **Einstieg:** Kostenloses Vorgespräch (30 Min), danach Angebot
+- **Kompetenznachweis:** Nach Artikel 4 KI-Verordnung für alle Teilnehmenden
 
-## Überblick
+{{< kpiStrip k1_label="Region" k1_value="Bremerhaven & Umland" k2_label="Format" k2_value="Vor Ort & Remote" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-[Platzhalter]
+{{< /section >}}
 
-## Für wen
+{{< section tone="tint" >}}
 
-[Platzhalter]
+## Typische Use Cases für Bremerhavener Unternehmen
 
-## Ablauf
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Hafenwirtschaft & Logistik" text="Frachtdokumentation, Lieferantenkommunikation, Statusberichte und Übergabeprotokolle — strukturiert und schneller aus Stichpunkten." >}}
+{{< card icon="prompt" title="Fischerei & Lebensmittel" text="Hygienedokumentation, Lieferantenbriefings, Produktbeschreibungen und interne Prozessanweisungen — nachweisbar und einheitlich." >}}
+{{< card icon="policy" title="Tourismus & Stadtmarketing" text="Reisebeschreibungen, Social-Media-Texte, Gästekommunikation und Eventberichte — in Minuten statt Stunden." >}}
+{{< card icon="training" title="Handel & Einzelhandel" text="Produktbeschreibungen skalierbar erstellen, Kundenanfragen beantworten, Aktionskommunikation — stationär und online." >}}
+{{< card icon="prompt" title="Verwaltung & HR" text="Stellenanzeigen (AGG-konform), Onboarding-Unterlagen, interne Kommunikation — einheitlich und nachweisbar." >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden — seit 2. August 2025 gesetzliche Pflicht." >}}
+{{< /cards >}}
 
-[Platzhalter]
+## Ablauf für Bremerhavener Unternehmen
 
-## Inhalte/Module
+{{< cards cols="3" >}}
+{{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Min per Video oder Telefon: Teamgröße, Branche, Format (vor Ort/remote), Use Cases und Wunschtermin klären." >}}
+{{< card icon="backlog" title="02 KI-Kickoff (optional)" text="90–120 Min: Use-Case-Priorisierung, Risikocheck, Plan für Ihr Bremerhavener Team — bevor Geld in KI-Projekte fließt." >}}
+{{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Bremerhaven oder remote. Kompetenznachweis inklusive." >}}
+{{< /cards >}}
 
-[Platzhalter]
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="Vorgespräch für Bremerhaven anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-## Deliverables
+{{< /section >}}
 
-[Platzhalter]
+{{< section tone="plain" >}}
 
-## FAQ
+## FAQ: KI-Training in Bremerhaven
 
-[Platzhalter]
+**Bietet KWAIX Vor-Ort-Training in Bremerhaven an?**
+Ja. Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind ohne weite Anreise möglich. Remote ist ebenfalls vollwertig.
 
-## CTA
+**Welche Branchen betreut KWAIX in Bremerhaven?**
+Hafenwirtschaft und Logistik, Fischereiwirtschaft und Lebensmittelverarbeitung, Tourismus, Handel. Use Cases werden auf Ihre Branche zugeschnitten.
 
-[Platzhalter]
+**Was kostet KI-Training in Bremerhaven?**
+Ab 2.400 € netto für Teams bis 5 Personen, für 6–10 Personen 3.600 € netto, für 11–15 Personen 4.650 € netto. Details unter [/preise/](/preise/).
+
+**Wie schnell ist ein Termin möglich?**
+In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.
+
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="KI-Training Bremerhaven anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
+
+{{< /section >}}
