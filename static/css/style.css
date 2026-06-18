@@ -1220,15 +1220,15 @@ body {
 .kx-kpi-value {
   font-size: 22px;
   font-weight: 700;
-  color: var(--kx-ink);
+  color: var(--primary);
   line-height: 1.2;
-  margin-bottom: 4px;
 }
 .kx-kpi-label {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   color: var(--text-secondary);
   letter-spacing: 0.01em;
+  margin-bottom: 8px;
 }
 /* Tint-Sektion: leicht abgesetzter Hintergrund */
 .kx-section--tint .kx-kpi-card {
