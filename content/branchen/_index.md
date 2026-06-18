@@ -4,8 +4,12 @@ description: "KI-Training für KMU branchenspezifisch: Handwerk, Dienstleistungs
 eyebrow: "Branchen"
 lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht in Handwerk, Dienstleistung, Handel und Industrie ganz unterschiedlich aus."
 draft: false
+type: leistungen
 canonical: "https://kwaix.de/branchen/"
 schemaType: "service"
+herocta: "KI-Training für Ihre Branche →"
+herocta2: "Preise ansehen"
+herocta2href: "/preise/"
 heroCards:
   - type: training
     title: "Branchenspezifisch"

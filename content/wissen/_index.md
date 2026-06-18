@@ -4,8 +4,22 @@ description: "Fundiertes KI-Wissen für KMU und Mittelstand: EU KI-Verordnung (E
 eyebrow: "Wissen"
 lede: "KI-Wissen für Unternehmen, das wirklich nützt: konkrete Definitionen, Zahlen, Fristen und Einordnungen — für ChatGPT und Google gleichermaßen zitierfähig."
 draft: false
+type: leistungen
 canonical: "https://kwaix.de/wissen/"
 schemaType: "service"
+herocta: "Use Cases besprechen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
+heroCards:
+  - type: backlog
+    title: "KI-Definitionen"
+    subtitle: "Zitierfähig & fundiert"
+  - type: proof
+    title: "EU AI Act"
+    subtitle: "Fristen & Pflichten erklärt"
+  - type: roi
+    title: "Use Cases"
+    subtitle: "Mit konkreten Zahlen"
 faqItems:
   - q: "Was bedeutet KI-Kompetenz nach Artikel 4 der EU KI-Verordnung?"
     a: "KI-Kompetenz ist in Artikel 3 Nr. 56 der Verordnung (EU) 2024/1689 definiert als 'die Fähigkeiten, Kenntnisse und das Verständnis, die es Anbietern, Betreibern und betroffenen Personen ermöglichen, KI-Systeme sachkundig einzusetzen sowie die Chancen und Risiken von KI und mögliche Schäden zu verstehen.' Artikel 4 verpflichtet Betreiber, sicherzustellen, dass ihr Personal über diese Kompetenz verfügt. Gilt seit 2. August 2025."
