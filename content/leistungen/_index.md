@@ -35,58 +35,23 @@ faqItems:
     a: KWAIX trainiert mit echten Use Cases aus dem Arbeitsalltag der Teilnehmenden — keine generischen Demos, keine Tool-Präsentationen ohne Bezug zur Praxis. Jedes Training endet mit einsatzbereiten Prompt-Vorlagen und einem dokumentierten Kompetenznachweis. Kein Abo-Zwang, kein Vendor Lock-in, DACH-weite Abdeckung.
 ---
 
-{{< section tone="plain" >}}
+{{< section tone="tint" >}}
 
-## KI-Training für Unternehmen — was KWAIX anders macht
+## Drei Gründe, warum Teams mit KWAIX trainieren
 
-Es gibt viele Anbieter, die über KI sprechen. Das Problem: Viele "KI-Schulungen" sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit der Teilnehmenden. Ein Vortrag über ChatGPT-Funktionen verändert nichts im Betrieb. Was verändert: konkrete Use Cases, getestete Prompt-Vorlagen und ein Team, das nach dem Training weiß, wie es KI wiederholbar, sicher und nach einheitlichen Standards einsetzt.
+Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. KWAIX trainiert **mit echten Use Cases aus Ihrem Alltag** — nicht über KI, sondern mit KI.
 
-Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag, **nicht über** KI, **sondern mit KI**.
-
-**Was KWAIX liefert:**
-
-- KI-Kickoff: Priorisierung und Risikocheck, bevor Geld in KI-Projekte fließt
-- KI-Training Live: Team-Training, Prompting-Standards, Kompetenznachweis nach Artikel 4 KI-VO
-- Trainingsplattform: Prompt-Bibliothek, Update-Module für dauerhaften Aufbau
-
-**Was KWAIX nicht liefert:**
-
-- Softwareentwicklung oder KI-Systemintegration
-- Rechtsberatung zur KI-Verordnung
-- Abo-Zwang oder Vendor Lock-in
-- Tool-Empfehlungen ohne Trainingsbezug
-
-## Die drei Bausteine im Vergleich
-
-| Baustein | Zielgruppe | Dauer | Ergebnis | Preis |
-| --- | --- | --- | --- | --- |
-| KI-Kickoff | Geschäftsführung + Fachbereiche | 90–120 Min | Use-Case-Shortlist, Risikocheck | Auf Anfrage |
-| KI-Training Live | Teams (1–15+ Personen) | Halber bis ganzer Tag | Kompetenznachweis Art. 4 KI-VO | 2.400–4.650 € netto |
-| Trainingsplattform | Teams ab 5 Personen | Laufend | Prompt-Bibliothek, Standards | Auf Anfrage |
-
-_Alle Preise zzgl. MwSt. Format: remote oder vor Ort. DACH-weit._
-
-## Warum diese Reihenfolge sinnvoll ist
-
-**Ohne Priorisierung → falsches Training:** Wer ohne Kickoff direkt trainiert, trainiert an Use Cases, die nicht die höchste Wirkung haben. Das ist nicht katastrophal — aber ineffizient.
-
-**Ohne Plattform → Vergessen:** KI-Kompetenz baut sich auf wie ein Muskel. Wer nach dem Training keine Struktur zum Dranzubleiben hat, fällt nach 3–4 Wochen in alte Muster zurück.
-
-**Der Mittelweg:** KI-Kickoff (einmalig, 90 Min) + KI-Training Live (Kernangebot) + Prompt-Bibliothek (aus dem Training). Die Trainingsplattform ist optional für Teams, die mehr wollen.
-
-## Auf einen Blick
-
-- **Kernangebot:** KI-Training Live — ab 2.400 € netto, inkl. Kompetenznachweis Art. 4 KI-VO
-- **Einstieg:** KI-Kickoff — 90 Min, Use Cases priorisieren, bevor das Team trainiert
-- **Optional:** Trainingsplattform — Prompt-Bibliothek und Updates für dauerhaften Aufbau
-- **Format:** remote (Standard) oder vor Ort — DACH-weit
-- **Kein Zwang:** alle Bausteine einzeln buchbar
+{{< cards cols="3" >}}
+{{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO — inklusive" text="Seit 2. August 2025 gesetzliche Pflicht für alle Unternehmen, die KI einsetzen. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
+{{< card icon="training" title="Echte Use Cases — keine Demos" text="Ihr Team arbeitet mit Berichten, Angeboten, Protokollen und Kundenmails aus der eigenen Praxis. Was erarbeitet wird, ist am nächsten Tag einsatzbereit." >}}
+{{< card icon="prompt" title="Von der Priorisierung bis zur Plattform" text="KI-Kickoff, Training Live und Trainingsplattform bauen aufeinander auf. Alle Bausteine einzeln buchbar — kein Abo-Zwang, kein Vendor Lock-in." href="/preise/" cta="Preise ansehen" >}}
+{{< /cards >}}
 
 {{< kpiStrip k1_label="KI-Kickoff" k1_value="90–120 Min" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
 {{< /section >}}
 
-{{< section tone="tint" >}}
+{{< section tone="plain" >}}
 
 ## Alle Leistungen im Detail
 
