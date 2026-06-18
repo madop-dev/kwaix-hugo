@@ -1,27 +1,27 @@
 ---
-title: "KI-Training und KI-Workshops für Unternehmen: Leistungen von KWAIX"
-description: "KI-Training, KI-Kickoff und KI-Workshops für KMU und Mittelstand im DACH-Raum — praxisnah, mit Kompetenznachweis nach Artikel 4 KI-Verordnung, ab 2.400 € netto."
-eyebrow: "Leistungen"
-lede: "KI-Training, KI-Kickoff und Trainingsplattform für Teams, die KI wirklich einsetzen — nicht nur darüber reden."
+title: 'KI-Training und KI-Workshops für Unternehmen: Leistungen von KWAIX'
+description: KI-Training, KI-Kickoff und KI-Workshops für KMU und Mittelstand im DACH-Raum — praxisnah, mit Kompetenznachweis nach Artikel 4 KI-Verordnung, ab 2.400 € netto.
+priceRange: 2400-4650
 draft: false
-canonical: "https://kwaix.de/leistungen/"
-schemaType: "service"
-priceRange: "2400-4650"
+eyebrow: Leistungen
+lede: KI-Training, KI-Kickoff und Trainingsplattform für Teams, die KI wirklich einsetzen — nicht nur darüber reden.
+canonical: https://kwaix.de/leistungen/
+schemaType: service
 faqItems:
-  - q: "Was bietet KWAIX für Unternehmen an?"
-    a: "KWAIX bietet drei aufeinander aufbauende Leistungen: 1. KI-Kickoff (90–120 Min) — Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche. 2. KI-Training Live — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform — Prompt-Bibliothek, Vorlagen und Update-Module für dauerhaften Kompetenzaufbau. Alle Leistungen einzeln oder kombiniert buchbar, DACH-weit remote und vor Ort."
-  - q: "Was ist der Unterschied zwischen KI-Kickoff und KI-Training?"
-    a: "Der KI-Kickoff (90–120 Min) klärt mit Geschäftsführung und Fachbereichen, WELCHE KI-Anwendungsfälle sinnvoll sind — vor jeder Investition. Das KI-Training Live schult das Team dann, WIE diese Use Cases konkret umgesetzt werden — mit Prompting-Standards und Kompetenznachweis. Kickoff = Strategie und Priorisierung. Training = Befähigung und Nachweis."
-  - q: "Was kostet das KI-Training?"
-    a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Größere Gruppen auf Anfrage. Im Preis enthalten: Vorab-Umfrage, Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO."
-  - q: "Ist der Kompetenznachweis nach Artikel 4 KI-Verordnung im Training enthalten?"
-    a: "Ja. Jede teilnehmende Person erhält nach dem KI-Training Live einen dokumentierten Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben."
-  - q: "Findet das Training remote oder vor Ort statt?"
-    a: "Beides ist möglich. KWAIX arbeitet DACH-weit — remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote ist Standard; Vor-Ort-Termine werden individuell abgestimmt."
-  - q: "Muss ich alle drei Bausteine buchen?"
-    a: "Nein. Das KI-Training Live ist das Kernangebot und funktioniert eigenständig. Der KI-Kickoff ist empfehlenswert, wenn noch keine klare Use-Case-Priorisierung vorhanden ist. Die Trainingsplattform ist optional für Teams, die das Gelernte dauerhaft verankern wollen."
-  - q: "Wie unterscheidet sich KWAIX von anderen KI-Schulungsanbietern?"
-    a: "KWAIX trainiert mit echten Use Cases aus dem Arbeitsalltag der Teilnehmenden — keine generischen Demos, keine Tool-Präsentationen ohne Bezug zur Praxis. Jedes Training endet mit einsatzbereiten Prompt-Vorlagen und einem dokumentierten Kompetenznachweis. Kein Abo-Zwang, kein Vendor Lock-in, DACH-weite Abdeckung."
+  - q: Was bietet KWAIX für Unternehmen an?
+    a: 'KWAIX bietet drei aufeinander aufbauende Leistungen: 1. KI-Kickoff (90–120 Min) — Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche. 2. KI-Training Live — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform — Prompt-Bibliothek, Vorlagen und Update-Module für dauerhaften Kompetenzaufbau. Alle Leistungen einzeln oder kombiniert buchbar, DACH-weit remote und vor Ort.'
+  - q: Was ist der Unterschied zwischen KI-Kickoff und KI-Training?
+    a: Der KI-Kickoff (90–120 Min) klärt mit Geschäftsführung und Fachbereichen, WELCHE KI-Anwendungsfälle sinnvoll sind — vor jeder Investition. Das KI-Training Live schult das Team dann, WIE diese Use Cases konkret umgesetzt werden — mit Prompting-Standards und Kompetenznachweis. Kickoff = Strategie und Priorisierung. Training = Befähigung und Nachweis.
+  - q: Was kostet das KI-Training?
+    a: 'Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Größere Gruppen auf Anfrage. Im Preis enthalten: Vorab-Umfrage, Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO.'
+  - q: Ist der Kompetenznachweis nach Artikel 4 KI-Verordnung im Training enthalten?
+    a: Ja. Jede teilnehmende Person erhält nach dem KI-Training Live einen dokumentierten Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben.
+  - q: Findet das Training remote oder vor Ort statt?
+    a: Beides ist möglich. KWAIX arbeitet DACH-weit — remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote ist Standard; Vor-Ort-Termine werden individuell abgestimmt.
+  - q: Muss ich alle drei Bausteine buchen?
+    a: Nein. Das KI-Training Live ist das Kernangebot und funktioniert eigenständig. Der KI-Kickoff ist empfehlenswert, wenn noch keine klare Use-Case-Priorisierung vorhanden ist. Die Trainingsplattform ist optional für Teams, die das Gelernte dauerhaft verankern wollen.
+  - q: Wie unterscheidet sich KWAIX von anderen KI-Schulungsanbietern?
+    a: KWAIX trainiert mit echten Use Cases aus dem Arbeitsalltag der Teilnehmenden — keine generischen Demos, keine Tool-Präsentationen ohne Bezug zur Praxis. Jedes Training endet mit einsatzbereiten Prompt-Vorlagen und einem dokumentierten Kompetenznachweis. Kein Abo-Zwang, kein Vendor Lock-in, DACH-weite Abdeckung.
 ---
 
 {{< section tone="plain" >}}
@@ -30,14 +30,16 @@ faqItems:
 
 Es gibt viele Anbieter, die über KI sprechen. Das Problem: Viele "KI-Schulungen" sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit der Teilnehmenden. Ein Vortrag über ChatGPT-Funktionen verändert nichts im Betrieb. Was verändert: konkrete Use Cases, getestete Prompt-Vorlagen und ein Team, das nach dem Training weiß, wie es KI wiederholbar, sicher und nach einheitlichen Standards einsetzt.
 
-Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag — nicht über KI, sondern mit KI.
+Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag, **nicht über** KI, **sondern mit KI**.
 
 **Was KWAIX liefert:**
+
 - KI-Kickoff: Priorisierung und Risikocheck, bevor Geld in KI-Projekte fließt
 - KI-Training Live: Team-Training, Prompting-Standards, Kompetenznachweis nach Artikel 4 KI-VO
 - Trainingsplattform: Prompt-Bibliothek, Update-Module für dauerhaften Aufbau
 
 **Was KWAIX nicht liefert:**
+
 - Softwareentwicklung oder KI-Systemintegration
 - Rechtsberatung zur KI-Verordnung
 - Abo-Zwang oder Vendor Lock-in
@@ -46,12 +48,12 @@ Das ist der KWAIX-Ansatz: KI-Training mit echten Aufgaben aus Ihrem Alltag — n
 ## Die drei Bausteine im Vergleich
 
 | Baustein | Zielgruppe | Dauer | Ergebnis | Preis |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | KI-Kickoff | Geschäftsführung + Fachbereiche | 90–120 Min | Use-Case-Shortlist, Risikocheck | Auf Anfrage |
 | KI-Training Live | Teams (1–15+ Personen) | Halber bis ganzer Tag | Kompetenznachweis Art. 4 KI-VO | 2.400–4.650 € netto |
 | Trainingsplattform | Teams ab 5 Personen | Laufend | Prompt-Bibliothek, Standards | Auf Anfrage |
 
-*Alle Preise zzgl. MwSt. Format: remote oder vor Ort. DACH-weit.*
+_Alle Preise zzgl. MwSt. Format: remote oder vor Ort. DACH-weit._
 
 ## Warum diese Reihenfolge sinnvoll ist
 
