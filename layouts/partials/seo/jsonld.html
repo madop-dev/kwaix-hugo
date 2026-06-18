@@ -128,8 +128,8 @@
           }{{ end }}{{ end }}
         ]
       }
-    }{{ end }}{{ with .Params.schemaType }}{{- $type := lower . }},
-    {{- if eq $type "course" }}
+    }{{ end }}{{ with .Params.schemaType }}{{- $type := lower . }}
+    {{- if eq $type "course" }},
     {
       "@type": "Course",
       "@id": "{{ $page.Permalink }}#course",
@@ -149,7 +149,7 @@
         "validFrom": "2025-01-01"
       }{{ end }}
     }
-    {{- else if eq $type "service" }}
+    {{- else if eq $type "service" }},
     {
       "@type": "Service",
       "@id": "{{ $page.Permalink }}#service",
