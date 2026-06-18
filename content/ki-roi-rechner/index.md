@@ -1,95 +1,96 @@
 ---
-title: "KI-ROI-Rechner: Zeitersparnis durch KI-Training in Euro"
-description: "Konservative ROI-Schätzung für KI-Training in KMU: Zeitersparnis in Minuten → Euro pro Monat und Jahr. Transparente Formel, realistische Annahmen."
+title: "KI-ROI-Rechner: Zeitersparnis durch KI-Training berechnen"
+description: "Wie viel ist KI-Training für Ihr Team wert? Konservativer ROI-Rechner: Mitarbeitende × Zeitersparnis × Stundensatz — Break-even typisch unter 2 Monate."
 draft: false
+type: leistungen
+eyebrow: "ROI-Rechner"
+lede: "Schieberegler einstellen, Ergebnis ablesen. Konservative Rechnung — keine Hochglanz-Versprechen."
 canonical: "https://kwaix.de/preise/ki-roi-rechner/"
 url: "/preise/ki-roi-rechner/"
 schemaType: "service"
-faqItems:
-  - q: "Wie wird der ROI des KI-Trainings berechnet?"
-    a: "Formel: Mitarbeitende × (Minuten Zeitersparnis/Tag ÷ 60) × Arbeitstage × Stundensatz − laufender Aufwand. Beispiel: 8 Personen × 12 Min/Tag ÷ 60 × 20 Tage × 55 €/Std = ca. 1.760 € Bruttowert minus 110 € laufender Aufwand = ca. 1.650 € Nettogewinn pro Monat."
-  - q: "Was ist ein realistischer Wert für die tägliche Zeitersparnis durch KI?"
-    a: "Für ein gut geschultes Team mit klaren Use Cases und Prompting-Standards: 8–20 Minuten täglich pro Person sind realistisch. 12 Minuten gilt als konservativer Mittelwert. Bedingung: das Team hat konkrete, wiederholbare Use Cases und arbeitet mit erprobten Prompt-Vorlagen."
-  - q: "Wie schnell amortisiert sich das KI-Training?"
-    a: "Im konservativen Szenario (8 Mitarbeitende, 8 Min/Tag, 55 €/Std): ca. 1.060 € Nettogewinn pro Monat. Bei Trainingskosten von 2.400 € amortisiert sich das Training nach ca. 2,3 Monaten. Im realistischen Szenario (12 Min/Tag): Break-even nach ca. 1,5 Monaten."
-  - q: "Was beeinflusst den ROI am stärksten?"
-    a: "Die drei größten Hebel: 1. Prompt-Standards — einheitliche Vorlagen vervielfachen die Wirkung gegenüber individuellem Experimentieren. 2. Use-Case-Fokus — nur 3–5 gut gewählte, wiederholbare Aufgaben statt beliebiger Nutzung. 3. Team-Breite — je mehr Personen KI sinnvoll einsetzen, desto höher der Gesamteffekt."
+herocta: "Vorgespräch anfragen →"
+herocta2: "Preise ansehen"
+herocta2href: "/preise/"
 heroCards:
   - type: roi
-    title: "ROI‑Rechner"
-    subtitle: "Konservativ rechnen"
-  - type: backlog
-    title: "Annahmen"
-    subtitle: "Use‑Cases sauber wählen"
+    title: "ROI-Rechner"
+    subtitle: "Konservativ gerechnet"
+  - type: training
+    title: "Break-even"
+    subtitle: "Typisch unter 2 Monate"
   - type: prompt
-    title: "Hebel"
-    subtitle: "Standards erhöhen Wirkung"
+    title: "Formel transparent"
+    subtitle: "Keine versteckten Annahmen"
+faqItems:
+  - q: "Wie realistisch sind die Ergebnisse des Rechners?"
+    a: "Der Rechner ist bewusst konservativ. Der Default-Wert von 12 Minuten täglich ist ein niedriger Ansatz — gut geschulte Teams mit klaren Use Cases und Prompting-Standards erreichen oft 20–40 Minuten. Der laufende Overhead (2 Std/Monat) ist bereits abgezogen."
+  - q: "Was ist ein realistischer Stundensatz?"
+    a: "55 €/Std entspricht Vollkosten inkl. Lohnnebenkosten und Overhead — nicht nur dem Bruttogehalt. Für Führungskräfte oder Fachspezialisten ist 75–100 € realistisch. Für Verwaltungspersonal eher 40–50 €."
+  - q: "Wie schnell amortisiert sich KI-Training?"
+    a: "Im konservativen Szenario (8 Personen, 8 Min/Tag, 55 €/Std, 2.400 € Training): Break-even nach ca. 2,3 Monaten. Im realistischen Szenario (12 Min/Tag): ca. 1,5 Monate. In beiden Fällen deutlich unter einem Quartal."
+  - q: "Was beeinflusst den ROI am stärksten?"
+    a: "Die drei größten Hebel: 1. Prompt-Standards — einheitliche Vorlagen multiplizieren die Wirkung. 2. Use-Case-Fokus — 3–5 gut gewählte, wiederholbare Aufgaben statt beliebiger Nutzung. 3. Team-Breite — je mehr Personen sinnvoll einsetzen, desto höher der Gesamteffekt."
+  - q: "Wird laufender Aufwand berücksichtigt?"
+    a: "Ja. Im Rechner sind 2 Stunden laufender Aufwand pro Monat (Pflege, Stichproben, Nachsteuerung) bereits als Kosten abgezogen. Der Einführungsaufwand (6 Std) ist im Break-even enthalten."
 ---
 
-<!-- TODO: Header-Visual (Illustration) + Erklärgrafik (Diagramm/Matrix) + optional Proof-Mockup -->
+<section class="kx-section kx-section--tint">
+<div class="container">
 
-## Einleitung
+## Rechner: Was bringt KI-Training Ihrem Team?
 
-Dieser Rechner gibt Ihnen eine grobe Orientierung für den Business-Case: Wie viel ist es wert, wenn Ihr Team durch den Einsatz von KI-Tools im Alltag ein paar Minuten pro Tag spart? Die Zahlen sind bewusst konservativ gewählt und ersetzen keine individuelle Kalkulation — sie sollen Ihnen helfen, eine erste, realistische Größenordnung einzuschätzen.
+Stellen Sie die Werte für Ihr Unternehmen ein — die Ergebnisse aktualisieren sich sofort.
 
-## So rechnest du
+{{< rechner >}}
 
-Die folgenden Werte sind realistische, eher zurückhaltende Standardannahmen für ein typisches KMU-Team:
+</div>
+</section>
 
-| Parameter | Default-Wert | Hinweis |
-|---|---|---|
-| Mitarbeitende, die KI nutzen | 8 | typische Teamgröße |
-| Zeitersparnis pro Person & Arbeitstag | 12 Minuten | konservativ angesetzt |
-| Arbeitstage pro Monat | 20 | übliches Vollzeit-Pensum |
-| Vollkosten pro Stunde | 55 € | inkl. Lohnnebenkosten und Overhead, nicht nur Bruttogehalt |
-| Einmaliger Einführungsaufwand | 6 Stunden | Einrichtung, Onboarding, erste Routinen |
-| Laufender Aufwand / Qualitätssicherung pro Monat | 2 Stunden | Pflege, Stichproben, Nachsteuerung |
+{{< section tone="plain" >}}
 
-## Ergebnis (Bandbreite)
+## Drei Szenarien im Vergleich
 
-Mit den Default-Werten (8 Mitarbeitende, 20 Arbeitstage, 55 €/Std, 2 Std laufender Aufwand pro Monat) ergeben sich je nach Zeitersparnis pro Tag folgende Größenordnungen:
+{{< cards cols="3" >}}
+{{< card icon="default" title="Konservativ — 8 Min/Tag" text="8 Personen · 55 €/Std · 20 Tage/Mon → ca. 1.060 € Nettogewinn/Monat. Break-even bei 2.400 € Training: 2,3 Monate." >}}
+{{< card icon="roi" title="Realistisch — 12 Min/Tag" text="8 Personen · 55 €/Std · 20 Tage/Mon → ca. 1.650 € Nettogewinn/Monat. Break-even bei 2.400 € Training: 1,5 Monate." >}}
+{{< card icon="training" title="Optimistisch — 20 Min/Tag" text="8 Personen · 55 €/Std · 20 Tage/Mon → ca. 2.820 € Nettogewinn/Monat. Break-even bei 2.400 € Training: unter 1 Monat." >}}
+{{< /cards >}}
 
-| Szenario | Zeitersparnis/Tag | Stunden/Monat | Wert/Monat | Wert/Jahr |
-|---|---|---|---|---|
-| Konservativ | 8 Min | 21,3 Std | ca. 1.060 € | ca. 12.700 € |
-| Realistisch | 12 Min | 32,0 Std | ca. 1.650 € | ca. 19.800 € |
-| Optimistisch | 20 Min | 53,3 Std | ca. 2.820 € | ca. 33.900 € |
-
-Der laufende Aufwand für Pflege und Qualitätssicherung (2 Std/Monat) ist in „Wert/Monat" bereits als Kosten abgezogen. Der einmalige Einführungsaufwand (6 Std × 55 € = 330 €) ist in allen drei Szenarien bereits nach weniger als einem Monat erwirtschaftet — der Break-even liegt selbst im konservativen Szenario bei unter zwei Wochen.
+{{< kpiStrip k1_label="Konservativ" k1_value="2,3 Monate" k2_label="Realistisch" k2_value="1,5 Monate" k3_label="Optimistisch" k3_value="< 1 Monat" k4_label="Formel" k4_value="transparent" >}}
 
 ## Transparente Formel
 
-So kommen die Zahlen zustande:
+**Stunden/Monat** = Mitarbeitende × (Minuten/Tag ÷ 60) × 20 Arbeitstage
 
-**Stunden pro Monat:**
-Stunden/Monat = Mitarbeitende × (Minuten/Tag ÷ 60) × Arbeitstage
+**Wert/Monat (netto)** = (Stunden/Monat × €/Std) − (2 Std Aufwand × €/Std)
 
-**Wert pro Monat:**
-Wert/Monat = (Stunden/Monat × €/Std) − (laufende Stunden/Monat × €/Std)
+**Break-even** = Trainingskosten ÷ Wert/Monat
 
-**Break-even (in Monaten):**
-Break-even = (einmalige Stunden × €/Std) ÷ Wert/Monat
+Der einmalige Einführungsaufwand (6 Std × Stundensatz) fließt in den Break-even ein — im konservativen Szenario ist er nach weniger als zwei Wochen erwirtschaftet.
 
-Setzen Sie Ihre eigenen Werte ein, um eine erste Einschätzung für Ihr Unternehmen zu erhalten.
+{{< /section >}}
 
-## Was beeinflusst den ROI wirklich?
+{{< section tone="plain" >}}
 
-- **Prozesse:** Wie klar definiert sind die Abläufe, in denen KI eingesetzt wird?
-- **Daten:** Liegen die benötigten Informationen in nutzbarer Form vor?
-- **Tool-Regeln:** Gibt es einheitliche Vorgaben, welche Tools wofür genutzt werden?
-- **Prompt-Standards:** Arbeitet das Team mit erprobten, wiederverwendbaren Prompts statt jedes Mal neu zu experimentieren?
-- **Freigaben:** Sind Verantwortlichkeiten und Freigabeprozesse für KI-Ergebnisse geklärt?
-- **Training:** Hat das Team gelernt, KI-Tools sicher und effizient einzusetzen?
-- **Nachsteuerung:** Wird der Einsatz regelmäßig überprüft und angepasst?
+## Was den ROI wirklich bestimmt
 
-Diese Faktoren entscheiden, ob Sie näher am konservativen oder am optimistischen Szenario landen.
+{{< cards cols="3" >}}
+{{< card icon="prompt" title="Prompt-Standards" text="Einheitliche, erprobte Vorlagen multiplizieren die Wirkung. Wer jedes Mal neu experimentiert, braucht 3× so lang." >}}
+{{< card icon="backlog" title="Use-Case-Fokus" text="3–5 klar definierte, wiederholbare Aufgaben bringen mehr als 20 zufällig genutzte Features." >}}
+{{< card icon="training" title="Team-Breite" text="Je mehr Personen sinnvoll einsetzen, desto höher der Gesamteffekt. Ein Einzelkämpfer bewegt wenig." >}}
+{{< /cards >}}
 
-## Nächster Schritt
+## FAQ: ROI-Rechner
 
-Eine realistische Einschätzung für Ihr Unternehmen entsteht am besten im Gespräch. Unser Kernangebot, das [KI READY Training](/leistungen/ki-training-live/), legt dafür die Grundlage — die [Trainingsplattform](/leistungen/trainingsplattform/) hilft optional dabei, die Ersparnis dauerhaft zu sichern. Alle Preise finden Sie unter [/preise/](/preise/).
+**Wie realistisch sind die Ergebnisse?**
+Der Rechner ist bewusst konservativ. 12 Min/Tag ist ein niedriger Ansatz — Teams mit klaren Use Cases und Prompting-Standards erreichen oft 20–40 Minuten. Der laufende Overhead (2 Std/Monat) ist bereits abgezogen.
 
-[Vorgespräch (30 Min) anfragen](mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen) · [Angebot anfordern](mailto:info@kwaix.de?subject=Angebot%20anfordern)
+**Was ist ein realistischer Stundensatz?**
+55 €/Std entspricht Vollkosten inkl. Lohnnebenkosten — nicht nur dem Bruttogehalt. Für Führungskräfte 75–100 €, für Verwaltung eher 40–50 €.
 
-## Hinweis
+**Wie schnell amortisiert sich das Training?**
+Konservatives Szenario (8 Personen, 8 Min, 2.400 €): Break-even nach 2,3 Monaten. Realistisches Szenario (12 Min): 1,5 Monate. In beiden Fällen deutlich unter einem Quartal.
 
-Alle Angaben sind Schätzungen zur ersten Orientierung und keine Zusicherung eines bestimmten Ergebnisses. Die tatsächliche Zeitersparnis hängt von Ihren Prozessen, Daten und der Umsetzung im Team ab und kann im Einzelfall niedriger oder höher ausfallen.
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+
+{{< /section >}}

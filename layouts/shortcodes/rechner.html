@@ -1,0 +1,101 @@
+<div class="roi-rechner">
+  <div class="roi-inputs">
+
+    <div class="roi-field">
+      <label for="roi-ma">Mitarbeitende, die KI nutzen</label>
+      <div class="roi-slider-row">
+        <input type="range" id="roi-ma" min="1" max="30" value="8" step="1">
+        <output id="roi-ma-val" class="roi-output-val">8</output>
+      </div>
+    </div>
+
+    <div class="roi-field">
+      <label for="roi-min">Zeitersparnis pro Person & Tag</label>
+      <div class="roi-slider-row">
+        <input type="range" id="roi-min" min="5" max="60" value="12" step="1">
+        <output id="roi-min-val" class="roi-output-val">12 Min</output>
+      </div>
+    </div>
+
+    <div class="roi-field">
+      <label for="roi-rate">Vollkosten pro Stunde (€)</label>
+      <div class="roi-slider-row">
+        <input type="range" id="roi-rate" min="25" max="120" value="55" step="5">
+        <output id="roi-rate-val" class="roi-output-val">55 €</output>
+      </div>
+    </div>
+
+    <div class="roi-field">
+      <label for="roi-cost">Trainingskosten (netto)</label>
+      <div class="roi-slider-row">
+        <input type="range" id="roi-cost" min="2400" max="10000" value="2400" step="600">
+        <output id="roi-cost-val" class="roi-output-val">2.400 €</output>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="roi-results">
+    <div class="roi-result-card roi-result-card--primary">
+      <div class="roi-result-label">Wert pro Monat</div>
+      <div class="roi-result-value" id="roi-monthly">1.650 €</div>
+    </div>
+    <div class="roi-result-card">
+      <div class="roi-result-label">Wert pro Jahr</div>
+      <div class="roi-result-value" id="roi-yearly">19.800 €</div>
+    </div>
+    <div class="roi-result-card">
+      <div class="roi-result-label">Break-even</div>
+      <div class="roi-result-value" id="roi-breakeven">1,5 Monate</div>
+    </div>
+    <p class="roi-note">Konservative Schätzung · laufender Aufwand (2 Std/Mon) bereits abgezogen</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var ma    = document.getElementById('roi-ma');
+  var min   = document.getElementById('roi-min');
+  var rate  = document.getElementById('roi-rate');
+  var cost  = document.getElementById('roi-cost');
+
+  function fmt(n) {
+    return n.toLocaleString('de-DE', { minimumFractionDigits: 0, maximumFractionDigits: 0 }) + ' €';
+  }
+  function fmtMo(n) {
+    if (n < 1) return 'unter 1 Monat';
+    if (n < 2) return n.toFixed(1).replace('.', ',') + ' Monate';
+    return Math.round(n) + ' Monate';
+  }
+
+  function updateTrack(el) {
+    var pct = (el.value - el.min) / (el.max - el.min) * 100;
+    el.style.background = 'linear-gradient(to right, #4f46e5 0%, #4f46e5 ' + pct + '%, #e5e7eb ' + pct + '%, #e5e7eb 100%)';
+  }
+
+  function calc() {
+    var m  = parseInt(ma.value);
+    var t  = parseInt(min.value);
+    var r  = parseInt(rate.value);
+    var c  = parseInt(cost.value);
+    [ma, min, rate, cost].forEach(updateTrack);
+    var hoursPerMonth = m * (t / 60) * 20;
+    var grossMonth    = hoursPerMonth * r;
+    var overhead      = 2 * r;  // 2h laufender Aufwand
+    var netMonth      = grossMonth - overhead;
+    var netYear       = netMonth * 12;
+    var be            = netMonth > 0 ? c / netMonth : 999;
+
+    document.getElementById('roi-ma-val').textContent   = m;
+    document.getElementById('roi-min-val').textContent  = t + ' Min';
+    document.getElementById('roi-rate-val').textContent = r + ' €';
+    document.getElementById('roi-cost-val').textContent = fmt(c);
+    document.getElementById('roi-monthly').textContent  = fmt(Math.round(netMonth / 10) * 10);
+    document.getElementById('roi-yearly').textContent   = fmt(Math.round(netYear / 100) * 100);
+    document.getElementById('roi-breakeven').textContent = fmtMo(be);
+  }
+
+  [ma, min, rate, cost].forEach(function(el){ el.addEventListener('input', calc); });
+  calc();
+})();
+</script>
