@@ -41,26 +41,19 @@ faqItems:
     a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'KI-Training Live anfragen'. Wir melden uns innerhalb von einem Werktag."
 ---
 
-{{< section tone="plain" >}}
+{{< section tone="tint" >}}
 
-## KI-Training Live für Ihr Team
-
-KWAIX trainiert Ihr Team mit echten Aufgaben aus dem eigenen Arbeitsalltag: Berichte, Angebote, Protokolle, Kundenkommunikation — mit einheitlichen Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung. Kein generisches Seminar, kein Tool-Vortrag ohne Praxisbezug.
+## Drei Gründe, warum Teams mit KWAIX trainieren
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="Format" text="Live-Training vor Ort oder remote — DACH-weit, kein Reiseaufwand nötig." >}}
-{{< card icon="default" title="Teamgröße" text="1 bis über 15 Mitarbeitende — gestaffelte Preise, details unter /preise/." href="/preise/" >}}
-{{< card icon="default" title="Dauer" text="Halber bis ganzer Tag — richtet sich nach Teamgröße und Vorkenntnissen." >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Jeder Teilnehmende erhält den Nachweis nach Artikel 4 EU KI-Verordnung." >}}
-{{< card icon="prompt" title="Im Preis enthalten" text="Handout, Prompt-Bibliothek, Policy-Template und Kompetenznachweis — alles inklusive." >}}
-{{< card icon="default" title="Einstieg" text="Kostenloses Vorgespräch (30 Min) — kein Formular, einfach per E-Mail." href="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" >}}
+{{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO" text="Seit 2. August 2025 gesetzliche Pflicht für alle Unternehmen, die KI einsetzen. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
+{{< card icon="training" title="Echte Use Cases — keine Demos" text="Ihr Team arbeitet im Training mit Aufgaben aus dem eigenen Alltag: Berichte, Angebote, Protokolle, Kundenmails. Was erarbeitet wird, ist am nächsten Tag einsatzbereit." >}}
+{{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Kein Training ohne Ergebnis: Prompt-Bibliothek, Policy-Template und Handout sind im Preis enthalten. Ab 2.400 € netto für Teams bis 5 Personen." href="/preise/" cta="Preise ansehen" >}}
 {{< /cards >}}
-
-{{< kpiStrip k1_label="Format" k1_value="Live vor Ort oder remote" k2_label="Teamgröße" k2_value="1–15+ Mitarbeitende" k3_label="Praxisanteil" k3_value="Use Cases live" k4_label="Ergebnis" k4_value="Nachweis Art. 4 KI-VO" >}}
 
 {{< /section >}}
 
-{{< section tone="tint" >}}
+{{< section tone="plain" >}}
 
 ## Was im KI-Training Live passiert
 
