@@ -4,6 +4,7 @@ description: "Was Unternehmen beim KI-Einsatz datenschutzrechtlich beachten müs
 eyebrow: "KI-VO · Datenschutz & DSGVO"
 lede: "KI-Tools verarbeiten Daten. Was dabei DSGVO-konform ist, hängt vom Tool, der Konfiguration und der Nutzung ab — nicht von einer pauschalen Regel."
 draft: false
+darkhero: true
 canonical: "https://kwaix.de/ki-verordnung/datenschutz-dsgvo/"
 url: "/ki-verordnung/datenschutz-dsgvo/"
 schemaType: "service"

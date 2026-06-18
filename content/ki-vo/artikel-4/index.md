@@ -4,6 +4,7 @@ description: "Was Artikel 4 der EU KI-Verordnung von Unternehmen fordert: KI-Kom
 eyebrow: "KI-VO · Artikel 4"
 lede: "Artikel 4 der EU KI-Verordnung ist seit dem 2. August 2025 verpflichtend. Er fordert von jedem Unternehmen, das KI-Systeme einsetzt, den Nachweis ausreichender KI-Kompetenz seiner Mitarbeitenden."
 draft: false
+darkhero: true
 canonical: "https://kwaix.de/ki-verordnung/artikel-4-ki-kompetenz/"
 url: "/ki-verordnung/artikel-4-ki-kompetenz/"
 schemaType: "service"

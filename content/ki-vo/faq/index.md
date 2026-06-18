@@ -4,6 +4,7 @@ description: "Häufige Fragen von KMU zur EU KI-Verordnung: Was gilt seit wann, 
 eyebrow: "KI-VO · FAQ"
 lede: "Die häufigsten Fragen zur EU KI-Verordnung — beantwortet für KMU-Verantwortliche, ohne Juristendeutsch. Keine Rechtsberatung, aber klare Orientierung."
 draft: false
+darkhero: true
 canonical: "https://kwaix.de/ki-verordnung/faq/"
 url: "/ki-verordnung/faq/"
 schemaType: "faq"

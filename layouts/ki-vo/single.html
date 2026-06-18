@@ -1,0 +1,59 @@
+{{ define "main" }}
+<article class="page">
+
+{{/* ── HERO ─────────────────────────────────────────────────────────────── */}}
+<section class="leistung-hero">
+<div class="leistung-hero-bg" aria-hidden="true">
+  <div class="leistung-hero-orb leistung-hero-orb--1"></div>
+  <div class="leistung-hero-orb leistung-hero-orb--2"></div>
+</div>
+<div class="container">
+<div class="leistung-hero-inner">
+
+  <div class="leistung-hero-text">
+    {{ with .Params.eyebrow }}<div class="leistung-hero-badge reveal">{{ . }}</div>{{ end }}
+    <h1 class="leistung-hero-h1 reveal d1">{{ .Title }}</h1>
+    {{ with (or .Params.lede .Description) }}<p class="leistung-hero-sub reveal d2">{{ . }}</p>{{ end }}
+
+    {{ if .Params.heroCards }}
+    <ul class="leistung-hero-benefits reveal d2">
+      {{ range .Params.heroCards }}
+      <li><span class="leistung-hero-check">✓</span>{{ .title }}{{ with .subtitle }} — <em>{{ . }}</em>{{ end }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <div class="leistung-hero-buttons reveal d3">
+      <a href="mailto:info@kwaix.de?subject=KI-Verordnung%20%E2%80%93%20{{ .Title | urlquery }}" class="btn-hero-primary">Compliance-Fragen klären →</a>
+      <a href="/leistungen/ki-training-live/" class="btn-hero-secondary">Kompetenznachweis im Training</a>
+    </div>
+  </div>
+
+  <div class="leistung-hero-proof reveal d2" aria-hidden="true">
+    <div class="leistung-proof-card">
+      <div class="leistung-proof-num">2. Aug.<br>2025</div>
+      <div class="leistung-proof-label">Artikel 4 KI-VO<br>gilt seit diesem Datum</div>
+    </div>
+    <div class="leistung-proof-card leistung-proof-card--accent">
+      <div class="leistung-proof-num">Art.&nbsp;4</div>
+      <div class="leistung-proof-label">Kompetenzpflicht<br>für alle Betreiber</div>
+    </div>
+    <div class="leistung-proof-card">
+      <div class="leistung-proof-num">15 Mio.&nbsp;€</div>
+      <div class="leistung-proof-label">max. Bußgeld<br>bei Verstoß</div>
+    </div>
+  </div>
+
+</div>
+</div>
+</section>
+
+{{/* ── CONTENT ──────────────────────────────────────────────────────────── */}}
+<div class="container">
+  <div class="page-content reveal d2">
+    {{ .Content }}
+  </div>
+</div>
+
+</article>
+{{ end }}

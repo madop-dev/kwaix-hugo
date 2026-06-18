@@ -4,6 +4,7 @@ description: "Was der KI-Kompetenznachweis nach Artikel 4 EU KI-Verordnung für 
 eyebrow: "KI-VO · Kompetenznachweis"
 lede: "Seit dem 2. August 2025 sind Unternehmen verpflichtet, KI-Kompetenz ihrer Mitarbeitenden sicherzustellen und nachweisbar zu dokumentieren — Artikel 4 EU KI-Verordnung."
 draft: false
+darkhero: true
 canonical: "https://kwaix.de/ki-verordnung/kompetenznachweis/"
 url: "/ki-verordnung/kompetenznachweis/"
 schemaType: "service"
