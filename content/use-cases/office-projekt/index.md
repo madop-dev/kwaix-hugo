@@ -34,7 +34,7 @@ faqItems:
     a: "Typische Einsparung für eine Assistenz, Sachbearbeitung oder Projektkoordination: 60–90 Minuten täglich. Protokolle: von 20–30 Min auf 5 Min. Berichte: von 60–90 Min auf 20–30 Min. E-Mails (schwierig): von 15–20 Min auf 3–5 Min. Zusammenfassungen: von 30–45 Min auf 5–10 Min."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Büroalltag — die unsichtbaren Stunden zurückgewinnen
 
@@ -59,9 +59,9 @@ Das entspricht bei einer 5-Tage-Woche rund **5–7 Stunden zurückgewonnen pro W
 
 {{< kpiStrip k1_label="Täglich" k1_value="60–90 Min gespart" k2_label="Pro Woche" k2_value="5–7 Std zurück" k3_label="Protokoll" k3_value="5 Min statt 30" k4_label="ROI" k4_value="Rechner →" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases mit Schritt-für-Schritt-Ablauf
 
@@ -76,9 +76,9 @@ Das entspricht bei einer 5-Tage-Woche rund **5–7 Stunden zurückgewonnen pro W
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Office%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI im Office- und Projektalltag
 
@@ -96,4 +96,4 @@ Ja — Mahnungen, Absagen, Eskalationen, Kritik. KI formuliert sachlich und dees
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
-{{< /section >}}
+{{% /section %}}

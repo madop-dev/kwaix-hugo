@@ -8,7 +8,7 @@ canonical: "https://kwaix.de/referenzen/"
 heroIcon: "proof"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Aus der Praxis
 
@@ -22,9 +22,9 @@ Was wir zeigen können: typische Ausgangssituationen, Ergebnisse und Einschätzu
 {{< card icon="backlog" title="Handelsunternehmen, ~20 MA" text="Ausgangslage: Produkttexte für ~200 SKU manuell gepflegt. Nach Kickoff + Training: Texterstellung 70 % schneller, einheitlicherer Ton." >}}
 {{< /cards >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was KI-Training realistisch leistet
 
@@ -36,4 +36,4 @@ Was wir zeigen können: typische Ausgangssituationen, Ergebnisse und Einschätzu
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Referenzen%20anfragen" primaryText="Konkrete Referenzen anfragen" secondaryHref="/leistungen/" secondaryText="Leistungen ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

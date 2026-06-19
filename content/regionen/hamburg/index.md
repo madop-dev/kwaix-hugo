@@ -27,7 +27,7 @@ faqItems:
     a: "In der Regel 1–3 Wochen nach Auftragserteilung. Remote-Termine können oft schneller organisiert werden. Kostenloses Vorgespräch: info@kwaix.de."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für KMU in Hamburg und Metropolregion
 
@@ -49,9 +49,9 @@ KWAIX begleitet Hamburger KMU und Mittelstand beim praxisnahen KI-Einstieg — r
 
 {{< kpiStrip k1_label="Metropolregion" k1_value="Hamburg & Umgebung" k2_label="Format" k2_value="Remote (Standard)" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases für Hamburger Unternehmen
 
@@ -66,9 +66,9 @@ KWAIX begleitet Hamburger KMU und Mittelstand beim praxisnahen KI-Einstieg — r
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Hamburg%20anfragen" primaryText="Vorgespräch für Hamburg anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Hamburg
 
@@ -86,4 +86,4 @@ Remote ist vollwertig und für die meisten Trainings die effizientere Wahl. Vor 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Hamburg%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

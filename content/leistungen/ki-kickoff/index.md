@@ -37,7 +37,7 @@ faqItems:
     a: "Nein. Wir ordnen die besprochenen Use Cases orientierend im Hinblick auf Datenschutz und KI-Verordnung ein — als Ausgangspunkt, nicht als Rechtsberatung. Für verbindliche rechtliche Bewertungen empfehlen wir spezialisierte Kanzleien."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Entscheidungssicherheit vor der Investition
 
@@ -65,9 +65,9 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 
 {{< kpiStrip k1_label="Dauer" k1_value="90–120 Min" k2_label="Ergebnis" k2_value="Use-Case-Shortlist" k3_label="Format" k3_value="Remote oder vor Ort" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Für wen der KI-Kickoff das Richtige ist
 
@@ -100,9 +100,9 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Kickoff
 
@@ -126,4 +126,4 @@ Das Angebot erhalten Sie nach dem kostenlosen Vorgespräch (30 Min). Preisübers
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" note="Preise und Staffelung: /preise/" >}}
 
-{{< /section >}}
+{{% /section %}}

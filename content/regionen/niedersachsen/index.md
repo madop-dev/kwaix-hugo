@@ -27,7 +27,7 @@ faqItems:
     a: "In der Regel 1–3 Wochen nach Auftragserteilung. Remote-Termine können oft schneller organisiert werden als Vor-Ort-Termine."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für KMU in Niedersachsen
 
@@ -45,9 +45,9 @@ KWAIX begleitet Unternehmen in ganz Niedersachsen beim praxisnahen KI-Einstieg �
 
 {{< kpiStrip k1_label="Standorte" k1_value="Ganz Niedersachsen" k2_label="Format" k2_value="Remote & vor Ort" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases für Niedersächsische Unternehmen
 
@@ -62,9 +62,9 @@ KWAIX begleitet Unternehmen in ganz Niedersachsen beim praxisnahen KI-Einstieg �
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Niedersachsen%20anfragen" primaryText="Vorgespräch für Niedersachsen anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Niedersachsen
 
@@ -82,4 +82,4 @@ Kein Extra-Paket, aber die Preisgestaffelung gilt: 1–5 Personen ab 2.400 € n
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Niedersachsen%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

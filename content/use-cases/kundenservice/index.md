@@ -34,7 +34,7 @@ faqItems:
     a: "Kundendaten dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentliche KI-Tools eingegeben werden. Im Training erarbeiten wir Prompt-Vorlagen, die mit anonymisierten Platzhaltern arbeiten — Kundendaten werden nicht in den Prompt kopiert, sondern erst in der fertigen Antwort eingefügt."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Kundenservice — Geschwindigkeit ohne Qualitätsverlust
 
@@ -58,9 +58,9 @@ KI-Tools verändern diesen Prozess: Aus einer strukturierten Eingabe — Anfrage
 
 {{< kpiStrip k1_label="Zeitersparnis" k1_value="40–70 % pro Anfrage" k2_label="Täglich" k2_value="2–3 Std zurück" k3_label="Ton" k3_value="Individuell, nicht generisch" k4_label="ROI" k4_value="Rechner →" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases mit Eingabe-Ausgabe-Beispiel
 
@@ -75,9 +75,9 @@ KI-Tools verändern diesen Prozess: Aus einer strukturierten Eingabe — Anfrage
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Kundenservice%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI im Kundenservice
 
@@ -95,4 +95,4 @@ Kundendaten ohne AVV nicht in öffentliche KI-Tools. Pragmatische Lösung: Platz
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
-{{< /section >}}
+{{% /section %}}

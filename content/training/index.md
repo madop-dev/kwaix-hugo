@@ -39,7 +39,7 @@ faqItems:
     a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im kostenlosen Vorgespräch (30 Min), was für Ihr Team und Ihren Standort am sinnvollsten ist."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Kompetenz für Ihr Team — strukturiert und praxisnah
 
@@ -57,9 +57,9 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 
 {{< kpiStrip k1_label="Teilnehmer" k1_value="1–15+ Personen" k2_label="Einstiegspreis" k2_value="2.400 € netto" k3_label="Format" k3_value="Remote oder vor Ort" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Die drei Bausteine im Überblick
 
@@ -89,9 +89,9 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Trainingsprogramm
 
@@ -115,4 +115,4 @@ Beides ist möglich. KWAIX arbeitet DACH-weit — DE, AT, CH.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

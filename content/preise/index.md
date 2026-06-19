@@ -46,13 +46,13 @@ faqItems:
 
 {{< pricing-cards >}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 {{< kpiStrip k1_label="Kleinstes Paket" k1_value="2.400 € netto" k2_label="Pro Person (5 MA)" k2_value="480 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="Alle Preise" k4_value="zzgl. MwSt." >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Optional dazu buchbar
 
@@ -62,9 +62,9 @@ faqItems:
 {{< card icon="roi" title="ROI-Rechner" text="Konservative Schätzung: Was bringt KI-Training Ihrem Team in Euro? Schieberegler, Ergebnis sofort." href="/preise/ki-roi-rechner/" cta="ROI berechnen" >}}
 {{< /cards >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf: Vom Vorgespräch zum Kompetenznachweis
 
@@ -79,9 +79,9 @@ faqItems:
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Preise & Ablauf
 
@@ -105,4 +105,4 @@ Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgew
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="ROI grob überschlagen: /preise/ki-roi-rechner/" >}}
 
-{{< /section >}}
+{{% /section %}}

@@ -34,7 +34,7 @@ faqItems:
     a: "Stand 2026 gibt es in Deutschland keine generelle Kennzeichnungspflicht für KI-generierten Marketing-Content. Für Werbung, die als redaktioneller Content getarnt ist (Native Advertising), gelten aber Transparenzpflichten unabhängig vom Erstellungsweg. Für KI-generierte Bilder und Videos gibt es strengere Regelungen im Entstehen."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Marketing — Content-Engpass lösen
 
@@ -58,9 +58,9 @@ Das häufigste Marketing-Problem in KMU: Zu wenig Zeit für zu viele Kanäle. De
 
 {{< kpiStrip k1_label="Zeitersparnis" k1_value="50–70 %" k2_label="10 Produkttexte" k2_value="45 Min statt 6 Std" k3_label="Schlüssel" k3_value="Markenstimmen-Prompt" k4_label="ROI" k4_value="Rechner →" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases mit Eingabe-Ausgabe-Beispiel
 
@@ -75,9 +75,9 @@ Das häufigste Marketing-Problem in KMU: Zu wenig Zeit für zu viele Kanäle. De
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Marketing%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI im Marketing
 
@@ -98,4 +98,4 @@ Stand 2026: keine generelle Kennzeichnungspflicht für KI-generierten Marketing-
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
-{{< /section >}}
+{{% /section %}}

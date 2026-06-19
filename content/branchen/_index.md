@@ -33,7 +33,7 @@ faqItems:
     a: "Ja. Artikel 4 der Verordnung (EU) 2024/1689 gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben — unabhängig von Branche oder Größe. Ob Handwerksbetrieb oder Industrieunternehmen: Wer ChatGPT, Copilot oder vergleichbare Tools beruflich einsetzt, ist Betreiber im Sinne der Verordnung und muss KI-Kompetenz nachweisbar sicherstellen."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Warum KI-Training branchenspezifisch sein muss
 
@@ -74,9 +74,9 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 
 {{< kpiStrip k1_label="Branchen" k1_value="4 Schwerpunkte" k2_label="Artikel 4 gilt" k2_value="seit 2. Aug. 2025" k3_label="Ersparnis" k3_value="20–90 Min/Tag" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Für welche Branche arbeiten Sie?
 
@@ -99,9 +99,9 @@ Details: [Kompetenznachweis nach Artikel 4 KI-VO →](/ki-verordnung/kompetenzna
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen" primaryText="Vorgespräch für Ihre Branche anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Wie das branchenspezifische Training abläuft
 
@@ -130,4 +130,4 @@ Kostenloses Vorgespräch (30 Min): [info@kwaix.de](mailto:info@kwaix.de?subject=
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}

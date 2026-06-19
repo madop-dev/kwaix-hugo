@@ -33,7 +33,7 @@ faqItems:
     a: "Wenn Sie KI-Tools einsetzen, die personenbezogene Daten Ihrer Kunden verarbeiten (z.B. KI-gestützte Kommunikation), sollten Sie das in Ihrer Datenschutzerklärung transparent machen. Für interne Tools, die nur Mitarbeiterdaten verarbeiten, gilt das Mitarbeiterdatenschutzrecht."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Einsatz und DSGVO — was Sie wissen müssen
 
@@ -51,9 +51,9 @@ Der Einsatz von KI-Tools im Unternehmen ist nicht automatisch DSGVO-widrig. Ents
 
 {{< kpiStrip k1_label="Grundregel" k1_value="Kein AVV = keine Personaldaten" k2_label="DSGVO" k2_value="gilt parallel" k3_label="KI-VO Art. 4" k3_value="Schulung Pflicht" k4_label="Hinweis" k4_value="Keine Rechtsberatung" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Die wichtigsten Datenschutzregeln beim KI-Einsatz
 
@@ -77,9 +77,9 @@ Der Einsatz von KI-Tools im Unternehmen ist nicht automatisch DSGVO-widrig. Ents
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Datenschutz%20KI-Einsatz%20besprechen" primaryText="Datenschutz im KI-Kickoff klären" secondaryHref="/ki-verordnung/ki-policy/" secondaryText="KI-Policy erstellen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Datenschutz & DSGVO beim KI-Einsatz
 
@@ -100,4 +100,4 @@ Nur bei hohem Risiko — z.B. systematisches KI-basiertes Profiling von Kunden o
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=DSGVO%20KI-Einsatz%20anfragen" primaryText="Im Kickoff besprechen" secondaryHref="/ki-verordnung/" secondaryText="KI-VO Übersicht" >}}
 
-{{< /section >}}
+{{% /section %}}

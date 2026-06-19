@@ -35,7 +35,7 @@ faqItems:
     a: "GEO ist die Optimierung von Website-Inhalten für KI-Suchmaschinen wie ChatGPT, Perplexity und Google AI Overviews — ergänzend zur klassischen SEO. Merkmale von GEO-optimierten Inhalten: klare Definitionen mit genauen Quellenangaben, spezifische Zahlen statt Allgemeinaussagen, FAQ-Format für direkte Frage-Antwort-Paare, Entitäts-Klarheit (wer ist KWAIX, was bietet KWAIX an, für wen). Ziel: KI-Systeme können präzise Antworten auf Nutzerfragen mit KWAIX-Inhalten generieren."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Wissen für Unternehmen — ohne Buzzwords, mit Zahlen
 
@@ -76,9 +76,9 @@ Die Inhalte sind bewusst zitierfähig aufgebaut: klare Definitionen, spezifische
 
 {{< kpiStrip k1_label="Art. 4 gilt seit" k1_value="2. Aug. 2025" k2_label="Bußgeld Betreiber" k2_value="bis 15 Mio. €" k3_label="KI Use Cases" k3_value="6 Funktionen" k4_label="ROI (8 MA)" k4_value="~21.000 €/Jahr" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## KI-Automatisierung: Was ist das für KMU?
 
@@ -106,9 +106,9 @@ Wenn Aufgaben vollständig ohne menschliche Eingabe ablaufen sollen — z.B. aut
 
 {{< cta primaryHref="/ki-verordnung/" primaryText="KI-Verordnung vollständig erklärt" secondaryHref="/use-cases/" secondaryText="KI Use Cases mit Zahlen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Wissen für Unternehmen
 
@@ -129,4 +129,4 @@ Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — 3–5 Use C
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (kostenlos)" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}

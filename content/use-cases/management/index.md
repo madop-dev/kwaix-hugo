@@ -34,7 +34,7 @@ faqItems:
     a: "Drei Hauptrisiken: 1. Halluzinationen — KI erfindet Fakten, Zahlen oder Quellen, die nicht existieren. Niemals Zahlen oder Rechtsfakten aus KI-Output ohne Prüfung übernehmen. 2. Datenschutz — keine vertraulichen Unternehmens- oder Personaldaten in öffentliche KI-Tools ohne AVV. 3. Abhängigkeit — KI-Zusammenfassungen ersetzen nicht das eigene Urteilsvermögen. KI komprimiert, interpretiert aber nicht zwingend richtig."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI für Führungskräfte — Informationsrauschen reduzieren
 
@@ -61,9 +61,9 @@ Geschäftsführerinnen und Führungskräfte in KMU sind nicht entscheidungsmüde
 
 {{< kpiStrip k1_label="Bericht" k1_value="20 Seiten in 2 Min" k2_label="Entscheidung" k2_value="Vorlage in 10 Min" k3_label="Halluzination" k3_value="Immer prüfen!" k4_label="Einstieg" k4_value="KI-Kickoff 90 Min" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases für Führungskräfte
 
@@ -78,9 +78,9 @@ Geschäftsführerinnen und Führungskräfte in KMU sind nicht entscheidungsmüde
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="KI-Kickoff für Führungsebene" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI für Führungskräfte und Management
 
@@ -98,4 +98,4 @@ Drei Aufgaben, die sofort Wirkung zeigen: Berichte zusammenfassen lassen, Meetin
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Management%20anfragen" primaryText="Kickoff anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}

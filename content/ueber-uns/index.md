@@ -31,7 +31,7 @@ faqItems:
     a: "DACH-weit. KWAIX bietet Trainings remote und vor Ort in Deutschland, Österreich und der Schweiz an. Remote-Training ist Standard; Vor-Ort-Termine werden individuell abgestimmt."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was KWAIX ist — und was nicht
 
@@ -69,9 +69,9 @@ KWAIX ist ein KI-Trainingsanbieter für KMU und Mittelstand im DACH-Raum. Das kl
 
 {{< kpiStrip k1_label="Zielgruppe" k1_value="KMU & Mittelstand" k2_label="Region" k2_value="DACH-weit" k3_label="Fokus" k3_value="KI-Training & Nachweis" k4_label="Format" k4_value="Remote & vor Ort" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Haltung zu KI
 
@@ -94,9 +94,9 @@ KWAIX wird von **Marion Dopmann** geführt. Sie ist KI-Trainerin mit Schwerpunkt
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Über KWAIX
 
@@ -114,4 +114,4 @@ DACH-weit. Remote ist Standard. Vor-Ort-Termine in DE, AT, CH werden individuell
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/kontakt/" secondaryText="Kontakt" >}}
 
-{{< /section >}}
+{{% /section %}}

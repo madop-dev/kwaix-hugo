@@ -33,7 +33,7 @@ faqItems:
     a: "Die KI-Policy ist im KI-Kickoff (ab Einzel-Erstgespräch) und im KI-Training Live enthalten. Sie ist kein separates Produkt, sondern Bestandteil jedes KWAIX-Engagements — als Policy-Template, das Sie intern anpassen und weiterentwickeln."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was ist eine KI-Policy und warum brauchen KMU sie?
 
@@ -56,9 +56,9 @@ Eine **KI-Policy** ist eine interne Unternehmensrichtlinie, die festlegt:
 
 {{< kpiStrip k1_label="Umfang" k1_value="1–2 Seiten" k2_label="Erstellt in" k2_value="KI-Kickoff" k3_label="KI-VO" k3_value="Artikel 4 + 26" k4_label="Enthalten in" k4_value="Kickoff & Training" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was eine KI-Policy enthalten sollte
 
@@ -77,9 +77,9 @@ Eine Policy ersetzt keine Rechtsberatung. Sie gibt keine Garantie für vollstän
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Policy%20anfragen" primaryText="KI-Policy im Kickoff entwickeln" secondaryHref="/leistungen/ki-kickoff/" secondaryText="KI-Kickoff im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Policy für Unternehmen
 
@@ -103,4 +103,4 @@ Die KI-Policy ist im [KI-Kickoff](/leistungen/ki-kickoff/) und im [KI-Training L
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Policy%20entwickeln" primaryText="Jetzt anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}

@@ -46,7 +46,7 @@ Stellen Sie die Werte für Ihr Unternehmen ein — die Ergebnisse aktualisieren 
 </div>
 </section>
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Drei Szenarien im Vergleich
 
@@ -68,9 +68,9 @@ Stellen Sie die Werte für Ihr Unternehmen ein — die Ergebnisse aktualisieren 
 
 Der einmalige Einführungsaufwand (6 Std × Stundensatz) fließt in den Break-even ein — im konservativen Szenario ist er nach weniger als zwei Wochen erwirtschaftet.
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was den ROI wirklich bestimmt
 
@@ -93,4 +93,4 @@ Konservatives Szenario (8 Personen, 8 Min, 2.400 €): Break-even nach 2,3 Monat
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
-{{< /section >}}
+{{% /section %}}

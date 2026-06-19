@@ -39,7 +39,7 @@ faqItems:
     a: "Nach dem abgeschlossenen Training erstellt KWAIX für jede teilnehmende Person ein individuelles Teilnahmezertifikat als PDF. Dieses enthält Schulungsdatum, Inhalte, Teilnehmername und die Bestätigung der Kompetenzziele nach Artikel 4 KI-VO. Die Archivierung obliegt dem Unternehmen."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was ist der KI-Kompetenznachweis nach Artikel 4 KI-VO?
 
@@ -58,9 +58,9 @@ Artikel 4 der **EU KI-Verordnung (Verordnung (EU) 2024/1689)** verpflichtet Unte
 
 {{< kpiStrip k1_label="Gilt seit" k1_value="2. August 2025" k2_label="Für wen" k2_value="KI-Betreiber & Anbieter" k3_label="Format" k3_value="Kein Fixformat" k4_label="Bei KWAIX" k4_value="Inklusive im Training" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was Artikel 4 KI-VO konkret fordert
 
@@ -84,9 +84,9 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf: Training + Kompetenznachweis in einem Schritt
 
@@ -101,9 +101,9 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Kompetenznachweis Artikel 4 KI-VO
 
@@ -136,4 +136,4 @@ Nach dem abgeschlossenen Training stellt KWAIX für jede Teilnehmende ein indivi
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20Artikel%204%20KI-VO%20anfragen" primaryText="Nachweis-Training anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}

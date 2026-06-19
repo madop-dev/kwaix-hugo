@@ -34,7 +34,7 @@ faqItems:
     a: "Typische Zeitersparnis: Stellenanzeige von 60–90 Min auf 15–20 Min, Onboarding-Unterlagen von 2–3 Std auf 45–60 Min, Arbeitszeugnis von 45–90 Min auf 20–30 Min, Unterweisungsprotokoll von 20 Min auf 5 Min. Gesamtersparnis für eine HR-Person mit 3–5 MA pro Woche: 4–8 Stunden."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI in HR — Routinearbeit reduzieren, Personalarbeit stärken
 
@@ -57,9 +57,9 @@ HR-Teams in KMU leisten täglich Schreibarbeit, die keinen direkten Mehrwert fü
 
 {{< kpiStrip k1_label="Zeitersparnis" k1_value="4–8 Std/Woche" k2_label="Stellenanzeige" k2_value="15–20 Min statt 90" k3_label="Compliance" k3_value="DSGVO + KI-VO" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases mit Eingabe-Ausgabe-Beispiel
 
@@ -82,9 +82,9 @@ HR-Teams in KMU leisten täglich Schreibarbeit, die keinen direkten Mehrwert fü
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20HR%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI im HR
 
@@ -102,4 +102,4 @@ Typisch: 4–8 Stunden pro Woche für eine HR-Person in einem Unternehmen mit 20
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/ki-verordnung/datenschutz-dsgvo/" secondaryText="Datenschutz bei KI" >}}
 
-{{< /section >}}
+{{% /section %}}

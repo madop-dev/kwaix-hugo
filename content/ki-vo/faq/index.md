@@ -32,7 +32,7 @@ faqItems:
     a: "Der vollständige Text der Verordnung (EU) 2024/1689 ist im Amtsblatt der Europäischen Union veröffentlicht und auf EUR-Lex abrufbar. Artikel 4 (KI-Kompetenz) steht auf Seite 1 des Artikelteils."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: EU KI-Verordnung für KMU
 
@@ -67,9 +67,9 @@ Die KI-Verordnung schreibt keine KI-Policy explizit vor, aber sie ist die prakti
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-VO%20Umsetzung%20anfragen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/" secondaryText="KI-VO Übersicht" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Zeitleiste EU KI-Verordnung
 
@@ -82,4 +82,4 @@ Die KI-Verordnung schreibt keine KI-Policy explizit vor, aber sie ist die prakti
 
 {{< cta primaryHref="/leistungen/ki-training-live/" primaryText="Jetzt schulen & nachweisen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}

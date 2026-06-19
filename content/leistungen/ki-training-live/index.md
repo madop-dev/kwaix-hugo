@@ -42,7 +42,7 @@ faqItems:
     a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'KI-Training Live anfragen'. Wir melden uns innerhalb von einem Werktag."
 ---
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Drei Gründe, warum Teams mit KWAIX trainieren
 
@@ -52,9 +52,9 @@ faqItems:
 {{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Kein Training ohne Ergebnis: Prompt-Bibliothek, Policy-Template und Handout sind im Preis enthalten. Ab 2.400 € netto für Teams bis 5 Personen." href="/preise/" cta="Preise ansehen" >}}
 {{< /cards >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was im KI-Training Live passiert
 
@@ -96,9 +96,9 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf: Vom Vorgespräch bis zum Kompetenznachweis
 
@@ -113,9 +113,9 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/leistungen/ki-kickoff/" secondaryText="Erst KI-Kickoff ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training Live
 
@@ -148,4 +148,4 @@ Sie erhalten Handout, Prompt-Bibliothek und Policy-Template. Optional schließt 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
-{{< /section >}}
+{{% /section %}}

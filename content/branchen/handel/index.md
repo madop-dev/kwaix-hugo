@@ -32,7 +32,7 @@ heroCards:
     subtitle: "Für Verkauf & Büro"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Handel — weniger Routine, mehr Wirkung
 
@@ -48,9 +48,9 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 
 {{< kpiStrip k1_label="Typische Ersparnis" k1_value="30–60 Min/Tag" k2_label="Teamgröße" k2_value="3–50 MA" k3_label="Use Cases" k3_value="Produkttexte, Service" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases im Handel
 
@@ -65,9 +65,9 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf
 
@@ -82,9 +82,9 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ
 
@@ -100,4 +100,4 @@ Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Pre
 **Gilt das auch für Franchise-Systeme mit mehreren Standorten?**
 Ja — für Schulungen mehrerer Standorte sprechen Sie uns auf ein maßgeschneidertes Angebot an.
 
-{{< /section >}}
+{{% /section %}}

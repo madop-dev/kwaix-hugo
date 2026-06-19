@@ -27,7 +27,7 @@ faqItems:
     a: "Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Anfahrtszeiten sind in der Regel bereits im Angebot berücksichtigt. Details werden transparent kommuniziert."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für Unternehmen in Bremerhaven
 
@@ -47,9 +47,9 @@ KWAIX begleitet KMU und Mittelstand in Bremerhaven beim praxisnahen KI-Einstieg 
 
 {{< kpiStrip k1_label="Region" k1_value="Bremerhaven & Umland" k2_label="Format" k2_value="Vor Ort & Remote" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases für Bremerhavener Unternehmen
 
@@ -72,9 +72,9 @@ KWAIX begleitet KMU und Mittelstand in Bremerhaven beim praxisnahen KI-Einstieg 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="Vorgespräch für Bremerhaven anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Bremerhaven
 
@@ -92,4 +92,4 @@ In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="KI-Training Bremerhaven anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

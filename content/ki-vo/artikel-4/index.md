@@ -33,7 +33,7 @@ faqItems:
     a: "Pragmatisch in vier Schritten: 1. Inventur — welche KI-Tools werden von wem genutzt? 2. Schulung — praxisnahes KI-Training mit Bezug zu den eingesetzten Tools. 3. Dokumentation — Teilnahmenachweis für alle geschulten Mitarbeitenden. 4. Aktualisierung — Auffrischung bei neuen Tools oder regulatorischen Änderungen."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Was Artikel 4 KI-Verordnung von Unternehmen fordert
 
@@ -54,9 +54,9 @@ Artikel 4 der **Verordnung (EU) 2024/1689** — der EU KI-Verordnung — lautet 
 
 {{< kpiStrip k1_label="Gilt seit" k1_value="2. Aug. 2025" k2_label="Sanktion" k2_value="bis 15 Mio. € / 3 %" k3_label="Für wen" k3_value="Alle KI-Betreiber" k4_label="Umsetzung" k4_value="Training + Nachweis" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was „ausreichende KI-Kompetenz" konkret heißt
 
@@ -78,9 +78,9 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Umsetzung%20anfragen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Artikel 4 KI-VO in 4 Schritten umsetzen
 
@@ -93,9 +93,9 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Training%20anfragen" primaryText="Training anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Artikel 4 EU KI-Verordnung
 
@@ -119,4 +119,4 @@ In vier Schritten: Inventur (welche Tools von wem?), Schulung (praxisnahes Train
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20anfragen" primaryText="Jetzt umsetzen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis" >}}
 
-{{< /section >}}
+{{% /section %}}

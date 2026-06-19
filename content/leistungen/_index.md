@@ -36,7 +36,7 @@ faqItems:
     a: KWAIX trainiert mit echten Use Cases aus dem Arbeitsalltag der Teilnehmenden — keine generischen Demos, keine Tool-Präsentationen ohne Bezug zur Praxis. Jedes Training endet mit einsatzbereiten Prompt-Vorlagen und einem dokumentierten Kompetenznachweis. Kein Abo-Zwang, kein Vendor Lock-in, DACH-weite Abdeckung.
 ---
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Drei Gründe, warum Teams mit KWAIX trainieren
 
@@ -50,11 +50,11 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 
 {{< kpiStrip k1_label="KI-Kickoff" k1_value="90–120 Min" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
-{{< /section >}}
+{{% /section %}}
 
 {{< comparison-table >}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Details zu den Leistungen
 
@@ -75,9 +75,9 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KWAIX-Leistungen
 
@@ -101,4 +101,4 @@ Kostenloses Vorgespräch (30 Min): [info@kwaix.de](mailto:info@kwaix.de?subject=
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-verordnung/" secondaryText="KI-Verordnung erklärt" >}}
 
-{{< /section >}}
+{{% /section %}}

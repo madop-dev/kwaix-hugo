@@ -32,7 +32,7 @@ heroCards:
     subtitle: "Nachweis für alle Rollen"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI in der Dienstleistungsbranche — Kapazität zurückgewinnen
 
@@ -48,9 +48,9 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 
 {{< kpiStrip k1_label="Typische Ersparnis" k1_value="45–90 Min/Tag" k2_label="Teamgröße" k2_value="3–50 MA" k3_label="Compliance" k3_value="DSGVO + KI-VO" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases
 
@@ -73,9 +73,9 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf
 
@@ -90,9 +90,9 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ
 
@@ -108,4 +108,4 @@ Wir arbeiten mit Beispielen aus Ihrem konkreten Arbeitsalltag — keine generisc
 **Wie viel kostet das Training?**
 Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/preise/).
 
-{{< /section >}}
+{{% /section %}}

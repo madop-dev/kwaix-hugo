@@ -21,7 +21,7 @@ heroCards:
     subtitle: "Staffelpreise Teams"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KWAIX arbeitet DACH-weit
 
@@ -48,4 +48,4 @@ Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Ko
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

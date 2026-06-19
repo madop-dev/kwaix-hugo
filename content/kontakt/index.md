@@ -31,7 +31,7 @@ faqItems:
     a: "Nach dem Vorgespräch erhalten Sie ein schriftliches Angebot mit Preis, Leistungsumfang und Ablauf. Nach Auftragserteilung erhalten Sie eine Vorab-Umfrage für Ihr Team — dann vereinbaren wir den Termin."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Kontakt aufnehmen
 
@@ -68,9 +68,9 @@ KWAIX arbeitet **DACH-weit** — remote und vor Ort in Deutschland, Österreich 
 
 {{< kpiStrip k1_label="Erstgespräch" k1_value="Kostenlos · 30 Min" k2_label="Antwortzeit" k2_value="Nächster Werktag" k3_label="KWAIX" k3_value="DACH-weit" k4_label="Format" k4_value="Remote & vor Ort" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## FAQ: Kontakt & Ablauf
 
@@ -91,4 +91,4 @@ Ja. Ohne Ausnahmen. Details: [Datenschutzerklärung](/datenschutz/).
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
 
-{{< /section >}}
+{{% /section %}}

@@ -39,7 +39,7 @@ faqItems:
     a: "Nein. Die Plattform funktioniert auch ohne vertrauliche oder sensible Informationen. Der interne Bereich für eigene Use Cases und Standards kann nach Bedarf befüllt werden."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Warum KI-Kompetenz ohne Plattform oft nicht bleibt
 
@@ -64,9 +64,9 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 
 {{< kpiStrip k1_label="Für Teams" k1_value="ab 5 Personen" k2_label="Laufzeit" k2_value="6 Monate inkl." k3_label="Standorte" k3_value="Mehrere möglich" k4_label="Updates" k4_value="KI-VO & Tools" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was die Trainingsplattform enthält
 
@@ -89,9 +89,9 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Erst KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Trainingsplattform
 
@@ -115,4 +115,4 @@ Nein. Die Plattform funktioniert auch ohne vertrauliche Informationen.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

@@ -27,7 +27,7 @@ faqItems:
     a: "Reisekosten nach Osnabrück werden transparent im Angebot ausgewiesen. Für Remote-Training entstehen keine Reisekosten. Details klären wir im kostenlosen Vorgespräch."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für Unternehmen in Osnabrück
 
@@ -47,9 +47,9 @@ KWAIX begleitet KMU und Mittelstand in Osnabrück beim praxisnahen KI-Einstieg �
 
 {{< kpiStrip k1_label="Region" k1_value="Osnabrück & Weser-Ems" k2_label="Format" k2_value="Vor Ort & Remote" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases für Osnabrücker Unternehmen
 
@@ -72,9 +72,9 @@ KWAIX begleitet KMU und Mittelstand in Osnabrück beim praxisnahen KI-Einstieg �
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen" primaryText="Vorgespräch für Osnabrück anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Osnabrück
 
@@ -92,4 +92,4 @@ In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen" primaryText="KI-Training Osnabrück anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

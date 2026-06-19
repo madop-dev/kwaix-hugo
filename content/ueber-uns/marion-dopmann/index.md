@@ -17,7 +17,7 @@ heroCards:
     subtitle: "Kein Buzzword-Bingo"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Marion Dopmann — KI-Trainerin für KMU und Mittelstand
 
@@ -48,4 +48,4 @@ Das KWAIX-Angebot wird je nach Projekt durch ein flexibles Netzwerk aus KI-Train
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ueber-uns/" secondaryText="Über KWAIX" >}}
 
-{{< /section >}}
+{{% /section %}}

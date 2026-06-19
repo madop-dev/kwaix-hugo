@@ -27,7 +27,7 @@ faqItems:
     a: "Für Trainings in Bremen und der direkten Umgebung (Bremerhaven, Delmenhorst, Achim, Oldenburg) sind Anfahrtszeiten in der Regel bereits im Angebot berücksichtigt. Details werden transparent im Angebot ausgewiesen."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für Unternehmen in Bremen
 
@@ -47,9 +47,9 @@ KWAIX hat seinen Sitz in Bremen und begleitet Bremer KMU und Mittelstand beim pr
 
 {{< kpiStrip k1_label="Standort" k1_value="Bremen Überseestadt" k2_label="Format" k2_value="Vor Ort & Remote" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases Bremer Unternehmen
 
@@ -72,9 +72,9 @@ KWAIX hat seinen Sitz in Bremen und begleitet Bremer KMU und Mittelstand beim pr
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremen%20anfragen" primaryText="Vorgespräch für Bremen anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Bremen
 
@@ -92,4 +92,4 @@ In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremen%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

@@ -37,7 +37,7 @@ faqItems:
     a: "Ein KI Use Case ist eine konkrete, wiederholbare Aufgabe, die ein Mitarbeitender mit einem bestehenden KI-Tool (ChatGPT, Copilot) selbst erledigt — ohne IT-Projekt, ohne Entwicklung. Ein KI-Projekt ist eine technische Implementierung: eigenes KI-Modell, API-Integration, automatisierter Workflow. KMU sollten mit Use Cases starten, nicht mit KI-Projekten."
 ---
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Die wirkungsvollsten KI Use Cases für KMU
 
@@ -56,9 +56,9 @@ Konkrete, wiederkehrende Aufgaben — hohe Frequenz, klare Eingabe, definiertes 
 
 {{< kpiStrip k1_label="Beste Ersparnis" k1_value="Protokoll −83 %" k2_label="Realistisch/Tag" k2_value="8–20 Min/Person" k3_label="ROI (8 MA)" k3_value="~21.000 €/Jahr" k4_label="Einstieg" k4_value="Top 3–5 Use Cases" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Use Cases nach Funktion
 
@@ -93,9 +93,9 @@ Die häufigste Frage in jedem Training: Welche Daten dürfen wir eingeben?
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Use Cases für Ihr Unternehmen priorisieren" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training buchen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Wie KWAIX Use Cases im Training einsetzt
 
@@ -107,9 +107,9 @@ Die häufigste Frage in jedem Training: Welche Daten dürfen wir eingeben?
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/leistungen/ki-kickoff/" secondaryText="KI-Kickoff buchen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI Use Cases für KMU
 
@@ -133,4 +133,4 @@ Nein. Im KI-Training Live werden 3–5 Use Cases live erarbeitet. Weitere lassen
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Use%20Cases%20priorisieren" primaryText="Use Cases besprechen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
 
-{{< /section >}}
+{{% /section %}}

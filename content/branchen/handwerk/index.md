@@ -34,7 +34,7 @@ heroCards:
     subtitle: "Kompetenznachweis möglich"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Handwerk — konkret, nicht theoretisch
 
@@ -50,9 +50,9 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 
 {{< kpiStrip k1_label="Typische Ersparnis" k1_value="30–60 Min/Tag" k2_label="Teamgröße" k2_value="3–50 MA" k3_label="Einstieg" k3_value="Kickoff 90 Min" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases im Handwerk
 
@@ -75,9 +75,9 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf
 
@@ -92,9 +92,9 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ
 
@@ -116,4 +116,4 @@ Betriebliche Weiterbildung kann in vielen Bundesländern über BAFA oder Landesf
 **Was ist der Kompetenznachweis nach Artikel 4 KI-VO?**
 Seit August 2025 sind Unternehmen verpflichtet, sicherzustellen, dass Mitarbeitende, die KI-Systeme einsetzen, über ausreichende KI-Kompetenz verfügen. Unser Training dokumentiert dies nachweisbar. Mehr dazu: [KI-VO Kompetenznachweis](/ki-verordnung/kompetenznachweis/).
 
-{{< /section >}}
+{{% /section %}}

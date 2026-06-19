@@ -27,7 +27,7 @@ faqItems:
     a: "Oldenburg liegt in der Bremer Einzugsregion — Anfahrtszeiten sind in der Regel bereits im Angebot berücksichtigt. Details werden transparent kommuniziert."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI-Training für Unternehmen in Oldenburg
 
@@ -47,9 +47,9 @@ KWAIX begleitet KMU und Mittelstand in Oldenburg beim praxisnahen KI-Einstieg �
 
 {{< kpiStrip k1_label="Region" k1_value="Oldenburg & Nordwest" k2_label="Format" k2_value="Vor Ort & Remote" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases für Oldenburger Unternehmen
 
@@ -72,9 +72,9 @@ KWAIX begleitet KMU und Mittelstand in Oldenburg beim praxisnahen KI-Einstieg �
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Oldenburg%20anfragen" primaryText="Vorgespräch für Oldenburg anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI-Training in Oldenburg
 
@@ -92,4 +92,4 @@ In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Oldenburg%20anfragen" primaryText="KI-Training Oldenburg anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

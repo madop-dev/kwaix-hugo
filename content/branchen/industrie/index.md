@@ -32,7 +32,7 @@ heroCards:
     subtitle: "Nachweis für alle Bereiche"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI in Industrie und Produktion — Wissen sichern, Abläufe beschleunigen
 
@@ -48,9 +48,9 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 
 {{< kpiStrip k1_label="Fokus" k1_value="Doku & Wissen" k2_label="Teamgröße" k2_value="10–200 MA" k3_label="Format" k3_value="Verwaltung + Technik" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Typische Use Cases in Industrie und Produktion
 
@@ -65,9 +65,9 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## Ablauf
 
@@ -82,9 +82,9 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ
 
@@ -100,4 +100,4 @@ Ja — Verwaltung und technische Teams werden häufig in getrennten Modulen gesc
 **Was kostet das Training?**
 Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Für größere Teams auf Anfrage. Details: [Preise](/preise/).
 
-{{< /section >}}
+{{% /section %}}

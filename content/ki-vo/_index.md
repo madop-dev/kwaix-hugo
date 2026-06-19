@@ -36,7 +36,7 @@ faqItems:
     a: "KWAIX bietet: KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 (/leistungen/ki-training-live/), KI-Policy-Template und Erstellung (/ki-verordnung/ki-policy/), orientierende Datenschutz- und DSGVO-Einordnung (/ki-verordnung/datenschutz-dsgvo/). Keine Rechtsberatung — für juristische Fragen empfehlen wir spezialisierte Kanzleien."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Die EU KI-Verordnung gilt — was das für Ihr Unternehmen bedeutet
 
@@ -63,9 +63,9 @@ Die Verordnung (EU) 2024/1689, bekannt als EU AI Act, ist das erste umfassende K
 
 {{< kivo-check >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Was die KI-Verordnung für KMU konkret verlangt
 
@@ -98,9 +98,9 @@ Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen,
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Alle Themen zur KI-Verordnung
 
@@ -133,4 +133,4 @@ Empfohlene Reihenfolge: 1. [KI-Kickoff](/leistungen/ki-kickoff/) — Use Cases p
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Verordnung%20Umsetzung%20besprechen" primaryText="Umsetzung besprechen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

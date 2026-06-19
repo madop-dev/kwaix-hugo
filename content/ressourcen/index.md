@@ -8,7 +8,7 @@ canonical: "https://kwaix.de/ressourcen/"
 heroIcon: "backlog"
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Ressourcen für den KI-Einstieg
 
@@ -23,9 +23,9 @@ heroIcon: "backlog"
 
 {{< cta primaryHref="/ki-verordnung/" primaryText="KI-VO im Überblick" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Hintergrund & Weiterführendes
 
@@ -35,4 +35,4 @@ heroIcon: "backlog"
 - **[Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/)** — Was beim KI-Einsatz aus Datenschutzsicht zu beachten ist
 - **[FAQ KI-VO](/ki-verordnung/faq/)** — Die häufigsten Fragen zur KI-Verordnung im Unternehmenskontext
 
-{{< /section >}}
+{{% /section %}}

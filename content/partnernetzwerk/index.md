@@ -29,7 +29,7 @@ faqItems:
     a: "KWAIX sucht kontinuierlich selbständige KI-Experten mit Praxiserfahrung und klarem Branchenschwerpunkt. Bewerbungen über info@kwaix.de mit kurzem Profil und Schwerpunkt."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KWAIX-Trainer: Spezialisiert, nicht universell
 
@@ -37,9 +37,9 @@ Gutes KI-Training braucht jemanden, der Ihre Branche kennt — nicht jemanden, d
 
 {{< kpiStrip k1_label="Trainer im Netzwerk" k1_value="Wächst" k2_label="Nachweis" k2_value="Art. 4 KI-VO" k3_label="Standard" k3_value="Einheitlich" k4_label="Verfügbar" k4_value="DACH-weit" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Unsere Trainer
 
@@ -49,9 +49,9 @@ Gutes KI-Training braucht jemanden, der Ihre Branche kennt — nicht jemanden, d
 {{< card icon="default" title="Ihr Schwerpunkt hier" text="KWAIX sucht selbständige KI-Trainer mit Branchenschwerpunkt — Handwerk, HR, Vertrieb, Marketing, Produktion oder KI-Verordnung. Praxiserfahrung und eigene Use Cases sind Voraussetzung." cta="Als Trainer bewerben" href="mailto:info@kwaix.de?subject=KWAIX%20Trainer%20werden" >}}
 {{< /cards >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## Wie die Buchung funktioniert
 
@@ -64,9 +64,9 @@ Gutes KI-Training braucht jemanden, der Ihre Branche kennt — nicht jemanden, d
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainer%20anfragen" primaryText="Passenden Trainer anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: Trainer-Netzwerk
 
@@ -84,4 +84,4 @@ Selbständige KI-Experten mit Praxiserfahrung und Branchenschwerpunkt können si
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainer%20anfragen" primaryText="Trainer anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}

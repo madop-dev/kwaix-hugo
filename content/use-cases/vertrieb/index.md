@@ -34,7 +34,7 @@ faqItems:
     a: "Kundendaten (Name, Firma, Kontaktdaten, Vertragsinhalte) dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentliche KI-Tools eingegeben werden. Mit AVV (z.B. Microsoft Copilot Enterprise, ChatGPT Enterprise) ist das unter den Bedingungen des Vertrags möglich. Im Training klären wir die konkreten Grenzen für Ihren Tool-Stack."
 ---
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## KI im Vertrieb — konkret, nicht theoretisch
 
@@ -58,9 +58,9 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 
 {{< kpiStrip k1_label="Zeitersparnis" k1_value="30–60 Min/Tag" k2_label="5 Personen" k2_value="12–25 Std/Woche" k3_label="Sofort" k3_value="Angebote & Mails" k4_label="ROI" k4_value="Rechner →" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="tint" >}}
+{{% section tone="tint" %}}
 
 ## Konkrete Use Cases mit Beispielen
 
@@ -75,9 +75,9 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20Use%20Cases%20besprechen" primaryText="Use Cases besprechen" secondaryHref="/preise/ki-roi-rechner/" secondaryText="ROI berechnen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="stage" >}}
+{{% section tone="stage" %}}
 
 ## So implementieren wir KI im Vertrieb
 
@@ -92,9 +92,9 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
-{{< /section >}}
+{{% /section %}}
 
-{{< section tone="plain" >}}
+{{% section tone="plain" %}}
 
 ## FAQ: KI im Vertrieb
 
@@ -115,4 +115,4 @@ Kundendaten dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentlich
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20anfragen" primaryText="Jetzt anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
 
-{{< /section >}}
+{{% /section %}}
