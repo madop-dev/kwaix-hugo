@@ -46,17 +46,6 @@ faqItems:
 
 {{< pricing-cards >}}
 
-{{% section tone="tint" %}}
-
-{{< cards cols="4" >}}
-{{< card icon="default" title="Kostenlos starten" text="30-minütiges Vorgespräch ohne Kosten und ohne Verpflichtung." >}}
-{{< card icon="proof" title="Kein Abo" text="Einmalig buchen, dauerhaft nutzen — keine Lizenzfallen, keine Laufzeiten." >}}
-{{< card icon="proof" title="Art. 4 inklusive" text="Kompetenznachweis nach EU KI-VO für jeden Teilnehmenden — dokumentiert, rechtssicher." >}}
-{{< card icon="training" title="DACH-weit" text="Remote oder vor Ort in Deutschland, Österreich und der Schweiz." >}}
-{{< /cards >}}
-
-{{% /section %}}
-
 {{% section tone="plain" %}}
 
 ## Optional dazu buchbar
@@ -65,6 +54,17 @@ faqItems:
 {{< card icon="backlog" title="KI-Kickoff" text="Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche — 90–120 Min, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="platform" title="Trainingsplattform" text="Prompt-Bibliothek, Micro-Learnings und KI-Standards für Teams, die nach dem Training dranzubleiben wollen." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< card icon="roi" title="ROI-Rechner" text="Konservative Schätzung: Was bringt KI-Training Ihrem Team in Euro? Schieberegler, Ergebnis sofort." href="/preise/ki-roi-rechner/" cta="ROI berechnen" >}}
+{{< /cards >}}
+
+{{% /section %}}
+
+{{% section tone="tint" %}}
+
+{{< cards cols="4" >}}
+{{< card icon="default" title="Kostenlos starten" text="30-minütiges Vorgespräch ohne Kosten und ohne Verpflichtung." >}}
+{{< card icon="proof" title="Kein Abo" text="Einmalig buchen, dauerhaft nutzen — keine Lizenzfallen, keine Laufzeiten." >}}
+{{< card icon="proof" title="Art. 4 inklusive" text="Kompetenznachweis nach EU KI-VO für jeden Teilnehmenden — dokumentiert, rechtssicher." >}}
+{{< card icon="training" title="DACH-weit" text="Remote oder vor Ort in Deutschland, Österreich und der Schweiz." >}}
 {{< /cards >}}
 
 {{% /section %}}
