@@ -1,0 +1,82 @@
+<div class="kx-pricing" role="region" aria-label="Staffelpreise KI-Training Live">
+  <div class="kx-pricing-cards" id="kx-pricing-cards">
+
+    <div class="kx-pricing-card" data-tier="1" tabindex="0" role="button" aria-pressed="false">
+      <div class="kx-pricing-persons">1–5 Personen</div>
+      <div class="kx-pricing-total">2.400 €</div>
+      <div class="kx-pricing-per">= <span class="kx-pricing-per-val">480 €</span> pro Person</div>
+      <ul class="kx-pricing-features">
+        <li>KI-Training Live (vor Ort / remote)</li>
+        <li>Vorab-Umfrage & Use Cases</li>
+        <li>Prompt-Bibliothek</li>
+        <li>Kompetenznachweis Art. 4 KI-VO</li>
+        <li>Policy-Template & Handout</li>
+      </ul>
+      <a href="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen%20(1-5%20Personen)" class="kx-pricing-cta">Anfragen</a>
+    </div>
+
+    <div class="kx-pricing-card kx-pricing-card--featured" data-tier="2" tabindex="0" role="button" aria-pressed="true">
+      <div class="kx-pricing-badge">Beliebtestes Paket</div>
+      <div class="kx-pricing-persons">6–10 Personen</div>
+      <div class="kx-pricing-total">3.600 €</div>
+      <div class="kx-pricing-per">= <span class="kx-pricing-per-val">360 €</span> pro Person</div>
+      <ul class="kx-pricing-features">
+        <li>KI-Training Live (vor Ort / remote)</li>
+        <li>Vorab-Umfrage & Use Cases</li>
+        <li>Prompt-Bibliothek</li>
+        <li>Kompetenznachweis Art. 4 KI-VO</li>
+        <li>Policy-Template & Handout</li>
+      </ul>
+      <a href="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen%20(6-10%20Personen)" class="kx-pricing-cta kx-pricing-cta--primary">Anfragen</a>
+    </div>
+
+    <div class="kx-pricing-card" data-tier="3" tabindex="0" role="button" aria-pressed="false">
+      <div class="kx-pricing-persons">11–15 Personen</div>
+      <div class="kx-pricing-total">4.650 €</div>
+      <div class="kx-pricing-per">= <span class="kx-pricing-per-val">310 €</span> pro Person</div>
+      <ul class="kx-pricing-features">
+        <li>KI-Training Live (vor Ort / remote)</li>
+        <li>Vorab-Umfrage & Use Cases</li>
+        <li>Prompt-Bibliothek</li>
+        <li>Kompetenznachweis Art. 4 KI-VO</li>
+        <li>Policy-Template & Handout</li>
+      </ul>
+      <a href="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen%20(11-15%20Personen)" class="kx-pricing-cta">Anfragen</a>
+    </div>
+
+    <div class="kx-pricing-card kx-pricing-card--muted" data-tier="4" tabindex="0" role="button" aria-pressed="false">
+      <div class="kx-pricing-persons">&gt; 15 Personen</div>
+      <div class="kx-pricing-total">Auf Anfrage</div>
+      <div class="kx-pricing-per">Individuelles Angebot</div>
+      <ul class="kx-pricing-features">
+        <li>KI-Training Live (vor Ort / remote)</li>
+        <li>Vorab-Umfrage & Use Cases</li>
+        <li>Prompt-Bibliothek</li>
+        <li>Kompetenznachweis Art. 4 KI-VO</li>
+        <li>Policy-Template & Handout</li>
+      </ul>
+      <a href="mailto:info@kwaix.de?subject=KI-Training%20Live%20Großgruppe%20anfragen" class="kx-pricing-cta">Anfragen</a>
+    </div>
+
+  </div>
+  <p class="kx-pricing-note">Alle Preise netto zzgl. MwSt. · Reisekosten bei Vor-Ort-Terminen transparent im Angebot. · <a href="/preise/ki-roi-rechner/">ROI berechnen →</a></p>
+</div>
+
+<script>
+(function(){
+  var cards = document.querySelectorAll('#kx-pricing-cards .kx-pricing-card');
+  cards.forEach(function(card){
+    card.addEventListener('click', function(){
+      cards.forEach(function(c){
+        c.classList.remove('kx-pricing-card--active');
+        c.setAttribute('aria-pressed','false');
+      });
+      card.classList.add('kx-pricing-card--active');
+      card.setAttribute('aria-pressed','true');
+    });
+    card.addEventListener('keydown', function(e){
+      if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); card.click(); }
+    });
+  });
+})();
+</script>

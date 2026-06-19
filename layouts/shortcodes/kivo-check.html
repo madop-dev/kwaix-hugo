@@ -1,0 +1,109 @@
+<div class="kx-kivocheck" id="kx-kivocheck" role="region" aria-label="KI-VO Betroffenheits-Check">
+  <div class="kx-kivocheck-header">
+    <div class="kx-kivocheck-eyebrow">Interaktiver Check</div>
+    <h3 class="kx-kivocheck-title">Bin ich von der EU KI-Verordnung betroffen?</h3>
+    <p class="kx-kivocheck-sub">3 Fragen · Ergebnis sofort · Kein Formular</p>
+  </div>
+
+  <div class="kx-kivocheck-steps">
+
+    <div class="kx-kvc-step kx-kvc-step--active" data-step="1">
+      <div class="kx-kvc-q">Nutzen Sie oder Ihre Mitarbeitenden KI-Tools beruflich?<br><small>(ChatGPT, Copilot, Gemini, Claude oder ähnliche)</small></div>
+      <div class="kx-kvc-choices">
+        <button class="kx-kvc-btn" data-next="2" data-val="ja">Ja, wir nutzen KI-Tools</button>
+        <button class="kx-kvc-btn kx-kvc-btn--sec" data-next="no-tool" data-val="nein">Nein, noch nicht</button>
+      </div>
+    </div>
+
+    <div class="kx-kvc-step" data-step="2">
+      <div class="kx-kvc-q">Handelt es sich um einen beruflichen / unternehmerischen Kontext?<br><small>(Nicht nur privat)</small></div>
+      <div class="kx-kvc-choices">
+        <button class="kx-kvc-btn" data-next="3" data-val="ja">Ja, beruflich</button>
+        <button class="kx-kvc-btn kx-kvc-btn--sec" data-next="privat" data-val="nein">Nur privat</button>
+      </div>
+    </div>
+
+    <div class="kx-kvc-step" data-step="3">
+      <div class="kx-kvc-q">Haben Sie einen dokumentierten Nachweis, dass Ihr Team KI-kompetent ist?<br><small>(Gemäß Artikel 4 EU KI-Verordnung)</small></div>
+      <div class="kx-kvc-choices">
+        <button class="kx-kvc-btn" data-next="compliant" data-val="ja">Ja, mit Dokumentation</button>
+        <button class="kx-kvc-btn kx-kvc-btn--sec" data-next="gap" data-val="nein">Nein / Unsicher</button>
+      </div>
+    </div>
+
+    <!-- Ergebnisse -->
+    <div class="kx-kvc-step kx-kvc-result kx-kvc-result--gap" data-step="gap">
+      <div class="kx-kvc-result-icon">⚠️</div>
+      <div class="kx-kvc-result-title">Handlungsbedarf — Artikel 4 gilt seit 2. August 2025</div>
+      <p class="kx-kvc-result-text">Als Betreiber von KI-Systemen im beruflichen Kontext sind Sie verpflichtet, sicherzustellen, dass Ihr Personal über ausreichende KI-Kompetenz verfügt und das nachweisen zu können. Ohne Dokumentation kein Schutz bei Prüfungen.</p>
+      <div class="kx-kvc-result-actions">
+        <a href="/leistungen/ki-training-live/" class="kx-kvc-action kx-kvc-action--primary">KI-Training mit Nachweis buchen</a>
+        <a href="/ki-verordnung/artikel-4-ki-kompetenz/" class="kx-kvc-action">Artikel 4 im Detail →</a>
+      </div>
+    </div>
+
+    <div class="kx-kvc-step kx-kvc-result kx-kvc-result--ok" data-step="compliant">
+      <div class="kx-kvc-result-icon">✅</div>
+      <div class="kx-kvc-result-title">Gut aufgestellt — Nachweis vorhanden</div>
+      <p class="kx-kvc-result-text">Sie haben die Kompetenzpflicht aus Artikel 4 dokumentiert erfüllt. Empfehlung: Nachweis regelmäßig aktualisieren, wenn neue Mitarbeitende hinzukommen oder neue KI-Tools eingesetzt werden.</p>
+      <div class="kx-kvc-result-actions">
+        <a href="/ki-verordnung/kompetenznachweis/" class="kx-kvc-action">Was der Nachweis enthalten sollte →</a>
+      </div>
+    </div>
+
+    <div class="kx-kvc-step kx-kvc-result kx-kvc-result--info" data-step="no-tool">
+      <div class="kx-kvc-result-icon">ℹ️</div>
+      <div class="kx-kvc-result-title">Noch kein KI-Einsatz — aber bald relevant</div>
+      <p class="kx-kvc-result-text">Sobald Ihr Team KI-Tools beruflich einsetzt, gelten die Pflichten aus Artikel 4. Jetzt ist der richtige Zeitpunkt, sich vorzubereiten — bevor es unter Druck passiert.</p>
+      <div class="kx-kvc-result-actions">
+        <a href="/leistungen/ki-kickoff/" class="kx-kvc-action kx-kvc-action--primary">KI-Kickoff: Vorbereitet starten</a>
+      </div>
+    </div>
+
+    <div class="kx-kvc-step kx-kvc-result kx-kvc-result--info" data-step="privat">
+      <div class="kx-kvc-result-icon">ℹ️</div>
+      <div class="kx-kvc-result-title">Privater Einsatz — keine Betreiberpflicht</div>
+      <p class="kx-kvc-result-text">Die KI-Verordnung betrifft den beruflichen / unternehmerischen Einsatz von KI-Systemen. Rein privater Gebrauch fällt nicht unter die Betreiberpflichten.</p>
+    </div>
+
+  </div>
+
+  <div class="kx-kvc-progress" aria-hidden="true">
+    <div class="kx-kvc-dot kx-kvc-dot--active" data-dot="1"></div>
+    <div class="kx-kvc-dot" data-dot="2"></div>
+    <div class="kx-kvc-dot" data-dot="3"></div>
+  </div>
+
+  <button class="kx-kvc-reset" id="kx-kvc-reset" style="display:none">← Nochmal von vorne</button>
+</div>
+
+<script>
+(function(){
+  var wrap  = document.getElementById('kx-kivocheck');
+  var steps = wrap.querySelectorAll('.kx-kvc-step');
+  var dots  = wrap.querySelectorAll('.kx-kvc-dot');
+  var reset = document.getElementById('kx-kvc-reset');
+  var RESULTS = ['gap','compliant','no-tool','privat'];
+
+  function show(id) {
+    steps.forEach(function(s){ s.classList.remove('kx-kvc-step--active'); });
+    var target = wrap.querySelector('[data-step="'+id+'"]');
+    if(target){ target.classList.add('kx-kvc-step--active'); }
+    var isResult = RESULTS.indexOf(String(id)) > -1;
+    reset.style.display = isResult ? 'inline-flex' : 'none';
+    dots.forEach(function(d){ d.classList.remove('kx-kvc-dot--active'); });
+    if(!isResult){
+      var dot = wrap.querySelector('[data-dot="'+id+'"]');
+      if(dot) dot.classList.add('kx-kvc-dot--active');
+    }
+  }
+
+  wrap.addEventListener('click', function(e){
+    var btn = e.target.closest('.kx-kvc-btn');
+    if(!btn) return;
+    show(btn.dataset.next);
+  });
+
+  reset.addEventListener('click', function(){ show(1); });
+})();
+</script>

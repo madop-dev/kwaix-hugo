@@ -61,6 +61,8 @@ Die Verordnung (EU) 2024/1689, bekannt als EU AI Act, ist das erste umfassende K
 
 {{< kpiStrip k1_label="Artikel 4 gilt seit" k1_value="2. Aug. 2025" k2_label="Bußgeld Betreiber" k2_value="bis 15 Mio. €" k3_label="Betroffen" k3_value="Anbieter & Betreiber" k4_label="Nächste Frist" k4_value="2. Aug. 2026" >}}
 
+{{< kivo-check >}}
+
 {{< /section >}}
 
 {{< section tone="tint" >}}

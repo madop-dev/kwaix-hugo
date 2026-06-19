@@ -48,12 +48,7 @@ faqItems:
 
 ## Staffelpreise KI-Training Live
 
-{{< cards cols="4" >}}
-{{< card icon="default" title="1–5 Personen" text="2.400 € netto — 480 € pro Person. Einstiegspaket für kleine Teams." >}}
-{{< card icon="default" title="6–10 Personen" text="3.600 € netto — 360 € pro Person. Preisvorteil durch Gruppengröße." >}}
-{{< card icon="default" title="11–15 Personen" text="4.650 € netto — 310 € pro Person. Ideal für mittlere Fachbereiche." >}}
-{{< card icon="default" title="> 15 Personen" text="Auf Anfrage — Großgruppen mit individuellem Angebot." >}}
-{{< /cards >}}
+{{< pricing-cards >}}
 
 {{< kpiStrip k1_label="Kleinstes Paket" k1_value="2.400 € netto" k2_label="Pro Person (5 MA)" k2_value="480 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="Alle Preise" k4_value="zzgl. MwSt." >}}
 

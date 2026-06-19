@@ -43,6 +43,8 @@ faqItems:
 
 Konkrete, wiederkehrende Aufgaben — hohe Frequenz, klare Eingabe, definiertes Ausgabeformat. Werte aus KWAIX-Trainingsdaten.
 
+{{< case-study-visual >}}
+
 {{< cards cols="3" >}}
 {{< card icon="backlog" title="Meetingprotokoll" text="Vorher: 20–30 Min · Nachher: 3–5 Min · Ersparnis: −83 %. Eingabe: Stichpunkte. Ausgabe: strukturiertes Protokoll mit TODOs." >}}
 {{< card icon="training" title="Stellenanzeige" text="Vorher: 60–90 Min · Nachher: 10–15 Min · Ersparnis: −88 %. Eingabe: Anforderungen + Tonalität. Ausgabe: fertige Anzeige." >}}
