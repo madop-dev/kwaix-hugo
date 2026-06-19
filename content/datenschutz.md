@@ -9,7 +9,7 @@ description: "Datenschutzerklärung von KWAIX gemäß DSGVO (Verordnung (EU) 201
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-Marion Dopmann / KWAIX  
+KWAIX GmbH  
 Waller Stieg 3  
 28217 Bremen  
 Deutschland  
