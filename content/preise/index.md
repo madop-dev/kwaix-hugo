@@ -54,19 +54,6 @@ faqItems:
 
 {{< section tone="plain" >}}
 
-## Was im Preis enthalten ist
-
-{{< cards cols="3" >}}
-{{< card icon="training" title="Live-Training" text="Vor Ort oder remote — halbertags bis ganztags, je nach Teamgröße und Vorkenntnissen. DACH-weit." >}}
-{{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO" text="Für jeden Teilnehmenden. Dokumentiert gemäß Verordnung (EU) 2024/1689. Pflicht seit 2. August 2025." >}}
-{{< card icon="prompt" title="Prompt-Bibliothek" text="Erprobte Vorlagen für den Arbeitsalltag — direkt aus dem Training, sofort einsatzbereit." >}}
-{{< card icon="policy" title="Policy-Template" text="Vorlage für Ihre interne KI-Richtlinie. Anpassbar auf Ihr Unternehmen." >}}
-{{< card icon="backlog" title="Vorab-Umfrage & Use Cases" text="Wissensstand und Anforderungen werden vorab erhoben — das Training wird darauf zugeschnitten." >}}
-{{< card icon="default" title="Handout" text="Zusammenfassung der Trainingsinhalte zum Nachlesen und Weitergeben im Team." >}}
-{{< /cards >}}
-
-**Nicht enthalten:** Rechtsberatung zur KI-Verordnung, Tool-Lizenzen, Softwareentwicklung.
-
 ## Optional dazu buchbar
 
 {{< cards cols="3" >}}
