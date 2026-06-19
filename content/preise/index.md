@@ -44,11 +44,9 @@ faqItems:
     a: "Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit (DE, AT, CH)."
 ---
 
-{{< section tone="tint" >}}
-
-## Staffelpreise KI-Training Live
-
 {{< pricing-cards >}}
+
+{{< section tone="tint" >}}
 
 {{< kpiStrip k1_label="Kleinstes Paket" k1_value="2.400 € netto" k2_label="Pro Person (5 MA)" k2_value="480 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="Alle Preise" k4_value="zzgl. MwSt." >}}
 
