@@ -1,6 +1,9 @@
 ---
 title: "Datenschutzerklärung"
 description: "Datenschutzerklärung von KWAIX gemäß DSGVO (Verordnung (EU) 2016/679)"
+eyebrow: "Rechtliches"
+lede: "Wir verarbeiten so wenig Daten wie möglich — keine Cookies, kein Tracking, keine Weitergabe."
+type: leistungen
 ---
 
 ## Datenschutzerklärung
