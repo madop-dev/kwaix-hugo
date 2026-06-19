@@ -3,6 +3,6 @@
 <section class="kx-section kx-section--{{ $tone }}">
   <div class="container">
     {{- with $title }}<h2 class="kx-section-title">{{ . }}</h2>{{ end }}
-    {{ .Page.RenderString .Inner }}
+    {{ .Inner | markdownify }}
   </div>
 </section>

@@ -52,11 +52,9 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 
 {{< /section >}}
 
-{{< section tone="plain" >}}
-
-## Alle Leistungen im Vergleich
-
 {{< comparison-table >}}
+
+{{< section tone="plain" >}}
 
 ## Details zu den Leistungen
 
