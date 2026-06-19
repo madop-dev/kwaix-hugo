@@ -98,6 +98,6 @@ Das hängt von Bundesland und Branche ab. Wir können keine verbindliche Aussage
 **Fallen Reisekosten an?**
 Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" note="ROI grob überschlagen: /preise/ki-roi-rechner/" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
 
 {{% /section %}}
