@@ -34,7 +34,7 @@ faqItems:
   - q: "Werden die Inhalte aktuell gehalten?"
     a: "Ja, über Update-Module — etwa bei Änderungen zur KI-Verordnung oder bei eingesetzten Tools. Updates werden neutral formuliert, ohne Rechtsberatung zu ersetzen."
   - q: "Was kostet die Trainingsplattform?"
-    a: "Der Preis richtet sich nach Teamgröße und Laufzeit und wird individuell angeboten. Preisübersicht: /preise/. Bitte anfragen für ein konkretes Angebot."
+    a: "Die Trainingsplattform ist für 6 Monate inkl. — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten. Preisübersicht: /preise/. Bitte anfragen für ein konkretes Angebot."
   - q: "Müssen sensible Unternehmensdaten in die Plattform eingepflegt werden?"
     a: "Nein. Die Plattform funktioniert auch ohne vertrauliche oder sensible Informationen. Der interne Bereich für eigene Use Cases und Standards kann nach Bedarf befüllt werden."
 ---
@@ -59,9 +59,10 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 - **Was ist drin:** Prompt-Bibliothek (rollenbasiert), Vorlagen, Micro-Learnings, interne Standards, Update-Module
 - **Einstieg:** Setup-Call → Zugangsdaten → Startpaket
 - **Kein Pflichtpaket:** eigenständig buchbar, aber am sinnvollsten nach dem [KI-Training Live](/leistungen/ki-training-live/)
-- **Preis:** auf Anfrage, nach Teamgröße und Laufzeit
+- **Laufzeit:** 6 Monate inklusive — Verlängerung auf Anfrage
+- **Preis:** auf Anfrage, nach Teamgröße
 
-{{< kpiStrip k1_label="Für Teams" k1_value="ab 5 Personen" k2_label="Micro-Learnings" k2_value="10–15 Min" k3_label="Standorte" k3_value="Mehrere möglich" k4_label="Updates" k4_value="KI-VO & Tools" >}}
+{{< kpiStrip k1_label="Für Teams" k1_value="ab 5 Personen" k2_label="Laufzeit" k2_value="6 Monate inkl." k3_label="Standorte" k3_value="Mehrere möglich" k4_label="Updates" k4_value="KI-VO & Tools" >}}
 
 {{< /section >}}
 
@@ -104,7 +105,7 @@ Nicht zwingend, aber empfohlen. Ohne vorheriges Training fehlt der Bezug zwische
 Ja — das ist ein Hauptanwendungsfall. Rollen und Teams werden entsprechend angelegt.
 
 **Was kostet die Plattform?**
-Preis nach Teamgröße und Laufzeit, individuell angeboten. Preisübersicht: [/preise/](/preise/).
+6 Monate inklusive, danach optional verlängerbar auf Anfrage. Preis nach Teamgröße, individuell angeboten. Preisübersicht: [/preise/](/preise/).
 
 **Werden die Inhalte aktuell gehalten?**
 Ja, über Update-Module — bei KI-VO-Änderungen und relevanten Tool-Updates.

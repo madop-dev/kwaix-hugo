@@ -39,7 +39,7 @@ faqItems:
   - q: "Was kostet der KI-Kickoff?"
     a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format."
   - q: "Was kostet die Trainingsplattform?"
-    a: "Die Trainingsplattform wird nach Teamgröße und Laufzeit individuell angeboten. Sie ist eine optionale Ergänzung nach dem KI-Training Live."
+    a: "Die Trainingsplattform ist für 6 Monate inklusive — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten."
   - q: "Fallen Reisekosten an?"
     a: "Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit (DE, AT, CH)."
 ---
