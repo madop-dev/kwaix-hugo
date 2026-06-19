@@ -6,7 +6,11 @@ lede: "Die EU KI-Verordnung ist in Kraft. Artikel 4 gilt seit 2. August 2025. Wa
 draft: false
 canonical: "https://kwaix.de/ki-verordnung/"
 url: "/ki-verordnung/"
+type: leistungen
 schemaType: "service"
+herocta: "Umsetzung besprechen →"
+herocta2: "KI-Training buchen"
+herocta2href: "/leistungen/ki-training-live/"
 heroCards:
   - type: proof
     title: "Kompetenznachweis"

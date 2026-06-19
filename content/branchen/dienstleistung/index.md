@@ -6,7 +6,11 @@ lede: "In wissensintensiven Dienstleistungsunternehmen ist Zeit das knappe Gut. 
 draft: false
 canonical: "https://kwaix.de/branchen/ki-training-dienstleistung/"
 url: "/branchen/ki-training-dienstleistung/"
+type: leistungen
 schemaType: "service"
+herocta: "KI-Training für Dienstleister anfragen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 faqItems:
   - q: "Für welche Dienstleistungsunternehmen ist KI-Training geeignet?"
     a: "Für alle wissensintensiven Dienstleistungsunternehmen: Unternehmensberatung, Steuerberatung, Wirtschaftsprüfung, Agenturen (Marketing, PR, Kommunikation), Kanzleien (nicht als Rechtsberatung-Ersatz), IT-Dienstleister, Coaches und Freiberufler. Überall dort, wo viel geschrieben, analysiert und kommuniziert wird."

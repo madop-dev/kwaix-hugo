@@ -4,6 +4,7 @@ description: "KWAIX-Trainingsplattform für KMU: Prompt-Bibliothek (rollenbasier
 eyebrow: "Trainingsplattform"
 lede: "Prompt-Bibliothek, KI-Standards und Micro-Learnings an einem Ort — damit KI-Kompetenz nach dem Training nicht nach drei Wochen verblasst."
 draft: false
+type: leistungen
 herocta: "Trainingsplattform anfragen →"
 canonical: "https://kwaix.de/leistungen/trainingsplattform/"
 schemaType: "service"

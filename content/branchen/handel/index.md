@@ -6,7 +6,11 @@ lede: "Im Handel entscheidet Geschwindigkeit. Wer Produkttexte schneller schreib
 draft: false
 canonical: "https://kwaix.de/branchen/ki-training-handel/"
 url: "/branchen/ki-training-handel/"
+type: leistungen
 schemaType: "service"
+herocta: "KI-Training für Handel anfragen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 faqItems:
   - q: "Welche KI-Use Cases sind im Handel am wirkungsvollsten?"
     a: "Die wirkungsvollsten Use Cases: Produktbeschreibungen in Masse erstellen (von 6 Std auf 45 Min für 10 Artikel), Kundenanfragen und Reklamationen beantworten, Einkaufsberichte und Lieferantenkommunikation, Social-Media-Posts für Aktionen und Neuheiten. Stationär und Online-Handel profitieren unterschiedlich — wir priorisieren im Kickoff."

@@ -6,7 +6,11 @@ lede: "Im Handwerk entscheidet nicht die beste Technik, sondern wer schneller ei
 draft: false
 canonical: "https://kwaix.de/branchen/ki-training-handwerk/"
 url: "/branchen/ki-training-handwerk/"
+type: leistungen
 schemaType: "service"
+herocta: "KI-Training für Handwerk anfragen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 faqItems:
   - q: "Lohnt sich KI-Training für Handwerksbetriebe?"
     a: "Ja — gerade in Handwerksbetrieben stecken die größten Zeitgewinne in Routineaufgaben: Angebote formulieren, Kundenmails beantworten, Protokolle erstellen. Ein typisches Team von 5 Personen spart 30–60 Minuten täglich. Voraussetzung: kein IT-Vorwissen nötig."

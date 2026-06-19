@@ -6,7 +6,11 @@ lede: "In Produktion und Industrie entscheidet nicht nur Maschinenleistung — s
 draft: false
 canonical: "https://kwaix.de/branchen/ki-training-industrie/"
 url: "/branchen/ki-training-industrie/"
+type: leistungen
 schemaType: "service"
+herocta: "KI-Training für Industrie anfragen →"
+herocta2: "ROI berechnen"
+herocta2href: "/preise/ki-roi-rechner/"
 faqItems:
   - q: "Welche KI-Use Cases sind in Industrie und Produktion am wirkungsvollsten?"
     a: "Die stärksten Use Cases: Technische Dokumentation aus Stichpunkten erstellen, Wartungsberichte strukturieren, Arbeitssicherheitsunterweisungen dokumentieren, Lieferantenkommunikation und Qualitätsberichte, Einarbeitungsunterlagen für neue Mitarbeitende, Übergabeprotokolle zwischen Schichten. Überall dort, wo Wissen dokumentiert und weitergegeben werden muss."

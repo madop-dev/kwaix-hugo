@@ -5,6 +5,20 @@ eyebrow: "Regionen"
 lede: "KI-Training DACH-weit — remote oder vor Ort in Deutschland, Österreich und der Schweiz."
 draft: false
 canonical: "https://kwaix.de/regionen/"
+type: leistungen
+herocta: "Vorgespräch anfragen →"
+herocta2: "Preise ansehen"
+herocta2href: "/preise/"
+heroCards:
+  - type: training
+    title: "DACH-weit"
+    subtitle: "Remote & vor Ort"
+  - type: proof
+    title: "Art. 4 KI-VO"
+    subtitle: "Kompetenznachweis inklusive"
+  - type: roi
+    title: "Ab 2.400 € netto"
+    subtitle: "Staffelpreise Teams"
 ---
 
 {{< section tone="plain" >}}
