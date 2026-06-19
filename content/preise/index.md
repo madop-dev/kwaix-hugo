@@ -48,7 +48,7 @@ faqItems:
 
 {{% section tone="tint" %}}
 
-{{< kpiStrip k1_label="Kleinstes Paket" k1_value="2.400 € netto" k2_label="Pro Person (5 MA)" k2_value="480 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="Alle Preise" k4_value="zzgl. MwSt." >}}
+{{< kpiStrip k1_label="Vorgespräch" k1_value="Kostenlos" k2_label="Kein Abo" k2_value="Einmalig" k3_label="Nachweis" k3_value="Art. 4 inklusive" k4_label="Verfügbar" k4_value="DACH-weit" >}}
 
 {{% /section %}}
 
