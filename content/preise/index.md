@@ -58,14 +58,9 @@ faqItems:
 
 {{% /section %}}
 
-{{% section tone="tint" %}}
+{{% section tone="plain" %}}
 
-{{< cards cols="4" >}}
-{{< card icon="default" title="Kostenlos starten" text="30-minütiges Vorgespräch ohne Kosten und ohne Verpflichtung." >}}
-{{< card icon="proof" title="Kein Abo" text="Einmalig buchen, dauerhaft nutzen — keine Lizenzfallen, keine Laufzeiten." >}}
-{{< card icon="proof" title="Art. 4 inklusive" text="Kompetenznachweis nach EU KI-VO für jeden Teilnehmenden — dokumentiert, rechtssicher." >}}
-{{< card icon="training" title="DACH-weit" text="Remote oder vor Ort in Deutschland, Österreich und der Schweiz." >}}
-{{< /cards >}}
+Kein Abo, keine Lizenzfallen. Kostenloses Vorgespräch, Kompetenznachweis Art. 4 inklusive — DACH-weit, remote oder vor Ort.
 
 {{% /section %}}
 
