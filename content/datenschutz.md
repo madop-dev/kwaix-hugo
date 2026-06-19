@@ -38,17 +38,7 @@ Weitere Informationen: [cloudflare.com/privacypolicy](https://www.cloudflare.com
 
 ---
 
-### 4. Google Fonts
-
-Diese Website bindet Schriftarten des Dienstes **Google Fonts** ein (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Beim Aufruf einer Seite stellt Ihr Browser eine Verbindung zu Servern von Google her und überträgt dabei Ihre IP-Adresse.
-
-Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer einheitlichen Darstellung der Website).
-
-Google ist nach dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [policies.google.com/privacy](https://policies.google.com/privacy)
-
----
-
-### 5. Kontaktaufnahme per E-Mail
+### 4. Kontaktaufnahme per E-Mail
 
 Wenn Sie uns per E-Mail kontaktieren, werden die von Ihnen übermittelten Daten (insbesondere Ihre E-Mail-Adresse und der Nachrichteninhalt) gespeichert, um Ihre Anfrage zu bearbeiten und für eventuelle Rückfragen vorzuhalten. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
@@ -58,13 +48,13 @@ Die Daten werden gelöscht, sobald sie für den Zweck ihrer Erhebung nicht mehr 
 
 ---
 
-### 6. Keine Cookies, kein Tracking
+### 5. Keine Cookies, kein Tracking
 
 Diese Website verwendet **keine Cookies** und keine Analyse- oder Tracking-Tools (z. B. Google Analytics, Matomo o. ä.). Es werden keine Nutzerprofile erstellt und keine Daten zu Werbezwecken erhoben oder weitergegeben.
 
 ---
 
-### 7. Ihre Rechte als betroffene Person
+### 6. Ihre Rechte als betroffene Person
 
 Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
 
@@ -85,6 +75,6 @@ E-Mail: office@datenschutz.bremen.de
 
 ---
 
-### 8. Aktualität und Änderungen
+### 7. Aktualität und Änderungen
 
 Diese Datenschutzerklärung ist aktuell gültig und hat den Stand **Juni 2026**. Durch die Weiterentwicklung der Website oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern.
