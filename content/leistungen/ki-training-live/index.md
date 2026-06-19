@@ -21,7 +21,7 @@ heroCards:
     subtitle: "Aus Ihrem Arbeitsalltag"
 faqItems:
   - q: "Wie lange dauert das KI-Training Live?"
-    a: "Die Trainingsdauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt. Üblich sind ein halber bis ein voller Tag. Den Rahmen finden Sie im Trainingsprogramm unter /training/."
+    a: "Die Trainingsdauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt."
   - q: "Wie viele Teilnehmende können mitmachen?"
     a: "Das Training ist für 1 bis über 15 Mitarbeitende konzipiert. Preise sind gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details unter /preise/."
   - q: "Findet das Training vor Ort oder remote statt?"
