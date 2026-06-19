@@ -16,6 +16,8 @@ heroCards:
   - type: policy
     title: "Kein Buzzword-Bingo"
     subtitle: "Klar, direkt, umsetzbar"
+type: leistungen
+herocta: "Vorgespräch anfragen →"
 aliases:
   - /about/
 faqItems:
