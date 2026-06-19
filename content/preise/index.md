@@ -58,11 +58,6 @@ faqItems:
 
 {{% /section %}}
 
-{{% section tone="plain" %}}
-
-Kein Abo, keine Lizenzfallen. Kostenloses Vorgespräch, Kompetenznachweis Art. 4 inklusive — DACH-weit, remote oder vor Ort.
-
-{{% /section %}}
 
 {{% section tone="stage" %}}
 
