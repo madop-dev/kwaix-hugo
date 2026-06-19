@@ -1,29 +1,90 @@
 ---
-title: "Datenschutz"
-description: "Datenschutzerklärung gemäß DSGVO"
+title: "Datenschutzerklärung"
+description: "Datenschutzerklärung von KWAIX gemäß DSGVO (Verordnung (EU) 2016/679)"
 ---
 
 ## Datenschutzerklärung
 
-### Verantwortlicher
+### 1. Verantwortlicher
 
-KWAIX GmbH, Waller Stieg 3, 28217 Bremen
+Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
+
+Marion Dopmann / KWAIX  
+Waller Stieg 3  
+28217 Bremen  
+Deutschland  
 E-Mail: info@kwaix.de
 
-### Hosting
+---
 
-Diese Website wird bei Netlify (USA) gehostet. Netlify verarbeitet Zugriffsdaten (IP-Adresse, Zeitpunkt, aufgerufene Seite) in Server-Logfiles.
+### 2. Arten der verarbeiteten Daten
 
-### Keine Cookies, kein Tracking
+Im Rahmen des Betriebs dieser Website werden folgende Datenkategorien verarbeitet:
 
-Diese Website verwendet keine Cookies und keine Tracking-Tools. Es werden keine personenbezogenen Daten erhoben, gespeichert oder an Dritte weitergegeben.
+- Zugriffsdaten (IP-Adresse, Datum und Uhrzeit des Abrufs, aufgerufene URL, Referrer, Browser und Betriebssystem) — durch den Hosting-Anbieter
+- Kommunikationsdaten (Name, E-Mail-Adresse, Nachrichteninhalt) — bei direkter Kontaktaufnahme per E-Mail
 
-### Google Fonts
+---
 
-Diese Website nutzt Google Fonts zur Darstellung von Schriften. Beim Aufruf werden Daten an Google-Server übertragen.
+### 3. Hosting — Cloudflare Pages
 
-### Ihre Rechte
+Diese Website wird über **Cloudflare Pages** (Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, USA) bereitgestellt. Cloudflare verarbeitet beim Aufruf der Website Zugriffsdaten in Server-Logfiles, darunter IP-Adressen der Besucher.
 
-Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung. Kontaktieren Sie uns: info@kwaix.de
+Cloudflare ist nach dem EU-US Data Privacy Framework zertifiziert. Die Datenübermittlung in die USA erfolgt auf Grundlage von Artikel 45 DSGVO (Angemessenheitsbeschluss der EU-Kommission).
 
-**Letzte Aktualisierung:** Juni 2025
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am sicheren und stabilen Betrieb der Website).
+
+Weitere Informationen: [cloudflare.com/privacypolicy](https://www.cloudflare.com/privacypolicy/)
+
+---
+
+### 4. Google Fonts
+
+Diese Website bindet Schriftarten des Dienstes **Google Fonts** ein (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Beim Aufruf einer Seite stellt Ihr Browser eine Verbindung zu Servern von Google her und überträgt dabei Ihre IP-Adresse.
+
+Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer einheitlichen Darstellung der Website).
+
+Google ist nach dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: [policies.google.com/privacy](https://policies.google.com/privacy)
+
+---
+
+### 5. Kontaktaufnahme per E-Mail
+
+Wenn Sie uns per E-Mail kontaktieren, werden die von Ihnen übermittelten Daten (insbesondere Ihre E-Mail-Adresse und der Nachrichteninhalt) gespeichert, um Ihre Anfrage zu bearbeiten und für eventuelle Rückfragen vorzuhalten. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+
+Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragsanbahnung) sowie Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bearbeitung von Anfragen).
+
+Die Daten werden gelöscht, sobald sie für den Zweck ihrer Erhebung nicht mehr erforderlich sind — in der Regel nach Abschluss der Kommunikation, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+---
+
+### 6. Keine Cookies, kein Tracking
+
+Diese Website verwendet **keine Cookies** und keine Analyse- oder Tracking-Tools (z. B. Google Analytics, Matomo o. ä.). Es werden keine Nutzerprofile erstellt und keine Daten zu Werbezwecken erhoben oder weitergegeben.
+
+---
+
+### 7. Ihre Rechte als betroffene Person
+
+Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+
+- **Auskunft** (Art. 15 DSGVO)
+- **Berichtigung** (Art. 16 DSGVO)
+- **Löschung** (Art. 17 DSGVO)
+- **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
+- **Datenübertragbarkeit** (Art. 20 DSGVO)
+- **Widerspruch gegen die Verarbeitung** (Art. 21 DSGVO)
+
+Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: info@kwaix.de
+
+Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig ist in der Regel die Aufsichtsbehörde Ihres Wohnortes oder Bundeslandes. Für Bremen ist dies:
+
+Die Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen  
+Arndtstraße 1, 27570 Bremerhaven  
+E-Mail: office@datenschutz.bremen.de
+
+---
+
+### 8. Aktualität und Änderungen
+
+Diese Datenschutzerklärung ist aktuell gültig und hat den Stand **Juni 2026**. Durch die Weiterentwicklung der Website oder aufgrund geänderter gesetzlicher bzw. behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern.
