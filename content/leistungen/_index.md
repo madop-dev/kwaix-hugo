@@ -54,7 +54,11 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 
 {{< section tone="plain" >}}
 
-## Alle Leistungen im Detail
+## Alle Leistungen im Vergleich
+
+{{< comparison-table >}}
+
+## Details zu den Leistungen
 
 {{< cards cols="3" >}}
 {{< card icon="backlog" title="KI-Kickoff" text="Für Geschäftsführung und Fachbereiche: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-VO, konkreter Plan für die nächsten 30 Tage. 90–120 Min, remote oder vor Ort." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
