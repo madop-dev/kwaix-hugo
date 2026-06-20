@@ -96,6 +96,16 @@ KWAIX trainiert die **Platzhalter-Methode**: Personenbezogene Angaben werden dur
 
 KI-Einführung in öffentlichen Stellen berührt oft mitbestimmungspflichtige Themen (Leistungs- und Verhaltensüberwachung, neue Arbeitsmittel). Wir empfehlen, den Personalrat frühzeitig zu informieren und können auf Wunsch ein Informationsschreiben oder eine Kurzpräsentation für die Personalvertretung bereitstellen.
 
+### DACH: Öffentliche Hand in Österreich und der Schweiz
+
+Die EU KI-Verordnung gilt in Österreich und der Schweiz (als EWR-Partnerland im Umsetzungsprozess) gleichermaßen. Die Einrichtungen heißen anders — die Pflichten sind dieselben.
+
+**Österreich:** Gemeinden und Magistrate (statt Kommunen), Wirtschaftskammer Österreich (WKO) mit Innungen (statt IHK/HWK), AUVA (statt Berufsgenossenschaft), Ämter der Landesregierung. Dienstrechtlich gilt VBG/Beamten-Dienstrechtsgesetz statt TVöD.
+
+**Schweiz:** Gemeinden und Kantone (statt Bundesländer), Handelskammern und Gewerbeverband (statt IHK/HWK), SUVA für Unfallversicherung, Amtsstellen auf Kantons- und Bundesebene.
+
+KWAIX trainiert DACH-weit — remote und vor Ort — und kennt die unterschiedlichen Strukturen und Bezeichnungen in allen drei Ländern.
+
 ### KI-Verordnung: öffentliche Stellen sind keine Ausnahme
 
 Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle Betreiber von KI-Systemen — öffentliche Stellen eingeschlossen. Behörden, die ChatGPT, Microsoft Copilot oder vergleichbare Systeme beruflich einsetzen, sind Betreiber im Sinne der Verordnung und müssen KI-Kompetenz nachweisbar sicherstellen.
