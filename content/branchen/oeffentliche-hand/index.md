@@ -46,7 +46,7 @@ KWAIX trainiert KI-Kompetenz praxisnah und regelkonform: mit echten Verwaltungsa
 
 - **Für wen:** Kommunen, Landes- und Bundesbehörden, IHKs, Handwerkskammern, Berufsgenossenschaften, kommunale Unternehmen, öffentliche Bildungseinrichtungen
 - **Typische Use Cases:** Protokolle, Bürgeranfragen, Bescheidvorlagen, Pressemitteilungen, Unterweisungen, Berichte
-- **Datenschutz:** Platzhalter-Methode — keine personenbezogenen Daten in öffentliche KI-Systeme
+- **Datenschutz:** Platzhalter-Methode für Consumer-Tools · DSGVO-konforme Plattformen (z. B. Langdock) ermöglichen mehr
 - **Pflicht:** Artikel 4 KI-VO gilt seit 2. August 2025 auch für öffentliche Betreiber
 - **Nachweis:** Kompetenznachweis für alle Teilnehmenden nach dem Training
 
@@ -86,11 +86,15 @@ KWAIX trainiert KI-Kompetenz praxisnah und regelkonform: mit echten Verwaltungsa
 
 ## Besonderheiten: KI in der öffentlichen Verwaltung
 
-### Datenschutz: die Platzhalter-Methode
+### Datenschutz: Platzhalter-Methode oder konforme Plattform
 
-Behörden und öffentliche Stellen verarbeiten täglich personenbezogene Daten — Bürgerdaten, Beschäftigtendaten, Sozialdaten. Diese gehören nicht in öffentliche KI-Systeme.
+Behörden und öffentliche Stellen verarbeiten täglich personenbezogene Daten — Bürgerdaten, Sozialdaten, Beschäftigtendaten. Ob und wie KI dabei eingesetzt werden darf, hängt vom eingesetzten Tool ab.
 
-KWAIX trainiert die **Platzhalter-Methode**: Personenbezogene Angaben werden durch neutrale Platzhalter ersetzt, bevor ein Prompt formuliert wird. Ergebnis: KI-Unterstützung für die Aufgabe — ohne Datenschutzrisiko.
+**Consumer-Tools ohne AVV** (ChatGPT, Gemini, Copilot ohne Enterprise-Lizenz): Personenbezogene Daten gehören nicht in den Prompt. KWAIX trainiert hier die **Platzhalter-Methode** — Angaben werden durch neutrale Platzhalter ersetzt, bevor ein Prompt formuliert wird. Ergebnis: KI-Unterstützung für die Aufgabe, ohne Datenschutzrisiko.
+
+**DSGVO-konforme Enterprise-Plattformen** (z. B. Langdock, Azure OpenAI mit AVV, andere EU-gehostete Lösungen mit Auftragsverarbeitungsvertrag): Personenbezogene Daten dürfen im Rahmen des Vertragsverhältnisses eingegeben werden — das ist genau der Zweck solcher Plattformen. Hier entfällt die Platzhalter-Pflicht, und KI kann deutlich tiefer in Verwaltungsprozesse integriert werden.
+
+KWAIX trainiert beide Szenarien und hilft dabei zu klären, welches Setup für Ihre Einrichtung sinnvoll und rechtlich vertretbar ist — in Abstimmung mit Ihrem Datenschutzbeauftragten.
 
 ### Mitbestimmung: Personalrat frühzeitig einbinden
 
@@ -133,7 +137,7 @@ Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle B
 Ja. Artikel 4 gilt seit dem 2. August 2025 für alle Betreiber von KI-Systemen — öffentliche Stellen sind keine Ausnahme. Wer ChatGPT oder Microsoft Copilot in der Verwaltung einsetzt, ist Betreiber im Sinne der Verordnung.
 
 **Können wir überhaupt KI einsetzen — was ist mit Datenschutz?**
-Mit der richtigen Methode: ja. Die Grundregel ist, keine personenbezogenen Daten in öffentliche KI-Systeme einzugeben. KWAIX trainiert die Platzhalter-Methode für datenschutzkonforme Prompts. Für spezifische datenschutzrechtliche Fragen empfehlen wir Ihren behördlichen Datenschutzbeauftragten.
+Ja — aber es kommt auf das Tool an. Bei Consumer-Diensten ohne AVV (ChatGPT, Gemini etc.) gilt: keine personenbezogenen Daten eingeben, stattdessen die Platzhalter-Methode nutzen. Bei DSGVO-konformen Enterprise-Plattformen wie Langdock oder Azure OpenAI mit Auftragsverarbeitungsvertrag dürfen personenbezogene Daten verarbeitet werden — das ermöglicht eine deutlich tiefere Integration in Verwaltungsprozesse. Für verbindliche datenschutzrechtliche Einschätzungen empfehlen wir Ihren behördlichen Datenschutzbeauftragten.
 
 **Muss der Personalrat zustimmen?**
 Das hängt vom Bundes- oder Landesrecht und dem konkreten Einsatzszenario ab. Wir empfehlen frühzeitige Einbindung. Auf Wunsch stellen wir Informationsmaterial für die Personalvertretung bereit.
