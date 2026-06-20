@@ -91,7 +91,7 @@ body {
 .logo-ai {
   font-weight: 900;
   letter-spacing: -0.5px;
-  background: linear-gradient(135deg, #818cf8, #f43f5e);
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -123,16 +123,16 @@ body {
 .nav a:hover { color: #fff; }
 .nav a:hover::after { width: 100%; }
 .nav-cta {
-  background: linear-gradient(135deg, #818cf8, #f43f5e) !important;
+  background: var(--primary) !important;
   color: white !important;
   padding: 10px 22px;
   border-radius: 8px;
   font-weight: 600 !important;
-  transition: opacity 0.2s, transform 0.2s, box-shadow 0.2s !important;
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s !important;
 }
 .nav-cta::after { display: none !important; }
 .nav-cta:hover {
-  opacity: 0.88 !important;
+  background: var(--primary-dark) !important;
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(79,70,229,0.3);
 }
@@ -248,7 +248,7 @@ body {
 }
 .hero-home-h1 em {
   font-style: normal;
-  background: linear-gradient(135deg, #818cf8, #f43f5e);
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -264,17 +264,17 @@ body {
 .btn-hero-primary {
   display: inline-flex;
   align-items: center;
-  background: linear-gradient(135deg, #818cf8, #f43f5e);
+  background: #f43f5e;
   color: #fff;
   font-weight: 700;
   font-size: 1rem;
   padding: 16px 28px;
   border-radius: var(--radius);
   text-decoration: none;
-  transition: opacity 0.2s, transform 0.2s;
-  box-shadow: 0 4px 20px rgba(165,180,252,0.3);
+  transition: background 0.2s, transform 0.2s;
+  box-shadow: 0 4px 20px rgba(244,63,94,0.4);
 }
-.btn-hero-primary:hover { opacity: 0.88; transform: translateY(-2px); }
+.btn-hero-primary:hover { background: #e11d48; transform: translateY(-2px); }
 .btn-hero-secondary {
   display: inline-flex;
   align-items: center;
@@ -3106,7 +3106,7 @@ body {
 }
 .kx-kvc-action:hover { border-color: var(--primary); color: var(--primary) !important; }
 .kx-kvc-action--primary {
-  background: linear-gradient(135deg, #818cf8, #f43f5e);
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%);
   border-color: transparent;
   color: white !important;
 }
