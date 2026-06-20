@@ -1860,7 +1860,7 @@ body {
 .card--proof .card-icon,
 .card--training .card-icon,
 .card--platform .card-icon,
-.card--default .card-icon { background: linear-gradient(160deg, #0b0f28, #1a1033); color: white; }
+.card--default .card-icon { background: #ede9fe; color: #6366f1; }
 
 .card--policy:hover,
 .card--prompt:hover,
