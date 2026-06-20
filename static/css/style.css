@@ -1235,22 +1235,22 @@ body {
 }
 .kx-kpi-card {
   padding: 20px 20px 18px;
-  background: #0b0f28;
+  background: white;
   border-radius: var(--radius);
-  border-left: 3px solid rgba(165,180,252,0.5);
-  box-shadow: none;
+  border-left: 4px solid var(--primary);
+  box-shadow: 0 2px 8px rgba(79,70,229,0.10), 0 1px 3px rgba(0,0,0,0.06);
   text-align: left;
 }
 .kx-kpi-value {
   font-size: 22px;
   font-weight: 700;
-  color: #a5b4fc;
+  color: var(--primary);
   line-height: 1.2;
 }
 .kx-kpi-label {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
-  color: rgba(255,255,255,0.5);
+  color: var(--text-secondary);
   letter-spacing: 0.01em;
   margin-bottom: 8px;
 }
