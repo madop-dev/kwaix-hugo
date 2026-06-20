@@ -2036,7 +2036,7 @@ body {
 .leistung-hero {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #7c3aed 0%, #dc2626 50%, #eab308 100%);
+  background: linear-gradient(135deg, #0f4c4c 0%, #0d7e6e 50%, #065f46 100%);
   padding: 80px 0 72px;
   color: #fff;
 }
@@ -2049,12 +2049,12 @@ body {
 }
 .leistung-hero-orb--1 {
   width: 480px; height: 480px;
-  background: radial-gradient(circle, #a855f7 0%, transparent 70%);
+  background: radial-gradient(circle, #6ee7b7 0%, transparent 70%);
   top: -120px; right: -80px;
 }
 .leistung-hero-orb--2 {
   width: 320px; height: 320px;
-  background: radial-gradient(circle, #fbbf24 0%, transparent 70%);
+  background: radial-gradient(circle, #0d9488 0%, transparent 70%);
   bottom: -80px; left: 10%;
   opacity: .18;
 }
