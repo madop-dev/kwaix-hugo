@@ -1,8 +1,8 @@
 ---
-title: "KI-Training nach Branche: Handwerk, Dienstleistung, Handel, Industrie"
-description: "KI-Training für KMU branchenspezifisch: Handwerk, Dienstleistungsunternehmen, Handel und Industrie — mit konkreten Use Cases, Zeitersparnissen und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+title: "KI-Training nach Branche: Handwerk, Dienstleistung, Handel, Industrie, öffentliche Hand"
+description: "KI-Training branchenspezifisch: Handwerk, Dienstleistung, Handel, Industrie und öffentliche Hand (Behörden, Kammern, Kommunen) — mit konkreten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
 eyebrow: "Branchen"
-lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht in Handwerk, Dienstleistung, Handel und Industrie ganz unterschiedlich aus."
+lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht im Handwerk, in der Verwaltung und in der Industrie ganz unterschiedlich aus."
 draft: false
 type: leistungen
 canonical: "https://kwaix.de/branchen/"
@@ -15,14 +15,14 @@ heroCards:
     title: "Branchenspezifisch"
     subtitle: "Echte Use Cases, nicht Demos"
   - type: backlog
-    title: "4 Branchen"
-    subtitle: "Handwerk · Dienst · Handel · Industrie"
+    title: "5 Branchen"
+    subtitle: "Handwerk · Dienst · Handel · Industrie · Öff. Hand"
   - type: proof
     title: "KI-VO konform"
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Für welche Branchen bietet KWAIX KI-Training an?"
-    a: "KWAIX bietet KI-Training für Handwerksbetriebe, Dienstleistungsunternehmen (Beratung, Steuerberatung, Agenturen), Handelsunternehmen (stationär und Online) und Industriebetriebe (Produktion, Maschinenbau, Logistik). DACH-weit — remote und vor Ort."
+    a: "KWAIX bietet KI-Training für Handwerksbetriebe, Dienstleistungsunternehmen (Beratung, Steuerberatung, Agenturen), Handelsunternehmen (stationär und Online), Industriebetriebe (Produktion, Maschinenbau, Logistik) sowie die öffentliche Hand (Behörden, Kommunen, Kammern, kommunale Unternehmen). DACH-weit — remote und vor Ort."
   - q: "Unterscheidet sich das KI-Training je nach Branche?"
     a: "Das Trainings-Prinzip ist dasselbe — echte Use Cases, Prompting-Standards, Kompetenznachweis. Was sich unterscheidet: die konkreten Use Cases und Prompt-Vorlagen. Ein Handwerksbetrieb trainiert Angebotserstellung und Übergabeprotokolle; eine Steuerberatungskanzlei trainiert Mandantenkommunikation und Berichte. Die Priorisierung erfolgt im KI-Kickoff oder per Vorab-Umfrage."
   - q: "Welche Branche profitiert am stärksten von KI-Training?"
@@ -61,18 +61,19 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 | Dienstleistung | Berichte, Angebote, Präsentationen | 45–90 Min | Mandantendaten: Platzhalter-Methode |
 | Handel | Produkttexte, Kundenanfragen, Aktionskommunikation | 30–60 Min | Skalierbar auf ganze Kataloge |
 | Industrie | Technische Dok., Wartungsberichte, Unterweisungen | 20–40 Min | Primär Verwaltung, nicht Produktion |
+| Öffentliche Hand | Protokolle, Bürgeranfragen, Bescheide, Unterweisungen | 30–60 Min | Datenschutz: Platzhalter-Methode; KI-VO gilt auch hier |
 
 *Alle Werte konservativ. Tatsächliche Ersparnis abhängig von Teamgröße, Use-Case-Fokus und Prompting-Qualität.*
 
 ## Auf einen Blick
 
-- **4 Branchen:** Handwerk, Dienstleistung, Handel, Industrie — DACH-weit
+- **5 Branchen:** Handwerk, Dienstleistung, Handel, Industrie, öffentliche Hand — DACH-weit
 - **Prinzip:** echte Use Cases aus Ihrer Branche, nicht generische Demos
 - **Zeitersparnis:** 20–90 Min täglich pro Person (je nach Rolle und Use Case)
 - **Pflicht:** Artikel 4 KI-VO gilt seit 2. August 2025 für alle Branchen
 - **Einstieg:** [KI-Kickoff](/leistungen/ki-kickoff/) — 90 Min, Priorisierung branchenspezifisch
 
-{{< kpiStrip k1_label="Branchen" k1_value="4 Schwerpunkte" k2_label="Artikel 4 gilt" k2_value="seit 2. Aug. 2025" k3_label="Ersparnis" k3_value="20–90 Min/Tag" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
+{{< kpiStrip k1_label="Branchen" k1_value="5 Schwerpunkte" k2_label="Artikel 4 gilt" k2_value="seit 2. Aug. 2025" k3_label="Ersparnis" k3_value="20–90 Min/Tag" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
 {{% /section %}}
 
@@ -80,11 +81,12 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 
 ## Für welche Branche arbeiten Sie?
 
-{{< cards cols="4" >}}
-{{< card icon="backlog" title="Handwerk" text="Angebote (−83 %), Übergabeprotokolle, Kundenmails, Arbeitssicherheitsdokumentation, Social Media. Kein IT-Vorwissen nötig. Für Betriebe ab 3 Mitarbeitenden. → /branchen/ki-training-handwerk/" >}}
-{{< card icon="prompt" title="Dienstleistung" text="Beratung, Steuerberatung, Agenturen: Berichte, Angebote, Mandantenkommunikation, Präsentationen — 40–70 % schneller. Platzhalter-Methode für Datenschutz. → /branchen/ki-training-dienstleistung/" >}}
-{{< card icon="backlog" title="Handel" text="Produktbeschreibungen skalieren (10 Texte in 45 Min statt 6 Std), Kundenservice, Aktionskommunikation, stationär und Online. → /branchen/ki-training-handel/" >}}
-{{< card icon="training" title="Industrie" text="Technische Dokumentation, Wartungsberichte, Qualitätssicherung, Unterweisungen nach ArbSchG. Für Verwaltung, Teamleitung und Qualitätssicherung. → /branchen/ki-training-industrie/" >}}
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Handwerk" text="Angebote (−83 %), Übergabeprotokolle, Kundenmails, Arbeitssicherheitsdokumentation, Social Media. Kein IT-Vorwissen nötig." href="/branchen/ki-training-handwerk/" cta="Handwerk ansehen" >}}
+{{< card icon="prompt" title="Dienstleistung" text="Beratung, Steuerberatung, Agenturen: Berichte, Angebote, Mandantenkommunikation, Präsentationen — 40–70 % schneller." href="/branchen/ki-training-dienstleistung/" cta="Dienstleistung ansehen" >}}
+{{< card icon="backlog" title="Handel" text="Produktbeschreibungen skalieren, Kundenservice, Aktionskommunikation — stationär und Online." href="/branchen/ki-training-handel/" cta="Handel ansehen" >}}
+{{< card icon="training" title="Industrie" text="Technische Dokumentation, Wartungsberichte, Qualitätssicherung, Unterweisungen nach ArbSchG." href="/branchen/ki-training-industrie/" cta="Industrie ansehen" >}}
+{{< card icon="policy" title="Öffentliche Hand" text="Behörden, Kommunen, Kammern, öffentliche Unternehmen: Protokolle, Bürgeranfragen, Bescheide — DSGVO-konform." href="/branchen/ki-training-oeffentliche-hand/" cta="Öffentliche Hand ansehen" >}}
 {{< /cards >}}
 
 ## Was alle Branchen verbindet: die KI-Kompetenzpflicht
@@ -114,7 +116,7 @@ Details: [Kompetenznachweis nach Artikel 4 KI-VO →](/ki-verordnung/kompetenzna
 ## FAQ: KI-Training nach Branche
 
 **Für welche Branchen bietet KWAIX KI-Training an?**
-Handwerk, Dienstleistung (Beratung, Steuerberatung, Agenturen), Handel (stationär + Online) und Industrie. DACH-weit, remote und vor Ort.
+Handwerk, Dienstleistung (Beratung, Steuerberatung, Agenturen), Handel (stationär + Online), Industrie sowie die öffentliche Hand (Behörden, Kommunen, Kammern, kommunale Unternehmen). DACH-weit, remote und vor Ort.
 
 **Unterscheidet sich das Training je nach Branche?**
 Das Prinzip ist gleich. Was sich ändert: die bearbeiteten Use Cases und Prompt-Vorlagen. Die Branchenanpassung erfolgt per Vorab-Umfrage und im optionalen KI-Kickoff.
