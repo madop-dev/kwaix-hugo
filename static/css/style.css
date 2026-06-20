@@ -1228,36 +1228,34 @@ body {
 }
 
 .kx-kpi-strip {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
   margin: 0;
-  background: linear-gradient(135deg, #4f46e5, #7c3aed, #ec4899);
-  border-radius: var(--radius);
-  overflow: hidden;
 }
 .kx-kpi-card {
-  padding: 20px 20px 18px;
-  background: transparent;
-  border-radius: 0;
-  border-left: none;
-  border-right: 1px solid rgba(255,255,255,0.15);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 30px;
+  padding: 10px 18px;
   box-shadow: none;
   text-align: left;
 }
-.kx-kpi-card:last-child { border-right: none; }
 .kx-kpi-value {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 800;
-  color: #fff;
+  color: var(--primary);
   line-height: 1.2;
 }
 .kx-kpi-label {
   font-size: 11px;
   font-weight: 500;
-  color: rgba(255,255,255,0.60);
+  color: #9ca3af;
   letter-spacing: 0.01em;
-  margin-bottom: 6px;
+  margin-bottom: 0;
 }
 /* Tint-Sektion: leicht abgesetzter Hintergrund */
 .kx-section--tint .kx-kpi-card {
