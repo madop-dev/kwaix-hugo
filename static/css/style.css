@@ -1854,18 +1854,21 @@ body {
 /* ===== CARD ACCENT SYSTEM ===== */
 
 /* Icon gradients — mapped to semantic tokens */
-.card--policy .card-icon  { background: linear-gradient(135deg, var(--primary),   #818cf8); color: white; }
-.card--prompt .card-icon  { background: linear-gradient(135deg, var(--kx-violet), #a78bfa); color: white; }
-.card--backlog .card-icon { background: linear-gradient(135deg, var(--kx-sky),    #22d3ee); color: white; }
-.card--proof .card-icon   { background: linear-gradient(135deg, var(--accent),    #fb7185); color: white; }
-.card--default .card-icon { background: linear-gradient(135deg, var(--primary),   #818cf8); color: white; }
+.card--policy .card-icon   { background: linear-gradient(135deg, #4f46e5, #818cf8); color: white; }
+.card--prompt .card-icon   { background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; }
+.card--backlog .card-icon  { background: linear-gradient(135deg, #a21caf, #ec4899); color: white; }
+.card--proof .card-icon    { background: linear-gradient(135deg, #f43f5e, #fb923c); color: white; }
+.card--training .card-icon { background: linear-gradient(135deg, #0891b2, #38bdf8); color: white; }
+.card--platform .card-icon { background: linear-gradient(135deg, #059669, #34d399); color: white; }
+.card--default .card-icon  { background: linear-gradient(135deg, #4f46e5, #818cf8); color: white; }
 
-/* Tinted border + coloured shadow on hover — rgba values match the token hex */
-.card--policy:hover  { border-color: var(--primary);   box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);  transform: translateY(-3px); }
-.card--prompt:hover  { border-color: var(--kx-violet); box-shadow: 0 8px 24px -4px rgba(124,58,237,0.18); transform: translateY(-3px); }
-.card--backlog:hover { border-color: var(--kx-sky);    box-shadow: 0 8px 24px -4px rgba(8,145,178,0.18);  transform: translateY(-3px); }
-.card--proof:hover   { border-color: var(--accent);    box-shadow: 0 8px 24px -4px rgba(244,63,94,0.18);  transform: translateY(-3px); }
-.card--default:hover { border-color: var(--primary);   box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);  transform: translateY(-3px); }
+.card--policy:hover   { border-color: #818cf8; box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);   transform: translateY(-3px); }
+.card--prompt:hover   { border-color: #a78bfa; box-shadow: 0 8px 24px -4px rgba(124,58,237,0.18);  transform: translateY(-3px); }
+.card--backlog:hover  { border-color: #ec4899; box-shadow: 0 8px 24px -4px rgba(162,28,175,0.18);  transform: translateY(-3px); }
+.card--proof:hover    { border-color: #fb923c; box-shadow: 0 8px 24px -4px rgba(244,63,94,0.18);   transform: translateY(-3px); }
+.card--training:hover { border-color: #38bdf8; box-shadow: 0 8px 24px -4px rgba(8,145,178,0.18);  transform: translateY(-3px); }
+.card--platform:hover { border-color: #34d399; box-shadow: 0 8px 24px -4px rgba(5,150,105,0.18);  transform: translateY(-3px); }
+.card--default:hover  { border-color: #818cf8; box-shadow: 0 8px 24px -4px rgba(79,70,229,0.18);  transform: translateY(-3px); }
 
 .card-text  { color: var(--kx-muted); }
 
