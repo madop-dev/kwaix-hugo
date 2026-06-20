@@ -2516,9 +2516,9 @@ body {
 .kx-ct-col:last-child { border-right: 1px solid var(--border); border-radius: 0 var(--radius) 0 0; }
 
 .kx-ct-col--featured {
-  background: var(--primary);
-  border-color: var(--primary);
-  border-right: 1px solid var(--primary);
+  background: linear-gradient(135deg, #a21caf, #ec4899);
+  border-color: transparent;
+  border-right: 1px solid transparent;
   color: white;
 }
 .kx-ct-col--featured + .kx-ct-col { border-left: none; }
