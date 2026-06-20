@@ -1083,20 +1083,21 @@ body {
 }
 .footer-logo-x { color: rgba(255,255,255,0.5); }
 /* Brand col */
+.footer-col--brand { text-align: left; }
 .footer-tagline {
   color: rgba(255,255,255,0.55);
-  font-size: 13px;
-  line-height: 1.7;
-  margin-bottom: 16px;
+  font-size: 14px;
+  line-height: 1.75;
+  margin-bottom: 20px;
 }
 .footer-contact {
   color: rgba(255,255,255,0.5);
-  font-size: 13px;
-  line-height: 1.9;
-  margin-bottom: 20px;
+  font-size: 14px;
+  line-height: 2;
+  margin-bottom: 24px;
 }
 .footer-contact a {
-  color: rgba(255,255,255,0.6);
+  color: rgba(255,255,255,0.65);
   text-decoration: none;
   transition: color 0.2s;
 }
@@ -1120,26 +1121,27 @@ body {
   color: white;
 }
 /* Nav cols */
+.footer-col { text-align: left; }
 .footer-col h4 {
   color: white;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
-.footer-col-h4--second { margin-top: 28px; }
+.footer-col-h4--second { margin-top: 32px; }
 .footer-col ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.footer-col ul li { margin-bottom: 10px; }
+.footer-col ul li { margin-bottom: 12px; }
 .footer-col a {
-  color: rgba(255,255,255,0.55);
+  color: rgba(255,255,255,0.6);
   text-decoration: none;
   transition: color 0.2s;
-  font-size: 13px;
+  font-size: 14px;
 }
 .footer-col a:hover { color: white; }
 /* Bottom bar */
