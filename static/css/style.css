@@ -8,26 +8,26 @@
 }
 
 :root {
-  --primary: #a5b4fc;
-  --primary-dark: #818cf8;
-  --primary-light: rgba(165,180,252,0.12);
+  --primary: #4f46e5;
+  --primary-dark: #4338ca;
+  --primary-light: #eef2ff;
   --accent: #f43f5e;
-  --text: rgba(255,255,255,0.92);
-  --text-secondary: rgba(255,255,255,0.60);
-  --text-muted: rgba(255,255,255,0.40);
-  --bg: #0b0f1e;
-  --bg-alt: #111828;
-  --bg-dark: #070a14;
-  --border: rgba(255,255,255,0.08);
+  --text: #111827;
+  --text-secondary: #4b5563;
+  --text-muted: #6b7280;
+  --bg: #ffffff;
+  --bg-alt: #f9fafb;
+  --bg-dark: #111827;
+  --border: #e5e7eb;
   --radius: 12px;
-  --shadow-lg: 0 10px 25px rgba(0,0,0,0.35);
+  --shadow-lg: 0 10px 25px rgba(0,0,0,0.08);
   /* ── Semantic tokens ── */
-  --kx-ink:    #070a14;
-  --kx-tint:   rgba(255,255,255,0.03);
-  --kx-violet: #a5b4fc;
-  --kx-sky:    #38bdf8;
-  --kx-muted:  rgba(255,255,255,0.40);
-  --kx-roi:    #38bdf8;
+  --kx-ink:    #1e1b4b;
+  --kx-tint:   var(--primary-light);
+  --kx-violet: #7c3aed;
+  --kx-sky:    #0891b2;
+  --kx-muted:  var(--text-muted);
+  --kx-roi:    #0ea5e9;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -123,16 +123,16 @@ body {
 .nav a:hover { color: #fff; }
 .nav a:hover::after { width: 100%; }
 .nav-cta {
-  background: var(--primary) !important;
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%) !important;
   color: white !important;
   padding: 10px 22px;
   border-radius: 8px;
   font-weight: 600 !important;
-  transition: background 0.2s, transform 0.2s, box-shadow 0.2s !important;
+  transition: opacity 0.2s, transform 0.2s, box-shadow 0.2s !important;
 }
 .nav-cta::after { display: none !important; }
 .nav-cta:hover {
-  background: var(--primary-dark) !important;
+  opacity: 0.88 !important;
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(79,70,229,0.3);
 }
@@ -264,17 +264,17 @@ body {
 .btn-hero-primary {
   display: inline-flex;
   align-items: center;
-  background: #f43f5e;
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%);
   color: #fff;
   font-weight: 700;
   font-size: 1rem;
   padding: 16px 28px;
   border-radius: var(--radius);
   text-decoration: none;
-  transition: background 0.2s, transform 0.2s;
-  box-shadow: 0 4px 20px rgba(244,63,94,0.4);
+  transition: opacity 0.2s, transform 0.2s;
+  box-shadow: 0 4px 20px rgba(165,180,252,0.3);
 }
-.btn-hero-primary:hover { background: #e11d48; transform: translateY(-2px); }
+.btn-hero-primary:hover { opacity: 0.88; transform: translateY(-2px); }
 .btn-hero-secondary {
   display: inline-flex;
   align-items: center;
@@ -1235,22 +1235,22 @@ body {
 }
 .kx-kpi-card {
   padding: 20px 20px 18px;
-  background: rgba(255,255,255,0.04);
+  background: white;
   border-radius: var(--radius);
-  border-left: 3px solid rgba(165,180,252,0.5);
-  box-shadow: none;
+  border-left: 4px solid var(--primary);
+  box-shadow: 0 2px 8px rgba(79,70,229,0.10), 0 1px 3px rgba(0,0,0,0.06);
   text-align: left;
 }
 .kx-kpi-value {
   font-size: 22px;
   font-weight: 700;
-  color: #a5b4fc;
+  color: var(--primary);
   line-height: 1.2;
 }
 .kx-kpi-label {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 500;
-  color: rgba(255,255,255,0.50);
+  color: var(--text-secondary);
   letter-spacing: 0.01em;
   margin-bottom: 8px;
 }
@@ -1778,15 +1778,15 @@ body {
 }
 .card {
   padding: 24px;
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.08);
+  background: white;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
 }
 .card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-  border-color: rgba(165,180,252,0.3);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--primary);
 }
 .article-meta {
   display: flex;
@@ -1960,15 +1960,15 @@ body {
   background: var(--bg);
 }
 
-/* Tone: tint — slightly lighter dark surface */
+/* Tone: tint — very light indigo, matches homepage card backgrounds */
 .kx-section--tint {
-  background: #111828;
+  background: var(--kx-tint);
   padding-block: 40px;
 }
 
-/* Tone: stage — deep dark with gradient */
+/* Tone: stage — dark indigo navy, light text */
 .kx-section--stage {
-  background: linear-gradient(160deg, #070a14 0%, #1a1140 100%);
+  background: linear-gradient(160deg, var(--kx-ink) 0%, var(--primary-dark) 100%);
   color: rgba(255,255,255,0.9);
 }
 .kx-section--stage h2,
