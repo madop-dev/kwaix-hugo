@@ -74,7 +74,7 @@ Die Inhalte sind bewusst zitierfähig aufgebaut: klare Definitionen, spezifische
 | 2. August 2026 | Hochrisiko-KI-Pflichten für Betreiber (Artikel 26) |
 | 2. August 2027 | Vollständige Anwendung aller Regelungen |
 
-{{< kpiStrip k1_label="Art. 4 gilt seit" k1_value="2. Aug. 2025" k2_label="Bußgeld Betreiber" k2_value="bis 15 Mio. €" k3_label="KI Use Cases" k3_value="6 Funktionen" k4_label="ROI (8 MA)" k4_value="~21.000 €/Jahr" >}}
+{{< kpiStrip k1_label="Art. 4 gilt seit" k1_value="2. Aug. 2025" k2_label="ROI (8 MA)" k2_value="~21.000 €/Jahr" k3_label="Themen" k3_value="5 Bereiche" k4_label="Einstieg" k4_value="KI-Kickoff" >}}
 
 {{% /section %}}
 
