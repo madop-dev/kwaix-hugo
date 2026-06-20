@@ -1232,6 +1232,7 @@ body {
   flex-wrap: wrap;
   gap: 10px;
   margin: 0;
+  justify-content: center;
 }
 .kx-kpi-card {
   display: flex;
