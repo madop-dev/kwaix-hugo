@@ -3106,11 +3106,11 @@ body {
 }
 .kx-kvc-action:hover { border-color: var(--primary); color: var(--primary) !important; }
 .kx-kvc-action--primary {
-  background: var(--primary);
-  border-color: var(--primary);
+  background: linear-gradient(135deg, #a5b4fc 0%, #f43f5e 100%);
+  border-color: transparent;
   color: white !important;
 }
-.kx-kvc-action--primary:hover { background: var(--primary-dark); border-color: var(--primary-dark); color: white !important; }
+.kx-kvc-action--primary:hover { opacity: 0.88; border-color: transparent; color: white !important; }
 /* Progress dots */
 .kx-kvc-progress { display: flex; gap: 8px; margin-top: 28px; }
 .kx-kvc-dot {
