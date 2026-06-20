@@ -1806,7 +1806,7 @@ body {
   display: inline-block;
   margin-top: 16px;
   padding: 8px 16px;
-  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  background: linear-gradient(160deg, #0b0f28 0%, #1a1033 60%, #0f172a 100%);
   color: white !important;
   border-radius: var(--radius);
   text-decoration: none;
