@@ -1,6 +1,6 @@
 ---
 title: "KI im Handwerk: 5 konkrete Use Cases mit Zeitersparnis"
-description: "KI-Training für Handwerksbetriebe: 5 praxiserprobte Use Cases mit konkreten Zeitangaben — Angebote, Aufmaße, Kundenkommunikation, Dokumentation und Stellenanzeigen."
+description: "KI-Training im Handwerk: 5 Use Cases mit Zeitangaben — Angebote, Aufmaße, Kundenkommunikation, Dokumentation und Stellenanzeigen. Konkret und praxisnah."
 date: 2026-06-21
 url: "/blog/ki-training-handwerk/"
 canonical: "https://kwaix.de/blog/ki-training-handwerk/"

@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Aachen: Für RWTH-Ökosystem, Ingenieure und Grenzregion"
-description: "KI-Training für Aachener Unternehmen — Ingenieurwesen, IT, Technologietransfer, Zulieferer und Grenzregion DE/NL/BE. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Aachen: Ingenieurwesen, IT, Technologietransfer, Zulieferer und Grenzregion DE/NL/BE. Praxisnah, Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Aachen"
 lede: "Aachen denkt technisch — RWTH-Ausgründungen, Ingenieurbüros und Zulieferer nutzen KI-Training, um Dokumentation und Kommunikation zu entlasten."
 draft: false

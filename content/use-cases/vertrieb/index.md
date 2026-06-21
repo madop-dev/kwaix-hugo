@@ -1,6 +1,6 @@
 ---
 title: "KI Use Cases Vertrieb: Angebote, CRM und Nachfass"
-description: "Konkrete KI-Anwendungsfälle im Vertrieb für KMU: Angebote schneller erstellen, CRM-Einträge automatisieren, Nachfassaktionen strukturieren — mit Praxisbeispielen."
+description: "KI Use Cases Vertrieb: Angebote schneller erstellen, CRM automatisieren, Nachfassaktionen strukturieren — konkrete Praxisbeispiele für KMU."
 eyebrow: "Use Case · Vertrieb"
 lede: "Vertriebsteams verlieren täglich 30–60 Minuten mit Aufgaben, die nichts mit Verkaufen zu tun haben. KI holt diese Zeit zurück — wenn das Team weiß, wie."
 draft: false

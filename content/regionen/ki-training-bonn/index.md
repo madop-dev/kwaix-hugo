@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Bonn: Für UN-Organisationen, Telekommunikation und NGOs"
-description: "KI-Training für Bonner Unternehmen und Organisationen — Deutsche Telekom, UN-Agenturen, Bundesbehörden, NGOs und Mittelstand. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Bonn: Telekom, UN-Agenturen, Bundesbehörden, NGOs und Mittelstand. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Bonn"
 lede: "Bonn ist mehr als Ex-Hauptstadt: UN-Agenturen, Deutsche Telekom, Bundesbehörden und NGOs machen die Stadt zu einem Zentrum für internationale Kommunikation und Verwaltung."
 draft: false

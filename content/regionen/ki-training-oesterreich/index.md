@@ -1,6 +1,6 @@
 ---
 title: "KI-Training in Österreich: Wien, Graz, Linz, Salzburg, Innsbruck"
-description: "KI-Training für österreichische Unternehmen — Wien, Graz, Linz, Salzburg, Innsbruck. Remote (Standard) und vor Ort in Österreich. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training in Österreich — Wien, Graz, Linz, Salzburg, Innsbruck. Remote (Standard) und vor Ort. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Österreich · DACH-weit"
 lede: "KI-Training für Unternehmen in ganz Österreich — branchenspezifisch, remote (Standard) oder vor Ort, mit österreichischem Geschäftsdeutsch und Rechtskontext."
 draft: false

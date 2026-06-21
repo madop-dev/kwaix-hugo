@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Live: Team-Training mit Kompetenznachweis nach Artikel 4 KI-VO"
-description: "KI-Training Live für KMU — praxisnahes Team-Training mit echten Use Cases, Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel 4 EU KI-Verordnung. Ab 2.400 € netto, remote oder vor Ort."
+description: "KI-Training Live für KMU: Team-Training mit echten Use Cases, Prompting-Standards und Kompetenznachweis nach Artikel 4 KI-VO. Ab 2.400 € netto."
 draft: false
 type: leistungen
 eyebrow: "Workshop · Inhouse & Remote · DACH-weit"

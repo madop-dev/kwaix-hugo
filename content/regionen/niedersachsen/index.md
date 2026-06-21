@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Niedersachsen: Hannover, Oldenburg, Osnabrück und mehr"
-description: "KI-Training und KI-Kickoff für KMU in Niedersachsen — Hannover, Oldenburg, Osnabrück, Braunschweig und alle weiteren Standorte. Remote und vor Ort, inkl. Kompetenznachweis."
+description: "KI-Training für KMU in Niedersachsen — Hannover, Oldenburg, Osnabrück, Braunschweig und weitere Standorte. Remote und vor Ort, inkl. Kompetenznachweis."
 eyebrow: "Region · Niedersachsen"
 lede: "KI-Training für KMU in Niedersachsen — remote oder vor Ort, für Industrie, Handwerk, Handel und Dienstleister."
 draft: false

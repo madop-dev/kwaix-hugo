@@ -1,6 +1,6 @@
 ---
 title: "KI Use Cases Management: Entscheidungen, Berichte, Kommunikation"
-description: "KI für Geschäftsführung und Führungskräfte in KMU: Berichte zusammenfassen, Entscheidungsvorlagen strukturieren, Kommunikation vorbereiten — konkret, nicht abstrakt."
+description: "KI Use Cases Management: Berichte zusammenfassen, Entscheidungsvorlagen strukturieren, Kommunikation vorbereiten — für Führungskräfte in KMU, konkret."
 eyebrow: "Use Case · Management"
 lede: "Führungskräfte in KMU treffen Entscheidungen mit zu viel Informationsrauschen und zu wenig Zeit. KI hilft, das Wesentliche schneller zu finden — kein Entscheider, aber ein guter Vorbereiter."
 draft: false

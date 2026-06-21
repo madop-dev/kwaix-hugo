@@ -1,6 +1,6 @@
 ---
 title: "EU KI-Verordnung (EU AI Act) für Unternehmen: Pflichten, Fristen, Umsetzung"
-description: "Die EU KI-Verordnung (EU) 2024/1689 gilt seit August 2025. Was das für KMU und Mittelstand konkret bedeutet — Artikel 4, KI-Policy, Kompetenznachweis, Bußgelder."
+description: "EU KI-Verordnung gilt seit August 2025. Was das für KMU bedeutet: Artikel 4, KI-Policy, Kompetenznachweis, Bußgelder — ohne Juristendeutsch."
 eyebrow: "KI-Verordnung (EU AI Act)"
 lede: "Die EU KI-Verordnung ist in Kraft. Artikel 4 gilt seit 2. August 2025. Was das für Ihr Unternehmen bedeutet — ohne Juristendeutsch."
 draft: false

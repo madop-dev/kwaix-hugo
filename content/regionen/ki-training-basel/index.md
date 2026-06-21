@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Basel: Für Pharma, Life Sciences und Dienstleistung"
-description: "KI-Training für Basler Unternehmen — Pharma, Life Sciences, Chemie, Logistik und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Basel."
+description: "KI-Training Basel: Pharma, Life Sciences, Chemie und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Basel"
 lede: "KI-Training für Basler KMU — für Pharma, Life Sciences, Chemie und Dienstleistung."
 draft: false

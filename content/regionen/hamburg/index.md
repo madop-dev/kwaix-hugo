@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Hamburg: Für KMU in der Metropolregion"
-description: "KI-Training und KI-Kickoff für KMU in Hamburg — remote und vor Ort, für Logistik, Medien, Handel, Dienstleistung und Agenturen. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training für KMU in Hamburg — remote und vor Ort, für Logistik, Medien, Handel und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Region · Hamburg"
 lede: "KI-Training für Hamburger KMU — remote oder vor Ort, branchenspezifisch, mit Kompetenznachweis."
 draft: false

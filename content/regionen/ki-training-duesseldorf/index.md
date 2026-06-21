@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Düsseldorf: Für Handel, Mode und Unternehmensberatung"
-description: "KI-Training für Düsseldorfer Unternehmen — Handel, Mode, Werbung, Beratung und Industrie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Düsseldorf."
+description: "KI-Training Düsseldorf: Handel, Mode, Werbung, Beratung und Industrie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Düsseldorf"
 lede: "KI-Training für Düsseldorfer KMU — für Handel, Mode, Werbung, Beratung und Industrie."
 draft: false

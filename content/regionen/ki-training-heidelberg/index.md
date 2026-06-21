@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Heidelberg: Für Biotech, Life Sciences und Forschungstransfer"
-description: "KI-Training für Heidelberger Unternehmen — Biotech, Life Sciences, Medizintechnik, Forschungsinstitute und IT. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Heidelberg: Biotech, Life Sciences, Medizintechnik und IT. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Heidelberg"
 lede: "Heidelberg vereint Weltklasse-Forschung mit einem wachsenden Biotech-Cluster — KI-Training beschleunigt den Transfer von Wissen in verwertbare Kommunikation."
 draft: false

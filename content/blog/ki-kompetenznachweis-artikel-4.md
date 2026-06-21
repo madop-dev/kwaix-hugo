@@ -1,6 +1,6 @@
 ---
 title: "Kompetenznachweis nach Artikel 4 KI-VO: Was Ihr Team jetzt braucht"
-description: "Der Kompetenznachweis nach Artikel 4 EU KI-Verordnung ist seit August 2025 Pflicht. Was er enthalten muss, wer ihn ausstellt und warum er mehr ist als ein Formblatt."
+description: "Kompetenznachweis nach Artikel 4 KI-Verordnung: seit August 2025 Pflicht. Was er enthalten muss, wer ihn ausstellt und warum er mehr ist als ein Formblatt."
 date: 2026-06-21
 url: "/blog/ki-kompetenznachweis-artikel-4/"
 canonical: "https://kwaix.de/blog/ki-kompetenznachweis-artikel-4/"

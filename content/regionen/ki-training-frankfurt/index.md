@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Frankfurt: Für Finanz, Beratung und Unternehmensdienstleistung"
-description: "KI-Training für Frankfurter Unternehmen — Finanzsektor, Unternehmensberatung, Rechtsdienstleistung und Logistik. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Frankfurt: Finanzsektor, Beratung, Rechtsdienstleistung und Logistik. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Region · Frankfurt"
 lede: "KI-Training für Frankfurter KMU und Mittelstand — für Finanzsektor, Beratung, Recht und Logistik."
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Köln: Für Medien, Handel und Dienstleistung"
-description: "KI-Training für Kölner Unternehmen — Medien, Versicherung, Handel und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Köln."
+description: "KI-Training Köln: Medien, Versicherung, Handel und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Köln"
 lede: "KI-Training für Kölner KMU — branchenspezifisch für Medien, Versicherung, Handel und Dienstleistung."
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Innsbruck: Für Alpintourismus, Sporttechnologie und Forschung"
-description: "KI-Training für Innsbrucker Unternehmen — Alpintourismus, Sporttechnologie, Wintersport, Universität und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Innsbruck: Alpintourismus, Sporttechnologie, Universität und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Innsbruck"
 lede: "Innsbruck verbindet Weltklasse-Alpintourismus mit einer technischen Universität — KI-Training beschleunigt Gästekommunikation, Sporttechnologie und wissensbasierte Dienstleistung."
 draft: false

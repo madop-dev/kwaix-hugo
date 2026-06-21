@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Münster: Für Recht, Finanzen und westfälischen Mittelstand"
-description: "KI-Training für Münsteraner Unternehmen — Rechtsdienstleistung, Finanzwirtschaft, Versicherung und Mittelstand. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Münster: Rechtsdienstleistung, Finanzwirtschaft, Versicherung und Mittelstand. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Münster"
 lede: "Münster ist eine der größten deutschen Jurastädte — und ein starker Standort für Finanzdienstleistung, Versicherung und westfälischen Mittelstand."
 draft: false

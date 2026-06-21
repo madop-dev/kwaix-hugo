@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Graz: Für Industrie, Automotive und Forschung"
-description: "KI-Training für Grazer Unternehmen — Automotive, Maschinenbau, Forschung und Technologie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Graz."
+description: "KI-Training Graz: Automotive, Maschinenbau, Forschung und Technologie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Graz"
 lede: "KI-Training für Grazer KMU — für Automotive, Maschinenbau, Forschung und Dienstleistung."
 draft: false

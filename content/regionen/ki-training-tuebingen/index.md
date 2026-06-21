@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Tübingen: Am Standort der deutschen KI-Forschung"
-description: "KI-Training für Tübinger Unternehmen — Max-Planck-Institut für Intelligente Systeme, Biomedizin, Softwareunternehmen und wissensbasierte KMU. Mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Tübingen: Max-Planck-Institut, Biomedizin, Softwareunternehmen und wissensbasierte KMU. Mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Tübingen"
 lede: "Tübingen ist Deutschlands führender Standort für KI-Grundlagenforschung — und ein idealer Ort, um aus Forschungswissen operative Praxis zu machen."
 draft: false

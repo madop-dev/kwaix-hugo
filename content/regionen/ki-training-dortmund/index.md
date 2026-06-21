@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Dortmund: Für Logistik, IT und Gesundheitswesen"
-description: "KI-Training für Dortmunder Unternehmen — Logistik, IT, Gesundheitswesen, Handel und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Dortmund."
+description: "KI-Training Dortmund: Logistik, IT, Gesundheitswesen und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Dortmund"
 lede: "KI-Training für Dortmunder KMU — für Logistik, IT, Gesundheitswesen und Dienstleistung."
 draft: false

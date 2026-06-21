@@ -1,6 +1,6 @@
 ---
 title: "KI-Training in Deutschland: Alle Standorte"
-description: "KI-Training für Unternehmen in ganz Deutschland — von Berlin bis Freiburg, von Hamburg bis München. Remote (Standard) und vor Ort. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training in Deutschland — Berlin, Hamburg, München, Köln und mehr. Remote (Standard) und vor Ort. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Deutschland · DACH-weit"
 lede: "KI-Training für deutsche Unternehmen — in Großstädten, Mittelstädten und Hochschulstandorten. Remote ist Standard, vor Ort nach Absprache."
 draft: false

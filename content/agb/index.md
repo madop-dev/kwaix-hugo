@@ -7,7 +7,7 @@ url: "/agb/"
 
 {{% section tone="plain" %}}
 
-# Allgemeine Geschäftsbedingungen der KWAIX GmbH
+## Allgemeine Geschäftsbedingungen der KWAIX GmbH
 
 Stand: Juni 2026
 

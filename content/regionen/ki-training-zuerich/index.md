@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Zürich: Für Finanz, Beratung und Technologie"
-description: "KI-Training für Züricher Unternehmen — Finanzsektor, Unternehmensberatung, Technologie und Versicherung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Zürich."
+description: "KI-Training Zürich: Finanzsektor, Beratung, Technologie und Versicherung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Zürich"
 lede: "KI-Training für Züricher KMU und Mittelstand — für Finanzsektor, Beratung, Technologie und Versicherung."
 draft: false

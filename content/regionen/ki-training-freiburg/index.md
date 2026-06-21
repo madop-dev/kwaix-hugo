@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Freiburg: Für Solarwirtschaft, Nachhaltigkeit und Grenzregion"
-description: "KI-Training für Freiburger Unternehmen — Solarenergie, Nachhaltigkeitswirtschaft, Dienstleistung, Tourismus und Grenzregion DE/CH/FR. Mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Freiburg: Solarenergie, Nachhaltigkeitswirtschaft, Dienstleistung und Grenzregion DE/CH/FR. Mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Freiburg"
 lede: "Freiburg ist Europas Sonnenhauptstadt und Vorreiter für nachhaltige Wirtschaft — mit einer Grenzlage zu Frankreich und der Schweiz, die mehrsprachige Kommunikation zum Alltag macht."
 draft: false

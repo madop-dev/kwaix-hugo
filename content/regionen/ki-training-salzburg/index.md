@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Salzburg: Für Tourismus, Handel und Dienstleistung"
-description: "KI-Training für Salzburger Unternehmen — Tourismus, Hotellerie, Handel, Medien und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Salzburg."
+description: "KI-Training Salzburg: Tourismus, Hotellerie, Handel und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Salzburg"
 lede: "KI-Training für Salzburger KMU — für Tourismus, Hotellerie, Handel und Dienstleistung."
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Leipzig: Für Logistik, Kreativwirtschaft und Dienstleistung"
-description: "KI-Training für Leipziger Unternehmen — Logistik, Kreativwirtschaft, Medien, Dienstleistung und Verwaltung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Leipzig: Logistik, Kreativwirtschaft, Medien und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Region · Leipzig"
 lede: "KI-Training für Leipziger KMU — für Logistik, Kreativwirtschaft, Medien und Dienstleistung."
 draft: false

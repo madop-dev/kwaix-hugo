@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Linz: Für Industrie, Stahl und Dienstleistung"
-description: "KI-Training für Linzer Unternehmen — Industrie, Stahl, Chemie, IT und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Linz."
+description: "KI-Training Linz: Industrie, Stahl, Chemie, IT und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Linz"
 lede: "KI-Training für Linzer KMU — für Industrie, Stahl, Chemie, IT und Dienstleistung."
 draft: false

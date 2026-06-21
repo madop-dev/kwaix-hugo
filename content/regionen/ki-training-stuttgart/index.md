@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Stuttgart: Für Automotive, Maschinenbau und Industrie"
-description: "KI-Training für Stuttgarter Unternehmen — Automotive, Maschinenbau, Industrie und Ingenieurbüros. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Stuttgart."
+description: "KI-Training Stuttgart: Automotive, Maschinenbau, Industrie und Ingenieurbüros. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Stuttgart"
 lede: "KI-Training für Stuttgarter KMU — für Automotive, Maschinenbau, Industrie und Ingenieurbüros."
 draft: false

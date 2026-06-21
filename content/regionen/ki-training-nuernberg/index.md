@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Nürnberg: Für Industrie, Handel und Dienstleistung"
-description: "KI-Training für Nürnberger Unternehmen — Industrie, Elektronik, Handel, Messe und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Nürnberg."
+description: "KI-Training Nürnberg: Industrie, Elektronik, Handel, Messe und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Nürnberg"
 lede: "KI-Training für Nürnberger KMU — für Industrie, Elektronik, Handel, Messe und Dienstleistung."
 draft: false

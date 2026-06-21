@@ -1,6 +1,6 @@
 ---
 title: "KI-Training München: Für Automotive, Finanzen und Mittelstand"
-description: "KI-Training für Münchner Unternehmen — Automotive, Finanzen, Versicherung, IT und Industrie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in München."
+description: "KI-Training München: Automotive, Finanzen, Versicherung, IT und Industrie. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · München"
 lede: "KI-Training für Münchner KMU und Mittelstand — branchenspezifisch für Automotive, Finanzen, IT und Industrie."
 draft: false

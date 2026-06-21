@@ -1,6 +1,6 @@
 ---
 title: "KI Use Cases für KMU: Welche Aufgaben lohnen sich wirklich?"
-description: "Konkrete KI-Anwendungsfälle für KMU und Mittelstand: Vertrieb, Kundenservice, HR, Marketing, Office und Management — mit Zeitersparnis, Eingabe-Ausgabe-Beispielen und Datenschutz-Hinweisen."
+description: "KI Use Cases für KMU: Vertrieb, Kundenservice, HR, Marketing, Office und Management — mit Zeitersparnis, konkreten Beispielen und Datenschutz-Hinweisen."
 eyebrow: "KI Use Cases"
 lede: "Nicht jede KI-Anwendung lohnt sich. Diese Seite zeigt, welche Use Cases in KMU wirklich Zeit sparen — mit konkreten Zahlen, nicht mit Versprechen."
 draft: false

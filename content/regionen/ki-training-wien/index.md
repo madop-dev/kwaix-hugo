@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Wien: Für Österreichische KMU und Mittelstand"
-description: "KI-Training für Wiener Unternehmen — Finanzdienstleistung, Handel, Beratung, Tourismus und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort in Wien."
+description: "KI-Training Wien: Finanzdienstleistung, Handel, Beratung und Tourismus. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Wien"
 lede: "KI-Training für Wiener KMU und Mittelstand — für Finanzdienstleistung, Handel, Beratung und Tourismus."
 draft: false

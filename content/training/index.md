@@ -1,6 +1,6 @@
 ---
 title: "Trainingsprogramm: KI-Kickoff, Live-Training, Trainingsplattform"
-description: "Das KWAIX-Trainingsprogramm für KMU in drei Schritten: KI-Kickoff zur Priorisierung, KI-Training Live für Teams, Trainingsplattform für dauerhaften Kompetenzaufbau."
+description: "KI-Training für KMU in drei Schritten: KI-Kickoff, KI-Training Live für Teams und Trainingsplattform für dauerhaften Kompetenzaufbau."
 eyebrow: "Alle Formate · Alle Branchen · DACH-weit"
 lede: "Vom ersten Überblick bis zur dauerhaften KI-Kompetenz im Team — in drei aufeinander aufbauenden Schritten."
 draft: false

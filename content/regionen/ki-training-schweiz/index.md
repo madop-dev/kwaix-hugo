@@ -1,6 +1,6 @@
 ---
 title: "KI-Training in der Schweiz: Zürich, Basel, Bern"
-description: "KI-Training für Schweizer Unternehmen — Zürich, Basel und Bern. Remote (Standard) und vor Ort in der Deutschschweiz. Mehrsprachig, mit Bezug auf Schweizer Recht und FINMA."
+description: "KI-Training in der Schweiz — Zürich, Basel und Bern. Remote (Standard) und vor Ort. Mehrsprachig, mit Bezug auf Schweizer Recht und FINMA."
 eyebrow: "Schweiz · DACH-weit"
 lede: "KI-Training für Unternehmen in der Deutschschweiz — mehrsprachig (DE/EN/FR), mit Bezug auf FINMA, OR und Schweizer Geschäftsgepflogenheiten."
 draft: false

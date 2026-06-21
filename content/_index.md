@@ -1,6 +1,6 @@
 ---
 title: "KI-Training für Unternehmen — KWAIX"
-description: "KI-Training für KMU und Mittelstand im DACH-Raum: praxisnahes Team-Training, Kompetenznachweis nach Artikel 4 KI-Verordnung, KI-Kickoff und Trainingsplattform. Ab 2.400 € netto."
+description: "KI-Training für KMU im DACH-Raum: Team-Training, Kompetenznachweis nach Artikel 4 KI-Verordnung, KI-Kickoff und Trainingsplattform. Ab 2.400 € netto."
 schemaType: "service"
 priceRange: "2400-4650"
 faqItems:

@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Berlin: Für KMU, Startups und Mittelstand"
-description: "KI-Training für Berliner Unternehmen — Tech, Kreativwirtschaft, Medien, Verwaltung und Dienstleistung. Praxisnah, branchenspezifisch, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
+description: "KI-Training Berlin: Tech, Kreativwirtschaft, Medien, Verwaltung und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Berlin"
 lede: "KI-Training für Berliner KMU und Mittelstand — von der Kreativwirtschaft bis zum Tech-Unternehmen, remote oder vor Ort."
 draft: false

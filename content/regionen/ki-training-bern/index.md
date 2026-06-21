@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Bern: Für Verwaltung, Beratung und Dienstleistung"
-description: "KI-Training für Berner Unternehmen und Institutionen — Bundesverwaltung, Beratung, Versicherung, Bildung und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training Bern: Bundesverwaltung, Beratung, Versicherung, Bildung und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Region · Bern"
 lede: "KI-Training für Berner Organisationen und KMU — für Verwaltung, Beratung, Versicherung und Dienstleistung."
 draft: false
