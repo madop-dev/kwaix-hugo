@@ -1,7 +1,7 @@
 ---
 title: "Marion Dopmann — KI-Trainerin, Gründerin KWAIX"
 description: "Marion Dopmann ist Gründerin von KWAIX und KI-Trainerin für KMU und Mittelstand im DACH-Raum. Schwerpunkt: praxisnahes KI-Enablement, Prompting-Standards, KI-Verordnung."
-eyebrow: "Über KWAIX"
+eyebrow: "KI-Trainerin & Gründerin · Bremen"
 lede: "KI-Trainerin für den Mittelstand — pragmatisch, direkt, mit echten Use Cases statt Buzzwords."
 draft: false
 canonical: "https://kwaix.de/ueber-uns/marion-dopmann/"

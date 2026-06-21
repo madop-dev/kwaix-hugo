@@ -1,7 +1,7 @@
 ---
 title: "KI-Trainer-Netzwerk: Zertifizierte KWAIX-Trainer für Ihr Unternehmen"
 description: "Das KWAIX-Trainernetzwerk: Selbständige KI-Experten mit unterschiedlichen Schwerpunkten — von KI-Grundlagen bis EU AI Act, von Handwerk bis Management. DACH-weit verfügbar."
-eyebrow: "Trainer-Netzwerk"
+eyebrow: "Zertifizierte Trainer · DACH-weit"
 lede: "KWAIX-Trainings werden von zertifizierten KI-Experten mit klarem Schwerpunkt durchgeführt — nicht von Generalisten."
 draft: false
 canonical: "https://kwaix.de/partnernetzwerk/"

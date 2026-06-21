@@ -1,7 +1,7 @@
 ---
 title: "Kontakt: Vorgespräch für KI-Training anfragen"
 description: "30-Minuten-Vorgespräch — kostenlos, unverbindlich, ohne Pitchdeck. Wir klären, ob und wie wir helfen können."
-eyebrow: "Kontakt"
+eyebrow: "Antwort innerhalb eines Werktags"
 lede: "Kein Verkaufsgespräch, kein Skript. Wir klären in 30 Minuten, ob und wie wir helfen können — und melden uns innerhalb eines Werktags."
 draft: false
 url: "/kontakt/"

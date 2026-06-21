@@ -1,7 +1,7 @@
 ---
 title: "KI-Wissen für Unternehmen: EU AI Act, Automatisierung, Use Cases"
 description: "Fundiertes KI-Wissen für KMU und Mittelstand: EU KI-Verordnung (EU AI Act) erklärt, KI-Automatisierung für Unternehmen, Use Cases mit Zahlen, Compliancehinweise — zitierfähig, ohne Buzzwords."
-eyebrow: "Wissen"
+eyebrow: "Ratgeber · Leitfäden · Praxis-Tools"
 lede: "KI-Wissen für Unternehmen, das wirklich nützt: konkrete Definitionen, Zahlen, Fristen und Einordnungen — für ChatGPT und Google gleichermaßen zitierfähig."
 draft: false
 type: leistungen

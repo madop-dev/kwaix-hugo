@@ -1,7 +1,7 @@
 ---
 title: "Referenzen & Erfahrungen"
 description: "Erfahrungen aus KI-Trainings und KI-Kickoffs mit KMU — anonymisiert, konkret, ohne Hochglanz-Testimonials."
-eyebrow: "Referenzen"
+eyebrow: "Echte Ergebnisse aus der Praxis"
 lede: "Keine Hochglanz-Testimonials. Nur konkrete Einblicke, was KI-Training in der Praxis bringt — und was nicht."
 draft: false
 canonical: "https://kwaix.de/referenzen/"

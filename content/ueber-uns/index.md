@@ -1,7 +1,7 @@
 ---
 title: "Über KWAIX: KI-Training für KMU und Mittelstand im DACH-Raum"
 description: "KWAIX ist ein KI-Trainingsanbieter für KMU und Mittelstand in Deutschland, Österreich und der Schweiz. Praxisnahes KI-Training, Kompetenznachweis nach Artikel 4 KI-VO, kein Buzzword-Bingo."
-eyebrow: "Über KWAIX"
+eyebrow: "Gegründet 2024 · Bremen · DACH-weit aktiv"
 lede: "Wir machen KI praktisch — für Teams, die keine Zeit für Experimente haben."
 draft: false
 canonical: "https://kwaix.de/ueber-uns/"

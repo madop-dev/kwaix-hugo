@@ -3,7 +3,7 @@ title: "KI-ROI-Rechner: Zeitersparnis durch KI-Training berechnen"
 description: "Wie viel ist KI-Training für Ihr Team wert? Konservativer ROI-Rechner: Mitarbeitende × Zeitersparnis × Stundensatz — Break-even typisch unter 2 Monate."
 draft: false
 type: leistungen
-eyebrow: "ROI-Rechner"
+eyebrow: "Kostenloser Rechner · Ergebnis in 2 Minuten"
 lede: "Schieberegler einstellen, Ergebnis ablesen. Konservative Rechnung — keine Hochglanz-Versprechen."
 canonical: "https://kwaix.de/preise/ki-roi-rechner/"
 url: "/preise/ki-roi-rechner/"

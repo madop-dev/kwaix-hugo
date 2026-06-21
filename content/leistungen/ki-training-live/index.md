@@ -3,7 +3,7 @@ title: "KI-Training Live: Team-Training mit Kompetenznachweis nach Artikel 4 KI-
 description: "KI-Training Live für KMU — praxisnahes Team-Training mit echten Use Cases, Prompting-Standards und dokumentiertem Kompetenznachweis nach Artikel 4 EU KI-Verordnung. Ab 2.400 € netto, remote oder vor Ort."
 draft: false
 type: leistungen
-eyebrow: "KI-Training Live"
+eyebrow: "Workshop · Inhouse & Remote · DACH-weit"
 lede: "Praxisnahes Team-Training mit echten Use Cases aus Ihrem Alltag — inkl. Kompetenznachweis nach Artikel 4 KI-Verordnung, remote oder vor Ort."
 canonical: "https://kwaix.de/leistungen/ki-training-live/"
 schemaType: "course"

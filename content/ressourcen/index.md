@@ -1,7 +1,7 @@
 ---
 title: "Ressourcen: KI-Einstieg für KMU"
 description: "Praxisnahe Ressourcen zum KI-Einstieg für KMU: Checklisten, Leitfäden und Hintergrundinformationen zu KI-Training, Prompting und KI-Verordnung."
-eyebrow: "Ressourcen"
+eyebrow: "Kostenlose Downloads & Vorlagen"
 lede: "Praktische Unterlagen, Checklisten und Hintergrundinformationen — für alle, die KI im Unternehmen seriös einführen wollen."
 draft: false
 canonical: "https://kwaix.de/ressourcen/"

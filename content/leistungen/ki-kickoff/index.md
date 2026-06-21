@@ -3,7 +3,7 @@ title: "KI-Kickoff: Use-Case-Priorisierung und Risikocheck in 90 Minuten"
 description: "KI-Kickoff für KMU und Mittelstand: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-Verordnung, konkreter Plan — in 90–120 Min, remote oder vor Ort."
 draft: false
 type: leistungen
-eyebrow: "KI-Kickoff"
+eyebrow: "Strategieberatung · 90 Minuten · Unverbindlich"
 lede: "Klarheit über KI-Potenziale in 90 Minuten: priorisierte Use Cases, Risikocheck, konkreter Plan — bevor Geld in KI-Projekte fließt."
 herocta: "KI-Kickoff anfragen →"
 canonical: "https://kwaix.de/leistungen/ki-kickoff/"
