@@ -85,7 +85,7 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 {{< card icon="default" title="01 Vorgespräch" text="Kurzes Kennenlernen: Betriebsgröße, Bereiche, konkrete Aufgaben. 30 Min, kostenfrei." href="/kontakt/" cta="Vorgespräch anfragen" >}}
 {{< card icon="backlog" title="02 KI-Kickoff" text="90 Min Workshop: Welche Aufgaben sind am lohnendsten? Prioritäten, Risiken, nächste Schritte." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="training" title="03 Training" text="Praxisnahes Live-Training mit echten Aufgaben aus Ihrem Betrieb. Büro und/oder Meisterteam." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
-{{< card icon="prompt" title="04 Prompt-Bibliothek" text="Erprobte Vorlagen für Angebote, Mails und Protokolle — direkt einsetzbar." href="/leistungen/ki-training-live/" cta="Inhalte ansehen" >}}
+{{< card icon="prompt" title="04 Prompt-Bibliothek" text="Erprobte Vorlagen für Angebote, Mails und Protokolle — direkt einsetzbar." href="/use-cases/office-projekt/" cta="KI Use Cases Handwerk ansehen" >}}
 {{< card icon="proof" title="05 Kompetenznachweis" text="Nachweis gemäß Artikel 4 KI-Verordnung für alle Teilnehmenden." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für Onboarding neuer Mitarbeitender oder Auffrischung." >}}
 {{< /cards >}}
