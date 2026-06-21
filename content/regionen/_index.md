@@ -29,7 +29,7 @@ Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne 
 
 {{< cards cols="3" >}}
 {{< card icon="training" title="KI-Training in Deutschland" text="Berlin, München, Hamburg, Köln, Frankfurt, Stuttgart, Düsseldorf, Leipzig, Nürnberg, Dortmund, Bremen und Hochschulstädte." href="/regionen/ki-training-deutschland/" cta="Alle deutschen Standorte ansehen" >}}
-{{< card icon="training" title="KI-Training in Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck — mit österreichischem Rechtskontext und Geschäftsdeutsch." href="/regionen/ki-training-oesterreich/" cta="Österreichische Standorte ansehen" >}}
+{{< card icon="training" title="KI-Training in Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck — mit österreichischem Rechtskontext und Geschäftsdeutsch." href="/regionen/ki-training-oesterreich/" cta="Standorte Österreich ansehen" >}}
 {{< card icon="training" title="KI-Training in der Schweiz" text="Zürich, Basel und Bern — mehrsprachig (DE/EN/FR), mit Bezug auf Schweizer Recht und FINMA." href="/regionen/ki-training-schweiz/" cta="Schweizer Standorte ansehen" >}}
 {{< /cards >}}
 
