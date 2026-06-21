@@ -49,6 +49,18 @@ Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne 
 {{< card icon="default" title="Niedersachsen" text="KI-Training für KMU in Niedersachsen — Hannover, Osnabrück, Braunschweig u.a." href="/regionen/niedersachsen/" cta="KI-Training Niedersachsen ansehen" >}}
 {{< /cards >}}
 
+## KI-Training in Hochschulstädten
+
+{{< cards cols="3" >}}
+{{< card icon="default" title="Münster" text="Jura-Hochburg, Finanzdienstleistung und westfälischer Mittelstand — mit Fokus auf juristisches Schreiben." href="/regionen/ki-training-muenster/" cta="KI-Training Münster ansehen" >}}
+{{< card icon="default" title="Aachen" text="RWTH-Ökosystem, Ingenieurbüros und Grenzregion DE/NL/BE — mehrsprachig und technisch." href="/regionen/ki-training-aachen/" cta="KI-Training Aachen ansehen" >}}
+{{< card icon="default" title="Bonn" text="UN-Organisationen, Deutsche Telekom, Bundesbehörden und NGOs — internationale Kommunikation." href="/regionen/ki-training-bonn/" cta="KI-Training Bonn ansehen" >}}
+{{< card icon="default" title="Heidelberg" text="Biotech-Cluster, Life Sciences und Forschungstransfer — von der Publikation zum Produkt." href="/regionen/ki-training-heidelberg/" cta="KI-Training Heidelberg ansehen" >}}
+{{< card icon="default" title="Jena" text="Optik, Photonik (Carl Zeiss, Jenoptik) und Hightech-KMU — präzise Dokumentation schneller." href="/regionen/ki-training-jena/" cta="KI-Training Jena ansehen" >}}
+{{< card icon="default" title="Tübingen" text="Max-Planck-Institut, Cyber Valley — KI-Forschungsstandort trifft operative Praxis." href="/regionen/ki-training-tuebingen/" cta="KI-Training Tübingen ansehen" >}}
+{{< card icon="default" title="Freiburg" text="Solarwirtschaft, Nachhaltigkeit und Grenzregion DE/CH/FR — dreisprachig." href="/regionen/ki-training-freiburg/" cta="KI-Training Freiburg ansehen" >}}
+{{< /cards >}}
+
 ## KI-Training in Österreich
 
 {{< cards cols="3" >}}
@@ -56,6 +68,7 @@ Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne 
 {{< card icon="default" title="Graz" text="KI-Training für Automotive, Maschinenbau und Forschung." href="/regionen/ki-training-graz/" cta="KI-Training Graz ansehen" >}}
 {{< card icon="default" title="Linz" text="KI-Training für Industrie, Stahl, Chemie und IT." href="/regionen/ki-training-linz/" cta="KI-Training Linz ansehen" >}}
 {{< card icon="default" title="Salzburg" text="KI-Training für Tourismus, Hotellerie und Handel." href="/regionen/ki-training-salzburg/" cta="KI-Training Salzburg ansehen" >}}
+{{< card icon="default" title="Innsbruck" text="Alpintourismus, Sporttechnologie und Hochschule — mehrsprachig für internationale Gäste." href="/regionen/ki-training-innsbruck/" cta="KI-Training Innsbruck ansehen" >}}
 {{< /cards >}}
 
 ## KI-Training in der Schweiz
