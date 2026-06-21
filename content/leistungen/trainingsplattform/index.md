@@ -1,6 +1,6 @@
 ---
 title: "KI-Trainingsplattform: Prompt-Bibliothek, KI-Standards und Micro-Learnings für Teams"
-description: "KI-Trainingsplattform für KMU: Prompt-Bibliothek, interne KI-Standards, Vorlagen und Update-Module — KI-Kompetenz dauerhaft verankern, nicht nur einmalig schulen."
+description: "KI-Trainingsplattform für KMU: Prompt-Bibliothek, KI-Standards, Vorlagen und Update-Module — KI-Kompetenz dauerhaft verankern, nicht nur einmalig schulen."
 eyebrow: "Digitales Lernen · KI-gestützt · DSGVO-konform"
 lede: "Prompt-Bibliothek, KI-Standards und Micro-Learnings an einem Ort — damit KI-Kompetenz nach dem Training nicht nach drei Wochen verblasst."
 draft: false
