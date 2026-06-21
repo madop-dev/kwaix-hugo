@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="KWAIX KX Favicon">
+  <defs>
+    <linearGradient id="kwaixGradient" x1="170" y1="100" x2="340" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff7ac8"/>
+      <stop offset="52%" stop-color="#c86aa3"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="kwaixBg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#08123f"/>
+      <stop offset="100%" stop-color="#020826"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="76" fill="url(#kwaixBg)"/>
+
+  <!-- KX icon enlarged for favicon/device use -->
+  <g transform="translate(8 0)">
+    <!-- linker weißer K-Stamm -->
+    <path fill="#ffffff" d="M64 82 H139 V237 L64 318 Z"/>
+    <path fill="#ffffff" d="M64 352 L139 272 V430 H64 Z"/>
+
+    <!-- mittlere Gradient-Form -->
+    <path fill="url(#kwaixGradient)" d="M139 256 L248 82 H335 L220 256 L337 430 H248 Z"/>
+
+    <!-- rechter weißer X-/Chevron-Teil näher am Verlauf -->
+    <path fill="#ffffff" d="M244 256 L350 82 H438 L326 256 L438 430 H350 Z"/>
+  </g>
+</svg>
