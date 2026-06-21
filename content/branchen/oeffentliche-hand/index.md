@@ -148,6 +148,6 @@ Ja — bei mehreren Trainingseinheiten (z.B. Hauptamt + Fachämter oder mehrere 
 **Wie lange dauert ein Training?**
 Das [KI-Training Live](/leistungen/ki-training-live/) dauert einen halben Tag (3,5–4 Std). Ideal für Gruppen von 5–15 Personen. Größere Einrichtungen werden in mehrere Gruppen aufgeteilt.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20%C3%B6ffentliche%20Hand%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20%C3%B6ffentliche%20Hand%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}

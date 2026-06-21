@@ -73,7 +73,7 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 {{< card icon="default" title="Führungsebene" text="GF, die Klarheit über Potenziale, Risiken und nächste Schritte will — vor jeder Investition." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
 {{% /section %}}
 

@@ -5,12 +5,12 @@ draft: false
 type: leistungen
 eyebrow: "Kostenloser Rechner · Ergebnis in 2 Minuten"
 lede: "Schieberegler einstellen, Ergebnis ablesen. Konservative Rechnung — keine Hochglanz-Versprechen."
-canonical: "https://kwaix.de/preise/ki-roi-rechner/"
+canonical: "https://kwaix.de/ki-training-kosten/ki-roi-rechner/"
 url: "/preise/ki-roi-rechner/"
 schemaType: "service"
 herocta: "Vorgespräch anfragen →"
 herocta2: "Preise ansehen"
-herocta2href: "/preise/"
+herocta2href: "/ki-training-kosten/"
 heroCards:
   - type: roi
     title: "ROI-Rechner"
@@ -91,6 +91,6 @@ Der Rechner ist bewusst konservativ. 12 Min/Tag ist ein niedriger Ansatz — Tea
 **Wie schnell amortisiert sich das Training?**
 Konservatives Szenario (8 Personen, 8 Min, 2.400 €): Break-even nach 2,3 Monaten. Realistisches Szenario (12 Min): 1,5 Monate. In beiden Fällen deutlich unter einem Quartal.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen (30 Min, kostenlos)" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
 {{% /section %}}

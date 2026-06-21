@@ -70,7 +70,7 @@ KWAIX hat seinen Sitz in Bremen und begleitet Bremer KMU und Mittelstand beim pr
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Bremer Use Cases. Vor Ort in Ihren Räumen oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremen%20anfragen" primaryText="Vorgespräch für Bremen anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremen%20anfragen" primaryText="Vorgespräch für Bremen anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

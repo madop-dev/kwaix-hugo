@@ -76,7 +76,7 @@ Geschäftsführerinnen und Führungskräfte in KMU sind nicht entscheidungsmüde
 {{< card icon="backlog" title="Szenarien strukturieren" text="Eingabe: Problem + bekannte Optionen + Rahmenbedingungen. Ausgabe: Szenario-Matrix mit Kriterien, Risiken und Handlungsempfehlung." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="KI-Kickoff für Führungsebene" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="KI-Kickoff für Führungsebene" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

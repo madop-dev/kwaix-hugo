@@ -71,7 +71,7 @@ Steuerberater, Unternehmensberater, Agenturen, Personaldienstleister, Versicheru
 {{< card icon="default" title="Einzelperson" text="Für Soloselbstständige ohne Teammitglieder ist ein Einzel-Coaching oft sinnvoller." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Dienstleistung%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

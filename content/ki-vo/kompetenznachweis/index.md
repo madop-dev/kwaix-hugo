@@ -82,7 +82,7 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 {{< card icon="training" title="Beauftragte Dritte" text="Personen, die im Auftrag eines Betreibers KI-Systeme bedienen — auch Dienstleister und Freiberufler." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

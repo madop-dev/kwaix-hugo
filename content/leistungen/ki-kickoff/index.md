@@ -26,7 +26,7 @@ faqItems:
   - q: "Was bekommen wir konkret nach dem Kickoff?"
     a: "Sie erhalten: eine priorisierte Use-Case-Shortlist mit konkreten Anwendungsfällen aus Ihrem Arbeitsalltag, kurze Risiko- und Machbarkeitsnotizen pro Top-Use-Case (Datenschutz, KI-VO orientierend, Aufwand), eine Trainingsempfehlung und optional eine grobe Pilot-Roadmap für 2–4 Wochen."
   - q: "Wie lange dauert der Kickoff und was kostet er?"
-    a: "90 bis 120 Minuten, remote oder vor Ort. Das Angebot erhalten Sie nach einem kostenlosen 30-minütigen Vorgespräch, in dem wir Teamgröße und Situation klären. Preisdetails: /preise/."
+    a: "90 bis 120 Minuten, remote oder vor Ort. Das Angebot erhalten Sie nach einem kostenlosen 30-minütigen Vorgespräch, in dem wir Teamgröße und Situation klären. Preisdetails: /ki-training-kosten/."
   - q: "Findet der Kickoff remote oder vor Ort statt?"
     a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im kostenlosen Vorgespräch, was für Ihr Team am besten passt."
   - q: "Was müssen wir für den Kickoff vorbereiten?"
@@ -98,7 +98,7 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 {{< card icon="roi" title="Pilot-Roadmap" text="Optional: grober Fahrplan für einen 2–4-wöchigen Pilot zu einem priorisierten Use Case." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 
@@ -124,6 +124,6 @@ Nein. Wir ordnen orientierend ein — als Ausgangspunkt für die richtigen Frage
 **Was kostet der Kickoff?**
 Das Angebot erhalten Sie nach dem kostenlosen Vorgespräch (30 Min). Preisübersicht: [/preise/](/ki-training-kosten/).
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" note="Preise und Staffelung: /preise/" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" note="Preise und Staffelung: /ki-training-kosten/" >}}
 
 {{% /section %}}

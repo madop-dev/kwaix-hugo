@@ -60,7 +60,7 @@ Wir trainieren Unternehmen in ganz Niedersachsen — von Hannover bis Oldenburg,
 {{< card icon="proof" title="KI-VO Nachweis" text="Artikel 4 gilt seit 2. August 2025 — auch für Niedersächsische Betreiber. Kompetenznachweis nach jedem Training." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Niedersachsen%20anfragen" primaryText="Vorgespräch für Niedersachsen anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Niedersachsen%20anfragen" primaryText="Vorgespräch für Niedersachsen anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

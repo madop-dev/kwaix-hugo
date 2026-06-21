@@ -34,7 +34,7 @@ faqItems:
   - q: "Werden die Inhalte aktuell gehalten?"
     a: "Ja, über Update-Module — etwa bei Änderungen zur KI-Verordnung oder bei eingesetzten Tools. Updates werden neutral formuliert, ohne Rechtsberatung zu ersetzen."
   - q: "Was kostet die Trainingsplattform?"
-    a: "Die Trainingsplattform ist für 6 Monate inkl. — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten. Preisübersicht: /preise/. Bitte anfragen für ein konkretes Angebot."
+    a: "Die Trainingsplattform ist für 6 Monate inkl. — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten. Preisübersicht: /ki-training-kosten/. Bitte anfragen für ein konkretes Angebot."
   - q: "Müssen sensible Unternehmensdaten in die Plattform eingepflegt werden?"
     a: "Nein. Die Plattform funktioniert auch ohne vertrauliche oder sensible Informationen. Der interne Bereich für eigene Use Cases und Standards kann nach Bedarf befüllt werden."
 ---
@@ -113,6 +113,6 @@ Ja, über Update-Module — bei KI-VO-Änderungen und relevanten Tool-Updates.
 **Müssen sensible Daten eingepflegt werden?**
 Nein. Die Plattform funktioniert auch ohne vertrauliche Informationen.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}

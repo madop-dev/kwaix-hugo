@@ -73,7 +73,7 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 {{< card icon="proof" title="Ausbildungsbetriebe" text="Betriebe, die Azubis von Anfang an im sicheren KI-Einsatz schulen und Kompetenznachweise brauchen." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handwerk%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

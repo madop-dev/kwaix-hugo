@@ -11,7 +11,7 @@ canonical: "https://kwaix.de/ki-training-branchen/"
 schemaType: "service"
 herocta: "KI-Training für Ihre Branche →"
 herocta2: "Preise ansehen"
-herocta2href: "/preise/"
+herocta2href: "/ki-training-kosten/"
 heroCards:
   - type: training
     title: "Branchenspezifisch"

@@ -61,7 +61,7 @@ Stand: Juni 2026
 
 ## § 5 Preise und Zahlungsbedingungen
 
-(1) Es gelten die im Angebot oder auf der Website kwaix.de/preise/ ausgewiesenen Preise. Alle Preise verstehen sich zuzüglich der gesetzlichen Umsatzsteuer.
+(1) Es gelten die im Angebot oder auf der Website kwaix.de/ki-training-kosten/ ausgewiesenen Preise. Alle Preise verstehen sich zuzüglich der gesetzlichen Umsatzsteuer.
 
 (2) Rechnungen sind innerhalb von 14 Tagen nach Rechnungsdatum ohne Abzug zahlbar, sofern nichts anderes vereinbart ist.
 

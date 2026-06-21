@@ -91,7 +91,7 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 {{< card icon="platform" title="4. Aktualisierung" text="Auffrischung bei neuen Tools, neuen Mitarbeitenden oder bei Änderungen der regulatorischen Anforderungen." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Training%20anfragen" primaryText="Training anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Artikel%204%20KI-VO%20Training%20anfragen" primaryText="Training anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

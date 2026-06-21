@@ -10,7 +10,7 @@ url: "/ki-training/"
 schemaType: "course"
 herocta: "Vorgespräch anfragen →"
 herocta2: "Preise ansehen"
-herocta2href: "/preise/"
+herocta2href: "/ki-training-kosten/"
 priceRange: "2400-4650"
 heroCards:
   - type: backlog
@@ -87,7 +87,7 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 {{< card icon="backlog" title="Use-Case-Backlog" text="Priorisierte Anwendungsfälle für Ihr Team." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
 {{% /section %}}
 

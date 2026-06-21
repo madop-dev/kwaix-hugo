@@ -8,7 +8,7 @@ canonical: "https://kwaix.de/regionen/"
 type: leistungen
 herocta: "Vorgespräch anfragen →"
 herocta2: "Preise ansehen"
-herocta2href: "/preise/"
+herocta2href: "/ki-training-kosten/"
 heroCards:
   - type: training
     title: "DE · AT · CH-weit"

@@ -70,7 +70,7 @@ Vom Kickoff bis zum Kompetenznachweis nach Artikel 4 begleiten wir Ihr Team in B
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Bremerhaven oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="Vorgespräch für Bremerhaven anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen" primaryText="Vorgespräch für Bremerhaven anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

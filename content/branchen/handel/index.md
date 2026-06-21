@@ -63,7 +63,7 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 {{< card icon="proof" title="Mitarbeiter-Onboarding" text="Einarbeitungsunterlagen, Produktschulungen und FAQ für neue Mitarbeitende strukturiert aufbereiten." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Handel%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

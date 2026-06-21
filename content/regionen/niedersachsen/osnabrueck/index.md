@@ -70,7 +70,7 @@ Wir begleiten Ihr Team in Osnabrück vom ersten Kickoff bis zum Kompetenznachwei
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren Use Cases. Vor Ort in Osnabrück oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen" primaryText="Vorgespräch für Osnabrück anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen" primaryText="Vorgespräch für Osnabrück anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

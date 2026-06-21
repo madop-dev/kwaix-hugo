@@ -64,7 +64,7 @@ Wir trainieren Hamburger Unternehmen remote — auf Anfrage auch vor Ort. Hambur
 {{< card icon="proof" title="KI-VO Nachweis" text="Artikel 4 gilt seit 2. August 2025 — auch für Hamburger Betreiber. Kompetenznachweis nach jedem Training." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Hamburg%20anfragen" primaryText="Vorgespräch für Hamburg anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Hamburg%20anfragen" primaryText="Vorgespräch für Hamburg anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

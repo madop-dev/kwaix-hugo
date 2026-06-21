@@ -23,7 +23,7 @@ faqItems:
   - q: "Wie lange dauert das KI-Training Live?"
     a: "Die Trainingsdauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt."
   - q: "Wie viele Teilnehmende können mitmachen?"
-    a: "Das Training ist für 1 bis über 15 Mitarbeitende konzipiert. Preise sind gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details unter /preise/."
+    a: "Das Training ist für 1 bis über 15 Mitarbeitende konzipiert. Preise sind gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details unter /ki-training-kosten/."
   - q: "Findet das Training vor Ort oder remote statt?"
     a: "Beides ist möglich. Wir besprechen im Vorgespräch, was für Ihr Team und Ihren Standort am sinnvollsten ist. KWAIX arbeitet DACH-weit."
   - q: "Was müssen wir vor dem Training vorbereiten?"
@@ -94,7 +94,7 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 {{< card icon="proof" title="Kompetenznachweis" text="Dokumentiert nach Artikel 4 EU KI-Verordnung für jeden Teilnehmenden" >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung ansehen" >}}
 
 {{% /section %}}
 
@@ -146,6 +146,6 @@ Nicht zwingend. Wenn Sie bereits wissen, welche Use Cases relevant sind, können
 **Gibt es Nachbetreuung?**
 Sie erhalten Handout, Prompt-Bibliothek und Policy-Template. Optional schließt sich die [Trainingsplattform](/leistungen/trainingsplattform/) an.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
 {{% /section %}}

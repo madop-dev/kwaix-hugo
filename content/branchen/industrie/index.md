@@ -63,7 +63,7 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 {{< card icon="proof" title="HR & Onboarding" text="Stellenbeschreibungen, Einarbeitungspläne und Unterweisungsnachweise effizienter erstellen." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

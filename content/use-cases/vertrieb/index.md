@@ -90,7 +90,7 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für neue Vertriebsmitarbeitende und Auffrischung." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

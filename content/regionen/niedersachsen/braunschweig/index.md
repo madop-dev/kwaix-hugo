@@ -70,7 +70,7 @@ Wir begleiten Ihr Team in Braunschweig vom ersten Kickoff bis zum Kompetenznachw
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Braunschweig oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Braunschweig%20anfragen" primaryText="Vorgespräch für Braunschweig anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Braunschweig%20anfragen" primaryText="Vorgespräch für Braunschweig anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

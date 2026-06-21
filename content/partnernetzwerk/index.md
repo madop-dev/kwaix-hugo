@@ -82,6 +82,6 @@ Ja. Wir schlagen nach Ihrer Anfrage den passenden Trainer vor — oder Sie frage
 **Wie werde ich KWAIX-Trainer?**
 Selbständige KI-Experten mit Praxiserfahrung und Branchenschwerpunkt können sich bewerben: [info@kwaix.de](mailto:info@kwaix.de?subject=KWAIX%20Trainer%20werden)
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Trainer%20anfragen" primaryText="Trainer anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Trainer%20anfragen" primaryText="Trainer anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}

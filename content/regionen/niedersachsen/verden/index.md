@@ -70,7 +70,7 @@ Wir begleiten Ihr Team in Verden vom ersten Kickoff bis zum Kompetenznachweis na
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Verden oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Verden%20anfragen" primaryText="Vorgespräch für Verden anfragen" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Verden%20anfragen" primaryText="Vorgespräch für Verden anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
 

@@ -131,6 +131,6 @@ Im [KI-Kickoff](/leistungen/ki-kickoff/): Alle relevanten Aufgaben sammeln, nach
 **Brauchen wir für jeden Use Case ein eigenes Training?**
 Nein. Im KI-Training Live werden 3–5 Use Cases live erarbeitet. Weitere lassen sich danach selbstständig auf Basis des gleichen Prinzips umsetzen.
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Use%20Cases%20priorisieren" primaryText="Use Cases besprechen" secondaryHref="/preise/" secondaryText="Preise & Staffelung" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Use%20Cases%20priorisieren" primaryText="Use Cases besprechen" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
 {{% /section %}}
