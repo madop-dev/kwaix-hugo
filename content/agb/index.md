@@ -137,8 +137,4 @@ Stand: Juni 2026
 
 (4) Änderungen und Ergänzungen dieser AGB bedürfen der Schriftform. Dies gilt auch für die Aufhebung dieses Schriftformerfordernisses.
 
----
-
-*Hinweis: Diese AGB wurden mit kaufmännischer Sorgfalt erstellt, ersetzen jedoch keine individuelle Rechtsberatung. Für verbindliche rechtliche Einschätzungen empfehlen wir die Konsultation eines Fachanwalts.*
-
 {{% /section %}}
