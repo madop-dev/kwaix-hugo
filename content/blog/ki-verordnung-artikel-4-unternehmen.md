@@ -17,7 +17,7 @@ faqItems:
   - q: "Was passiert, wenn Unternehmen Artikel 4 nicht erfüllen?"
     a: "Die KI-Verordnung sieht Bußgelder von bis zu 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes vor — je nachdem, was höher ist. Für Verstöße gegen Artikel 4 sind die Sanktionen im unteren Bereich angesiedelt, aber das Risiko besteht. Wichtiger ist die zivilrechtliche Haftung bei KI-Schäden, wenn keine nachweisbare Kompetenz vorlag."
   - q: "Wie erfüllt man die Anforderungen von Artikel 4 KI-Verordnung praktisch?"
-    a: "Drei Schritte: 1. Inventur — welche KI-Systeme werden im Unternehmen eingesetzt? 2. Training — strukturierte Schulung der betroffenen Mitarbeitenden mit Kompetenznachweis. 3. Dokumentation — Nachweis aufbewahren, regelmäßig aktualisieren. KWAIX bietet ein KI-Training, das alle drei Schritte abdeckt."
+    a: "Drei Schritte: 1. Inventur — welche KI-Systeme werden im Unternehmen eingesetzt? 2. Training — strukturierte Schulung der betroffenen Mitarbeitenden mit Kompetenznachweis. 3. Dokumentation — Nachweis aufbewahren, regelmäßig aktualisieren. Unser KI-Training deckt alle drei Schritte ab."
 ---
 
 Seit dem 2. August 2025 gilt Artikel 4 der EU KI-Verordnung. Er verpflichtet Unternehmen, die KI-Kompetenz ihrer Mitarbeitenden sicherzustellen. Was bedeutet das konkret — und was müssen KMU jetzt tun?
@@ -62,7 +62,7 @@ Ein rechtskonformer Kompetenznachweis nach Artikel 4 KI-Verordnung enthält:
 4. **Angabe des Trainers** / der Trainingsorganisation
 5. **Bestätigung** der vermittelten Kompetenzen
 
-Dieser Nachweis ist im Unternehmen aufzubewahren und bei Prüfungen vorzulegen. KWAIX stellt nach jedem KI-Training einen vollständigen Kompetenznachweis je teilnehmender Person aus.
+Dieser Nachweis ist im Unternehmen aufzubewahren und bei Prüfungen vorzulegen. Nach jedem Training erhalten alle Teilnehmenden einen vollständigen Kompetenznachweis.
 
 ## Was die Pflicht NICHT bedeutet
 
@@ -96,7 +96,7 @@ Artikel 4 KI-Verordnung gilt seit August 2025. Unternehmen, die KI-Tools einsetz
 
 Die gute Nachricht: Die Umsetzung ist nicht komplex. Ein praxisnahes Training mit Kompetenznachweis reicht — wenn es gut gemacht ist.
 
-KWAIX bietet KI-Training speziell für KMU, das Artikel 4 abdeckt und jeden Teilnehmenden mit einem vollständigen Kompetenznachweis ausstattet.
+Unser KI-Training deckt Artikel 4 ab und schließt für jeden Teilnehmenden mit einem vollständigen Kompetenznachweis ab.
 
 Details: [/ki-verordnung/kompetenznachweis/](/ki-verordnung/kompetenznachweis/)  
 Vorgespräch (30 Min, kostenlos): [info@kwaix.de](mailto:info@kwaix.de?subject=Anfrage%20Artikel%204%20KI-Verordnung)

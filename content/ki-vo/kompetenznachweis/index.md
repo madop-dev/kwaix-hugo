@@ -26,7 +26,7 @@ faqItems:
   - q: "Für wen gilt die Kompetenzpflicht nach Artikel 4 KI-VO?"
     a: "Die Pflicht gilt für Anbieter (Unternehmen, die KI-Systeme entwickeln oder vermarkten) und Betreiber (Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen). De facto betrifft das nahezu jedes Unternehmen, das Tools wie Microsoft Copilot, ChatGPT Business oder ähnliche KI-Anwendungen im Arbeitsalltag nutzt."
   - q: "Was muss im Kompetenznachweis dokumentiert sein?"
-    a: "Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele und deren Erreichung sowie die ausstellende Person oder Organisation. KWAIX stellt nach jedem Training ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt."
+    a: "Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele und deren Erreichung sowie die ausstellende Person oder Organisation. Nach jedem Training stellen wir ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt."
   - q: "Reicht eine interne Schulung als Nachweis?"
     a: "Ja — die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele (sicherer, verantwortungsvoller Umgang mit KI) nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen."
   - q: "Wie lange ist ein KI-Kompetenznachweis gültig?"
@@ -117,7 +117,7 @@ Die EU KI-Verordnung trat am 1. August 2024 in Kraft. Artikel 4 (KI-Kompetenzpfl
 Für Anbieter (Unternehmen, die KI-Systeme entwickeln oder vermarkten) und Betreiber (Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen). De facto betrifft das nahezu jedes Unternehmen, das Tools wie Microsoft Copilot, ChatGPT Business oder vergleichbare KI-Anwendungen im Arbeitsalltag nutzt.
 
 **Was muss im Kompetenznachweis dokumentiert sein?**
-Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele sowie die ausstellende Person oder Organisation. KWAIX stellt nach jedem Training ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt.
+Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele sowie die ausstellende Person oder Organisation. Nach jedem Training stellen wir ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt.
 
 **Reicht eine interne Schulung als Nachweis?**
 Ja. Die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen.

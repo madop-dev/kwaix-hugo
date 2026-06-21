@@ -33,7 +33,7 @@ faqItems:
   - q: "Was ist eine KI-Policy und brauche ich eine?"
     a: "Eine KI-Policy ist eine interne Richtlinie, die festlegt, welche KI-Tools im Unternehmen eingesetzt werden dürfen, welche Daten eingegeben werden dürfen und welche Verhaltensregeln gelten. Sie ist kein gesetzliches Pflichtdokument, aber eine sinnvolle Ergänzung zum Kompetenznachweis nach Artikel 4 — und Bestandteil eines strukturierten KI-Einsatzes."
   - q: "Wie unterstützt KWAIX bei der Umsetzung der KI-Verordnung?"
-    a: "KWAIX bietet: KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 (/leistungen/ki-training-live/), KI-Policy-Template und Erstellung (/ki-verordnung/ki-policy/), orientierende Datenschutz- und DSGVO-Einordnung (/ki-verordnung/datenschutz-dsgvo/). Keine Rechtsberatung — für juristische Fragen empfehlen wir spezialisierte Kanzleien."
+    a: "Wir unterstützen Sie mit: KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 (/leistungen/ki-training-live/), KI-Policy-Template und Erstellung (/ki-verordnung/ki-policy/), orientierender Datenschutz- und DSGVO-Einordnung (/ki-verordnung/datenschutz-dsgvo/). Keine Rechtsberatung — für juristische Fragen empfehlen wir spezialisierte Kanzleien."
 ---
 
 {{% section tone="plain" %}}
@@ -57,7 +57,7 @@ Die Verordnung (EU) 2024/1689, bekannt als EU AI Act, ist das erste umfassende K
 - **Betreiber = fast jedes Unternehmen**, das KI im Arbeitsalltag nutzt
 - **Bußgelder:** bis 15 Mio. € oder 3% Jahresumsatz für Betreiberpflicht-Verstöße
 - **Sofortmaßnahmen:** KI-Training mit Nachweis + KI-Policy als Leitplanken
-- **KWAIX unterstützt:** Training, Nachweis, Policy-Vorlage (keine Rechtsberatung)
+- **Was wir liefern:** Training, Kompetenznachweis, Policy-Vorlage (keine Rechtsberatung)
 
 {{< kpiStrip k1_label="Artikel 4 gilt seit" k1_value="2. Aug. 2025" k2_label="Bußgeld Betreiber" k2_value="bis 15 Mio. €" k3_label="Betroffen" k3_value="Anbieter & Betreiber" k4_label="Nächste Frist" k4_value="2. Aug. 2026" >}}
 
@@ -82,7 +82,7 @@ KI-Kompetenz ist in Artikel 3 Nr. 56 definiert als: *„die Fähigkeiten, Kenntn
 Neben Artikel 4 enthält Artikel 26 weitere Betreiberpflichten für Unternehmen, die Hochrisiko-KI-Systeme einsetzen (z.B. KI für Personalentscheidungen, Kreditvergabe, Strafverfolgung). Für die meisten KMU greifen die allgemeinen Hochrisiko-Pflichten erst ab August 2026. Artikel 4 gilt bereits jetzt.
 
 {{< cards cols="3" >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. KWAIX stellt ihn nach dem Training aus." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis, dass Mitarbeitende die KI-Kompetenz gemäß Artikel 4 erworben haben. Wir stellen ihn nach dem Training für alle Teilnehmenden aus." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< card icon="policy" title="KI-Policy" text="Interne Richtlinie: welche Tools erlaubt sind, welche Daten eingegeben werden dürfen, wer verantwortlich ist. Kein Pflichtdokument, aber sinnvoll." href="/ki-verordnung/ki-policy/" cta="KI-Policy ansehen" >}}
 {{< card icon="training" title="KI-Training" text="Praxisnahes Live-Training mit echten Use Cases — und Kompetenznachweis nach Artikel 4." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}

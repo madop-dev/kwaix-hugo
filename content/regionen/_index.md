@@ -1,6 +1,6 @@
 ---
 title: "KI-Training DE · AT · CH: Deutschland, Österreich, Schweiz"
-description: "KWAIX bietet KI-Training für KMU remote und vor Ort in Deutschland, Österreich und der Schweiz — DE · AT · CH-weit, ohne regionale Einschränkung."
+description: "KI-Training remote und vor Ort in Deutschland, Österreich und der Schweiz — DE · AT · CH-weit, ohne regionale Einschränkung."
 eyebrow: "Regionen"
 lede: "KI-Training DE · AT · CH-weit — remote oder vor Ort in Deutschland, Österreich und der Schweiz."
 draft: false
@@ -25,7 +25,7 @@ heroCards:
 
 ## KWAIX arbeitet DE · AT · CH-weit
 
-KWAIX bietet KI-Training und KI-Kickoff für KMU und Mittelstand in Deutschland, Österreich und der Schweiz — ohne regionale Einschränkung. Remote-Training ist Standard; Vor-Ort-Termine werden individuell abgestimmt.
+Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne regionale Einschränkung. Remote ist Standard; Vor-Ort-Termine stimmen wir individuell ab.
 
 **Was "DE · AT · CH-weit" konkret bedeutet:**
 - Remote-Training: für alle Unternehmensstandorte in DE, AT, CH ohne Aufpreis

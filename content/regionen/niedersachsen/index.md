@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für KMU in Niedersachsen
 
-KWAIX begleitet Unternehmen in ganz Niedersachsen beim praxisnahen KI-Einstieg — von Hannover bis Oldenburg, von Osnabrück bis Braunschweig. Remote ist der Standard; Vor-Ort-Termine werden individuell abgestimmt und transparent berechnet.
+Wir trainieren Unternehmen in ganz Niedersachsen — von Hannover bis Oldenburg, von Osnabrück bis Braunschweig. Remote ist der Standard; Vor-Ort-Termine stimmen wir individuell ab und berechnen sie transparent.
 
 **Niedersachsen-spezifisch:** Die Wirtschaftsstruktur in Niedersachsen ist breiter als in vielen anderen Bundesländern — Industrie und Automobilzulieferer, starkes Handwerk, Agrarwirtschaft, wachsender Dienstleistungssektor. Das Training wird an Ihre spezifische Branche und Ihre Use Cases angepasst.
 

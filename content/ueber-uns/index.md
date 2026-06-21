@@ -30,7 +30,7 @@ faqItems:
   - q: "Wie unterscheidet sich KWAIX von einer klassischen IT-Beratung?"
     a: "KWAIX ist kein Systemintegrator und kein IT-Dienstleister. Wir führen keine Software ein und entwickeln keine individuellen KI-Lösungen. Der Fokus liegt auf Training und Kompetenzaufbau: Teams lernen, KI-Tools selbst zu nutzen — wiederholbar, sicher und nach eigenen Standards."
   - q: "Arbeitet KWAIX nur regional oder DACH-weit?"
-    a: "DACH-weit. KWAIX bietet Trainings remote und vor Ort in Deutschland, Österreich und der Schweiz an. Remote-Training ist Standard; Vor-Ort-Termine werden individuell abgestimmt."
+    a: "DACH-weit. Wir trainieren remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote ist Standard; Vor-Ort-Termine stimmen wir individuell ab."
 ---
 
 {{% section tone="plain" %}}

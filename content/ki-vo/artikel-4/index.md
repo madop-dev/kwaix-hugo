@@ -87,7 +87,7 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 {{< cards cols="4" >}}
 {{< card icon="backlog" title="1. Inventur" text="Welche KI-Tools werden von wem genutzt? Welche Mitarbeitenden sind als KI-Betreiber einzustufen?" >}}
 {{< card icon="training" title="2. Schulung" text="Praxisnahes Training mit Bezug zu den eingesetzten Tools — kein allgemeiner Tool-Überblick." >}}
-{{< card icon="proof" title="3. Dokumentation" text="Teilnahmenachweis für alle geschulten Mitarbeitenden. KWAIX stellt diesen nach jedem Training aus." >}}
+{{< card icon="proof" title="3. Dokumentation" text="Teilnahmenachweis für alle geschulten Mitarbeitenden. Wir stellen ihn nach jedem Training aus." >}}
 {{< card icon="platform" title="4. Aktualisierung" text="Auffrischung bei neuen Tools, neuen Mitarbeitenden oder bei Änderungen der regulatorischen Anforderungen." >}}
 {{< /cards >}}
 

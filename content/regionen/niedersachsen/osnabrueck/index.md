@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Osnabrück vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Osnabrück und der Region Weser-Ems vor Ort in Ihren Räumen oder remote. Für Teams bis ca. 5 Personen ist Remote-Training oft effizienter; größere Teams profitieren häufig vom gemeinsamen Vor-Ort-Format."
+    a: "Ja. Wir kommen zu Ihnen nach Osnabrück oder in die Region Weser-Ems, oder wir trainieren remote. Für kleinere Teams bis 5 Personen ist Remote oft effizienter; größere Gruppen profitieren meist vom gemeinsamen Vor-Ort-Format."
   - q: "Welche Branchen sind in Osnabrück besonders relevant für KI-Training?"
     a: "Osnabrücker Schwerpunkte: Logistik und Transport (die Region ist ein bedeutender Logistikstandort), Metallverarbeitung und Industrie, Lebensmittelwirtschaft, Handwerk und Bauwirtschaft sowie Dienstleistungsunternehmen. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Osnabrück möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Osnabrück
 
-KWAIX begleitet KMU und Mittelstand in Osnabrück beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Wir begleiten Ihr Team in Osnabrück vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Osnabrück oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Situation ab, wird im kostenlosen Vorgespräch geklärt.
 
@@ -79,7 +79,7 @@ KWAIX begleitet KMU und Mittelstand in Osnabrück beim praxisnahen KI-Einstieg �
 ## FAQ: KI-Training in Osnabrück
 
 **Bietet KWAIX Vor-Ort-Training in Osnabrück an?**
-Ja. KWAIX trainiert Unternehmen in Osnabrück in Ihren Räumlichkeiten oder remote. Für kleinere Teams (bis 5 Personen) ist Remote oft effizienter.
+Ja. Wir kommen zu Ihnen nach Osnabrück oder trainieren remote. Für kleinere Teams bis 5 Personen ist Remote oft effizienter.
 
 **Welche Branchen betreut KWAIX in Osnabrück?**
 Logistik und Transport, Industrie und Metallverarbeitung, Lebensmittelwirtschaft, Handwerk und Bauwirtschaft sowie Dienstleistungsunternehmen. Use Cases werden auf Ihre Branche zugeschnitten.

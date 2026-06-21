@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Braunschweig vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Braunschweig vor Ort in Ihren Räumen oder remote. Für Teams bis ca. 5 Personen ist Remote-Training oft effizienter; größere Teams profitieren häufig vom gemeinsamen Vor-Ort-Format."
+    a: "Ja. Wir kommen zu Ihnen nach Braunschweig oder trainieren remote. Für kleinere Teams bis 5 Personen ist Remote oft effizienter; größere Gruppen profitieren meist vom gemeinsamen Vor-Ort-Format."
   - q: "Welche Branchen sind in Braunschweig besonders relevant für KI-Training?"
     a: "Braunschweiger Schwerpunkte: Automotive und Zulieferer (Dokumentation, technische Texte), Forschung und Technologie (Berichte, Präsentationen), Handel, Verwaltung und IT-Dienstleistungen. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Braunschweig möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Braunschweig
 
-KWAIX begleitet KMU und Mittelstand in Braunschweig beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Wir begleiten Ihr Team in Braunschweig vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Braunschweig oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Situation ab, wird im kostenlosen Vorgespräch geklärt.
 
@@ -79,7 +79,7 @@ KWAIX begleitet KMU und Mittelstand in Braunschweig beim praxisnahen KI-Einstieg
 ## FAQ: KI-Training in Braunschweig
 
 **Bietet KWAIX Vor-Ort-Training in Braunschweig an?**
-Ja. KWAIX trainiert Unternehmen in Braunschweig in Ihren Räumlichkeiten oder remote. Für kleinere Teams (bis 5 Personen) ist Remote oft effizienter.
+Ja. Wir kommen zu Ihnen nach Braunschweig oder trainieren remote. Für kleinere Teams bis 5 Personen ist Remote oft effizienter.
 
 **Welche Branchen betreut KWAIX in Braunschweig?**
 Automotive und Zulieferer, Forschung und Technologie, Industrie, Handel sowie Verwaltung. Use Cases werden immer auf die jeweilige Branche und den konkreten Alltag zugeschnitten.

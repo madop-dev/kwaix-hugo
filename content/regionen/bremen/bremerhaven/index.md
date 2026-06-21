@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Bremerhaven vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Bremerhaven vor Ort in Ihren Räumen oder remote. Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind ohne weite Anreise möglich."
+    a: "Ja. Wir kommen zu Ihnen nach Bremerhaven oder schalten uns per Video dazu. Bremerhaven liegt in unserer direkten Einzugsregion — Vor-Ort-Termine sind ohne weite Anreise möglich."
   - q: "Welche Branchen sind in Bremerhaven besonders relevant für KI-Training?"
     a: "Bremerhavener Schwerpunkte: Hafenwirtschaft und Logistik (Dokumentation, Kommunikation), Fischereiwirtschaft und Lebensmittelverarbeitung, Tourismus und Stadtmarketing, Handel. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Bremerhaven möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Bremerhaven
 
-KWAIX begleitet KMU und Mittelstand in Bremerhaven beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Vom Kickoff bis zum Kompetenznachweis nach Artikel 4 begleiten wir Ihr Team in Bremerhaven — vor Ort oder remote.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Bremerhaven oder remote. Bremerhaven liegt in der direkten Einzugsregion von Bremen — Vor-Ort-Termine sind unkompliziert.
 

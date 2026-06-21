@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Hannover vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Hannover vor Ort in Ihren Räumen oder remote. Für Teams bis ca. 5 Personen ist Remote-Training oft effizienter; größere Teams profitieren häufig vom gemeinsamen Vor-Ort-Format."
+    a: "Ja. Wir kommen zu Ihnen nach Hannover oder trainieren remote. Für kleinere Teams bis 5 Personen ist Remote oft effizienter; größere Gruppen profitieren meist vom gemeinsamen Vor-Ort-Format."
   - q: "Welche Branchen sind in Hannover besonders relevant für KI-Training?"
     a: "Hannoveraner Schwerpunkte: Messe und Veranstaltungslogistik, Industrie und Maschinenbau, Handel und Einzelhandel, Verwaltung und öffentlicher Dienst, IT-Dienstleistungen und Beratung. Die konkreten Use Cases werden im Vorgespräch auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Hannover möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Hannover
 
-KWAIX begleitet KMU und Mittelstand in Hannover beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Hannover oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Standort ab, wird im kostenlosen Vorgespräch geklärt.
 
@@ -79,7 +79,7 @@ KWAIX begleitet KMU und Mittelstand in Hannover beim praxisnahen KI-Einstieg —
 ## FAQ: KI-Training in Hannover
 
 **Bietet KWAIX Vor-Ort-Training in Hannover an?**
-Ja. KWAIX trainiert Unternehmen in Hannover in Ihren Räumlichkeiten oder remote. Beide Formate sind vollwertig — für kleinere Teams (bis 5 Personen) ist Remote oft effizienter.
+Ja. Wir kommen zu Ihnen nach Hannover oder trainieren remote. Beide Formate sind vollwertig; für kleinere Teams bis 5 Personen ist Remote oft effizienter.
 
 **Welche Branchen betreut KWAIX in Hannover?**
 Industrie und Maschinenbau, Messe und Veranstaltungsbranche, Handel, IT-Dienstleistungen und Verwaltung. Die Use Cases werden an Ihre Branche angepasst — das Trainingskonzept (echte Aufgaben, Standards, Nachweis) bleibt dasselbe.

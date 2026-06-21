@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Verden vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Verden vor Ort oder remote. Verden liegt zwischen Bremen und Hannover — Vor-Ort-Termine sind ohne weite Anreise möglich."
+    a: "Ja. Wir kommen zu Ihnen nach Verden oder trainieren remote. Verden liegt zwischen Bremen und Hannover — Vor-Ort-Termine sind ohne weite Anreise möglich."
   - q: "Welche Branchen sind in Verden besonders relevant für KI-Training?"
     a: "Verdener Schwerpunkte: Landwirtschaft und Agrarwirtschaft (Dokumentation, Förderanträge), Handel, Handwerk und Bauwirtschaft (Angebotserstellung, Protokolle), Dienstleistungsunternehmen. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Verden möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Verden (Aller)
 
-KWAIX begleitet KMU und Mittelstand in Verden beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Wir begleiten Ihr Team in Verden vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Verden oder remote. Verden liegt zwischen Bremen und Hannover — erreichbar ohne lange Anreise.
 

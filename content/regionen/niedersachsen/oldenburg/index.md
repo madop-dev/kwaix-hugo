@@ -18,7 +18,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training direkt in Oldenburg vor Ort an?"
-    a: "Ja. KWAIX trainiert Unternehmen in Oldenburg vor Ort in Ihren Räumen oder remote. Oldenburg liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind ohne große Vorlaufzeit möglich."
+    a: "Ja. Wir kommen zu Ihnen nach Oldenburg oder trainieren remote. Oldenburg liegt in unserer direkten Einzugsregion — Vor-Ort-Termine sind ohne große Vorlaufzeit möglich."
   - q: "Welche Branchen sind in Oldenburg besonders relevant für KI-Training?"
     a: "Oldenburger Schwerpunkte: Gesundheitswirtschaft (Dokumentation, Berichte), Handel und Einzelhandel (Produkttexte, Kundenkommunikation), Industrie und Handwerk (technische Dokumentation, Angebotserstellung), Logistik und Agrarwirtschaft. Die konkreten Use Cases werden auf Ihre Branche abgestimmt."
   - q: "Wie schnell ist ein Training-Termin in Oldenburg möglich?"
@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für Unternehmen in Oldenburg
 
-KWAIX begleitet KMU und Mittelstand in Oldenburg beim praxisnahen KI-Einstieg — von der ersten Use-Case-Priorisierung im KI-Kickoff bis zum Live-Training mit dokumentiertem Kompetenznachweis nach Artikel 4 der EU KI-Verordnung.
+Wir begleiten Ihr Team in Oldenburg vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Oldenburg oder remote. Oldenburg liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind unkompliziert.
 

@@ -25,7 +25,7 @@ faqItems:
   - q: "Gilt die EU KI-Verordnung auch für Behörden und öffentliche Stellen?"
     a: "Ja. Die Verordnung (EU) 2024/1689 gilt für alle öffentlichen Stellen, die KI-Systeme einsetzen — einschließlich Behörden, Kommunen, Kammern und öffentlicher Unternehmen. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 für alle Betreiber von KI-Systemen, unabhängig von der Rechtsform."
   - q: "Was ist bei Datenschutz und KI in öffentlichen Stellen zu beachten?"
-    a: "Öffentliche Stellen verarbeiten oft besonders sensible Daten — Bürgerdaten, Sozialdaten, Beschäftigtendaten. Die Grundregel: Keine personenbezogenen Daten in öffentliche KI-Systeme (ChatGPT, Copilot etc.) eingeben. KWAIX trainiert die Platzhalter-Methode und zeigt, welche Aufgaben datenschutzkonform mit KI erledigt werden können."
+    a: "Öffentliche Stellen verarbeiten täglich sensible Daten. Die Grundregel für Consumer-Tools ohne AVV: keine personenbezogenen Daten in den Prompt. Wir zeigen Ihrem Team die Platzhalter-Methode und welche Aufgaben datenschutzkonform mit KI erledigt werden können. Bei DSGVO-konformen Plattformen mit AVV (z. B. Langdock) ist mehr möglich."
   - q: "Muss der Personalrat oder Betriebsrat einbezogen werden?"
     a: "In vielen Fällen ja — KI-Einführung in der öffentlichen Verwaltung erfordert oft die Mitbestimmung des Personalrats (gemäß BPersVG oder Landesrecht). Wir empfehlen, das Thema frühzeitig einzubinden und können auf Wunsch Informationsmaterial für den Personalrat bereitstellen."
   - q: "Gibt es Fördermöglichkeiten für KI-Training in öffentlichen Stellen?"
@@ -40,7 +40,7 @@ faqItems:
 
 Öffentliche Stellen stehen vor einer besonderen Ausgangslage: Die KI-Kompetenzpflicht aus Artikel 4 der EU KI-Verordnung gilt seit dem 2. August 2025 — auch für Behörden, Kammern und kommunale Einrichtungen. Gleichzeitig sind Datenschutz, Mitbestimmung und Haushaltsdisziplin nicht verhandelbar.
 
-KWAIX trainiert KI-Kompetenz praxisnah und regelkonform: mit echten Verwaltungsaufgaben, DSGVO-konformen Methoden und einem dokumentierten Nachweis nach Artikel 4 KI-Verordnung.
+Wir schulen Ihr Team mit echten Verwaltungsaufgaben, DSGVO-konformen Methoden und einem dokumentierten Kompetenznachweis nach Artikel 4.
 
 ## Auf einen Blick
 
@@ -90,11 +90,11 @@ KWAIX trainiert KI-Kompetenz praxisnah und regelkonform: mit echten Verwaltungsa
 
 Behörden und öffentliche Stellen verarbeiten täglich personenbezogene Daten — Bürgerdaten, Sozialdaten, Beschäftigtendaten. Ob und wie KI dabei eingesetzt werden darf, hängt vom eingesetzten Tool ab.
 
-**Consumer-Tools ohne AVV** (ChatGPT, Gemini, Copilot ohne Enterprise-Lizenz): Personenbezogene Daten gehören nicht in den Prompt. KWAIX trainiert hier die **Platzhalter-Methode** — Angaben werden durch neutrale Platzhalter ersetzt, bevor ein Prompt formuliert wird. Ergebnis: KI-Unterstützung für die Aufgabe, ohne Datenschutzrisiko.
+**Consumer-Tools ohne AVV** (ChatGPT, Gemini, Copilot ohne Enterprise-Lizenz): Personenbezogene Daten gehören nicht in den Prompt. Wir zeigen Ihrem Team die **Platzhalter-Methode**: Angaben werden durch neutrale Platzhalter ersetzt, bevor ein Prompt formuliert wird. Das ermöglicht KI-Unterstützung bei der Aufgabe ohne Datenschutzrisiko.
 
-**DSGVO-konforme Enterprise-Plattformen** (z. B. Langdock, Azure OpenAI mit AVV, andere EU-gehostete Lösungen mit Auftragsverarbeitungsvertrag): Personenbezogene Daten dürfen im Rahmen des Vertragsverhältnisses eingegeben werden — das ist genau der Zweck solcher Plattformen. Hier entfällt die Platzhalter-Pflicht, und KI kann deutlich tiefer in Verwaltungsprozesse integriert werden.
+**DSGVO-konforme Enterprise-Plattformen** (z. B. Langdock, Azure OpenAI mit AVV, andere EU-gehostete Lösungen mit Auftragsverarbeitungsvertrag): Personenbezogene Daten dürfen im Rahmen des Vertragsverhältnisses eingegeben werden. Das ist genau der Zweck solcher Plattformen. KI kann hier deutlich tiefer in Verwaltungsprozesse integriert werden, ohne Kompromisse beim Datenschutz.
 
-KWAIX trainiert beide Szenarien und hilft dabei zu klären, welches Setup für Ihre Einrichtung sinnvoll und rechtlich vertretbar ist — in Abstimmung mit Ihrem Datenschutzbeauftragten.
+Wir begleiten Sie durch beide Szenarien und klären gemeinsam, welches Setup für Ihre Einrichtung passt. Für die abschließende datenschutzrechtliche Einordnung empfehlen wir Ihren behördlichen Datenschutzbeauftragten.
 
 ### Mitbestimmung: Personalrat frühzeitig einbinden
 
@@ -108,7 +108,7 @@ Die EU KI-Verordnung gilt in Österreich und der Schweiz (als EWR-Partnerland im
 
 **Schweiz:** Gemeinden und Kantone (statt Bundesländer), Handelskammern und Gewerbeverband (statt IHK/HWK), SUVA für Unfallversicherung, Amtsstellen auf Kantons- und Bundesebene.
 
-KWAIX trainiert DACH-weit — remote und vor Ort — und kennt die unterschiedlichen Strukturen und Bezeichnungen in allen drei Ländern.
+Wir arbeiten DACH-weit, remote und vor Ort, und kennen die unterschiedlichen Strukturen und Bezeichnungen in allen drei Ländern.
 
 ### KI-Verordnung: öffentliche Stellen sind keine Ausnahme
 

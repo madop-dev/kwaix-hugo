@@ -31,7 +31,7 @@ faqItems:
 
 ## KI-Training für KMU in Hamburg und Metropolregion
 
-KWAIX begleitet Hamburger KMU und Mittelstand beim praxisnahen KI-Einstieg — remote als Standard, vor Ort auf Anfrage. Hamburg ist einer der stärksten Wirtschaftsstandorte Deutschlands: Logistik, Medien, E-Commerce, Dienstleistung und Finanzsektor nebeneinander. Das Training wird an Ihre Branche und Ihre konkreten Use Cases angepasst.
+Wir trainieren Hamburger Unternehmen remote — auf Anfrage auch vor Ort. Hamburg bringt eine besondere Branchenvielfalt mit: Logistik, Medien, E-Commerce, Dienstleistung und Finanzsektor nebeneinander. Wir passen die Inhalte an Ihre Branche und Ihre konkreten Use Cases an.
 
 **Was Hamburger Unternehmen am meisten beschäftigt:**
 - Content-Produktionseffizienz in Medien und Agenturen (50–70 % Zeitersparnis)

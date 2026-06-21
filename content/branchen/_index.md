@@ -22,7 +22,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Für welche Branchen bietet KWAIX KI-Training an?"
-    a: "KWAIX bietet KI-Training für Handwerksbetriebe, Dienstleistungsunternehmen (Beratung, Steuerberatung, Agenturen), Handelsunternehmen (stationär und Online), Industriebetriebe (Produktion, Maschinenbau, Logistik) sowie die öffentliche Hand (Behörden, Kommunen, Kammern, kommunale Unternehmen). DACH-weit — remote und vor Ort."
+    a: "Wir trainieren Handwerksbetriebe, Dienstleistungsunternehmen (Beratung, Steuerberatung, Agenturen), Handelsunternehmen (stationär und Online), Industriebetriebe (Produktion, Maschinenbau, Logistik) sowie die öffentliche Hand (Behörden, Kommunen, Kammern, kommunale Unternehmen). DACH-weit, remote und vor Ort."
   - q: "Unterscheidet sich das KI-Training je nach Branche?"
     a: "Das Trainings-Prinzip ist dasselbe — echte Use Cases, Prompting-Standards, Kompetenznachweis. Was sich unterscheidet: die konkreten Use Cases und Prompt-Vorlagen. Ein Handwerksbetrieb trainiert Angebotserstellung und Übergabeprotokolle; eine Steuerberatungskanzlei trainiert Mandantenkommunikation und Berichte. Die Priorisierung erfolgt im KI-Kickoff oder per Vorab-Umfrage."
   - q: "Welche Branche profitiert am stärksten von KI-Training?"
