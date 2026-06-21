@@ -13,14 +13,14 @@ herocta2: "ROI berechnen"
 herocta2href: "/preise/ki-roi-rechner/"
 heroCards:
   - type: roi
-    title: "Ab 2.400 € netto"
-    subtitle: "Teams bis 5 Personen"
+    title: "5 bis 500+ Personen"
+    subtitle: "Staffelpreise ab 2.400 € netto"
   - type: proof
     title: "Art. 4 KI-VO"
     subtitle: "Kompetenznachweis inklusive"
   - type: training
-    title: "Kein Abo"
-    subtitle: "Einmalig, dauerhaft nutzbar"
+    title: "Festpreis"
+    subtitle: "Transparent · kein Kleingedrucktes"
 faqItems:
   - q: "Was kostet das KI-Training Live bei KWAIX?"
     a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (alle Preise netto zzgl. MwSt.). Für Gruppen ab 16 Personen erstellen wir ein individuelles Angebot."
