@@ -1,20 +1,20 @@
 ---
-title: "Kontakt — Vorgespräch anfragen"
-description: "Vorgespräch anfragen, Angebot einholen oder Fragen stellen — wir antworten in der Regel innerhalb eines Werktags."
+title: "Kontakt: Vorgespräch für KI-Training anfragen"
+description: "30-Minuten-Vorgespräch — kostenlos, unverbindlich, ohne Pitchdeck. Wir klären, ob und wie wir helfen können."
 eyebrow: "Kontakt"
-lede: "Kein Verkaufsgespräch, kein Skript. Wir klären in 30 Minuten, ob und wie wir helfen können."
+lede: "Kein Verkaufsgespräch, kein Skript. Wir klären in 30 Minuten, ob und wie wir helfen können — und melden uns innerhalb eines Werktags."
 draft: false
 url: "/kontakt/"
 type: leistungen
 schemaType: "service"
 herocta: ""
 heroCards:
+  - type: proof
+    title: "Kostenlos & unverbindlich"
+    subtitle: "30 Min · kein Pitchdeck · kein Skript"
   - type: default
     title: "Antwort"
     subtitle: "In der Regel innerhalb eines Werktags"
-  - type: proof
-    title: "Vorgespräch"
-    subtitle: "30 Min · kostenlos · unverbindlich"
   - type: training
     title: "DACH-weit"
     subtitle: "Remote & vor Ort"
@@ -32,10 +32,59 @@ heroCards:
 
 ## Oder direkt
 
-**E-Mail:** [info@kwaix.de](mailto:info@kwaix.de)  
-**Telefon:** [+49 421 691 909 69](tel:+4942169190969)  
+**Vorgespräch (30 Min) anfragen:** [info@kwaix.de](mailto:info@kwaix.de?subject=Vorgespräch%20anfragen) — Sofort Vorgespräch anfragen
+
+**Angebot anfordern:** [info@kwaix.de](mailto:info@kwaix.de?subject=Angebot%20anfordern) — Sofort Angebot anfordern
+
+**Telefon:** [+49 421 691 909 69](tel:+4942169190969)
+
 **Adresse:** Waller Stieg 3, 28217 Bremen
 
-Vorgesprächstermine können Sie auch direkt per E-Mail anfragen — wir stimmen einen passenden Termin kurzfristig ab.
+Wir sind DACH-weit aktiv — remote und vor Ort in Deutschland, Österreich und der Schweiz.
 
 {{% /section %}}
+
+{{% section tone="plain" %}}
+
+## Was Sie im Vorgespräch erwartet
+
+Wir klären gemeinsam: Teamgröße, Vorkenntnisse, Use-Cases und Formate (remote oder vor Ort).
+
+- Kein Vortrag, keine Präsentation — ein Gespräch auf Augenhöhe
+- Ehrliche Einschätzung: Passt KWAIX zu Ihrem Betrieb — oder gibt es einen besseren Weg?
+- Konkrete nächste Schritte, wenn es passt
+- Dauer: 30 Minuten
+
+{{% /section %}}
+
+{{% section tone="tint" %}}
+
+## Was danach passiert
+
+{{< cards cols="3" >}}
+{{< card icon="policy" title="Schriftliches Angebot" text="Nach dem Vorgespräch erhalten Sie ein transparentes Angebot mit Leistungsbeschreibung und Festpreis — keine versteckten Kosten." >}}
+{{< card icon="backlog" title="Vorab-Umfrage" text="Nach Auftragserteilung kurze Umfrage zu Teamgröße und Vorkenntnissen — damit das Training vom ersten Tag an passt." >}}
+{{< card icon="proof" title="Training & Nachweis" text="Praxisnahes Team-Training mit nachweisbaren Kompetenzen nach Artikel 4 KI-VO — remote oder bei Ihnen vor Ort." cta="KI-Training live erleben →" href="/leistungen/ki-training/" >}}
+{{< /cards >}}
+
+{{< kpiStrip k1="Kostenlos" v1="Vorgespräch · 30 Min" k2="Nächster Werktag" v2="Antwortzeit" k3="DACH-weit" v3="DE · AT · CH" k4="Remote & vor Ort" v4="flexibel" >}}
+
+{{% /section %}}
+
+{{% section tone="plain" %}}
+
+## FAQ: Kontakt & Ablauf
+
+**Was kostet das Erstgespräch?** Nichts. 30 Minuten, kostenlos, unverbindlich.
+
+**Wie schnell erhalte ich eine Rückmeldung?** In der Regel 1 Werktag. Schreiben Sie an [info@kwaix.de](mailto:info@kwaix.de).
+
+**Arbeitet KWAIX nur lokal oder DACH-weit?** DACH-weit. Remote ist Standard. Vor-Ort-Termine in DE, AT, CH werden individuell abgestimmt.
+
+**Wie schnell kann ein Training stattfinden?** In der Regel 1–3 Wochen nach Auftragserteilung. Details im Vorgespräch.
+
+**Ist KWAIX DSGVO-konform?** Ja. Ohne Ausnahmen. Details in der [Datenschutzerklärung](/datenschutz/).
+
+{{% /section %}}
+
+{{< cta primaryHref="/kontakt/" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
