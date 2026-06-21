@@ -1,7 +1,7 @@
 baseURL = "https://kwaix.de/"
 languageCode = "de-de"
 title = "KWAIX"
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [params]
   description = "KI-Lösungen für Mittelstand: Training, Automation, Chatbots — Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg"
