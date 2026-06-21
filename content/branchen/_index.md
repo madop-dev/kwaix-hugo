@@ -5,7 +5,9 @@ eyebrow: "Branchen"
 lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht im Handwerk, in der Verwaltung und in der Industrie ganz unterschiedlich aus."
 draft: false
 type: leistungen
-canonical: "https://kwaix.de/branchen/"
+url: "/ki-training-branchen/"
+aliases: ["/branchen/"]
+canonical: "https://kwaix.de/ki-training-branchen/"
 schemaType: "service"
 herocta: "KI-Training für Ihre Branche →"
 herocta2: "Preise ansehen"
@@ -125,7 +127,7 @@ Das Prinzip ist gleich. Was sich ändert: die bearbeiteten Use Cases und Prompt-
 Ja. Artikel 4 gilt seit 2. August 2025 für alle Betreiber von KI-Systemen — unabhängig von Branche oder Unternehmensgröße.
 
 **Was kostet das Training?**
-Gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details: [/preise/](/preise/).
+Gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details: [/preise/](/ki-training-kosten/).
 
 **Wie fange ich an?**
 Kostenloses Vorgespräch (30 Min): [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Branche%20anfragen) — wir klären Branche, Use Cases, Teamgröße und Format.

@@ -44,7 +44,7 @@ Wir trainieren Hamburger Unternehmen remote — auf Anfrage auch vor Ort. Hambur
 - **Remote:** Standard für Hamburger Unternehmen — vollwertig, ohne Qualitätsverlust
 - **Vor Ort:** möglich nach Absprache, Reisekosten transparent im Angebot
 - **Typische Branchen:** Logistik, Medien, E-Commerce, Dienstleistung, Agentur
-- **Preis:** ab 2.400 € netto für 1–5 Personen — Details: [/preise/](/preise/)
+- **Preis:** ab 2.400 € netto für 1–5 Personen — Details: [/preise/](/ki-training-kosten/)
 - **Einstieg:** kostenloses Vorgespräch (30 Min) per Video
 
 {{< kpiStrip k1_label="Metropolregion" k1_value="Hamburg & Umgebung" k2_label="Format" k2_value="Remote (Standard)" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}

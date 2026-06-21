@@ -106,6 +106,6 @@ Ja — es kommt auf die Konfiguration und den Einsatzbereich an. Wir geben eine 
 Wir arbeiten mit Beispielen aus Ihrem konkreten Arbeitsalltag — keine generischen Tool-Demos. Das erhöht den Transfer deutlich.
 
 **Wie viel kostet das Training?**
-Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/preise/).
+Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/ki-training-kosten/).
 
 {{% /section %}}

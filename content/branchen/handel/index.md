@@ -95,7 +95,7 @@ Ja. KI-Tools sind browserbasiert und intuitiv bedienbar. Das Training startet mi
 Mit den richtigen Prompt-Standards und einem kurzen Qualitäts-Check ja. Das ist Teil des Trainings.
 
 **Was kostet das Training?**
-Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/preise/).
+Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/ki-training-kosten/).
 
 **Gilt das auch für Franchise-Systeme mit mehreren Standorten?**
 Ja — für Schulungen mehrerer Standorte sprechen Sie uns auf ein maßgeschneidertes Angebot an.

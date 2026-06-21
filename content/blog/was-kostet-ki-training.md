@@ -92,4 +92,4 @@ KI-Training kostet zwischen 2.400 € und 5.000 € für ein mittelgroßes Team 
 
 Für ein kostenloses Vorgespräch (30 Min) und ein individuelles Angebot: [info@kwaix.de](mailto:info@kwaix.de?subject=Anfrage%20KI-Training%20Kosten)
 
-Preisübersicht mit Staffelung: [/preise/](/preise/)
+Preisübersicht mit Staffelung: [/preise/](/ki-training-kosten/)

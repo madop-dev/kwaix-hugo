@@ -49,7 +49,7 @@ faqItems:
 {{< cards cols="3" >}}
 {{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO" text="Seit 2. August 2025 gesetzliche Pflicht für alle Unternehmen, die KI einsetzen. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
 {{< card icon="training" title="Echte Use Cases — keine Demos" text="Ihr Team arbeitet im Training mit Aufgaben aus dem eigenen Alltag: Berichte, Angebote, Protokolle, Kundenmails. Was erarbeitet wird, ist am nächsten Tag einsatzbereit." >}}
-{{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Kein Training ohne Ergebnis: Prompt-Bibliothek, Policy-Template und Handout sind im Preis enthalten. Ab 2.400 € netto für Teams bis 5 Personen." href="/preise/" cta="Preise ansehen" >}}
+{{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Kein Training ohne Ergebnis: Prompt-Bibliothek, Policy-Template und Handout sind im Preis enthalten. Ab 2.400 € netto für Teams bis 5 Personen." href="/ki-training-kosten/" cta="Preise ansehen" >}}
 {{< /cards >}}
 
 {{% /section %}}
@@ -123,7 +123,7 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 Die Dauer richtet sich nach Teamgröße und Vorkenntnissen und wird im Vorgespräch festgelegt. Den Rahmen sehen Sie im [Trainingsprogramm](/training/).
 
 **Wie viele Teilnehmende können mitmachen?**
-Von 1 bis über 15 Mitarbeitenden — gestaffelte Preise finden Sie unter [/preise/](/preise/).
+Von 1 bis über 15 Mitarbeitenden — gestaffelte Preise finden Sie unter [/preise/](/ki-training-kosten/).
 
 **Findet das Training vor Ort oder remote statt?**
 Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im Vorgespräch, was für Ihr Team am sinnvollsten ist.

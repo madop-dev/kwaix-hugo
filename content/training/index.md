@@ -53,7 +53,7 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 - **Baustein 2:** KI-Training Live — Praxistraining für Teams, Kompetenznachweis nach Artikel 4 KI-VO
 - **Baustein 3:** Trainingsplattform — Prompt-Bibliothek und Update-Module (optional)
 - **Kein Abo-Zwang:** Bausteine einzeln oder kombiniert buchbar
-- **Preise:** gestaffelt nach Teamgröße, ab 2.400 € — Details unter [/preise/](/preise/)
+- **Preise:** gestaffelt nach Teamgröße, ab 2.400 € — Details unter [/preise/](/ki-training-kosten/)
 
 {{< kpiStrip k1_label="Teilnehmer" k1_value="1–15+ Personen" k2_label="Einstiegspreis" k2_value="2.400 € netto" k3_label="Format" k3_value="Remote oder vor Ort" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
@@ -99,7 +99,7 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 Nein. Das [KI-Training Live](/leistungen/ki-training-live/) ist das Kernangebot und funktioniert eigenständig. Der [KI-Kickoff](/leistungen/ki-kickoff/) ist empfehlenswert, wenn noch keine klare Use-Case-Priorisierung vorliegt. Die [Trainingsplattform](/leistungen/trainingsplattform/) ist optional nach dem Training.
 
 **Für wie viele Personen ist das Training geeignet?**
-1 bis über 15 Mitarbeitende, mit gestaffelten Preisen. Ab 16 Personen erstellen wir ein individuelles Angebot. Preisdetails: [/preise/](/preise/).
+1 bis über 15 Mitarbeitende, mit gestaffelten Preisen. Ab 16 Personen erstellen wir ein individuelles Angebot. Preisdetails: [/preise/](/ki-training-kosten/).
 
 **Benötigen die Teilnehmenden Vorerfahrung?**
 Nein. Das Training startet bei den Grundlagen. Vorab erheben wir per Umfrage den Wissensstand und passen die Inhalte entsprechend an.

@@ -54,7 +54,7 @@ Artikel 4 der **EU KI-Verordnung (Verordnung (EU) 2024/1689)** verpflichtet Unte
 - **Was dokumentiert wird:** Schulungsdatum, Inhalte, Teilnehmende, erreichte Kompetenzziele
 - **Format:** Kein fixes Format vorgeschrieben — ein strukturiertes Zertifikat ist ausreichend
 - **Bei KWAIX inkludiert:** Jedes KI-Training Live enthält den Nachweis für alle Teilnehmenden
-- **Preis:** Ab 2.400 € für 1–5 Mitarbeitende ([Preisübersicht](/preise/))
+- **Preis:** Ab 2.400 € für 1–5 Mitarbeitende ([Preisübersicht](/ki-training-kosten/))
 
 {{< kpiStrip k1_label="Gilt seit" k1_value="2. August 2025" k2_label="Für wen" k2_value="KI-Betreiber & Anbieter" k3_label="Format" k3_value="Kein Fixformat" k4_label="Bei KWAIX" k4_value="Inklusive im Training" >}}
 

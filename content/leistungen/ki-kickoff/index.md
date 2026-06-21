@@ -122,7 +122,7 @@ Nein. Wir ordnen orientierend ein — als Ausgangspunkt für die richtigen Frage
 2–10 Personen: idealerweise Geschäftsführung oder Leitung plus Vertreterinnen aus Fachbereichen, IT und Datenschutz.
 
 **Was kostet der Kickoff?**
-Das Angebot erhalten Sie nach dem kostenlosen Vorgespräch (30 Min). Preisübersicht: [/preise/](/preise/).
+Das Angebot erhalten Sie nach dem kostenlosen Vorgespräch (30 Min). Preisübersicht: [/preise/](/ki-training-kosten/).
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" note="Preise und Staffelung: /preise/" >}}
 

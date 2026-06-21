@@ -45,7 +45,7 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 {{< cards cols="3" >}}
 {{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO — inklusive" text="Seit 2. August 2025 gesetzliche Pflicht für alle Unternehmen, die KI einsetzen. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
 {{< card icon="training" title="Echte Use Cases — keine Demos" text="Ihr Team arbeitet mit Berichten, Angeboten, Protokollen und Kundenmails aus der eigenen Praxis. Was erarbeitet wird, ist am nächsten Tag einsatzbereit." >}}
-{{< card icon="prompt" title="Von der Priorisierung bis zur Plattform" text="KI-Kickoff, Training Live und Trainingsplattform bauen aufeinander auf. Alle Bausteine einzeln buchbar — kein Abo-Zwang, kein Vendor Lock-in." href="/preise/" cta="Preise ansehen" >}}
+{{< card icon="prompt" title="Von der Priorisierung bis zur Plattform" text="KI-Kickoff, Training Live und Trainingsplattform bauen aufeinander auf. Alle Bausteine einzeln buchbar — kein Abo-Zwang, kein Vendor Lock-in." href="/ki-training-kosten/" cta="Preise ansehen" >}}
 {{< /cards >}}
 
 {{< kpiStrip k1_label="KI-Kickoff" k1_value="90–120 Min" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
@@ -85,7 +85,7 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 KI-Kickoff (Priorisierung), KI-Training Live (Team-Training, Kompetenznachweis), Trainingsplattform (dauerhafter Aufbau). Alle Leistungen DACH-weit, remote und vor Ort.
 
 **Was kostet das KI-Training?**
-1–5 Personen: 2.400 €. 6–10 Personen: 3.600 €. 11–15 Personen: 4.650 € (alle zzgl. MwSt.). Größere Gruppen auf Anfrage. [Vollständige Preisübersicht →](/preise/)
+1–5 Personen: 2.400 €. 6–10 Personen: 3.600 €. 11–15 Personen: 4.650 € (alle zzgl. MwSt.). Größere Gruppen auf Anfrage. [Vollständige Preisübersicht →](/ki-training-kosten/)
 
 **Ist der Kompetenznachweis nach Artikel 4 KI-VO im Training enthalten?**
 Ja — für jeden Teilnehmenden. Die Pflicht gilt seit 2. August 2025. [Details →](/ki-verordnung/kompetenznachweis/)

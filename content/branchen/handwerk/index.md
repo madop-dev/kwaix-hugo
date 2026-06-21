@@ -108,7 +108,7 @@ Ja — gerade dort ist die Wirkung oft am direktesten spürbar, weil die Inhaber
 Das hängt davon ab, was in Ihrem Betrieb bereits vorhanden ist oder eingeführt werden soll. Wir arbeiten tool-agnostisch — ob ChatGPT, Microsoft Copilot oder ein anderes Tool.
 
 **Wie viel kostet das?**
-Staffelung nach Teamgröße — Details unter [Preise](/preise/). Für kleine Teams (1–5 MA) ab 2.400 €.
+Staffelung nach Teamgröße — Details unter [Preise](/ki-training-kosten/). Für kleine Teams (1–5 MA) ab 2.400 €.
 
 **Gibt es Fördermöglichkeiten?**
 Betriebliche Weiterbildung kann in vielen Bundesländern über BAFA oder Landesförderprogramme bezuschusst werden. Wir beraten Sie dazu gerne im Vorgespräch.

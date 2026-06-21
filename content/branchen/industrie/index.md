@@ -98,6 +98,6 @@ Im Training arbeiten wir mit anonymisierten oder synthetischen Beispielen. Welch
 Ja — Verwaltung und technische Teams werden häufig in getrennten Modulen geschult, da sich Aufgaben und Vorkenntnisse unterscheiden.
 
 **Was kostet das Training?**
-Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Für größere Teams auf Anfrage. Details: [Preise](/preise/).
+Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Für größere Teams auf Anfrage. Details: [Preise](/ki-training-kosten/).
 
 {{% /section %}}

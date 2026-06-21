@@ -5,7 +5,9 @@ eyebrow: "Transparente Festpreise · Keine versteckten Kosten"
 lede: "Klare Staffelpreise. Praxisnahes Training, das Ihr Team wirklich nutzt."
 draft: false
 type: leistungen
-canonical: "https://kwaix.de/preise/"
+url: "/ki-training-kosten/"
+aliases: ["/preise/"]
+canonical: "https://kwaix.de/ki-training-kosten/"
 schemaType: "service"
 priceRange: "2400-4650"
 herocta: "Vorgespräch anfragen →"

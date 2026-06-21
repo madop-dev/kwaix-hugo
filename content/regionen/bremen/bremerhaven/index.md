@@ -85,7 +85,7 @@ Ja. Bremerhaven liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen �
 Hafenwirtschaft und Logistik, Fischereiwirtschaft und Lebensmittelverarbeitung, Tourismus, Handel. Use Cases werden auf Ihre Branche zugeschnitten.
 
 **Was kostet KI-Training in Bremerhaven?**
-Ab 2.400 € netto für Teams bis 5 Personen, für 6–10 Personen 3.600 € netto, für 11–15 Personen 4.650 € netto. Details unter [/preise/](/preise/).
+Ab 2.400 € netto für Teams bis 5 Personen, für 6–10 Personen 3.600 € netto, für 11–15 Personen 4.650 € netto. Details unter [/preise/](/ki-training-kosten/).
 
 **Wie schnell ist ein Termin möglich?**
 In der Regel innerhalb von 1–3 Wochen nach Auftragserteilung.

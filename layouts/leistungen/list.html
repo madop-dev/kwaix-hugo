@@ -26,7 +26,7 @@
 
     {{- $ctaText := default "Kostenloses Vorgespräch anfragen →" .Params.herocta -}}
     {{- $cta2Text := default "Preise ansehen" .Params.herocta2 -}}
-    {{- $cta2Href := default "/preise/" .Params.herocta2href -}}
+    {{- $cta2Href := default "/ki-training-kosten/" .Params.herocta2href -}}
     <div class="leistung-hero-buttons reveal d3">
       <a href="mailto:info@kwaix.de?subject={{ .Title | urlquery }}%20anfragen" class="btn-hero-primary">{{ $ctaText }}</a>
       <a href="{{ $cta2Href }}" class="btn-hero-secondary">{{ $cta2Text }}</a>

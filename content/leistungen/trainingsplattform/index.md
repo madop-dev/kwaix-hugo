@@ -105,7 +105,7 @@ Nicht zwingend, aber empfohlen. Ohne vorheriges Training fehlt der Bezug zwische
 Ja — das ist ein Hauptanwendungsfall. Rollen und Teams werden entsprechend angelegt.
 
 **Was kostet die Plattform?**
-6 Monate inklusive, danach optional verlängerbar auf Anfrage. Preis nach Teamgröße, individuell angeboten. Preisübersicht: [/preise/](/preise/).
+6 Monate inklusive, danach optional verlängerbar auf Anfrage. Preis nach Teamgröße, individuell angeboten. Preisübersicht: [/preise/](/ki-training-kosten/).
 
 **Werden die Inhalte aktuell gehalten?**
 Ja, über Update-Module — bei KI-VO-Änderungen und relevanten Tool-Updates.

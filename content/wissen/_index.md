@@ -5,7 +5,9 @@ eyebrow: "Ratgeber · Leitfäden · Praxis-Tools"
 lede: "KI-Wissen für Unternehmen, das wirklich nützt: konkrete Definitionen, Zahlen, Fristen und Einordnungen — für ChatGPT und Google gleichermaßen zitierfähig."
 draft: false
 type: leistungen
-canonical: "https://kwaix.de/wissen/"
+url: "/ki-ratgeber/"
+aliases: ["/wissen/"]
+canonical: "https://kwaix.de/ki-ratgeber/"
 schemaType: "service"
 herocta: "Use Cases besprechen →"
 herocta2: "ROI berechnen"

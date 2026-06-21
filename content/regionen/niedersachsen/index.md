@@ -40,7 +40,7 @@ Wir trainieren Unternehmen in ganz Niedersachsen — von Hannover bis Oldenburg,
 - **Remote:** Standard für alle niedersächsischen Standorte
 - **Vor Ort:** Hannover, Oldenburg, Osnabrück, Braunschweig und weitere — nach Absprache
 - **Typische Branchen:** Industrie, Maschinenbau, Handwerk, Logistik, Agrarwirtschaft
-- **Preis:** ab 2.400 € netto für 1–5 Personen — Details: [/preise/](/preise/)
+- **Preis:** ab 2.400 € netto für 1–5 Personen — Details: [/preise/](/ki-training-kosten/)
 - **Einstieg:** kostenloses Vorgespräch (30 Min) per Video oder Telefon
 
 {{< kpiStrip k1_label="Standorte" k1_value="Ganz Niedersachsen" k2_label="Format" k2_value="Remote & vor Ort" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
