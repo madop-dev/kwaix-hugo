@@ -2,7 +2,7 @@
 title: "Preise KI-Training: Staffelpreise für Teams ab 2.400 €"
 description: "Transparente Staffelpreise für KI-Training für KMU: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (netto). Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Transparente Festpreise · Keine versteckten Kosten"
-lede: "Klare Staffelpreise nach Teamgröße. Kein Abo, keine Lizenzfallen — einmal trainieren, dauerhaft nutzen."
+lede: "Klare Staffelpreise. Praxisnahes Training, das Ihr Team wirklich nutzt."
 draft: false
 type: leistungen
 canonical: "https://kwaix.de/preise/"
