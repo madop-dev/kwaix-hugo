@@ -1,0 +1,49 @@
+<div id="kx-cookie-banner" class="kx-cookie-banner" style="display:none" role="dialog" aria-label="Cookie-Einwilligung" aria-live="polite">
+  <div class="kx-cookie-banner__inner">
+    <p class="kx-cookie-banner__text">
+      Wir nutzen Google Analytics, um zu verstehen, wie Besucher unsere Website nutzen. Dabei werden Cookies gesetzt und Daten an Google in die USA übermittelt.
+      <a href="/datenschutz/">Datenschutzerklärung</a>
+    </p>
+    <div class="kx-cookie-banner__actions">
+      <button id="kx-cookie-reject" class="kx-cookie-btn kx-cookie-btn--secondary">Ablehnen</button>
+      <button id="kx-cookie-accept" class="kx-cookie-btn kx-cookie-btn--primary">Akzeptieren</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var KEY = 'kwaix_cookie_consent';
+  var GA  = 'G-4GS16892LP';
+
+  function loadGA() {
+    if (document.getElementById('kx-ga')) return;
+    var s = document.createElement('script');
+    s.id = 'kx-ga'; s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA;
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    window.gtag = gtag;
+    gtag('js', new Date());
+    gtag('config', GA, { anonymize_ip: true });
+  }
+
+  var consent = localStorage.getItem(KEY);
+  if (consent === 'accepted') { loadGA(); return; }
+  if (consent === 'rejected') return;
+
+  var banner = document.getElementById('kx-cookie-banner');
+  banner.style.display = 'block';
+
+  document.getElementById('kx-cookie-accept').addEventListener('click', function(){
+    localStorage.setItem(KEY, 'accepted');
+    banner.style.display = 'none';
+    loadGA();
+  });
+  document.getElementById('kx-cookie-reject').addEventListener('click', function(){
+    localStorage.setItem(KEY, 'rejected');
+    banner.style.display = 'none';
+  });
+})();
+</script>

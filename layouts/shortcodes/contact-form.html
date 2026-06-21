@@ -1,0 +1,35 @@
+<form class="kx-contact-form" action="https://formspree.io/f/mlgyrwba" method="POST">
+  <div class="kx-form-row">
+    <div class="kx-form-group">
+      <label for="cf-name">Name <span class="kx-form-required" aria-hidden="true">*</span></label>
+      <input type="text" id="cf-name" name="name" required placeholder="Ihr Name">
+    </div>
+    <div class="kx-form-group">
+      <label for="cf-unternehmen">Unternehmen</label>
+      <input type="text" id="cf-unternehmen" name="unternehmen" placeholder="Ihr Unternehmen (optional)">
+    </div>
+  </div>
+  <div class="kx-form-row">
+    <div class="kx-form-group">
+      <label for="cf-email">E-Mail <span class="kx-form-required" aria-hidden="true">*</span></label>
+      <input type="email" id="cf-email" name="email" required placeholder="ihre@email.de">
+    </div>
+    <div class="kx-form-group">
+      <label for="cf-telefon">Telefon</label>
+      <input type="tel" id="cf-telefon" name="telefon" placeholder="+49 … (optional)">
+    </div>
+  </div>
+  <div class="kx-form-group">
+    <label for="cf-nachricht">Nachricht <span class="kx-form-required" aria-hidden="true">*</span></label>
+    <textarea id="cf-nachricht" name="nachricht" required rows="5" placeholder="Womit können wir Ihnen helfen?"></textarea>
+  </div>
+  <div class="kx-form-group kx-form-group--checkbox">
+    <label class="kx-form-checkbox">
+      <input type="checkbox" name="_datenschutz" required>
+      <span>Ich habe die <a href="/datenschutz/">Datenschutzerklärung</a> gelesen und bin mit der Verarbeitung meiner Daten zur Bearbeitung meiner Anfrage einverstanden.</span>
+    </label>
+  </div>
+  <input type="hidden" name="_subject" value="Neue Anfrage über kwaix.de">
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+  <button type="submit" class="btn btn-hero-primary">Nachricht senden →</button>
+</form>
