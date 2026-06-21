@@ -72,11 +72,11 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen — 
 ## Ablauf
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="01 Vorgespräch" text="Branche, Abteilungen, bestehende Systeme und konkrete Aufgaben — 30 Min, kostenfrei." >}}
-{{< card icon="backlog" title="02 KI-Kickoff" text="Workshop mit Leitungs- und Fachbereichsebene: Prioritäten, Datenschutz, KI-VO-Orientierung." >}}
-{{< card icon="training" title="03 Training" text="Live-Training je nach Zielgruppe: Verwaltung und/oder technische Teams, getrennt oder gemeinsam." >}}
-{{< card icon="policy" title="04 Dokumentationsstandards" text="Prompt-Vorlagen und Standards für die häufigsten Dokumentationsaufgaben." >}}
-{{< card icon="proof" title="05 Nachweis" text="Kompetenznachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden." >}}
+{{< card icon="default" title="01 Vorgespräch" text="Branche, Abteilungen, bestehende Systeme und konkrete Aufgaben — 30 Min, kostenfrei." href="/kontakt/" cta="Vorgespräch anfragen" >}}
+{{< card icon="backlog" title="02 KI-Kickoff" text="Workshop mit Leitungs- und Fachbereichsebene: Prioritäten, Datenschutz, KI-VO-Orientierung." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="training" title="03 Training" text="Live-Training je nach Zielgruppe: Verwaltung und/oder technische Teams, getrennt oder gemeinsam." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="policy" title="04 Dokumentationsstandards" text="Prompt-Vorlagen und Standards für die häufigsten Dokumentationsaufgaben." href="/leistungen/ki-training-live/" cta="Trainings-Inhalte ansehen" >}}
+{{< card icon="proof" title="05 Nachweis" text="Kompetenznachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für neue Mitarbeitende und Auffrischung." >}}
 {{< /cards >}}
 

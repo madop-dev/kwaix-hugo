@@ -123,11 +123,11 @@ Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle B
 ## Ablauf
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="01 Vorgespräch" text="Kurzes Kennenlernen: Einrichtungstyp, Bereiche, konkrete Aufgaben, Datenschutzsituation. 30 Min, kostenfrei." >}}
-{{< card icon="backlog" title="02 KI-Kickoff" text="90 Min Workshop: Welche Aufgaben sind am lohnendsten — und datenschutzrechtlich unbedenklich? Prioritäten, Risiken, nächste Schritte." >}}
-{{< card icon="training" title="03 Training" text="Praxisnahes Live-Training mit echten Verwaltungsaufgaben. Für Sachbearbeitung, Führungskräfte oder gemischte Teams." >}}
-{{< card icon="policy" title="04 Datenschutz-Einweisung" text="Klare Regeln, welche Aufgaben mit KI möglich sind und welche nicht — mit der Platzhalter-Methode als Standard." >}}
-{{< card icon="proof" title="05 Kompetenznachweis" text="Dokumentierter Nachweis gemäß Artikel 4 KI-VO für alle Teilnehmenden — für Ihre Personalakte und ggf. Aufsichtsbehörden." >}}
+{{< card icon="default" title="01 Vorgespräch" text="Kurzes Kennenlernen: Einrichtungstyp, Bereiche, konkrete Aufgaben, Datenschutzsituation. 30 Min, kostenfrei." href="/kontakt/" cta="Vorgespräch anfragen" >}}
+{{< card icon="backlog" title="02 KI-Kickoff" text="90 Min Workshop: Welche Aufgaben sind am lohnendsten — und datenschutzrechtlich unbedenklich? Prioritäten, Risiken, nächste Schritte." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="training" title="03 Training" text="Praxisnahes Live-Training mit echten Verwaltungsaufgaben. Für Sachbearbeitung, Führungskräfte oder gemischte Teams." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="policy" title="04 Datenschutz-Einweisung" text="Klare Regeln, welche Aufgaben mit KI möglich sind und welche nicht — mit der Platzhalter-Methode als Standard." href="/ki-verordnung/datenschutz-dsgvo/" cta="Datenschutz & KI-VO ansehen" >}}
+{{< card icon="proof" title="05 Kompetenznachweis" text="Dokumentierter Nachweis gemäß Artikel 4 KI-VO für alle Teilnehmenden — für Ihre Personalakte und ggf. Aufsichtsbehörden." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für dezentrale Einheiten, neue Mitarbeitende oder kontinuierliche Auffrischung." >}}
 {{< /cards >}}
 
