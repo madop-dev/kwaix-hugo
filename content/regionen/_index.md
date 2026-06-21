@@ -37,7 +37,7 @@ Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne 
 
 Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 — in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
 
-{{< kpiStrip k1_label="Remote" k1_value="Alle DE · AT · CH-Standorte" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
+{{< kpiStrip k1_label="Remote" k1_value="DE · AT · CH" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
