@@ -19,9 +19,49 @@
       <input type="tel" id="cf-telefon" name="telefon" placeholder="+49 … (optional)">
     </div>
   </div>
+  <div class="kx-form-row">
+    <div class="kx-form-group">
+      <label for="cf-anliegen">Wie können wir helfen? <span class="kx-form-required" aria-hidden="true">*</span></label>
+      <select id="cf-anliegen" name="anliegen" required class="kx-form-select">
+        <option value="" disabled selected>Bitte wählen …</option>
+        <option value="KI-Training">KI-Training für mein Team</option>
+        <option value="KI-Strategie">KI-Strategie &amp; Beratung</option>
+        <option value="Vorgespräch">Vorgespräch / Kennenlernen</option>
+        <option value="Sonstiges">Sonstiges</option>
+      </select>
+    </div>
+    <div class="kx-form-group">
+      <label for="cf-groesse">Unternehmensgröße <span class="kx-form-required" aria-hidden="true">*</span></label>
+      <select id="cf-groesse" name="unternehmensgroesse" required class="kx-form-select">
+        <option value="" disabled selected>Bitte wählen …</option>
+        <option value="1–10">1–10 Mitarbeitende</option>
+        <option value="11–50">11–50 Mitarbeitende</option>
+        <option value="51–200">51–200 Mitarbeitende</option>
+        <option value="201–1000">201–1.000 Mitarbeitende</option>
+        <option value="1000+">1.000+ Mitarbeitende</option>
+        <option value="Öffentliche Hand">Behörde / öffentliche Hand</option>
+      </select>
+    </div>
+  </div>
+  <div class="kx-form-row">
+    <div class="kx-form-group">
+      <label for="cf-rolle">Ihre Rolle <span class="kx-form-required" aria-hidden="true">*</span></label>
+      <select id="cf-rolle" name="rolle" required class="kx-form-select">
+        <option value="" disabled selected>Bitte wählen …</option>
+        <option value="Geschäftsführung">Geschäftsführung / Vorstand</option>
+        <option value="Führungskraft">Führungskraft / Bereichsleitung</option>
+        <option value="Projektverantwortliche">Projektverantwortliche/r</option>
+        <option value="Mitarbeiter">Mitarbeiter/in</option>
+        <option value="Sonstiges">Sonstiges</option>
+      </select>
+    </div>
+    <div class="kx-form-group">
+      <!-- spacer -->
+    </div>
+  </div>
   <div class="kx-form-group">
     <label for="cf-nachricht">Nachricht <span class="kx-form-required" aria-hidden="true">*</span></label>
-    <textarea id="cf-nachricht" name="nachricht" required rows="5" placeholder="Womit können wir Ihnen helfen?"></textarea>
+    <textarea id="cf-nachricht" name="nachricht" required rows="5" placeholder="Womit können wir Ihnen helfen? Was bewegt Sie gerade?"></textarea>
   </div>
   <div class="kx-form-group kx-form-group--checkbox">
     <label class="kx-form-checkbox">
