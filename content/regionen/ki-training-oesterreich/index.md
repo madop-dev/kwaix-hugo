@@ -40,23 +40,23 @@ Wir betreuen Unternehmen in ganz Österreich — remote als Standard, vor Ort na
 
 {{% section tone="tint" %}}
 
-## Die EU KI-Verordnung gilt in Österreich
-
-Die Verordnung (EU) 2024/1689 gilt seit 2. August 2025 in allen EU-Mitgliedstaaten — also auch in Österreich. Artikel 4 verpflichtet Betreiber von KI-Systemen, ihren Mitarbeitenden nachweisbare KI-Kompetenz zu vermitteln. Das betrifft Wiener Finanzdienstleister ebenso wie Grazer Automotive-Zulieferer oder Salzburger Hotelbetriebe.
-
-Der Kompetenznachweis ist in jedem KWAIX-Training enthalten.
-
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20%C3%96sterreich%20anfragen" primaryText="Vorgespräch für Österreich anfragen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis ansehen" >}}
-
-{{% /section %}}
-
-{{% section tone="plain" %}}
-
 ## Auch in Deutschland und der Schweiz
 
 {{< cards cols="2" >}}
 {{< card icon="default" title="KI-Training Deutschland" text="Bundesweit — Berlin, München, Hamburg, Köln, Frankfurt, Stuttgart und weitere Standorte." href="/regionen/ki-training-deutschland/" cta="Deutschland-Seite ansehen" >}}
 {{< card icon="default" title="KI-Training Schweiz" text="Zürich, Basel und Bern — mehrsprachig, mit Bezug auf FINMA und Schweizer Besonderheiten." href="/regionen/ki-training-schweiz/" cta="Schweiz-Seite ansehen" >}}
 {{< /cards >}}
+
+{{% /section %}}
+
+{{% section tone="plain" %}}
+
+## Die EU KI-Verordnung gilt DE · AT · CH-weit
+
+Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 — in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
+
+{{< kpiStrip k1_label="Remote" k1_value="Alle DE · AT · CH-Standorte" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
+
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
 {{% /section %}}

@@ -61,25 +61,23 @@ Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote a
 
 {{% section tone="tint" %}}
 
-## Die EU KI-Verordnung gilt in ganz Deutschland
-
-Die Verordnung (EU) 2024/1689 gilt seit 2. August 2025 in allen deutschen Unternehmen, die KI-Systeme betreiben. Artikel 4 verpflichtet Betreiber, ihren Mitarbeitenden nachweisbare KI-Kompetenz zu vermitteln — in München genauso wie in Rostock, in Stuttgart genauso wie in Leipzig.
-
-Der Kompetenznachweis ist in jedem KWAIX-Training enthalten.
-
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Deutschland%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-verordnung/kompetenznachweis/" secondaryText="Kompetenznachweis ansehen" >}}
-
-{{% /section %}}
-
-{{% section tone="plain" %}}
-
 ## Auch in Österreich und der Schweiz
-
-KWAIX trainiert DACH-weit. Für österreichische und Schweizer Unternehmen gibt es eigene Länderseiten mit regionsspezifischen Informationen.
 
 {{< cards cols="2" >}}
 {{< card icon="default" title="KI-Training Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck — mit Fokus auf österreichisches Recht und Verwaltungssprache." href="/regionen/ki-training-oesterreich/" cta="Österreich-Seite ansehen" >}}
 {{< card icon="default" title="KI-Training Schweiz" text="Zürich, Basel und Bern — mehrsprachig, mit Bezug auf FINMA und Schweizer Besonderheiten." href="/regionen/ki-training-schweiz/" cta="Schweiz-Seite ansehen" >}}
 {{< /cards >}}
+
+{{% /section %}}
+
+{{% section tone="plain" %}}
+
+## Die EU KI-Verordnung gilt DE · AT · CH-weit
+
+Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 — in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
+
+{{< kpiStrip k1_label="Remote" k1_value="Alle DE · AT · CH-Standorte" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
+
+{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 
 {{% /section %}}
