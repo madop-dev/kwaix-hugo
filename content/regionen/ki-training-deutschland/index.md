@@ -24,7 +24,7 @@ heroCards:
 
 ## KI-Training für Unternehmen in ganz Deutschland
 
-Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote als Standard, vor Ort nach Absprache. Kein Aufpreis für Standort oder Entfernung. Das Training passt sich an Ihre Branche, Ihr Team und Ihre konkreten Arbeitssituationen an.
+Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote als Standard, vor Ort nach Absprache. Das Training passt sich an Ihre Branche, Ihr Team und Ihre konkreten Arbeitssituationen an.
 
 ### Großstädte
 

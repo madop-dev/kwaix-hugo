@@ -25,7 +25,7 @@ heroCards:
 
 ## KWAIX trainiert DACH-weit
 
-Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne regionale Einschränkung. Remote ist Standard; Vor-Ort-Termine stimmen wir individuell ab. Kein Aufpreis für Standort oder Entfernung.
+Wir trainieren Unternehmen in Deutschland, Österreich und der Schweiz — ohne regionale Einschränkung. Remote ist Standard; Vor-Ort-Termine stimmen wir individuell ab.
 
 {{< cards cols="3" >}}
 {{< card icon="training" title="KI-Training in Deutschland" text="Berlin, München, Hamburg, Köln, Frankfurt, Stuttgart, Düsseldorf, Leipzig, Nürnberg, Dortmund, Bremen und Hochschulstädte." href="/regionen/ki-training-deutschland/" cta="Alle deutschen Standorte ansehen" >}}
