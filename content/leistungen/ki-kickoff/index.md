@@ -1,104 +1,79 @@
 ---
-title: "KI-Kickoff: Use-Case-Priorisierung und Risikocheck in 90 Minuten"
-description: "KI-Kickoff für KMU: Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-Verordnung, konkreter Plan — in 90–120 Min, remote oder vor Ort."
+title: "KI-Kickoff: Der Auftakt für die gesamte Belegschaft"
+description: "KI-Kickoff für Unternehmen: multimedialer Impulsvortrag für die gesamte Belegschaft — Ängste abbauen, Motivation erzeugen, Chancen vermitteln. Vor Ort, 2–3 Stunden."
 draft: false
 type: leistungen
-eyebrow: "Strategieberatung · 90 Minuten · Unverbindlich"
-lede: "Klarheit über KI-Potenziale in 90 Minuten: priorisierte Use Cases, Risikocheck, konkreter Plan — bevor Geld in KI-Projekte fließt."
+eyebrow: "Vor Ort · Gesamte Belegschaft · Multimedial"
+lede: "KI kommt nicht über Nacht. Wir holen alle ab — mit einem multimedialen Impulsvortrag, der Ihre Belegschaft mitnimmt, bevor das Training beginnt."
 herocta: "KI-Kickoff anfragen →"
 canonical: "https://kwaix.de/leistungen/ki-kickoff/"
 schemaType: "service"
 heroCards:
-  - type: backlog
-    title: "Use‑Case‑Backlog"
-    subtitle: "Priorisiert & umsetzbar"
+  - type: training
+    title: "Impulsvortrag"
+    subtitle: "Motivierend & multimedial"
   - type: policy
-    title: "Leitplanken"
-    subtitle: "Datenschutz & KI‑VO Orientierung"
+    title: "Ängste abbauen"
+    subtitle: "Psychologische Sicherheit"
   - type: roi
-    title: "Business Case"
-    subtitle: "Zeit & Wirkung grob abschätzen"
+    title: "Chancen & Risiken"
+    subtitle: "Ehrlich & verständlich"
 faqItems:
-  - q: "Was ist der KI-Kickoff und was bringt er?"
-    a: "Der KI-Kickoff ist ein 90–120-minütiger Workshop mit Geschäftsführung und Fachbereichen. Ergebnis: eine priorisierte Use-Case-Shortlist, eine orientierende Datenschutz- und KI-VO-Einschätzung und ein konkreter Plan für die nächsten 30 Tage. Kein generisches KI-Seminar, sondern Analyse Ihrer konkreten Prozesse."
+  - q: "Was ist der KI-Kickoff?"
+    a: "Der KI-Kickoff ist ein multimedialer Impulsvortrag für die gesamte Belegschaft — live vor Ort, 2–3 Stunden. Er findet statt, bevor das eigentliche KI-Training beginnt, und vermittelt: Was KI ist, was sie nicht ist, welche Chancen und Risiken sie bietet und warum das Training folgt. Ziel: Vertrauen aufbauen, Vorbehalte abbauen, Motivation erzeugen."
   - q: "Für wen ist der KI-Kickoff geeignet?"
-    a: "Für Geschäftsführungen und Leitungsteams, die vor einer Investitionsentscheidung Klarheit über KI-Potenziale und Risiken wollen. Ideal auch für Teams mit ersten Tool-Erfahrungen, denen eine strukturierte Priorisierung fehlt. Teilnehmerzahl: 2–10 Personen (Leitung + Fachbereiche + IT/Datenschutz)."
-  - q: "Was bekommen wir konkret nach dem Kickoff?"
-    a: "Sie erhalten: eine priorisierte Use-Case-Shortlist mit konkreten Anwendungsfällen aus Ihrem Arbeitsalltag, kurze Risiko- und Machbarkeitsnotizen pro Top-Use-Case (Datenschutz, KI-VO orientierend, Aufwand), eine Trainingsempfehlung und optional eine grobe Pilot-Roadmap für 2–4 Wochen."
-  - q: "Wie lange dauert der Kickoff und was kostet er?"
-    a: "90 bis 120 Minuten, remote oder vor Ort. Das Angebot erhalten Sie nach einem kostenlosen 30-minütigen Vorgespräch, in dem wir Teamgröße und Situation klären. Preisdetails: /ki-training-kosten/."
+    a: "Für die gesamte Belegschaft — nicht nur für Führungskräfte oder Fachbereiche. Der Kickoff holt alle ab: technisch Affine, Skeptiker, Neugierige. Er ist der psychologische Auftakt, damit das anschließende Training auf fruchtbarem Boden stattfindet."
+  - q: "Was ist der Unterschied zwischen Kickoff und KI-Training Live?"
+    a: "Der Kickoff ist der Auftakt für die gesamte Belegschaft — motivierend, multimedial, ohne Tech-Jargon. Das KI-Training Live (/leistungen/ki-training-live/) folgt danach: 4 Stunden, in Trainingsgruppen, praxisnah mit echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+  - q: "Wie lange dauert der Kickoff?"
+    a: "2–3 Stunden, live vor Ort. Format und Ablauf werden im Vorgespräch auf Ihre Unternehmensgröße und Ziele abgestimmt."
   - q: "Findet der Kickoff remote oder vor Ort statt?"
-    a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im kostenlosen Vorgespräch, was für Ihr Team am besten passt."
-  - q: "Was müssen wir für den Kickoff vorbereiten?"
-    a: "Einen kurzen Fragebogen zu Branche, Prozessen und aktueller Tool-Landschaft — 15–20 Minuten Aufwand. Zahlen und Daten sind hilfreich, aber kein Muss. Details klären wir im Vorgespräch."
-  - q: "Was ist der Unterschied zum KI-Training?"
-    a: "Der Kickoff klärt, WAS sinnvoll ist (Priorisierung, Risikocheck, Plan). Das KI-Training Live (/leistungen/ki-training-live/) setzt dann mit dem Team um, WIE KI konkret eingesetzt wird — mit Prompting-Standards, Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+    a: "Der KI-Kickoff findet primär vor Ort statt — als echter Gemeinschaftsmoment für die Belegschaft. Multimedial aufbereitet, verständlich, ohne Tech-Jargon."
+  - q: "Was kostet der KI-Kickoff?"
+    a: "Der Preis richtet sich nach Belegschaftsgröße und wird nach dem kostenlosen Vorgespräch (30 Min) individuell angeboten. Das Angebot erhalten Sie zeitnah. Preisübersicht: /ki-training-kosten/."
+  - q: "Müssen wir etwas vorbereiten?"
+    a: "Kaum. Ein kurzes Gespräch zur Unternehmenskultur und den häufigsten Vorbehalten Ihrer Mitarbeitenden genügt. Den Rest übernehmen wir."
   - q: "Gibt der Kickoff eine rechtlich verbindliche KI-VO-Bewertung?"
-    a: "Nein. Wir ordnen die besprochenen Use Cases orientierend im Hinblick auf Datenschutz und KI-Verordnung ein — als Ausgangspunkt, nicht als Rechtsberatung. Für verbindliche rechtliche Bewertungen empfehlen wir spezialisierte Kanzleien."
+    a: "Nein. Der Kickoff ist kein rechtlicher Workshop. Er vermittelt Chancen, Risiken und Grundlagen — als motivierender Auftakt, nicht als Compliance-Beratung."
 ---
 
 {{% section tone="plain" %}}
 
-## Entscheidungssicherheit vor der Investition
+## Kick-off: Der Auftakt für die gesamte Belegschaft
 
-Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an, was lohnt sich wirklich, und was müssen wir dabei beachten? Der KI-Kickoff gibt innerhalb von 90 Minuten Antworten auf genau diese Fragen: priorisierte Use Cases, Risikocheck zu Datenschutz und KI-Verordnung, und ein konkreter Plan für die nächsten 30 Tage.
+Bevor das Training beginnt, steht Wertschätzung. Der Kick-off ist Ihr Signal an die Belegschaft: **Wir machen das gemeinsam.**
 
-**Was im Kickoff passiert:**
-- Gemeinsame Inventur Ihrer Prozesse: Wo kostet manuelles Arbeiten am meisten Zeit?
-- Use-Case-Sammlung aus dem Arbeitsalltag der Teilnehmenden
-- Einordnung nach Aufwand, Nutzen und Risiko (inkl. Datenschutz- und KI-VO-Check, orientierend)
-- Abgleich mit Ihrer Tool-Landschaft (was ist bereits im Einsatz, was würde sinnvoll ergänzen)
-- Ergebnisdokument: priorisierte Shortlist + Trainingsempfehlung + optionale Pilot-Roadmap
+KI kommt nicht über Nacht — und wer seine Mitarbeitenden nicht mitnimmt, verliert sie. Nicht an KI, sondern an Unsicherheit. Der KI-Kickoff schafft den Rahmen, in dem echtes Lernen erst möglich wird.
 
-**Was nicht passiert:**
-- Kein technischer Deep-Dive oder Tool-Einführung
-- Kein Mitarbeiter-Training (dafür: [KI-Training Live](/leistungen/ki-training-live/))
-- Keine rechtsverbindliche KI-VO-Bewertung
+{{< cards cols="3" >}}
+{{< card icon="training" title="Multimedialer Impulsvortrag" text="Live vor Ort, motivierend, verständlich, ohne Tech-Jargon. KI wird greifbar gemacht, nicht übergestülpt." >}}
+{{< card icon="default" title="Ängste abbauen, Motivation erzeugen" text="Viele Mitarbeitende haben Vorbehalte gegenüber KI. Der Kick-off schafft psychologische Sicherheit — die Grundlage für echtes Lernen." >}}
+{{< card icon="policy" title="Chancen, Risiken & Herausforderungen" text="Spielerisch und ehrlich vermittelt. Was KI kann, was sie nicht kann und was das für jeden Einzelnen bedeutet." >}}
+{{< /cards >}}
 
-## Auf einen Blick
-
-- **Dauer:** 90–120 Minuten, remote oder vor Ort
-- **Teilnehmende:** 2–10 Personen (Leitung + Fachbereiche + IT/Datenschutz)
-- **Ergebnis:** priorisierte Use-Case-Shortlist, Risikocheck, Trainingsempfehlung
-- **Nächster Schritt:** [KI-Training Live](/leistungen/ki-training-live/) für Ihr Team
-- **Einstieg:** kostenloses Vorgespräch (30 Min) — dann Angebot
-
-{{< kpiStrip k1_label="Dauer" k1_value="90–120 Min" k2_label="Ergebnis" k2_value="Use-Case-Shortlist" k3_label="Format" k3_value="Remote oder vor Ort" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
+{{< kpiStrip k1_label="Format" k1_value="Vor Ort" k2_label="Zielgruppe" k2_value="Gesamte Belegschaft" k3_label="Aufwand" k3_value="Multimedial" k4_label="Dauer" k4_value="2–3 Stunden" >}}
 
 {{% /section %}}
 
 {{% section tone="tint" %}}
 
-## Für wen der KI-Kickoff das Richtige ist
+## Auf einen Blick
 
-{{< cards cols="4" >}}
-{{< card icon="roi" title="Vor der Investition" text="Geschäftsführungen, die wissen wollen, wo KI den größten Hebel hat — bevor Geld in KI-Projekte fließt." >}}
-{{< card icon="backlog" title="Priorisierung fehlt" text="Teams mit ersten Tool-Erfahrungen, die ohne strukturierten Use-Case-Fokus arbeiten." >}}
-{{< card icon="policy" title="KI-VO im Blick" text="Unternehmen, die ihre KI-Aktivitäten orientierend auf Datenschutz und KI-Verordnung einordnen möchten." >}}
-{{< card icon="training" title="Vor dem Training" text="Als Vorbereitung auf das KI-Training Live — damit das Team an den richtigen Use Cases trainiert." >}}
-{{< /cards >}}
+- **Für wen:** Gesamte Belegschaft — Führungskräfte, Fachbereiche, Skeptiker, Neugierige
+- **Format:** Live vor Ort, multimedial aufbereitet, ohne Tech-Jargon
+- **Dauer:** 2–3 Stunden
+- **Zweck:** Psychologische Sicherheit schaffen — als Auftakt vor dem KI-Training Live
+- **Nächster Schritt:** [KI-Training Live](/leistungen/ki-training-live/) für Ihre Teams — in 4 Stunden, mit Kompetenznachweis Art. 4 KI-VO
 
 ## Ablauf
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Minuten: Teamgröße, Branche, Ziele und Format klären. Kein Formular, einfach per E-Mail." >}}
-{{< card icon="default" title="02 Vorab-Fragebogen" text="15–20 Minuten: kurze Erhebung zu Prozessen, Tools und Teamstruktur als Vorbereitung." >}}
-{{< card icon="default" title="03 Kickoff-Workshop" text="90–120 Minuten: Use-Case-Inventur, Einordnung, Risikocheck — mit Geschäftsführung und Fachbereichen." >}}
-{{< card icon="backlog" title="04 Ergebnisdokument" text="Priorisierte Use-Case-Shortlist mit Risiko- und Machbarkeitsnotizen und Trainingsempfehlung." >}}
-{{< card icon="policy" title="05 Pilot-Roadmap (opt.)" text="Optional: grober Fahrplan für einen 2–4-wöchigen Pilot zum Top-Use-Case." >}}
-{{< card icon="training" title="06 Nächster Schritt" text="KI-Training Live für die betroffenen Teams — aufbauend auf den priorisierten Use Cases." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
+{{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Minuten: Unternehmensgröße, Kultur und typische Vorbehalte klären. Kein Formular, einfach per E-Mail." >}}
+{{< card icon="default" title="02 KI-Kickoff live" text="2–3 Stunden vor Ort: multimedialer Impulsvortrag, Fragen & Antworten, gemeinsame Einordnung." >}}
+{{< card icon="training" title="03 KI-Training Live" text="Im Anschluss: 4-stündiges Training in Gruppen mit echten Use Cases und Kompetenznachweis Art. 4." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< /cards >}}
 
-## Was Sie aus dem KI-Kickoff mitnehmen
-
-{{< cards cols="4" >}}
-{{< card icon="backlog" title="Use-Case-Backlog" text="Priorisierte Liste konkreter Anwendungsfälle, nach Aufwand und Nutzen eingeordnet." >}}
-{{< card icon="policy" title="Risiko-Notizen" text="Kurze Einschätzung zu Datenschutz und KI-VO pro Top-Use-Case (orientierend, keine Rechtsberatung)." >}}
-{{< card icon="training" title="Trainingsempfehlung" text="Einschätzung des Trainingsbedarfs mit Vorschlag für das passende KI-Training Live." >}}
-{{< card icon="roi" title="Pilot-Roadmap" text="Optional: grober Fahrplan für einen 2–4-wöchigen Pilot zu einem priorisierten Use Case." >}}
-{{< /cards >}}
-
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Kickoff%20anfragen" primaryText="KI-Kickoff anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 
 {{% /section %}}
 
@@ -107,23 +82,23 @@ Viele KMU stehen vor derselben Frage: KI ist ein Thema — aber wo fangen wir an
 ## FAQ: KI-Kickoff
 
 **Was ist der KI-Kickoff?**
-Ein 90–120-minütiger Workshop, der Klarheit schafft: welche KI-Anwendungsfälle in Ihrem Unternehmen sinnvoll sind, wo Risiken liegen und was als nächstes konkret zu tun ist. Kein Seminar, sondern eine strukturierte Analyse Ihrer Prozesse.
+Ein multimedialer Impulsvortrag für die gesamte Belegschaft — live vor Ort, 2–3 Stunden. Er macht KI greifbar, baut Vorbehalte ab und schafft die psychologische Grundlage für das anschließende Training.
 
-**Was bekommen wir danach?**
-Eine priorisierte Use-Case-Shortlist mit Risiko- und Machbarkeitsnotizen, eine Trainingsempfehlung und optional eine Pilot-Roadmap für 2–4 Wochen.
+**Für wen ist er gedacht?**
+Für alle — nicht nur für Führungskräfte. Der Kickoff holt die gesamte Belegschaft ab: Skeptiker, Neugierige, Technikaffine und alle dazwischen.
 
-**Brauchen wir den Kickoff vor dem Training?**
-Nicht zwingend. Wer bereits eine klare Priorisierung hat, kann direkt mit dem [KI-Training Live](/leistungen/ki-training-live/) starten. Ohne Priorisierung ist der Kickoff der effizientere Einstieg.
+**Was ist der Unterschied zum KI-Training Live?**
+Der Kickoff ist der emotionale Auftakt für alle. Das [KI-Training Live](/leistungen/ki-training-live/) folgt danach: 4 Stunden, in Gruppen, mit echten Use Cases und Kompetenznachweis nach Artikel 4 KI-VO.
 
-**Gibt es eine rechtsverbindliche KI-VO-Bewertung?**
-Nein. Wir ordnen orientierend ein — als Ausgangspunkt für die richtigen Fragen. Für verbindliche Rechtsfragen empfehlen wir spezialisierte Kanzleien.
-
-**Wie viele Personen sollten teilnehmen?**
-2–10 Personen: idealerweise Geschäftsführung oder Leitung plus Vertreterinnen aus Fachbereichen, IT und Datenschutz.
+**Wie lange dauert er?**
+2–3 Stunden, live vor Ort.
 
 **Was kostet der Kickoff?**
-Das Angebot erhalten Sie nach dem kostenlosen Vorgespräch (30 Min). Preisübersicht: [/preise/](/ki-training-kosten/).
+Individuell nach Belegschaftsgröße. Angebot nach kostenlosem Vorgespräch (30 Min). Preisübersicht: [/ki-training-kosten/](/ki-training-kosten/).
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" note="Preise und Staffelung: /ki-training-kosten/" >}}
+**Müssen wir viel vorbereiten?**
+Kaum. Ein kurzes Gespräch zur Unternehmenskultur und den typischen Vorbehalten genügt.
+
+{{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Kickoff%20anfragen" primaryText="KI-Kickoff anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
 {{% /section %}}
