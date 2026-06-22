@@ -5,7 +5,7 @@ draft: false
 type: leistungen
 eyebrow: "Kostenloser Rechner · Ergebnis in 2 Minuten"
 lede: "Schieberegler einstellen, Ergebnis ablesen. Konservative Rechnung — keine Hochglanz-Versprechen."
-canonical: "https://kwaix.de/ki-training-kosten/ki-roi-rechner/"
+canonical: "https://kwaix.de/preise/ki-roi-rechner/"
 url: "/preise/ki-roi-rechner/"
 schemaType: "service"
 herocta: "Vorgespräch anfragen →"
