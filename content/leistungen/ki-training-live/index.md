@@ -35,7 +35,7 @@ faqItems:
   - q: "Welche Themen werden im Training behandelt?"
     a: "Das Training deckt 6 Module ab: KI-Grundlagen & Einsatzfelder, KI-Verordnung (KI-VO) & Compliance, Wie LLMs wirklich funktionieren, Professionelles Prompting, LLMs in Ihrer Praxis (ChatGPT, Copilot, Langdock u.v.m.) sowie Ihre Use Cases, live umgesetzt."
   - q: "Brauchen wir vorher einen KI-Kickoff?"
-    a: "Nicht zwingend. Wenn Sie bereits wissen, welche Anwendungsfälle relevant sind, können Sie direkt mit dem Live-Training starten. Ohne klare Priorisierung empfehlen wir vorab den KI-Kickoff (/leistungen/ki-kickoff/) — 90 Minuten, kostenpflichtig."
+    a: "Nicht zwingend. Wenn Sie bereits wissen, welche Anwendungsfälle relevant sind, können Sie direkt mit dem Live-Training starten. Ohne klare Priorisierung empfehlen wir vorab den KI-Kickoff (/leistungen/ki-kickoff/) — 2–3 Stunden, kostenpflichtig."
   - q: "Wie geht KWAIX mit unseren vertraulichen Daten um?"
     a: "Vertraulich und DSGVO-konform. Im Training arbeiten wir mit anonymisierten oder selbst gewählten Beispielen. Wir verarbeiten keine Unternehmensdaten ohne entsprechende Vereinbarung. Details: /datenschutz/."
   - q: "Gibt es nach dem Training eine Nachbetreuung?"

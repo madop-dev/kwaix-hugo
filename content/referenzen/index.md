@@ -29,7 +29,7 @@ Was wir zeigen können: typische Ausgangssituationen, Ergebnisse und Einschätzu
 ## Was KI-Training realistisch leistet
 
 {{< cards cols="3" >}}
-{{< card icon="roi" title="Zeitersparnis" text="30–90 Min täglich bei Routinetextaufgaben sind realistisch — konservativ berechnet. Kein Versprechen, aber ein häufiges Ergebnis." >}}
+{{< card icon="roi" title="Zeitersparnis" text="30–60 Min täglich bei Routinetextaufgaben sind realistisch — konservativ berechnet. Kein Versprechen, aber ein häufiges Ergebnis." >}}
 {{< card icon="proof" title="Compliance" text="Der Kompetenznachweis nach Artikel 4 KI-VO ist ein konkretes, dokumentierbares Ergebnis jedes Trainings." >}}
 {{< card icon="policy" title="Standards" text="Prompt-Bibliothek und KI-Policy-Vorlage: Artefakte, die nach dem Training im Unternehmen bleiben und genutzt werden." >}}
 {{< /cards >}}

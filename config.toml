@@ -11,7 +11,7 @@ enableRobotsTXT = false
   address = "Waller Stieg 3, 28217 Bremen"
   city = "Bremen"
   region = "Deutschland, Österreich, Schweiz"
-  colorPrimary = "#4f46e5"
+  colorPrimary = "#a21caf"
   colorAccent = "#f43f5e"
 
 [markup.goldmark.renderer]
