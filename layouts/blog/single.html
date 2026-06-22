@@ -12,19 +12,6 @@
         {{ if not .Lastmod.IsZero }}{{ if ne (.Lastmod.Format "02.01.2006") (.Date.Format "02.01.2006") }}<span class="article-date">Aktualisiert: {{ .Lastmod.Format "02.01.2006" }}</span>{{ end }}{{ end }}
       </div>
     </div>
-    <div class="page-hero-visual page-hero-visual--blog" aria-hidden="true">
-      <svg class="blog-hero-icon" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <rect x="36" y="24" width="112" height="140" rx="10" fill="rgba(79,70,229,0.12)" stroke="rgba(79,70,229,0.3)" stroke-width="2"/>
-        <rect x="52" y="50" width="72" height="6" rx="3" fill="rgba(79,70,229,0.4)"/>
-        <rect x="52" y="68" width="96" height="6" rx="3" fill="rgba(79,70,229,0.25)"/>
-        <rect x="52" y="86" width="80" height="6" rx="3" fill="rgba(79,70,229,0.25)"/>
-        <rect x="52" y="104" width="88" height="6" rx="3" fill="rgba(79,70,229,0.25)"/>
-        <rect x="52" y="122" width="60" height="6" rx="3" fill="rgba(79,70,229,0.18)"/>
-        <circle cx="148" cy="152" r="24" fill="rgba(164,21,207,0.15)" stroke="rgba(164,21,207,0.4)" stroke-width="2"/>
-        <path d="M140 158 L144 144 L158 152 Z" fill="rgba(164,21,207,0.6)"/>
-        <line x1="144" y1="144" x2="158" y2="152" stroke="rgba(236,72,153,0.8)" stroke-width="2" stroke-linecap="round"/>
-      </svg>
-    </div>
   </header>
 
   <div class="page-content">
