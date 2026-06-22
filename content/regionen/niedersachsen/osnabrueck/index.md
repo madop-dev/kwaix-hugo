@@ -35,7 +35,7 @@ Wir begleiten Ihr Team in Osnabrück vom ersten Kickoff bis zum Kompetenznachwei
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Osnabrück oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Situation ab, wird im kostenlosen Vorgespräch geklärt.
 
-**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen) · 0421 69190969
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Osnabr%C3%BCck%20anfragen) · +49 421 69018929
 
 ## Auf einen Blick
 

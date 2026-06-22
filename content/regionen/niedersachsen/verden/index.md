@@ -35,7 +35,7 @@ Wir begleiten Ihr Team in Verden vom ersten Kickoff bis zum Kompetenznachweis na
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Verden oder remote. Verden liegt zwischen Bremen und Hannover — erreichbar ohne lange Anreise.
 
-**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Verden%20anfragen) · 0421 69190969
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Verden%20anfragen) · +49 421 69018929
 
 ## Auf einen Blick
 

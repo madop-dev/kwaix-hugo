@@ -35,7 +35,7 @@ Vom Kickoff bis zum Kompetenznachweis nach Artikel 4 begleiten wir Ihr Team in B
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Bremerhaven oder remote. Bremerhaven liegt in der direkten Einzugsregion von Bremen — Vor-Ort-Termine sind unkompliziert.
 
-**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen) · 0421 69190969
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Bremerhaven%20anfragen) · +49 421 69018929
 
 ## Auf einen Blick
 

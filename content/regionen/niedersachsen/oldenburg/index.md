@@ -35,7 +35,7 @@ Wir begleiten Ihr Team in Oldenburg vom ersten Kickoff bis zum Kompetenznachweis
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Oldenburg oder remote. Oldenburg liegt in der direkten Einzugsregion des KWAIX-Standorts Bremen — Vor-Ort-Termine sind unkompliziert.
 
-**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Oldenburg%20anfragen) · 0421 69190969
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Oldenburg%20anfragen) · +49 421 69018929
 
 ## Auf einen Blick
 

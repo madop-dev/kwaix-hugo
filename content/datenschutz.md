@@ -17,7 +17,7 @@ Waller Stieg 3
 28217 Bremen  
 Deutschland  
 E-Mail: info@kwaix.de  
-Telefon: 0421 69190969
+Telefon: +49 421 69018929
 
 ---
 
