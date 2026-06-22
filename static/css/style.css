@@ -1782,6 +1782,17 @@ body {
   overflow: hidden;
 }
 
+.page-hero-visual--blog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blog-hero-icon {
+  width: 60%;
+  max-width: 220px;
+  opacity: 0.9;
+}
+
 .eyebrow {
   font-size: 12px;
   font-weight: 600;
