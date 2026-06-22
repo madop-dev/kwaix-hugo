@@ -15,15 +15,15 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4 KI-VO"
   - type: backlog
     title: "KI-Kickoff"
-    subtitle: "Use-Case-Priorisierung in 90 Min"
+    subtitle: "Auftakt für die Belegschaft · 2–3 Std."
   - type: platform
     title: "Trainingsplattform"
     subtitle: "Prompt-Bibliothek & Standards"
 faqItems:
   - q: Was bietet KWAIX für Unternehmen an?
-    a: 'Wir bieten drei aufeinander aufbauende Leistungen: 1. KI-Kickoff (90–120 Min) — Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche. 2. KI-Training Live — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform — Prompt-Bibliothek, Vorlagen und Update-Module für dauerhaften Kompetenzaufbau. Alle Leistungen einzeln oder kombiniert buchbar, DACH-weit remote und vor Ort.'
+    a: 'Wir bieten drei aufeinander aufbauende Leistungen: 1. KI-Kickoff (2–3 Std.) — multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort. 2. KI-Training Live (4 Std.) — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform (12 Monate) — E-Learning-Module, Prompt-Bibliothek und KI-Assistenten für dauerhaften Kompetenzaufbau. Alle Leistungen einzeln oder kombiniert buchbar, DACH-weit.'
   - q: Was ist der Unterschied zwischen KI-Kickoff und KI-Training?
-    a: Der KI-Kickoff (90–120 Min) klärt mit Geschäftsführung und Fachbereichen, WELCHE KI-Anwendungsfälle sinnvoll sind — vor jeder Investition. Das KI-Training Live schult das Team dann, WIE diese Use Cases konkret umgesetzt werden — mit Prompting-Standards und Kompetenznachweis. Kickoff = Strategie und Priorisierung. Training = Befähigung und Nachweis.
+    a: Der KI-Kickoff (2–3 Std., gesamte Belegschaft) ist der motivierende Auftakt — multimedial, vor Ort, ohne Tech-Jargon. Er baut psychologische Sicherheit auf, bevor das eigentliche Training beginnt. Das KI-Training Live (4 Std., in Gruppen) schult dann konkret: Prompting-Standards, echte Use Cases, Kompetenznachweis Art. 4 KI-VO. Kickoff = Auftakt & Motivation. Training = Befähigung & Nachweis.
   - q: Was kostet das KI-Training?
     a: 'Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Größere Gruppen auf Anfrage. Im Preis enthalten: Vorab-Umfrage, Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO.'
   - q: Ist der Kompetenznachweis nach Artikel 4 KI-Verordnung im Training enthalten?
@@ -48,7 +48,7 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 {{< card icon="prompt" title="Von der Priorisierung bis zur Plattform" text="KI-Kickoff, Training Live und Trainingsplattform bauen aufeinander auf. Alle Bausteine einzeln buchbar — kein Abo-Zwang, kein Vendor Lock-in." href="/ki-training-kosten/" cta="Preise ansehen" >}}
 {{< /cards >}}
 
-{{< kpiStrip k1_label="KI-Kickoff" k1_value="90–120 Min" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
+{{< kpiStrip k1_label="KI-Kickoff" k1_value="2–3 Stunden" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Nachweis" k3_value="Art. 4 KI-VO" k4_label="DACH-weit" k4_value="DE · AT · CH" >}}
 
 {{% /section %}}
 
@@ -59,7 +59,7 @@ Viele KI-Schulungen sind Tool-Präsentationen ohne Bezug zur täglichen Arbeit. 
 ## Details zu den Leistungen
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="KI-Kickoff" text="Für Geschäftsführung und Fachbereiche: priorisierte Use-Case-Shortlist, Risikocheck zu Datenschutz und KI-VO, konkreter Plan für die nächsten 30 Tage. 90–120 Min, remote oder vor Ort." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="backlog" title="KI-Kickoff" text="Multimedialer Impulsvortrag für die gesamte Belegschaft — live vor Ort, 2–3 Stunden. Ängste abbauen, Motivation erzeugen, Chancen und Risiken spielerisch vermitteln. Der Auftakt vor dem Training." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="training" title="KI-Training Live" text="Praxisnahes Team-Training: Prompting-Standards, echte Use Cases aus dem Alltag, Kompetenznachweis nach Artikel 4 KI-VO. Für 1–15+ Personen, ab 2.400 € netto." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< card icon="platform" title="Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für dauerhaften Kompetenzaufbau. Für Teams ab 5 Personen, auch standortübergreifend." href="/leistungen/trainingsplattform/" cta="Zur Trainingsplattform" >}}
 {{< /cards >}}

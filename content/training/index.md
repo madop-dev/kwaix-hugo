@@ -24,7 +24,7 @@ heroCards:
     subtitle: "Dranbleiben & vertiefen"
 faqItems:
   - q: "Aus welchen Bausteinen besteht das KWAIX-Trainingsprogramm?"
-    a: "Das Programm besteht aus drei aufeinander aufbauenden Bausteinen: 1. KI-Kickoff (90–120 Min) — Priorisierung und Risikocheck für Führungsebene und Fachbereiche. 2. KI-Training Live — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform (optional) — Prompt-Bibliothek, Vorlagen und Update-Module für dauerhaften Kompetenzaufbau."
+    a: "Das Programm besteht aus drei aufeinander aufbauenden Bausteinen: 1. KI-Kickoff (2–3 Std.) — multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort. 2. KI-Training Live (4 Std.) — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform (12 Monate, optional) — E-Learning-Module, Prompt-Bibliothek und KI-Assistenten für dauerhaften Kompetenzaufbau."
   - q: "Muss ich alle drei Bausteine buchen?"
     a: "Nein. Das KI-Training Live funktioniert eigenständig und ist das Kernangebot. Der KI-Kickoff ist eine sinnvolle Vorbereitung, wenn noch keine klaren Use Cases priorisiert sind. Die Trainingsplattform ist eine optionale Ergänzung nach dem Training für Teams, die das Gelernte dauerhaft verankern wollen."
   - q: "Für wie viele Personen ist das Training geeignet?"
@@ -49,13 +49,13 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 
 ## Auf einen Blick
 
-- **Baustein 1:** KI-Kickoff — 90–120 Min, Priorisierung und Risikocheck für Führungsebene
+- **Baustein 1:** KI-Kickoff — 2–3 Std., multimedialer Impulsvortrag für die gesamte Belegschaft, vor Ort
 - **Baustein 2:** KI-Training Live — Praxistraining für Teams, Kompetenznachweis nach Artikel 4 KI-VO
 - **Baustein 3:** Trainingsplattform — Prompt-Bibliothek und Update-Module (optional)
 - **Kein Abo-Zwang:** Bausteine einzeln oder kombiniert buchbar
 - **Preise:** gestaffelt nach Teamgröße, ab 2.400 € — Details unter [/preise/](/ki-training-kosten/)
 
-{{< kpiStrip k1_label="Teilnehmer" k1_value="1–15+ Personen" k2_label="Einstiegspreis" k2_value="2.400 € netto" k3_label="Format" k3_value="Remote oder vor Ort" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
+{{< kpiStrip k1_label="KI-Kickoff" k1_value="2–3 Stunden" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Plattform" k3_value="12 Monate" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
 {{% /section %}}
 
@@ -64,7 +64,7 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 ## Die drei Bausteine im Überblick
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="1. KI-Kickoff" text="90–120 Minuten mit Geschäftsführung und Fachbereichen. Ergebnis: priorisierte Use-Case-Shortlist, orientierende Datenschutz- und KI-VO-Einordnung, konkreter Plan." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="backlog" title="1. KI-Kickoff" text="2–3 Stunden, live vor Ort, für die gesamte Belegschaft. Multimedialer Impulsvortrag: Ängste abbauen, Motivation erzeugen, Chancen und Risiken spielerisch vermitteln." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="training" title="2. KI-Training Live" text="Praxisnahes Team-Training mit Prompting-Standards und Use Cases aus Ihrem Alltag. Ergebnis: Kompetenznachweis nach Artikel 4 KI-VO, Prompt-Bibliothek, Policy-Template." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
 {{< card icon="platform" title="3. Trainingsplattform" text="Prompt-Bibliothek, Vorlagen, Micro-Learnings und Update-Module für den Alltag. Für Teams ab 5 Personen, auch standortübergreifend." href="/leistungen/trainingsplattform/" cta="Zur Trainingsplattform" >}}
 {{< /cards >}}
