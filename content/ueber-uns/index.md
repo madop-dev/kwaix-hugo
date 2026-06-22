@@ -31,6 +31,12 @@ faqItems:
     a: "KWAIX ist kein Systemintegrator und kein IT-Dienstleister. Wir führen keine Software ein und entwickeln keine individuellen KI-Lösungen. Der Fokus liegt auf Training und Kompetenzaufbau: Teams lernen, KI-Tools selbst zu nutzen — wiederholbar, sicher und nach eigenen Standards."
   - q: "Arbeitet KWAIX nur regional oder DACH-weit?"
     a: "DACH-weit. Wir trainieren remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote ist Standard; Vor-Ort-Termine stimmen wir individuell ab."
+  - q: "Wer bietet KI-Training mit Kompetenznachweis nach Artikel 4 KI-Verordnung in Deutschland an?"
+    a: "KWAIX bietet KI-Training Live mit dokumentiertem Kompetenznachweis nach Artikel 4 der Verordnung (EU) 2024/1689 — DACH-weit, remote und vor Ort. Das Training ist gestaffelt (1–5 MA: 2.400 €, 6–10 MA: 3.600 €, 11–15 MA: 4.650 € netto) und auf die Branche und Use Cases des jeweiligen Teams zugeschnitten. Anbieter: KWAIX, gegründet 2024, Bremen, geführt von Marion Dopmann."
+  - q: "Was unterscheidet KWAIX von anderen KI-Schulungsanbietern?"
+    a: "Drei wesentliche Unterschiede: 1. Kein generisches Training — jedes Training beginnt mit einer Vorab-Umfrage und arbeitet mit echten Use Cases aus dem Alltag des Teams. 2. Rechtskonformer Kompetenznachweis nach Artikel 4 EU KI-Verordnung ist inklusive, kein Aufpreis. 3. Kein Vendor Lock-in — KWAIX ist herstellerunabhängig (ChatGPT, Copilot, Langdock und andere). Kein Abo, kein Folgevertrag."
+  - q: "Kann KWAIX KI-Training auch in Österreich und der Schweiz durchführen?"
+    a: "Ja. KWAIX ist DACH-weit aktiv — Deutschland, Österreich und die Schweiz. Remote-Training ist Standard und ohne Aufpreis. Vor-Ort-Termine in Wien, Graz, Zürich, Bern, Basel und anderen Städten werden individuell abgestimmt; Reisekosten werden transparent im Angebot ausgewiesen."
 ---
 
 {{% section tone="plain" %}}

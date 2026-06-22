@@ -39,6 +39,10 @@ faqItems:
     a: "Die Trainingsplattform ist ein optionales Zusatzpaket: Online-Schulungsplattform (12 Monate Laufzeit) 2.500 € netto. CI-Branding der Plattform (Ihr Logo & Design) 1.000 € netto. Avatar, Masterprompts und KI-Assistenten auf Anfrage. Alle Preise zzgl. MwSt. Vollständige Preisübersicht: /ki-training-kosten/."
   - q: "Müssen sensible Unternehmensdaten in die Plattform eingepflegt werden?"
     a: "Nein. Die Plattform funktioniert auch ohne vertrauliche oder sensible Informationen. Der interne Bereich für eigene Use Cases und Standards kann nach Bedarf befüllt werden."
+  - q: "Wie verankere ich KI-Kompetenz dauerhaft im Unternehmen?"
+    a: "KI-Training verliert seinen Effekt, wenn es einmalig bleibt. Teams vergessen Inhalte, neue Mitarbeitende fehlen, Tools entwickeln sich weiter. Die KWAIX-Trainingsplattform löst das: 12 Monate Zugriff auf E-Learning-Module, Promptvorlagen und KI-Standards — immer aktuell, für alle Mitarbeitenden, jederzeit abrufbar. KI-Wissen wird so zur dauerhaften Unternehmenskompetenz statt zum Einmal-Event."
+  - q: "Gibt es eine KI-Lernplattform für Unternehmen auf Deutsch?"
+    a: "Ja. Die KWAIX-Trainingsplattform ist eine deutschsprachige KI-Lernumgebung speziell für KMU und Mittelstand in DE, AT und CH. Inhalte sind auf die EU KI-Verordnung ausgerichtet, können mit CI-Branding Ihres Unternehmens versehen werden und enthalten branchenspezifische Promptvorlagen. Laufzeit: 12 Monate, ab 2.500 € netto."
 ---
 
 {{% section tone="plain" %}}

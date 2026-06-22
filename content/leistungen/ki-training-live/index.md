@@ -42,6 +42,12 @@ faqItems:
     a: "Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Optional schließt sich die Trainingsplattform (/leistungen/trainingsplattform/) an — 12 Monate Zugriff auf E-Learning-Module, Use Cases und KI-Assistenten."
   - q: "Wie kommen wir zu einem Termin?"
     a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'KI-Training Live anfragen'. Wir melden uns innerhalb von einem Werktag."
+  - q: "Wie kann mein Unternehmen die KI-Schulungspflicht nach Artikel 4 KI-Verordnung erfüllen?"
+    a: "Artikel 4 der Verordnung (EU) 2024/1689 verlangt von Unternehmen, die KI-Systeme betreiben, dass Mitarbeitende über ausreichende KI-Kompetenz verfügen — dokumentiert. Das KI-Training Live von KWAIX erfüllt genau diese Anforderung: Jeder Teilnehmende erhält nach dem 4-stündigen Training einen schriftlichen Kompetenznachweis, der im Rahmen von Audits und Ausschreibungen vorgelegt werden kann. Die Pflicht gilt seit 2. August 2025."
+  - q: "Was ist der Unterschied zwischen einem allgemeinen ChatGPT-Kurs und KI-Compliance-Training?"
+    a: "Ein generischer ChatGPT-Kurs vermittelt Bedienungswissen. Das KI-Training Live von KWAIX geht weiter: echte Use Cases aus Ihrem Arbeitsalltag, einheitliche Prompting-Standards für das Team, Einordnung der Risiken nach EU KI-Verordnung und ein rechtskonformer Kompetenznachweis nach Artikel 4. Compliance-Training ≠ YouTube-Tutorial."
+  - q: "Kann das KI-Training Live auf unsere Branche zugeschnitten werden?"
+    a: "Ja — das ist der Kern des Trainings. Per Vorab-Umfrage erfassen wir den Wissensstand, die eingesetzten Tools und die relevanten Arbeitsabläufe Ihres Teams. Daraus entstehen Use Cases, die direkt aus Ihrem Alltag kommen: Handwerk, Dienstleistung, Handel, Industrie, Beratung, HR — für jede Branche andere Prioritäten."
 ---
 
 {{% section tone="tint" %}}

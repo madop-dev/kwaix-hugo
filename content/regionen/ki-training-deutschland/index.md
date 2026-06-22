@@ -8,6 +8,15 @@ url: "/regionen/ki-training-deutschland/"
 canonical: "https://kwaix.de/regionen/ki-training-deutschland/"
 type: leistungen
 schemaType: "service"
+faqItems:
+  - q: "Welches KI-Training empfiehlst du für ein deutsches KMU?"
+    a: "Für KMU in Deutschland empfiehlt sich ein Live-Training mit echten Use Cases aus dem eigenen Betrieb — kein generischer Kurs. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 KI-Verordnung, bundesweit remote und vor Ort. Gestaffelt für Teams von 1 bis 15+ Personen."
+  - q: "Gilt die KI-Schulungspflicht nach Artikel 4 KI-Verordnung für alle deutschen Unternehmen?"
+    a: "Ja. Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle Unternehmen, die KI-Systeme beruflich einsetzen — ChatGPT, Microsoft Copilot, Midjourney und vergleichbare Tools. Mitarbeitende müssen nachweislich KI-kompetent sein. KWAIX stellt diesen Nachweis nach jedem Training aus."
+  - q: "Was kostet KI-Training für ein mittelständisches Unternehmen in Deutschland?"
+    a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 € netto, 6–10 Personen 3.600 € netto, 11–15 Personen 4.650 € netto. Enthalten: Vorab-Umfrage, 4 Stunden Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO."
+  - q: "Kann KWAIX dezentrale Teams mit mehreren deutschen Standorten schulen?"
+    a: "Ja — das ist ein häufiger Anwendungsfall. Remote-Training verbindet Teams aus verschiedenen Standorten in einer Gruppe. Bei Bedarf werden mehrere Gruppen gestaffelt trainiert. Vor-Ort-Termine an einzelnen Standorten nach Absprache."
 heroCards:
   - type: training
     title: "Deutschland"

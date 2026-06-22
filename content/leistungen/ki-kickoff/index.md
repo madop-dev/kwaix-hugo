@@ -35,6 +35,10 @@ faqItems:
     a: "Kaum. Ein kurzes Gespräch zur Unternehmenskultur und den häufigsten Vorbehalten Ihrer Mitarbeitenden genügt. Den Rest übernehmen wir."
   - q: "Gibt der Kickoff eine rechtlich verbindliche KI-VO-Bewertung?"
     a: "Nein. Der Kickoff ist kein rechtlicher Workshop. Er vermittelt Chancen, Risiken und Grundlagen — als motivierender Auftakt, nicht als Compliance-Beratung."
+  - q: "Wie nehme ich meine Mitarbeitenden bei der KI-Einführung mit?"
+    a: "Der häufigste Fehler bei der KI-Einführung ist, mit dem Training zu starten, bevor Vertrauen und Verständnis da sind. Der KI-Kickoff schafft genau das: 2–3 Stunden Impulsvortrag für die gesamte Belegschaft — ohne IT-Jargon, ohne Druck. Mitarbeitende verstehen, was KI ist, was sie nicht ist und warum das Training folgt. Erst dann ist das Team bereit, wirklich zu lernen."
+  - q: "Brauche ich einen KI-Kickoff bevor das Team trainiert wird?"
+    a: "Nicht zwingend — aber empfohlen, wenn Teile der Belegschaft KI skeptisch gegenüberstehen oder wenn das Unternehmen erstmals KI-Tools einführt. Der Kickoff spart danach Trainingszeit: Teams, die den Auftakt erlebt haben, bringen weniger Widerstand und mehr Vorwissen ins Training mit."
 ---
 
 {{% section tone="plain" %}}
