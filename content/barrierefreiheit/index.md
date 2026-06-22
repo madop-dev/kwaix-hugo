@@ -17,7 +17,7 @@ Wir arbeiten kontinuierlich daran, Struktur, Kontraste, Bedienbarkeit per Tastat
 Wenn Ihnen Barrieren auf dieser Website auffallen, die Sie an der Nutzung hindern, melden Sie sich gerne bei uns:
 
 **E-Mail:** [info@kwaix.de](mailto:info@kwaix.de)
-**Telefon:** +49 421 69190969
+**Telefon:** 0421 69190969
 
 Wir prüfen Ihre Rückmeldung und versuchen, das Problem zeitnah zu beheben.
 

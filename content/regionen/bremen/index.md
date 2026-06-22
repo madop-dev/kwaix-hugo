@@ -35,7 +35,7 @@ KWAIX hat seinen Sitz in Bremen und begleitet Bremer KMU und Mittelstand beim pr
 
 **Format:** Vor Ort in Ihren Räumlichkeiten oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Situation ab, wird im kostenlosen Vorgespräch geklärt.
 
-**Standort KWAIX Bremen:** Waller Stieg 3, 28217 Bremen · [info@kwaix.de](mailto:info@kwaix.de) · +49 421 69190969
+**Standort KWAIX Bremen:** Waller Stieg 3, 28217 Bremen · [info@kwaix.de](mailto:info@kwaix.de) · 0421 69190969
 
 ## Auf einen Blick
 

@@ -7,7 +7,7 @@ draft: true
 ## Lass uns reden.
 
 **E-Mail:** [info@kwaix.de](mailto:info@kwaix.de)
-**Telefon:** +49 421 69190969
+**Telefon:** 0421 69190969
 **Adresse:** Waller Stieg 3, 28217 Bremen
 **Standort:** Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg
 

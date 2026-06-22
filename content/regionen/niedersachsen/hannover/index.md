@@ -35,7 +35,7 @@ Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis 
 
 **Format:** Vor Ort in Ihren Räumlichkeiten in Hannover oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Standort ab, wird im kostenlosen Vorgespräch geklärt.
 
-**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Hannover%20anfragen) · +49 421 69190969
+**Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Hannover%20anfragen) · 0421 69190969
 
 ## Auf einen Blick
 

@@ -36,7 +36,7 @@ heroCards:
 
 **Angebot anfordern:** [info@kwaix.de](mailto:info@kwaix.de?subject=Angebot%20anfordern) — Sofort Angebot anfordern
 
-**Telefon:** [+49 421 691 909 69](tel:+4942169190969)
+**Telefon:** [0421 69190969](tel:+4942169190969)
 
 **Adresse:** Waller Stieg 3, 28217 Bremen
 

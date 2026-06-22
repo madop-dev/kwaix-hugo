@@ -10,7 +10,7 @@ Vertreten durch: Marion Dopmann
 Waller Stieg 3, 28217 Bremen
 
 **E-Mail:** info@kwaix.de
-**Telefon:** +49 421 69190969
+**Telefon:** 0421 69190969
 
 ## Registereintrag
 
