@@ -41,7 +41,7 @@ faqItems:
   - q: "Was kostet der KI-Kickoff?"
     a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format."
   - q: "Was kostet die Trainingsplattform?"
-    a: "Die Trainingsplattform ist für 6 Monate inklusive — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten."
+    a: "Die Trainingsplattform ist ein optionales Zusatzpaket: Online-Schulungsplattform (12 Monate Laufzeit) 2.500 € netto, CI-Branding der Plattform (Ihr Logo & Design) 1.000 € netto. Avatar, Masterprompts und KI-Assistenten auf Anfrage. Alle Preise zzgl. MwSt."
   - q: "Fallen Reisekosten an?"
     a: "Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit (DE, AT, CH)."
 ---
@@ -54,7 +54,7 @@ faqItems:
 
 {{< cards cols="3" >}}
 {{< card icon="backlog" title="KI-Kickoff" text="Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche — 90–120 Min, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
-{{< card icon="platform" title="Trainingsplattform" text="Prompt-Bibliothek, Micro-Learnings und KI-Standards für Teams, die nach dem Training dranzubleiben wollen." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
+{{< card icon="platform" title="Trainingsplattform" text="Online-Schulungsplattform ab 2.500 € netto (12 Monate). Prompt-Bibliothek, Micro-Learnings und KI-Standards. Optional: CI-Branding 1.000 € netto. Avatar & Masterprompts auf Anfrage." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< card icon="roi" title="ROI-Rechner" text="Konservative Schätzung: Was bringt KI-Training Ihrem Team in Euro? Schieberegler, Ergebnis sofort." href="/preise/ki-roi-rechner/" cta="ROI berechnen" >}}
 {{< /cards >}}
 

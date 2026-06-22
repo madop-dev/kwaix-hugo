@@ -1,8 +1,8 @@
 ---
-title: "KI-Trainingsplattform: Prompt-Bibliothek, KI-Standards und Micro-Learnings für Teams"
-description: "KI-Trainingsplattform für KMU: Prompt-Bibliothek, KI-Standards, Vorlagen und Update-Module — KI-Kompetenz dauerhaft verankern, nicht nur einmalig schulen."
-eyebrow: "Digitales Lernen · KI-gestützt · DSGVO-konform"
-lede: "Prompt-Bibliothek, KI-Standards und Micro-Learnings an einem Ort — damit KI-Kompetenz nach dem Training nicht nach drei Wochen verblasst."
+title: "KI-Trainingsplattform: Persönlich, dauerhaft, skalierbar"
+description: "KI-Trainingsplattform für Unternehmen: 12 Monate Zugriff, CI-Branding, KI-Policy, E-Learning-Module, Use Cases & Promptvorlagen — dauerhaft individuell und aktuell."
+eyebrow: "Dauerhaft · Individuell · Skalierbar"
+lede: "Die Trainingsplattform bleibt für Ihr Unternehmen und Ihre Inhalte. 12 Monate Zugriff — regelmäßig im Hintergrund aktualisiert."
 draft: false
 type: leistungen
 herocta: "Trainingsplattform anfragen →"
@@ -11,58 +11,57 @@ schemaType: "service"
 heroCards:
   - type: platform
     title: "Trainingsplattform"
-    subtitle: "Dranbleiben im Alltag"
+    subtitle: "Dauerhaft & individuell"
   - type: prompt
-    title: "Prompt-Bibliothek"
-    subtitle: "Rollenbasiert & erprobte Vorlagen"
+    title: "Use Cases & Prompts"
+    subtitle: "Für Ihre Fachabteilungen"
   - type: policy
-    title: "KI-Standards"
-    subtitle: "Team‑Regeln & Freigaben"
+    title: "KI-Policy"
+    subtitle: "Sicher & verantwortungsvoll"
 faqItems:
   - q: "Was ist die KWAIX-Trainingsplattform?"
-    a: "Die Trainingsplattform ist ein digitaler Lernraum für Teams, die nach dem KI-Training Live das Gelernte dauerhaft im Arbeitsalltag verankern wollen. Enthalten: rollenbasierte Prompt-Bibliothek, Vorlagen und Checklisten, kurze Übungseinheiten (10–15 Min), interne KI-Standards und Update-Module bei Änderungen (KI-VO, Tools)."
+    a: "Die Trainingsplattform ist Ihre persönliche KI-Lernumgebung für 12 Monate. Enthalten: KI-Policy, Vorabumfrage-Ergebnisse, E-Learning-Module, Use Cases und Promptvorlagen für Ihre Fachabteilungen, KI-Assistenten und Anleitungen, CI-Branding mit Ihrem Logo und Avatar sowie steuerbare Inhalte. Die Inhalte werden regelmäßig im Hintergrund aktualisiert."
   - q: "Für wen ist die Trainingsplattform geeignet?"
-    a: "Für Teams ab ca. 5 Mitarbeitenden, die nach dem KI-Training Live dranzubleiben wollen — auch über mehrere Standorte hinweg. Besonders sinnvoll, wenn mehrere Fachbereiche nach denselben KI-Standards arbeiten sollen."
+    a: "Für alle Mitarbeitenden, die nach dem KI-Training Live dauerhaft Zugriff auf Schulungsinhalte, Prompts und KI-Standards haben sollen — auch für neue Mitarbeitende und zur Auffrischung, jederzeit abrufbar."
   - q: "Muss ich zuerst das KI-Training Live absolvieren?"
-    a: "Die Plattform funktioniert auch ohne vorheriges Training, aber wir empfehlen, zuerst das KI-Training Live (/leistungen/ki-training-live/) zu absolvieren. Dann passen Inhalte, Vorlagen und Übungen besser zu Ihrem Team und sind direkt an Ihren Use Cases ausgerichtet."
-  - q: "Was ist in der Prompt-Bibliothek enthalten?"
-    a: "Erprobte Prompts, sortiert nach Rolle und Anwendungsfall: z.B. Vorlagen für E-Mails, Protokolle, Berichte, Stellenanzeigen, Zusammenfassungen, Social-Media-Posts. Die Bibliothek wird durch unternehmenseigene Prompts aus dem Training ergänzt."
+    a: "Die Plattform funktioniert auch ohne vorheriges Training, aber wir empfehlen, zuerst das KI-Training Live (/leistungen/ki-training-live/) zu absolvieren. Dann sind Inhalte, Promptvorlagen und Use Cases direkt auf Ihr Team und Ihre Branche abgestimmt."
+  - q: "Was sind KI-Assistenten & Anleitungen?"
+    a: "Vorkonfigurierte KI-Assistenten für typische Aufgaben in Ihrem Unternehmen — branchenspezifisch und direkt nutzbar. Ergänzt durch Schritt-für-Schritt-Anleitungen für die häufigsten Anwendungsfälle Ihres Teams."
+  - q: "Was bedeutet CI-Branding der Plattform?"
+    a: "Die Plattform trägt Ihr Logo, Ihre Farben und einen multimedialen Avatar als Trainingsbegleiter. Sie fühlt sich an wie Ihre eigene — nicht wie ein generisches Lernportal."
   - q: "Wie erhalten wir Zugang zur Plattform?"
-    a: "Nach dem Setup-Call legen wir Rollen und Teams an und Sie erhalten Zugangsdaten samt Startpaket. Die Einrichtung dauert typisch 1–2 Stunden. Kein großes IT-Projekt."
+    a: "Nach dem Setup-Call richten wir Rollen und Teams ein und Sie erhalten Zugangsdaten samt Startpaket. Die Einrichtung dauert typisch 1–2 Stunden. Kein großes IT-Projekt."
   - q: "Können mehrere Teams oder Standorte die Plattform gemeinsam nutzen?"
     a: "Ja — das ist einer der Hauptanwendungsfälle. Rollen und Teams werden entsprechend angelegt, sodass jeder Bereich die für ihn relevanten Inhalte und Standards vorfindet."
   - q: "Werden die Inhalte aktuell gehalten?"
-    a: "Ja, über Update-Module — etwa bei Änderungen zur KI-Verordnung oder bei eingesetzten Tools. Updates werden neutral formuliert, ohne Rechtsberatung zu ersetzen."
+    a: "Ja. Die Inhalte werden von uns regelmäßig im Hintergrund aktualisiert — damit Ihr Team immer mit dem aktuellsten Informationsstand arbeitet, ohne dass Sie sich darum kümmern müssen."
   - q: "Was kostet die Trainingsplattform?"
-    a: "Die Trainingsplattform ist für 6 Monate inkl. — danach optional verlängerbar auf Anfrage. Der Preis richtet sich nach Teamgröße und wird individuell angeboten. Preisübersicht: /ki-training-kosten/. Bitte anfragen für ein konkretes Angebot."
+    a: "Die Trainingsplattform ist ein optionales Zusatzpaket: Online-Schulungsplattform (12 Monate Laufzeit) 2.500 € netto. CI-Branding der Plattform (Ihr Logo & Design) 1.000 € netto. Avatar, Masterprompts und KI-Assistenten auf Anfrage. Alle Preise zzgl. MwSt. Vollständige Preisübersicht: /ki-training-kosten/."
   - q: "Müssen sensible Unternehmensdaten in die Plattform eingepflegt werden?"
     a: "Nein. Die Plattform funktioniert auch ohne vertrauliche oder sensible Informationen. Der interne Bereich für eigene Use Cases und Standards kann nach Bedarf befüllt werden."
 ---
 
 {{% section tone="plain" %}}
 
-## Warum KI-Kompetenz ohne Plattform oft nicht bleibt
+## Ihre persönliche KI-Trainingsplattform
 
-Nach einem guten Live-Training sind alle motiviert — und ein paar Wochen später fallen viele Teams wieder in alte Muster zurück. Nicht wegen mangelnder Bereitschaft, sondern weil der Alltag dazwischenkommt: Die erprobten Prompts liegen auf einem USB-Stick, die KI-Regeln stehen in einer E-Mail von vor sechs Wochen, und bei neuen Kolleginnen fehlt der Einstieg komplett.
-
-Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben leichter — mit Prompt-Bibliothek, kurzen Übungseinheiten und den internen KI-Standards Ihres Unternehmens an einem Ort.
+Die Trainingsplattform bleibt für Ihr Unternehmen und Ihre Inhalte. Für **12 Monate** haben Sie und Ihre Mitarbeitenden vollen Zugriff. Die Inhalte werden von uns regelmäßig im Hintergrund aktualisiert, damit Ihr Team immer mit dem aktuellsten Informationsstand arbeitet — ohne dass Sie sich darum kümmern müssen.
 
 **Wann die Plattform besonders sinnvoll ist:**
-- Teams ab 5 Mitarbeitenden, bei denen Fluktuation KI-Wissen immer wieder verdünnt
+- Teams, bei denen Fluktuation KI-Wissen immer wieder verdünnt
 - Mehrere Fachbereiche oder Standorte, die nach denselben Standards arbeiten sollen
-- Unternehmen, die intern eine Prompt-Bibliothek mit eigenen Use Cases aufbauen wollen
-- Nach dem KI-Training Live — als direkter Anschluss zum Festigen des Lernstands
+- Unternehmen, die intern Promptvorlagen und KI-Standards dauerhaft verankern wollen
+- Als direkter Anschluss nach dem KI-Training Live — für nachhaltigen Kompetenzaufbau
 
 ## Auf einen Blick
 
-- **Für wen:** Teams ab ~5 Personen, auch standortübergreifend
-- **Was ist drin:** Prompt-Bibliothek (rollenbasiert), Vorlagen, Micro-Learnings, interne Standards, Update-Module
+- **Für wen:** Alle Mitarbeitenden mit KI-Berührung, auch standortübergreifend
+- **Was ist drin:** KI-Policy, E-Learning-Module, Use Cases & Promptvorlagen, KI-Assistenten, CI-Branding, steuerbarer Content
+- **Laufzeit:** 12 Monate
 - **Einstieg:** Setup-Call → Zugangsdaten → Startpaket
-- **Kein Pflichtpaket:** eigenständig buchbar, aber am sinnvollsten nach dem [KI-Training Live](/leistungen/ki-training-live/)
-- **Laufzeit:** 6 Monate inklusive — Verlängerung auf Anfrage
-- **Preis:** auf Anfrage, nach Teamgröße
+- **Preis:** Online-Schulungsplattform 2.500 € netto · CI-Branding 1.000 € netto · Avatar & Masterprompts auf Anfrage
 
-{{< kpiStrip k1_label="Für Teams" k1_value="ab 5 Personen" k2_label="Laufzeit" k2_value="6 Monate inkl." k3_label="Standorte" k3_value="Mehrere möglich" k4_label="Updates" k4_value="KI-VO & Tools" >}}
+{{< kpiStrip k1_label="Laufzeit" k1_value="12 Monate" k2_label="Plattform" k2_value="ab 2.500 € netto" k3_label="Standorte" k3_value="Mehrere möglich" k4_label="Updates" k4_value="Automatisch" >}}
 
 {{% /section %}}
 
@@ -71,20 +70,20 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 ## Was die Trainingsplattform enthält
 
 {{< cards cols="3" >}}
-{{< card icon="prompt" title="Prompt-Bibliothek" text="Erprobte Prompts, sortiert nach Rolle und Anwendungsfall: E-Mails, Protokolle, Berichte, Stellenanzeigen, Zusammenfassungen. Erweiterbar um Ihre eigenen Vorlagen." >}}
-{{< card icon="policy" title="Vorlagen & Checklisten" text="Für wiederkehrende Aufgaben: 'Sicher arbeiten', 'Qualitätscheck', 'Freigaben' — angepasst an Ihre KI-Richtlinie." >}}
-{{< card icon="training" title="Micro-Learnings" text="Kurze Übungseinheiten von 10–15 Minuten zum Auffrischen und Vertiefen — ohne Block-Lernzeit, direkt aus dem Alltag heraus." >}}
-{{< card icon="backlog" title="Interne Use Cases" text="Eigener Bereich für die Prompt-Vorlagen und Standards Ihres Unternehmens — damit neues Personal sofort mit denselben Regeln arbeitet." >}}
-{{< card icon="backlog" title="Update-Module" text="Neutrale Hinweise bei Änderungen zur KI-Verordnung oder bei den eingesetzten Tools — kein Newsletter-Rauschen, sondern relevante Updates." >}}
-{{< card icon="default" title="Teambereich" text="Rollen und Teams werden im Setup eingerichtet — für Fachbereiche und Standorte mit unterschiedlichen Schwerpunkten." >}}
+{{< card icon="policy" title="KI-Policy" text="Unternehmensrichtlinien für eine sichere und verantwortungsvolle KI-Nutzung — direkt in der Plattform hinterlegt und für alle abrufbar." >}}
+{{< card icon="backlog" title="Vorabumfrage & Ergebnisse" text="Erhebung von Kenntnisstand und Anwendungsfällen vor dem Training — Ergebnisse bleiben dauerhaft in der Plattform gespeichert." >}}
+{{< card icon="training" title="E-Learning-Module" text="Alle Schulungsinhalte bleiben abrufbar — für neue Mitarbeitende, zur Auffrischung, jederzeit. Regelmäßig im Hintergrund aktualisiert." >}}
+{{< card icon="prompt" title="Use Cases & Promptvorlagen" text="Speziell für Ihre Fachabteilungen entwickelt — direkt nutzbar im Arbeitsalltag. Erweiterbar um eigene Vorlagen." >}}
+{{< card icon="default" title="KI-Assistenten & Anleitungen" text="Vorkonfigurierte Assistenten für typische Aufgaben in Ihrem Unternehmen — branchenspezifisch und sofort einsetzbar." >}}
+{{< card icon="platform" title="CI-Branding & Avatar" text="Die Plattform trägt Ihr Logo, Ihre Farben und einen multimedialen Avatar als Trainingsbegleiter. Ihre Plattform, Ihr Design." >}}
 {{< /cards >}}
 
 ## So starten Sie mit der Trainingsplattform
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="01 KI-Training Live (empfohlen)" text="Idealerweise zuerst das KI-Training Live — dann sind Vorlagen und Micro-Learnings direkt an Ihren Use Cases ausgerichtet." >}}
-{{< card icon="default" title="02 Setup-Call (30–60 Min)" text="Kurzes Gespräch zu Zielen, Rollen und Fachbereichen. Einrichtung der Zugänge und Teams." >}}
-{{< card icon="platform" title="03 Zugang & Startpaket" text="Zugangsdaten, Prompt-Bibliothek und erste Übungen — sofort einsatzbereit, kein IT-Projekt." >}}
+{{< card icon="training" title="01 KI-Training Live (empfohlen)" text="Idealerweise zuerst das KI-Training Live — dann sind Promptvorlagen und E-Learning-Module direkt an Ihren Use Cases ausgerichtet." >}}
+{{< card icon="default" title="02 Setup-Call (30–60 Min)" text="Kurzes Gespräch zu Zielen, Rollen und Fachbereichen. Einrichtung der Zugänge, Teams und CI-Brandings." >}}
+{{< card icon="platform" title="03 Zugang & Startpaket" text="Zugangsdaten, Promptvorlagen und erste Module — sofort einsatzbereit, kein großes IT-Projekt." >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Trainingsplattform%20anfragen" primaryText="Plattform anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Erst KI-Training ansehen" >}}
@@ -96,7 +95,7 @@ Die Trainingsplattform löst genau dieses Problem: Sie macht das Dranzubleiben l
 ## FAQ: Trainingsplattform
 
 **Was ist die Trainingsplattform?**
-Ein digitaler Lernraum mit Prompt-Bibliothek, Vorlagen, kurzen Übungseinheiten und internen KI-Standards — für Teams, die nach dem KI-Training Live das Gelernte dauerhaft verankern wollen.
+Ihre persönliche KI-Lernumgebung für 12 Monate — mit KI-Policy, E-Learning-Modulen, Use Cases und Promptvorlagen, KI-Assistenten, CI-Branding und steuerbaren Inhalten. Regelmäßig im Hintergrund aktualisiert.
 
 **Muss ich zuerst das KI-Training Live absolvieren?**
 Nicht zwingend, aber empfohlen. Ohne vorheriges Training fehlt der Bezug zwischen den Plattform-Inhalten und den konkreten Use Cases Ihres Teams.
@@ -105,10 +104,13 @@ Nicht zwingend, aber empfohlen. Ohne vorheriges Training fehlt der Bezug zwische
 Ja — das ist ein Hauptanwendungsfall. Rollen und Teams werden entsprechend angelegt.
 
 **Was kostet die Plattform?**
-6 Monate inklusive, danach optional verlängerbar auf Anfrage. Preis nach Teamgröße, individuell angeboten. Preisübersicht: [/preise/](/ki-training-kosten/).
+Online-Schulungsplattform (12 Monate Laufzeit) **2.500 € netto**. CI-Branding **1.000 € netto**. Avatar, Masterprompts und KI-Assistenten auf Anfrage. Alle Preise zzgl. MwSt. Preisübersicht: [/ki-training-kosten/](/ki-training-kosten/).
 
 **Werden die Inhalte aktuell gehalten?**
-Ja, über Update-Module — bei KI-VO-Änderungen und relevanten Tool-Updates.
+Ja — wir aktualisieren die Inhalte regelmäßig im Hintergrund, ohne dass Sie sich darum kümmern müssen.
+
+**Kann ich eine Vorführung der Plattform erhalten?**
+Ja — Vorführung auf Anfrage. Einfach eine kurze E-Mail an [info@kwaix.de](mailto:info@kwaix.de?subject=Plattform-Vorführung%20anfragen).
 
 **Müssen sensible Daten eingepflegt werden?**
 Nein. Die Plattform funktioniert auch ohne vertrauliche Informationen.
