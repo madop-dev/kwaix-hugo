@@ -1,6 +1,7 @@
 ---
 title: "KI-Training für Teams"
 description: "60-Minuten KI-Workshops für Ihr Team — praxisnah, branchenspezifisch, sofort einsetzbar. Bremen, Delmenhorst, Achim."
+draft: true
 schemaType: "Service"
 ---
 

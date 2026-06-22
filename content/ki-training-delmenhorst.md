@@ -2,6 +2,7 @@
 title: "KI-Training in Delmenhorst"
 description: "KI-Workshops für Unternehmen in Delmenhorst — praxisnah, vor Ort oder online. KWAIX."
 schemaType: "Service"
+draft: true
 ---
 
 ## KI-Training für Unternehmen in Delmenhorst

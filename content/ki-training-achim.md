@@ -2,6 +2,7 @@
 title: "KI-Training in Achim"
 description: "KI-Workshops für Unternehmen in Achim — praxisnah, vor Ort oder online. KWAIX."
 schemaType: "Service"
+draft: true
 ---
 
 ## KI-Training für Unternehmen in Achim

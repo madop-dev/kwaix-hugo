@@ -2,6 +2,7 @@
 title: "KI-Training in Bremen"
 description: "KI-Workshops für Unternehmen in Bremen — praxisnah, branchenspezifisch, vor Ort oder online. KWAIX."
 schemaType: "Service"
+draft: true
 ---
 
 ## KI-Training für Unternehmen in Bremen

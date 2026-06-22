@@ -2,6 +2,7 @@
 title: "KI-Automation"
 description: "Repetitive Prozesse automatisieren mit KI — n8n, Make, Custom Code. Für Mittelstand in Bremen und Umgebung."
 schemaType: "Service"
+draft: true
 ---
 
 ## Repetitive Prozesse? Weg damit.

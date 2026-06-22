@@ -2,6 +2,7 @@
 title: "KI-Chatbots"
 description: "Intelligente Chatbots für Kundensupport — trainiert mit Ihrem Wissen, 24/7 verfügbar. Website, WhatsApp, Teams."
 schemaType: "Service"
+draft: true
 ---
 
 ## 24/7 Support — trainiert mit Ihrem Wissen
