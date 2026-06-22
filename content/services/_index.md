@@ -1,6 +1,7 @@
 ---
 title: "Services"
 description: "KI-Training, Automation und Chatbots — maßgeschneidert für Ihren Mittelstand"
+draft: true
 ---
 
 Drei Services. Ein Ziel: **Ihre Arbeit besser machen.**

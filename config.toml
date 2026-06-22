@@ -4,13 +4,13 @@ title = "KWAIX"
 enableRobotsTXT = false
 
 [params]
-  description = "KI-Lösungen für Mittelstand: Training, Automation, Chatbots — Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg"
+  description = "KI-Training, KI-Kickoff und Trainingsplattform für KMU und Mittelstand — DACH-weit, remote und vor Ort. Kompetenznachweis nach Artikel 4 EU KI-Verordnung."
   author = "KWAIX"
   email = "info@kwaix.de"
   phone = "+49 421 69018929"
   address = "Waller Stieg 3, 28217 Bremen"
   city = "Bremen"
-  region = "Bremen, Bremerhaven, Delmenhorst, Achim, Oldenburg"
+  region = "Deutschland, Österreich, Schweiz"
   colorPrimary = "#4f46e5"
   colorAccent = "#f43f5e"
 
@@ -37,7 +37,7 @@ enableRobotsTXT = false
     weight = 1
   [[menu.main]]
     name = "Training"
-    url = "/training/"
+    url = "/ki-training/"
     weight = 2
   [[menu.main]]
     name = "KI-VO"
