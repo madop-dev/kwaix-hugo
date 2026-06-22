@@ -1,89 +1,83 @@
 ---
-title: "KI-Training Live: Team-Training mit Kompetenznachweis nach Artikel 4 KI-VO"
-description: "KI-Training Live für KMU: Team-Training mit echten Use Cases, Prompting-Standards und Kompetenznachweis nach Artikel 4 KI-VO. Ab 2.400 € netto."
+title: "KI-Training Live: In 4 Stunden. KI-kompetent. Zertifiziert."
+description: "KI-Training Live für KMU: 4 Stunden Online-Live-Training mit echten Use Cases, Kompetenznachweis nach Artikel 4 KI-VO. Ab 2.400 € netto. DACH-weit."
 draft: false
 type: leistungen
-eyebrow: "Workshop · Inhouse & Remote · DACH-weit"
-lede: "Praxisnahes Team-Training mit echten Use Cases aus Ihrem Alltag — inkl. Kompetenznachweis nach Artikel 4 KI-Verordnung, remote oder vor Ort."
+eyebrow: "Online-Live-Training · 4 Stunden · DACH-weit"
+lede: "Das Online-Live-Training: praxisnah, direkt im Browser, am echten Arbeitsplatz. Inkl. Kompetenznachweis nach Artikel 4 KI-Verordnung."
 canonical: "https://kwaix.de/leistungen/ki-training-live/"
 schemaType: "course"
 priceRange: "2400-4650"
 herocta: "KI-Training Live anfragen →"
 heroCards:
+  - type: proof
+    title: "4 Stunden"
+    subtitle: "KI-kompetent & zertifiziert"
   - type: prompt
     title: "Prompting-Standards"
     subtitle: "Einheitlich, sicher, wiederholbar"
-  - type: proof
-    title: "Kompetenznachweis"
-    subtitle: "Artikel 4 EU KI-Verordnung"
   - type: training
     title: "Echte Use Cases"
-    subtitle: "Aus Ihrem Arbeitsalltag"
+    subtitle: "Live aus Ihrem Arbeitsalltag"
 faqItems:
   - q: "Wie lange dauert das KI-Training Live?"
-    a: "Die Trainingsdauer richtet sich nach Teamgröße und Vorkenntnissen und wird im kostenlosen Vorgespräch festgelegt."
+    a: "Das KI-Training Live dauert 4 Stunden — als kompaktes Online-Live-Training, direkt im Browser, am echten Arbeitsplatz. Bei größeren Teams oder komplexeren Anforderungen besprechen wir im Vorgespräch, ob eine Aufteilung sinnvoll ist."
   - q: "Wie viele Teilnehmende können mitmachen?"
     a: "Das Training ist für 1 bis über 15 Mitarbeitende konzipiert. Preise sind gestaffelt: 1–5 Personen 2.400 €, 6–10 Personen 3.600 €, 11–15 Personen 4.650 € (zzgl. MwSt.). Details unter /ki-training-kosten/."
   - q: "Findet das Training vor Ort oder remote statt?"
-    a: "Beides ist möglich. Wir besprechen im Vorgespräch, was für Ihr Team und Ihren Standort am sinnvollsten ist. KWAIX arbeitet DACH-weit."
+    a: "Das Training findet als Online-Live-Training statt — direkt im Browser, ohne Reiseaufwand, am echten Arbeitsplatz. Auf Wunsch ist auch ein Vor-Ort-Format möglich. KWAIX arbeitet DACH-weit."
   - q: "Was müssen wir vor dem Training vorbereiten?"
-    a: "Sie füllen eine kurze Vorab-Umfrage zu Wissensstand, eingesetzten Tools und Anforderungen aus. Daraus leiten wir die Inhalte und Use Cases für Ihr spezifisches Training ab."
+    a: "Sie füllen eine kurze Vorab-Umfrage zu Wissensstand, eingesetzten Tools und Anforderungen aus. Daraus leiten wir die Inhalte und Use Cases für Ihr spezifisches Training ab — damit wir dort ansetzen, wo Ihr Team wirklich steht."
   - q: "Erfüllt das Training die Anforderungen von Artikel 4 der KI-Verordnung?"
-    a: "Ja. Teilnehmende erhalten nach dem Training einen dokumentierten Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Hintergrund: Die Pflicht gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben."
+    a: "Ja. Teilnehmende erhalten nach dem Training einen dokumentierten Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben."
   - q: "Was ist im Preis enthalten?"
-    a: "Im Preis enthalten: Live-Training (vor Ort oder remote), Vorab-Umfrage, Handout, Prompt-Bibliothek mit erprobten Vorlagen, Policy-Template und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+    a: "Im Preis enthalten: Vorab-Umfrage, 4-stündiges Live-Training, alle 6 Trainingsmodule, Handout, Prompt-Bibliothek mit erprobten Vorlagen, Policy-Template und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+  - q: "Welche Themen werden im Training behandelt?"
+    a: "Das Training deckt 6 Module ab: KI-Grundlagen & Einsatzfelder, KI-Verordnung (KI-VO) & Compliance, Wie LLMs wirklich funktionieren, Professionelles Prompting, LLMs in Ihrer Praxis (ChatGPT, Copilot, Langdock u.v.m.) sowie Ihre Use Cases, live umgesetzt."
   - q: "Brauchen wir vorher einen KI-Kickoff?"
     a: "Nicht zwingend. Wenn Sie bereits wissen, welche Anwendungsfälle relevant sind, können Sie direkt mit dem Live-Training starten. Ohne klare Priorisierung empfehlen wir vorab den KI-Kickoff (/leistungen/ki-kickoff/) — 90 Minuten, kostenpflichtig."
   - q: "Wie geht KWAIX mit unseren vertraulichen Daten um?"
     a: "Vertraulich und DSGVO-konform. Im Training arbeiten wir mit anonymisierten oder selbst gewählten Beispielen. Wir verarbeiten keine Unternehmensdaten ohne entsprechende Vereinbarung. Details: /datenschutz/."
   - q: "Gibt es nach dem Training eine Nachbetreuung?"
-    a: "Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Optional schließt sich die Trainingsplattform (/leistungen/trainingsplattform/) an, um den Lernstand zu festigen."
+    a: "Sie erhalten Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen. Optional schließt sich die Trainingsplattform (/leistungen/trainingsplattform/) an — 12 Monate Zugriff auf E-Learning-Module, Use Cases und KI-Assistenten."
   - q: "Wie kommen wir zu einem Termin?"
     a: "Schreiben Sie uns für ein kostenloses Vorgespräch (30 Min) an: info@kwaix.de mit Betreff 'KI-Training Live anfragen'. Wir melden uns innerhalb von einem Werktag."
 ---
 
 {{% section tone="tint" %}}
 
-## Drei Gründe, warum Teams mit KWAIX trainieren
+## In 4 Stunden. KI-kompetent. Zertifiziert.
+
+Mit diesem Training erhalten Unternehmen und Mitarbeitende eine praxiserprobte, zertifizierte und individuell anpassbare Grundausbildung im Umgang mit Künstlicher Intelligenz — fundiert, rechtskonform und zukunftsorientiert.
+
+Vor dem Training ermitteln wir per **Vorabumfrage** den individuellen Kenntnisstand und relevante Anwendungsfälle Ihrer Mitarbeitenden. So bilden wir passende Trainingsgruppen, die dort ansetzen, wo Ihr Team wirklich steht.
 
 {{< cards cols="3" >}}
-{{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO" text="Seit 2. August 2025 gesetzliche Pflicht für alle Unternehmen, die KI einsetzen. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
-{{< card icon="training" title="Echte Use Cases — keine Demos" text="Ihr Team arbeitet im Training mit Aufgaben aus dem eigenen Alltag: Berichte, Angebote, Protokolle, Kundenmails. Was erarbeitet wird, ist am nächsten Tag einsatzbereit." >}}
-{{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Kein Training ohne Ergebnis: Prompt-Bibliothek, Policy-Template und Handout sind im Preis enthalten. Ab 2.400 € netto für Teams bis 5 Personen." href="/ki-training-kosten/" cta="Preise ansehen" >}}
+{{< card icon="proof" title="Kompetenznachweis Art. 4 KI-VO" text="Seit 2. August 2025 gesetzliche Pflicht. Jeder Teilnehmende erhält den dokumentierten Nachweis direkt aus dem Training." >}}
+{{< card icon="training" title="Echte Use Cases — keine Demos" text="Echte Prozesse aus Ihren Fachabteilungen werden direkt in Prompts übersetzt und sind am nächsten Tag einsatzbereit." >}}
+{{< card icon="prompt" title="Prompt-Bibliothek & Standards inklusive" text="Einheitliche Prompting-Standards, Prompt-Bibliothek und Policy-Template. Ab 2.400 € netto für Teams bis 5 Personen." href="/ki-training-kosten/" cta="Preise ansehen" >}}
 {{< /cards >}}
 
 {{% /section %}}
 
 {{% section tone="plain" %}}
 
-## Was im KI-Training Live passiert
-
-Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-Tools sinnvoll und sicher eingesetzt werden. Einheitliche Prompting-Standards sorgen dafür, dass alle Teilnehmenden nach dem Training nach denselben Regeln arbeiten. Die Teilnahme wird als Kompetenznachweis gemäß Artikel 4 der EU KI-Verordnung dokumentiert.
-
-## Für wen das KI-Training Live das Richtige ist
-
-{{< cards cols="4" >}}
-{{< card icon="default" title="Teams & Fachbereiche" text="KI-Tools konkret und sicher im Alltag einsetzen — mit echten Use Cases, nicht mit Demo-Screenshots." >}}
-{{< card icon="proof" title="Artikel 4 KI-VO" text="Unternehmen, die den Kompetenznachweis nach Art. 4 der KI-Verordnung nachweisbar erfüllen müssen." >}}
-{{< card icon="backlog" title="Nach dem Kickoff" text="Wer bereits priorisierte Use Cases hat und mit dem Team jetzt ins Umsetzen kommen will." >}}
-{{< card icon="prompt" title="Ohne Standards" text="Teams mit erster Tool-Erfahrung, die aber ohne einheitliche Prompting-Praxis arbeiten." >}}
-{{< /cards >}}
-
-## Wann das Training nicht passt
+## Die 6 Trainingsmodule
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="Priorisierung fehlt" text="Noch kein klarer Use-Case-Fokus? Starten Sie zuerst mit dem KI-Kickoff." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
-{{< card icon="default" title="Nur Lizenzen gesucht" text="Reine Tool-Lizenz ohne Training oder Begleitung — das ist nicht unser Angebot." >}}
-{{< card icon="default" title="Rechtsberatung nötig" text="Für KI-VO-Rechtsfragen empfehlen wir spezialisierte Kanzleien." >}}
+{{< card icon="default" title="KI-Grundlagen & Einsatzfelder" text="Begriffe, Chancen, Risiken — verständlich und ohne IT-Sprech. Was KI kann, was sie nicht kann und wo sie in Ihrem Alltag wirklich hilft." >}}
+{{< card icon="policy" title="KI-Verordnung (KI-VO)" text="Was die EU-Regulierung bedeutet, konkret für Ihren Berufsalltag. Umgang mit Dokumentations- und Transparenzpflichten nach Artikel 4." >}}
+{{< card icon="backlog" title="Wie LLMs wirklich funktionieren" text="Aufbau, Trainingsprinzipien und Grenzen großer Sprachmodelle — die Grundlage für sicheres und kompetentes Arbeiten mit KI." >}}
+{{< card icon="prompt" title="Professionelles Prompting" text="Effektive Eingaben strukturieren: von der ersten Anfrage zum Profi-Ergebnis. Die Basis für Assistenten, Agenten und Automatisierung." >}}
+{{< card icon="training" title="LLMs in Ihrer Praxis" text="Anwendung im gewählten System: ChatGPT, Microsoft Copilot, Langdock u.v.m. — konkret, hands-on, direkt im Browser." >}}
+{{< card icon="default" title="Ihre Use Cases, live umgesetzt" text="Echte Prozesse aus Ihren Fachabteilungen werden direkt in Prompts übersetzt und erprobt. Ergebnis: sofort nutzbare Vorlagen." >}}
 {{< /cards >}}
 
-## Was im Training vermittelt wird
+{{< kpiStrip k1_label="Vorabumfrage" k1_value="Inklusive" k2_label="Dauer" k2_value="4 Stunden" k3_label="Format" k3_value="Online · Vor Ort" k4_label="Zertifikat" k4_value="KI-VO Art. 4" >}}
 
-- **Prompting-Standards:** einheitliche, erprobte Vorgehensweisen für den täglichen KI-Einsatz
-- **Use Cases live:** konkrete Aufgaben aus Ihrem Arbeitsalltag werden gemeinsam erarbeitet
-- **Kompetenznachweis:** Inhalte und Nachweisführung gemäß Artikel 4 KI-Verordnung
-- **Tool-Praxis:** Arbeiten mit den in Ihrem Unternehmen eingesetzten oder geplanten KI-Tools
-- **Q&A und Vertiefung:** Raum für individuelle Fragen aus dem Team
+{{% /section %}}
+
+{{% section tone="tint" %}}
 
 ## Was Ihr Team nach dem Training hat
 
@@ -105,10 +99,10 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 {{< cards cols="3" >}}
 {{< card icon="default" title="01 Vorgespräch (kostenlos)" text="Teamgröße, Vorkenntnisse, Format und Wunschtermin klären — 30 Min, kostenfrei." >}}
 {{< card icon="default" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und Anforderungen Ihres Teams — 10–15 Min Aufwand." >}}
-{{< card icon="default" title="03 KI-Training Live" text="Praxisnahes Training mit Prompting-Standards und echten Use Cases aus Ihrem Alltag." >}}
+{{< card icon="training" title="03 KI-Training Live (4h)" text="6 Module, echte Use Cases, Prompting-Standards — praxisnah, direkt im Browser." >}}
 {{< card icon="proof" title="04 Kompetenznachweis" text="Alle Teilnehmenden erhalten den Nachweis gemäß Artikel 4 der EU KI-Verordnung." >}}
 {{< card icon="policy" title="05 Trainingsmaterialien" text="Handout, Prompt-Bibliothek und Policy-Template zum Nachschlagen und Weiterverwenden." >}}
-{{< card icon="default" title="06 Trainingsplattform (opt.)" text="Optional im Anschluss: Prompt-Bibliothek, Micro-Learnings und KI-Standards auf einer Plattform." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
+{{< card icon="platform" title="06 Trainingsplattform (opt.)" text="Optional im Anschluss: 12 Monate E-Learning-Module, Use Cases und KI-Assistenten." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/leistungen/ki-kickoff/" secondaryText="Erst KI-Kickoff ansehen" >}}
@@ -120,13 +114,16 @@ Ihr Team lernt anhand konkreter Aufgaben aus dem eigenen Arbeitsalltag, wie KI-T
 ## FAQ: KI-Training Live
 
 **Wie lange dauert das Training?**
-Die Dauer richtet sich nach Teamgröße und Vorkenntnissen und wird im Vorgespräch festgelegt. Den Rahmen sehen Sie im [Trainingsprogramm](/training/).
+4 Stunden — als kompaktes Online-Live-Training, direkt im Browser, am echten Arbeitsplatz.
+
+**Was sind die 6 Trainingsmodule?**
+KI-Grundlagen & Einsatzfelder · KI-Verordnung (KI-VO) · Wie LLMs wirklich funktionieren · Professionelles Prompting · LLMs in Ihrer Praxis · Ihre Use Cases, live umgesetzt.
 
 **Wie viele Teilnehmende können mitmachen?**
 Von 1 bis über 15 Mitarbeitenden — gestaffelte Preise finden Sie unter [/preise/](/ki-training-kosten/).
 
-**Findet das Training vor Ort oder remote statt?**
-Beides ist möglich. KWAIX arbeitet DACH-weit. Wir besprechen im Vorgespräch, was für Ihr Team am sinnvollsten ist.
+**Findet das Training online oder vor Ort statt?**
+Online-Live-Training, direkt im Browser. Vor-Ort-Format auf Wunsch möglich. KWAIX arbeitet DACH-weit.
 
 **Was müssen wir vorbereiten?**
 Vorab füllen Sie eine kurze Umfrage zu Wissensstand und Anforderungen aus — 10–15 Min Aufwand. Daraus leiten wir Inhalte und Use Cases für Ihr Training ab.
@@ -137,14 +134,11 @@ Ja. Alle Teilnehmenden erhalten einen [Kompetenznachweis](/ki-verordnung/kompete
 **Wie geht KWAIX mit unseren Daten um?**
 Vertraulich und DSGVO-konform. Im Training arbeiten wir mit anonymisierten Beispielen. Details: [Datenschutzerklärung](/datenschutz/).
 
-**Welche technischen Voraussetzungen brauchen wir?**
-Ein internetfähiges Gerät pro Teilnehmendem und Zugang zu den genutzten KI-Tools. Details klären wir im Vorgespräch.
-
 **Brauchen wir vorher einen KI-Kickoff?**
 Nicht zwingend. Wenn Sie bereits wissen, welche Use Cases relevant sind, können Sie direkt starten. Ohne klare Priorisierung empfehlen wir vorab den [KI-Kickoff](/leistungen/ki-kickoff/).
 
 **Gibt es Nachbetreuung?**
-Sie erhalten Handout, Prompt-Bibliothek und Policy-Template. Optional schließt sich die [Trainingsplattform](/leistungen/trainingsplattform/) an.
+Sie erhalten Handout, Prompt-Bibliothek und Policy-Template. Optional schließt sich die [Trainingsplattform](/leistungen/trainingsplattform/) an — 12 Monate Zugriff.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Live%20anfragen" primaryText="KI-Training Live anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise & Staffelung" >}}
 
