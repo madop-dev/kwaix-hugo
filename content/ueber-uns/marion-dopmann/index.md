@@ -5,6 +5,16 @@ eyebrow: "KI-Trainerin & Gründerin · Bremen"
 lede: "KI-Trainerin für den Mittelstand — pragmatisch, direkt, mit echten Use Cases statt Buzzwords."
 draft: false
 canonical: "https://kwaix.de/ueber-uns/marion-dopmann/"
+schemaType: "person"
+faqItems:
+  - q: "Wer ist Marion Dopmann?"
+    a: "Marion Dopmann ist Gründerin von KWAIX und KI-Trainerin für KMU und Mittelstand im DACH-Raum. Sie bietet praxisnahes KI-Training mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung — remote und vor Ort in Deutschland, Österreich und der Schweiz."
+  - q: "Welche KI-Expertise hat Marion Dopmann?"
+    a: "Schwerpunkte: Generative KI (ChatGPT, Microsoft Copilot), Prompt Engineering, KI-Policy, Automatisierung (n8n, Make) und EU KI-Verordnung. Technischer Hintergrund in Open Source und Custom Development. Herstellerunabhängig, kein Vendor Lock-in."
+  - q: "Wo bietet Marion Dopmann KI-Training an?"
+    a: "DACH-weit. Remote ist Standard und ohne Aufpreis. Vor-Ort-Trainings in Deutschland, Österreich und der Schweiz nach Absprache. Firmensitz: Bremen."
+  - q: "Kann Marion Dopmann KI-Training mit Artikel-4-Kompetenznachweis durchführen?"
+    a: "Ja. KWAIX stellt nach jedem Team-Training einen Kompetenznachweis gemäß Artikel 4 der EU KI-Verordnung (EU) 2024/1689 aus. Dieser Nachweis dokumentiert die erworbene KI-Kompetenz der Mitarbeitenden — für Unternehmen im gesamten DACH-Raum."
 heroCards:
   - type: training
     title: "KI-Training"

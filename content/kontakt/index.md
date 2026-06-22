@@ -8,6 +8,15 @@ url: "/kontakt/"
 type: leistungen
 schemaType: "service"
 herocta: ""
+faqItems:
+  - q: "Was kostet das Erstgespräch bei KWAIX?"
+    a: "Das Erstgespräch ist kostenlos und unverbindlich — 30 Minuten, kein Pitchdeck, kein Skript. Wir klären, ob und wie wir helfen können."
+  - q: "Wie schnell meldet sich KWAIX nach einer Anfrage?"
+    a: "In der Regel innerhalb eines Werktags. Schreiben Sie an info@kwaix.de oder nutzen Sie das Kontaktformular."
+  - q: "Arbeitet KWAIX nur regional oder DACH-weit?"
+    a: "DACH-weit. Remote ist Standard — ohne Aufpreis. Vor-Ort-Termine in Deutschland, Österreich und der Schweiz werden individuell abgestimmt."
+  - q: "Bietet KWAIX einen kostenlosen KI-Sichtbarkeits-Check an?"
+    a: "Ja. In 15 Minuten prüfen wir, ob und wie Ihr Unternehmen in KI-Systemen wie ChatGPT und Perplexity erscheint — kostenlos, unverbindlich. Anfrage per E-Mail an info@kwaix.de, Betreff: Kostenloser KI-Sichtbarkeits-Check."
 heroCards:
   - type: proof
     title: "Kostenlos & unverbindlich"

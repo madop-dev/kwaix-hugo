@@ -189,6 +189,31 @@
       "inLanguage": "de-DE",
       "isPartOf": {"@id": "https://kwaix.de/#website"}
     }
+    {{- else if eq $type "person" }},
+    {
+      "@type": "Person",
+      "@id": "https://kwaix.de/ueber-uns/marion-dopmann/#person",
+      "name": "Marion Dopmann",
+      "url": "{{ $page.Permalink }}",
+      "description": {{ $page.Description | jsonify }},
+      "jobTitle": "KI-Trainerin",
+      "worksFor": {"@id": "https://kwaix.de/#organization"},
+      "sameAs": [
+        "https://www.linkedin.com/in/marion-dopmann/",
+        "https://kwaix.de/ueber-uns/marion-dopmann/"
+      ],
+      "knowsAbout": [
+        "KI-Training für Unternehmen",
+        "EU KI-Verordnung Artikel 4",
+        "Prompt Engineering",
+        "Generative KI",
+        "Microsoft Copilot",
+        "ChatGPT",
+        "KI-Policy",
+        "Automatisierung",
+        "KI-Strategie KMU"
+      ]
+    }
     {{- else if eq $type "service" }},
     {
       "@type": "Service",
