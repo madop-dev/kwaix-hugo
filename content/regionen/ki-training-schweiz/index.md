@@ -8,6 +8,15 @@ url: "/regionen/ki-training-schweiz/"
 canonical: "https://kwaix.de/regionen/ki-training-schweiz/"
 type: leistungen
 schemaType: "service"
+faqItems:
+  - q: "Gilt die EU KI-Verordnung für Schweizer Unternehmen?"
+    a: "Direkt gilt sie nur für EU-Mitgliedstaaten. Schweizer Unternehmen, die Produkte oder Dienstleistungen in den EU-Markt exportieren, müssen die Anforderungen faktisch einhalten. Zudem plant die Schweiz eine eigene KI-Regulierung. KWAIX trainiert nach dem EU-Standard als anerkannte Best Practice — mit Kompetenznachweis."
+  - q: "Welches KI-Training empfiehlst du für ein Schweizer KMU?"
+    a: "Praxisnahes Live-Training mit echten Use Cases, auf Schweizer Geschäftsdeutsch zugeschnitten. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) remote (Standard, ohne Aufpreis) und vor Ort in Zürich, Basel und Bern. Kompetenznachweis nach EU-Standard inklusive."
+  - q: "Kann KWAIX mehrsprachige Teams in der Schweiz schulen?"
+    a: "Ja. KWAIX trainiert auf Deutsch (Standard) und Englisch auf Anfrage. Für mehrsprachige Schweizer Teams wird die Trainingssprache im Vorgespräch festgelegt. Deutschschweizer Unternehmen mit internationalen Teams sind ein häufiger Anwendungsfall."
+  - q: "Bietet KWAIX KI-Training in Zürich, Basel und Bern an?"
+    a: "Ja, in der gesamten Deutschschweiz. Remote ist Standard und schweizweit ohne Aufpreis. Vor-Ort-Termine in Zürich, Basel und Bern nach Absprache — Reisekosten werden transparent im Angebot ausgewiesen."
 heroCards:
   - type: training
     title: "Schweiz"

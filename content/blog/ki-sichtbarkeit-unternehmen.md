@@ -95,4 +95,17 @@ JSON-LD Schema-Markup für Ihr Unternehmen, Ihre Leistungen und Preise. Das ist 
 
 ---
 
+## Kostenloser KI-Sichtbarkeits-Check (15 Minuten)
+
+Wir prüfen für Sie: Erscheint Ihr Unternehmen in KI-Antworten, wenn potenzielle Kunden nach Ihren Leistungen fragen? Sind die Informationen korrekt und aktuell? Wie stehen Sie im Vergleich zu Wettbewerbern?
+
+**In 15 Minuten erhalten Sie:**
+- Eine erste Einschätzung Ihrer KI-Sichtbarkeit in ChatGPT und Perplexity
+- Konkrete Hinweise auf Lücken in Entitätsdaten und Inhalten
+- Klarheit, ob Handlungsbedarf besteht — ohne Verkaufssprache
+
+**Anfrage:** [info@kwaix.de](mailto:info@kwaix.de?subject=Kostenloser%20KI-Sichtbarkeits-Check) · Betreff: "Kostenloser KI-Sichtbarkeits-Check"
+
+---
+
 *KWAIX ist KI-Trainingsanbieter für KMU im DACH-Raum. Wir helfen Teams, KI-Tools sicher, sinnvoll und nach einheitlichen Standards einzusetzen — mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung.*

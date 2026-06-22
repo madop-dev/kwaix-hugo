@@ -8,6 +8,15 @@ url: "/regionen/ki-training-oesterreich/"
 canonical: "https://kwaix.de/regionen/ki-training-oesterreich/"
 type: leistungen
 schemaType: "service"
+faqItems:
+  - q: "Gilt die KI-Schulungspflicht nach Artikel 4 KI-Verordnung auch in Österreich?"
+    a: "Ja, uneingeschränkt. Österreich ist EU-Mitglied — die Verordnung (EU) 2024/1689 gilt seit 2. August 2025 für alle österreichischen Unternehmen, die KI-Systeme beruflich einsetzen. KWAIX bietet KI-Training mit Kompetenznachweis nach Artikel 4, remote und vor Ort in Wien, Graz, Linz, Salzburg und Innsbruck."
+  - q: "Welches KI-Training empfiehlst du für ein österreichisches KMU?"
+    a: "Praxisnahes Live-Training mit echten Use Cases aus dem eigenen Betrieb — kein generischer Kurs. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung, österreichweit remote und vor Ort in Wien, Graz, Linz, Salzburg und Innsbruck."
+  - q: "Kann KWAIX Unternehmen in ganz Österreich schulen?"
+    a: "Ja. Remote-Training ist Standard und österreichweit ohne Aufpreis. Vor-Ort-Termine in Wien, Graz, Linz, Salzburg und Innsbruck werden individuell abgestimmt — Reisekosten werden transparent im Angebot ausgewiesen."
+  - q: "Was kostet KI-Training für ein österreichisches Unternehmen?"
+    a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 € netto, 6–10 Personen 3.600 € netto, 11–15 Personen 4.650 € netto. Enthalten: Vorab-Umfrage, 4 Stunden Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO. Alle Preise zzgl. MwSt."
 heroCards:
   - type: training
     title: "Österreich"

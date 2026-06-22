@@ -168,6 +168,27 @@
         "validFrom": "2025-01-01"
       }{{ end }}
     }
+    {{- else if eq $type "article" }},
+    {
+      "@type": "Article",
+      "@id": "{{ $page.Permalink }}#article",
+      "headline": {{ $page.Title | jsonify }},
+      "description": {{ $page.Description | jsonify }},
+      "url": "{{ $page.Permalink }}",
+      "datePublished": "{{ $page.Date.Format "2006-01-02" }}",
+      "dateModified": "{{ $page.Lastmod.Format "2006-01-02" }}",
+      "author": {
+        "@type": "Person",
+        "@id": "https://kwaix.de/ueber-uns/marion-dopmann/#person",
+        "name": "Marion Dopmann",
+        "url": "https://kwaix.de/ueber-uns/marion-dopmann/",
+        "worksFor": {"@id": "https://kwaix.de/#organization"},
+        "jobTitle": "KI-Trainerin"
+      },
+      "publisher": {"@id": "https://kwaix.de/#organization"},
+      "inLanguage": "de-DE",
+      "isPartOf": {"@id": "https://kwaix.de/#website"}
+    }
     {{- else if eq $type "service" }},
     {
       "@type": "Service",

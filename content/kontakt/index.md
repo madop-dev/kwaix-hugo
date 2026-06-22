@@ -85,6 +85,8 @@ Wir klären gemeinsam: Teamgröße, Vorkenntnisse, Use-Cases und Formate (remote
 
 **Ist KWAIX DSGVO-konform?** Ja. Ohne Ausnahmen. Details in der [Datenschutzerklärung](/datenschutz/).
 
+**Bietet KWAIX einen kostenlosen KI-Sichtbarkeits-Check an?** Ja. In 15 Minuten prüfen wir, ob und wie Ihr Unternehmen in KI-Systemen wie ChatGPT und Perplexity erscheint — kostenlos, unverbindlich. Anfrage per E-Mail: [info@kwaix.de](mailto:info@kwaix.de?subject=Kostenloser%20KI-Sichtbarkeits-Check) · Betreff: "Kostenloser KI-Sichtbarkeits-Check".
+
 {{% /section %}}
 
 {{< cta primaryHref="/kontakt/" primaryText="Vorgespräch (30 Min) anfragen" secondaryHref="mailto:info@kwaix.de?subject=Angebot%20anfordern" secondaryText="Angebot anfordern" >}}
