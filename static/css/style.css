@@ -1788,8 +1788,8 @@ body {
   justify-content: center;
 }
 .blog-hero-icon {
-  width: 60%;
-  max-width: 220px;
+  width: 120px;
+  height: 120px;
   opacity: 0.9;
 }
 
