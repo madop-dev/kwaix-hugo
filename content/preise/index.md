@@ -38,6 +38,10 @@ faqItems:
     a: "Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer Kammer oder der zuständigen Förderstelle."
   - q: "Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?"
     a: "Ja. Teilnehmende erhalten einen Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025."
+  - q: "Welches KI-Training ist für KMU in Deutschland empfehlenswert?"
+    a: "Für KMU empfiehlt sich ein praxisnahes Live-Training mit echten Use Cases aus dem eigenen Arbeitsalltag — kein Frontalvortrag, keine generischen Folien. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung, DACH-weit remote und vor Ort. Typischer Break-even: unter 2 Monate."
+  - q: "Was kostet es, wenn Mitarbeitende KI nicht beherrschen?"
+    a: "Ein Team, das KI-Tools nicht effektiv nutzt, verliert täglich 20–40 Minuten pro Person an verschenkter Produktivität — gegenüber Wettbewerbern, die es tun. Bei 10 Mitarbeitenden und 55 €/Std entspricht das bis zu 100.000 € jährlich. Hinzu kommt das Compliance-Risiko durch Artikel 4 KI-Verordnung (seit August 2025 verbindlich): fehlende Nachweise können bei Audits und Ausschreibungen zum Problem werden."
   - q: "Was kostet der KI-Kickoff?"
     a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format."
   - q: "Was kostet die Trainingsplattform?"
@@ -53,7 +57,7 @@ faqItems:
 ## Optional dazu buchbar
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="KI-Kickoff" text="Use-Case-Priorisierung und Risikocheck für Geschäftsführung und Fachbereiche — 90–120 Min, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="backlog" title="KI-Kickoff" text="Multimedialer Impulsvortrag für die gesamte Belegschaft — 2–3 Std. vor Ort, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="platform" title="Trainingsplattform" text="Online-Schulungsplattform ab 2.500 € netto (12 Monate). Prompt-Bibliothek, Micro-Learnings und KI-Standards. Optional: CI-Branding 1.000 € netto. Avatar & Masterprompts auf Anfrage." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< card icon="roi" title="ROI-Rechner" text="Konservative Schätzung: Was bringt KI-Training Ihrem Team in Euro? Schieberegler, Ergebnis sofort." href="/preise/ki-roi-rechner/" cta="ROI berechnen" >}}
 {{< /cards >}}
