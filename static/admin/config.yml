@@ -9,6 +9,23 @@ public_folder: /images
 locale: de
 
 collections:
+  - name: startseite
+    label: "Startseite"
+    files:
+      - name: homepage
+        label: "Startseite (nur Titel/Beschreibung/FAQ — Sektionen sind im Template fest)"
+        file: content/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - label: "FAQ-Items"
+            name: faqItems
+            widget: list
+            required: false
+            fields:
+              - { label: "Frage", name: q, widget: string }
+              - { label: "Antwort", name: a, widget: text }
+
   - name: leistungen
     label: "Leistungen"
     files:
@@ -17,28 +34,54 @@ collections:
         file: content/leistungen/_index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: ki_kickoff
         label: "KI-Kickoff"
         file: content/leistungen/ki-kickoff/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: ki_training_live
         label: "KI-Training Live"
         file: content/leistungen/ki-training-live/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: trainingsplattform
         label: "Trainingsplattform"
         file: content/leistungen/trainingsplattform/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_training_hub
+        label: "Trainingsprogramm Uebersicht"
+        file: content/training/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_roi_rechner
+        label: "KI-ROI-Rechner"
+        file: content/ki-roi-rechner/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
 
   - name: ki_verordnung
@@ -46,70 +89,526 @@ collections:
     files:
       - name: ki_vo_hub
         label: "KI-Verordnung Uebersicht"
-        file: content/ki-vo/index.md
+        file: content/ki-vo/_index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
-          - { label: "Inhalt", name: body, widget: markdown }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
       - name: artikel_4
         label: "Artikel 4 KI-Kompetenz"
         file: content/ki-vo/artikel-4/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: kompetenznachweis
         label: "Kompetenznachweis"
         file: content/ki-vo/kompetenznachweis/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: ki_policy
         label: "KI-Policy"
         file: content/ki-vo/ki-policy/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
-      - name: datenschutz
+      - name: datenschutz_dsgvo
         label: "Datenschutz DSGVO"
         file: content/ki-vo/datenschutz-dsgvo/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ki_vo_faq
+        label: "KI-VO FAQ"
+        file: content/ki-vo/faq/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: branchen
+    label: "Branchen"
+    files:
+      - name: branchen_hub
+        label: "Branchen Uebersicht"
+        file: content/branchen/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
+      - name: handwerk
+        label: "Handwerk"
+        file: content/branchen/handwerk/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: dienstleistung
+        label: "Dienstleistung"
+        file: content/branchen/dienstleistung/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: handel
+        label: "Handel"
+        file: content/branchen/handel/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: industrie
+        label: "Industrie"
+        file: content/branchen/industrie/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: oeffentliche_hand
+        label: "Oeffentliche Hand"
+        file: content/branchen/oeffentliche-hand/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: finanzen
+        label: "Finanzen & Kanzleien"
+        file: content/branchen/finanzen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: regionen
+    label: "Regionen"
+    files:
+      - name: regionen_hub
+        label: "Regionen Uebersicht"
+        file: content/regionen/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
+      - name: deutschland
+        label: "Deutschland"
+        file: content/regionen/ki-training-deutschland/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: oesterreich
+        label: "Oesterreich"
+        file: content/regionen/ki-training-oesterreich/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: schweiz
+        label: "Schweiz"
+        file: content/regionen/ki-training-schweiz/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: bremen
+        label: "Bremen"
+        file: content/regionen/bremen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: bremerhaven
+        label: "Bremerhaven"
+        file: content/regionen/bremen/bremerhaven/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: hamburg
+        label: "Hamburg"
+        file: content/regionen/hamburg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: berlin
+        label: "Berlin"
+        file: content/regionen/ki-training-berlin/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: muenchen
+        label: "Muenchen"
+        file: content/regionen/ki-training-muenchen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: koeln
+        label: "Koeln"
+        file: content/regionen/ki-training-koeln/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: frankfurt
+        label: "Frankfurt"
+        file: content/regionen/ki-training-frankfurt/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: stuttgart
+        label: "Stuttgart"
+        file: content/regionen/ki-training-stuttgart/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: duesseldorf
+        label: "Duesseldorf"
+        file: content/regionen/ki-training-duesseldorf/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: leipzig
+        label: "Leipzig"
+        file: content/regionen/ki-training-leipzig/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: nuernberg
+        label: "Nuernberg"
+        file: content/regionen/ki-training-nuernberg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: dortmund
+        label: "Dortmund"
+        file: content/regionen/ki-training-dortmund/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: muenster
+        label: "Muenster"
+        file: content/regionen/ki-training-muenster/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: aachen
+        label: "Aachen"
+        file: content/regionen/ki-training-aachen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: bonn
+        label: "Bonn"
+        file: content/regionen/ki-training-bonn/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: heidelberg
+        label: "Heidelberg"
+        file: content/regionen/ki-training-heidelberg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: jena
+        label: "Jena"
+        file: content/regionen/ki-training-jena/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: tuebingen
+        label: "Tuebingen"
+        file: content/regionen/ki-training-tuebingen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: freiburg
+        label: "Freiburg"
+        file: content/regionen/ki-training-freiburg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: wien
+        label: "Wien"
+        file: content/regionen/ki-training-wien/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: graz
+        label: "Graz"
+        file: content/regionen/ki-training-graz/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: linz
+        label: "Linz"
+        file: content/regionen/ki-training-linz/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: salzburg
+        label: "Salzburg"
+        file: content/regionen/ki-training-salzburg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: innsbruck
+        label: "Innsbruck"
+        file: content/regionen/ki-training-innsbruck/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: zuerich
+        label: "Zuerich"
+        file: content/regionen/ki-training-zuerich/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: basel
+        label: "Basel"
+        file: content/regionen/ki-training-basel/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: bern
+        label: "Bern"
+        file: content/regionen/ki-training-bern/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: niedersachsen
+        label: "Niedersachsen Uebersicht"
+        file: content/regionen/niedersachsen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: hannover
+        label: "Hannover"
+        file: content/regionen/niedersachsen/hannover/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: braunschweig
+        label: "Braunschweig"
+        file: content/regionen/niedersachsen/braunschweig/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: oldenburg
+        label: "Oldenburg"
+        file: content/regionen/niedersachsen/oldenburg/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: osnabrueck
+        label: "Osnabrueck"
+        file: content/regionen/niedersachsen/osnabrueck/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: verden
+        label: "Verden"
+        file: content/regionen/niedersachsen/verden/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
 
   - name: use_cases
     label: "Use Cases"
     files:
+      - name: use_cases_hub
+        label: "Use Cases Uebersicht"
+        file: content/use-cases/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
       - name: vertrieb
         label: "KI Vertrieb"
         file: content/use-cases/vertrieb/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: marketing
         label: "KI Marketing"
         file: content/use-cases/marketing/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: hr
         label: "KI HR Personal"
         file: content/use-cases/hr/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: management
         label: "KI Management"
         file: content/use-cases/management/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: kundenservice
+        label: "KI Kundenservice"
+        file: content/use-cases/kundenservice/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: office_projekt
+        label: "KI Office & Projekt"
+        file: content/use-cases/office-projekt/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
 
   - name: unternehmen
@@ -120,19 +619,136 @@ collections:
         file: content/ueber-uns/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: marion_dopmann
+        label: "Marion Dopmann"
+        file: content/ueber-uns/marion-dopmann/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
       - name: kontakt
         label: "Kontakt"
         file: content/kontakt/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
+      - name: kontakt_danke
+        label: "Kontakt Dankeseite"
+        file: content/kontakt/danke/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
       - name: preise
         label: "Preise"
         file: content/preise/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
-          - { label: "Beschreibung", name: description, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
+      - name: partnernetzwerk
+        label: "Trainer-Partnernetzwerk"
+        file: content/partnernetzwerk/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: referenzen
+        label: "Referenzen"
+        file: content/referenzen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: ressourcen
+        label: "Ressourcen"
+        file: content/ressourcen/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: wissen_hub
+        label: "Wissen Uebersicht"
+        file: content/wissen/_index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown, required: false }
+
+  - name: rechtliches
+    label: "Rechtliches"
+    files:
+      - name: impressum
+        label: "Impressum"
+        file: content/impressum.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: datenschutz
+        label: "Datenschutz"
+        file: content/datenschutz.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: agb
+        label: "AGB"
+        file: content/agb/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+      - name: barrierefreiheit
+        label: "Barrierefreiheit"
+        file: content/barrierefreiheit/index.md
+        fields:
+          - { label: "Titel", name: title, widget: string }
+          - { label: "Beschreibung", name: description, widget: text, required: false }
+          - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+          - { label: "Lede", name: lede, widget: text, required: false }
+          - { label: "Inhalt", name: body, widget: markdown }
+
+  - name: blog
+    label: "Blog"
+    folder: content/blog
+    extension: md
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Titel", name: title, widget: string }
+      - { label: "Beschreibung", name: description, widget: text }
+      - { label: "Datum", name: date, widget: datetime }
+      - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
+      - { label: "Schema-Typ", name: schemaType, widget: select, options: ["article"], required: false }
+      - { label: "Tags", name: tags, widget: list, required: false }
+      - { label: "Kategorien", name: categories, widget: list, required: false }
+      - { label: "Canonical URL", name: canonical, widget: string, required: false }
+      - { label: "URL", name: url, widget: string, required: false }
+      - label: "FAQ-Items"
+        name: faqItems
+        widget: list
+        required: false
+        fields:
+          - { label: "Frage", name: q, widget: string }
+          - { label: "Antwort", name: a, widget: text }
+      - { label: "Inhalt", name: body, widget: markdown }
