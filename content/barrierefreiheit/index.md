@@ -1,7 +1,10 @@
 ---
 title: "Barrierefreiheit"
 description: "Erklärung zur Barrierefreiheit der KWAIX-Website."
+eyebrow: "Erklärung · WCAG-Standards"
+lede: "Wir arbeiten kontinuierlich daran, dass kwaix.de für möglichst viele Menschen gut nutzbar ist — unabhängig von Endgerät, Browser oder eingeschränkter Wahrnehmung."
 draft: false
+heroIcon: "policy"
 ---
 
 ## Unser Anspruch
