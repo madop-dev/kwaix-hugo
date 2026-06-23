@@ -1,6 +1,6 @@
 ---
-title: "KI-Training nach Branche: Handwerk, Dienstleistung, Handel, Industrie, öffentliche Hand"
-description: "KI-Training nach Branche: Handwerk, Dienstleistung, Handel, Industrie und öffentliche Hand — mit konkreten Use Cases und Kompetenznachweis nach Artikel 4 KI-VO."
+title: "KI-Training nach Branche: Handwerk, Finanzen, Dienstleistung, Handel, Industrie, öffentliche Hand"
+description: "KI-Training nach Branche: Steuerkanzleien, Handwerk, Dienstleistung, Handel, Industrie und öffentliche Hand — mit konkreten Use Cases und Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Branchen"
 lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht im Handwerk, in der Verwaltung und in der Industrie ganz unterschiedlich aus."
 draft: false
@@ -89,6 +89,7 @@ Das ist das Kernprinzip bei KWAIX: Wir trainieren nicht über KI, sondern mit KI
 {{< card icon="backlog" title="Handel" text="Produktbeschreibungen skalieren, Kundenservice, Aktionskommunikation — stationär und Online." href="/branchen/ki-training-handel/" cta="Handel ansehen" >}}
 {{< card icon="training" title="Industrie" text="Technische Dokumentation, Wartungsberichte, Qualitätssicherung, Unterweisungen nach ArbSchG." href="/branchen/ki-training-industrie/" cta="Industrie ansehen" >}}
 {{< card icon="policy" title="Öffentliche Hand" text="Behörden, Kommunen, Kammern, öffentliche Unternehmen: Protokolle, Bürgeranfragen, Bescheide — DSGVO-konform." href="/branchen/ki-training-oeffentliche-hand/" cta="Öffentliche Hand ansehen" >}}
+{{< card icon="proof" title="Finanzen & Kanzleien" text="Steuerkanzleien, Wirtschaftsprüfer, Finanzberater: Mandantenkommunikation, Bescheide, Dokumentation — steuergeheimnis-sicher, DSGVO-konform." href="/branchen/ki-training-finanzen/" cta="Finanzen & Kanzleien ansehen" >}}
 {{< /cards >}}
 
 ## Was alle Branchen verbindet: die KI-Kompetenzpflicht
