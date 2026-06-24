@@ -1,0 +1,40 @@
+{{/* Gemeinsamer Hero für Leistungen, Branchen, Regionen, KI-VO. Erwartet: ctaPrimaryText, ctaPrimaryHref, ctaSecondaryText, ctaSecondaryHref, proofCards (Liste von {num, label}) */}}
+<section class="leistung-hero">
+<div class="leistung-hero-bg" aria-hidden="true">
+  <div class="leistung-hero-orb leistung-hero-orb--1"></div>
+  <div class="leistung-hero-orb leistung-hero-orb--2"></div>
+</div>
+<div class="container">
+<div class="leistung-hero-inner">
+
+  <div class="leistung-hero-text">
+    {{ with .page.Params.eyebrow }}<div class="leistung-hero-badge reveal">{{ . }}</div>{{ end }}
+    <h1 class="leistung-hero-h1 reveal d1">{{ .page.Title }}</h1>
+    {{ with (or .page.Params.lede .page.Description) }}<p class="leistung-hero-sub reveal d2">{{ . }}</p>{{ end }}
+
+    {{ if .page.Params.heroCards }}
+    <ul class="leistung-hero-benefits reveal d2">
+      {{ range .page.Params.heroCards }}
+      <li><span class="leistung-hero-check">✓</span>{{ .title }}{{ with .subtitle }} — <em>{{ . }}</em>{{ end }}</li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <div class="leistung-hero-buttons reveal d3">
+      <a href="{{ .ctaPrimaryHref }}" class="btn-hero-primary">{{ .ctaPrimaryText }}</a>
+      <a href="{{ .ctaSecondaryHref }}" class="btn-hero-secondary">{{ .ctaSecondaryText }}</a>
+    </div>
+  </div>
+
+  <div class="leistung-hero-proof reveal d2" aria-hidden="true">
+    {{ range .proofCards }}
+    <div class="leistung-proof-card{{ if .accent }} leistung-proof-card--accent{{ end }}">
+      <div class="leistung-proof-num">{{ .num | safeHTML }}</div>
+      <div class="leistung-proof-label">{{ .label | safeHTML }}</div>
+    </div>
+    {{ end }}
+  </div>
+
+</div>
+</div>
+</section>

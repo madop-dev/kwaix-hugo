@@ -4,7 +4,6 @@ description: "Was eine KI-Policy für Unternehmen enthält, warum sie seit der E
 eyebrow: "KI-VO · KI-Policy"
 lede: "Eine KI-Policy regelt, wer im Unternehmen welche KI-Tools wie und wofür einsetzen darf. Sie ist die Grundlage für compliance-konformen KI-Einsatz und wird im KI-Kickoff gemeinsam entwickelt."
 draft: false
-darkhero: true
 canonical: "https://kwaix.de/ki-verordnung/ki-policy/"
 url: "/ki-verordnung/ki-policy/"
 schemaType: "service"
