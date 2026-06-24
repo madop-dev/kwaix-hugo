@@ -12,22 +12,15 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="KWAIX">
 <meta property="og:locale" content="de_DE">
+{{- $ogImg := "" }}
 {{- with .Params.ogImage }}
 {{- $img := $.Resources.GetMatch . }}
-{{- if $img }}
-<meta property="og:image" content="{{ $img.Permalink }}">
+{{- if $img }}{{ $ogImg = $img.Permalink }}{{ else }}{{ $ogImg = ( . | absURL ) }}{{ end }}
 {{- else }}
-<meta property="og:image" content="{{ . | absURL }}">
+{{- $ogImg = "/og-default.jpg" | absURL }}
 {{- end }}
-{{- end }}
-<meta name="twitter:card" content="{{ if .Params.ogImage }}summary_large_image{{ else }}summary{{ end }}">
+<meta property="og:image" content="{{ $ogImg }}">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}">
-{{- with .Params.ogImage }}
-{{- $img := $.Resources.GetMatch . }}
-{{- if $img }}
-<meta name="twitter:image" content="{{ $img.Permalink }}">
-{{- else }}
-<meta name="twitter:image" content="{{ . | absURL }}">
-{{- end }}
-{{- end }}
+<meta name="twitter:image" content="{{ $ogImg }}">
