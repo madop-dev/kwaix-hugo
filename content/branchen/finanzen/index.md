@@ -1,6 +1,6 @@
 ---
 title: "KI-Training für Steuerberater, Kanzleien und Finanzdienstleister"
-description: "KI-Training für Steuerkanzleien, Wirtschaftsprüfer und Finanzdienstleister: Mandantenkommunikation, Dokumentation und Compliance — DSGVO-konform, Steuergeheimnis-sicher."
+description: "KI-Training für Steuerkanzleien und Finanzdienstleister: Mandantenkommunikation, Dokumentation und Compliance — DSGVO-konform, Steuergeheimnis-sicher."
 eyebrow: "Branchen · Finanzen & Kanzleien"
 lede: "Steuerkanzleien verlieren täglich Stunden an Routinetexten. KI ändert das — wenn das Team weiß, was erlaubt ist und wie es sicher genutzt wird."
 draft: false

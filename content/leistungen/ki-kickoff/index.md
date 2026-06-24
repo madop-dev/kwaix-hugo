@@ -1,6 +1,6 @@
 ---
 title: "KI-Kickoff: Der Auftakt für die gesamte Belegschaft"
-description: "KI-Kickoff für Unternehmen: multimedialer Impulsvortrag für die gesamte Belegschaft — Ängste abbauen, Motivation erzeugen, Chancen vermitteln. Vor Ort, 2–3 Stunden."
+description: "KI-Kickoff: multimedialer Impulsvortrag für die gesamte Belegschaft — Ängste abbauen, Motivation erzeugen, Chancen vermitteln. Vor Ort, 2–3 Stunden."
 draft: false
 type: leistungen
 eyebrow: "Vor Ort · Gesamte Belegschaft · Multimedial"

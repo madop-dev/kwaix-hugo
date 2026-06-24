@@ -1,6 +1,6 @@
 ---
 title: "KI-Trainingsplattform: Persönlich, dauerhaft, skalierbar"
-description: "KI-Trainingsplattform für Unternehmen: 12 Monate Zugriff, CI-Branding, KI-Policy, E-Learning-Module, Use Cases & Promptvorlagen — dauerhaft individuell und aktuell."
+description: "KI-Trainingsplattform: 12 Monate Zugriff, CI-Branding, KI-Policy, E-Learning-Module, Use Cases & Promptvorlagen — dauerhaft individuell und aktuell."
 eyebrow: "Dauerhaft · Individuell · Skalierbar"
 lede: "Die Trainingsplattform bleibt für Ihr Unternehmen und Ihre Inhalte. 12 Monate Zugriff — regelmäßig im Hintergrund aktualisiert."
 draft: false

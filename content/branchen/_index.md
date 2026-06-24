@@ -1,6 +1,6 @@
 ---
 title: "KI-Training nach Branche: Handwerk, Finanzen, Dienstleistung, Handel, Industrie, öffentliche Hand"
-description: "KI-Training nach Branche: Steuerkanzleien, Handwerk, Dienstleistung, Handel, Industrie und öffentliche Hand — mit konkreten Use Cases und Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training nach Branche: Steuerkanzleien, Handwerk, Dienstleistung, Handel, Industrie und öffentliche Hand — mit Use Cases und Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Branchen"
 lede: "KI-Kompetenz ist kein IT-Projekt. Sie entsteht dort, wo Ihre Teams täglich arbeiten — und sieht im Handwerk, in der Verwaltung und in der Industrie ganz unterschiedlich aus."
 draft: false

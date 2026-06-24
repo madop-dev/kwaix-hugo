@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Osnabrück: Für KMU in der Region Weser-Ems"
-description: "KI-Training und KI-Kickoff für Unternehmen in Osnabrück — remote oder vor Ort, für Logistik, Industrie, Handwerk und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Osnabrück — remote oder vor Ort, für Logistik, Industrie, Handwerk und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Osnabrück"
 lede: "KI-Training für Osnabrücker KMU — praxisnah, mit echten Use Cases aus dem Alltag, dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false

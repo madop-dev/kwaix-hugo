@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Oldenburg: Für KMU in der Metropolregion Nordwest"
-description: "KI-Training und KI-Kickoff für Unternehmen in Oldenburg — remote oder vor Ort, für Gesundheit, Handel, Industrie, Logistik und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Oldenburg — remote/vor Ort, für Gesundheit, Handel, Industrie, Logistik und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Oldenburg"
 lede: "KI-Training für Oldenburger KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false

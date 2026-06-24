@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Bremerhaven: Für KMU in der Seestadt"
-description: "KI-Training und KI-Kickoff für Unternehmen in Bremerhaven — remote oder vor Ort, für Hafenwirtschaft, Logistik, Fischerei, Tourismus und Handel. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Bremerhaven — remote/vor Ort, für Hafenwirtschaft, Logistik, Fischerei und Handel. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Bremerhaven"
 lede: "KI-Training für Bremerhavener KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false

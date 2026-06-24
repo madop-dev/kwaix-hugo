@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Hannover: Für KMU und Mittelstand in der Landeshauptstadt"
-description: "KI-Training und KI-Kickoff für Unternehmen in Hannover — remote oder vor Ort, für Messe, Logistik, Handel, Industrie und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Hannover — remote oder vor Ort, für Messe, Logistik, Handel, Industrie und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Hannover"
 lede: "KI-Training für Hannoveraner KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false

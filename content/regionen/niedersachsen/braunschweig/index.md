@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Braunschweig: Für KMU in der Region Ostfalen"
-description: "KI-Training und KI-Kickoff für Unternehmen in Braunschweig — remote oder vor Ort, für Automotive, Forschung, Industrie, Handel und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Braunschweig — remote/vor Ort, für Automotive, Forschung, Industrie und Handel. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Braunschweig"
 lede: "KI-Training für Braunschweiger KMU — praxisnah, mit echten Use Cases aus dem Alltag, dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false

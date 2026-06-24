@@ -1,6 +1,6 @@
 ---
 title: "KI-Training Verden (Aller): Für KMU in der Region Mittelweser"
-description: "KI-Training und KI-Kickoff für Unternehmen in Verden (Aller) — remote oder vor Ort, für Landwirtschaft, Handel, Handwerk und Dienstleistung. Inkl. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Verden (Aller) — remote/vor Ort, für Landwirtschaft, Handel, Handwerk und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Verden"
 lede: "KI-Training für Verdener KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
