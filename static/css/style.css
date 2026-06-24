@@ -1122,7 +1122,7 @@ body {
 }
 /* Nav cols */
 .footer-col { text-align: left; }
-.footer-col h4 {
+.footer-col h3 {
   color: white;
   font-size: 12px;
   font-weight: 700;
