@@ -17,3 +17,13 @@
 /branchen/dienstleistung/           /branchen/ki-training-dienstleistung/ 301
 /branchen/handel/                   /branchen/ki-training-handel/ 301
 /branchen/industrie/                /branchen/ki-training-industrie/ 301
+/ki-training-bremen/                /regionen/bremen/ 301
+/ki-training-bremen                 /regionen/bremen/ 301
+/ki-training-achim/                 /regionen/bremen/ 301
+/ki-training-achim                  /regionen/bremen/ 301
+/ki-training-delmenhorst/           /regionen/bremen/ 301
+/ki-training-delmenhorst             /regionen/bremen/ 301
+/services/                          /leistungen/ 301
+/services/ki-training/              /leistungen/ki-training-live/ 301
+/services/ki-automation/            /leistungen/ 301
+/services/ki-chatbots/              /leistungen/ 301
