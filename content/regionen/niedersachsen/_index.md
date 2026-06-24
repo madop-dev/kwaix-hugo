@@ -66,6 +66,20 @@ Wir trainieren Unternehmen in ganz Niedersachsen — von Hannover bis Oldenburg,
 
 {{% section tone="plain" %}}
 
+## KI-Training in niedersächsischen Städten
+
+{{< cards cols="3" >}}
+{{< card icon="training" title="Hannover" text="KI-Training für Messe, Logistik, Handel, Industrie und Dienstleistung in der Landeshauptstadt." href="/regionen/niedersachsen/hannover/" cta="Hannover ansehen" >}}
+{{< card icon="policy" title="Braunschweig" text="KI-Training für Automotive, Forschung, Industrie und Handel in der Region Ostfalen." href="/regionen/niedersachsen/braunschweig/" cta="Braunschweig ansehen" >}}
+{{< card icon="backlog" title="Oldenburg" text="KI-Training für Gesundheit, Handel, Industrie und Logistik in der Metropolregion Nordwest." href="/regionen/niedersachsen/oldenburg/" cta="Oldenburg ansehen" >}}
+{{< card icon="prompt" title="Osnabrück" text="KI-Training für Logistik, Industrie, Handwerk und Dienstleistung in der Region Weser-Ems." href="/regionen/niedersachsen/osnabrueck/" cta="Osnabrück ansehen" >}}
+{{< card icon="proof" title="Verden (Aller)" text="KI-Training für Landwirtschaft, Handel und Handwerk in der Region Mittelweser." href="/regionen/niedersachsen/verden/" cta="Verden ansehen" >}}
+{{< /cards >}}
+
+{{% /section %}}
+
+{{% section tone="plain" %}}
+
 ## FAQ: KI-Training in Niedersachsen
 
 **Bietet KWAIX KI-Training auch außerhalb Bremens an?**

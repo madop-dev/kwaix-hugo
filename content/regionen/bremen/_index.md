@@ -76,6 +76,16 @@ KWAIX hat seinen Sitz in Bremen und begleitet Bremer KMU und Mittelstand beim pr
 
 {{% section tone="plain" %}}
 
+## KI-Training in der Region Bremen
+
+{{< cards cols="3" >}}
+{{< card icon="training" title="Bremerhaven" text="KI-Training für Hafenwirtschaft, Logistik, Fischerei und Handel in der Seestadt." href="/regionen/bremen/bremerhaven/" cta="Bremerhaven ansehen" >}}
+{{< /cards >}}
+
+{{% /section %}}
+
+{{% section tone="plain" %}}
+
 ## FAQ: KI-Training in Bremen
 
 **Bietet KWAIX Vor-Ort-Training in Bremen an?**

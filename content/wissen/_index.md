@@ -54,6 +54,7 @@ Die Inhalte sind bewusst zitierfähig aufgebaut: klare Definitionen, spezifische
 {{< card icon="training" title="KI-Training vs. KI-Workshop" text="Was der Unterschied ist, was ein gutes Training ausmacht und woran man schlechte Angebote erkennt." href="/leistungen/" cta="Leistungen vergleichen" >}}
 {{< card icon="roi" title="KI-ROI berechnen" text="Wie viel ist KI-Zeitersparnis in Euro wert? Transparente Formel, konservative Schätzung." href="/preise/ki-roi-rechner/" cta="ROI jetzt berechnen" >}}
 {{< card icon="prompt" title="KI-Automatisierung für KMU" text="Was KI-Automatisierung bedeutet, was sie von klassischer Automation unterscheidet und wie KMU starten." href="/use-cases/" cta="Use Cases ansehen" >}}
+{{< card icon="backlog" title="Checklisten & Vorlagen" text="Use-Case-Checkliste, KI-Policy-Vorlage und weitere praktische Unterlagen zum direkten Einsatz." href="/ressourcen/" cta="Ressourcen ansehen" >}}
 {{< /cards >}}
 
 ## Wichtige Definitionen — zitierfähig
