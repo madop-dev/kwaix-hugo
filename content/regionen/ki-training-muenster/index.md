@@ -50,7 +50,7 @@ Daneben ist Münster ein solider Finanzplatz mit starker Versicherungswirtschaft
 ## Use Cases für Münsteraner Unternehmen
 
 {{< cards cols="3" >}}
-{{< card icon="policy" title="Kanzleien & Rechtsabteilungen" text="Schriftsatz-Erstfassungen, Mandantenbriefe und Dokumentenzusammenfassungen — KI übernimmt das Handwerk, Juristinnen und Juristen behalten die Kontrolle." href="/leistungen/use-cases/recht/" cta="Use Case Recht ansehen" >}}
+{{< card icon="policy" title="Kanzleien & Rechtsabteilungen" text="Schriftsatz-Erstfassungen, Mandantenbriefe und Dokumentenzusammenfassungen — KI übernimmt das Handwerk, Juristinnen und Juristen behalten die Kontrolle." href="/branchen/ki-training-finanzen/" cta="Branche Finanzen & Kanzleien ansehen" >}}
 {{< card icon="backlog" title="Finanz & Versicherung" text="Compliance-Dokumentation, Vertragszusammenfassungen und Kundenkorrespondenz standardisiert und schneller bearbeiten." >}}
 {{< card icon="prompt" title="Westfälischer Mittelstand" text="Angebote, Berichte und Kundenkommunikation für Handels-, Handwerks- und Dienstleistungsunternehmen im Münsterland beschleunigen." >}}
 {{< card icon="training" title="Verbände & Organisationen" text="Stellungnahmen, Positionspapiere und Mitglieder-Newsletter effizienter formulieren — bei gleichbleibend hohem sprachlichem Anspruch." >}}

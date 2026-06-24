@@ -73,7 +73,7 @@ Wir klären gemeinsam: Teamgröße, Vorkenntnisse, Use-Cases und Formate (remote
 {{< cards cols="3" >}}
 {{< card icon="policy" title="Schriftliches Angebot" text="Nach dem Vorgespräch erhalten Sie ein transparentes Angebot mit Leistungsbeschreibung und Festpreis — keine versteckten Kosten." >}}
 {{< card icon="backlog" title="Vorab-Umfrage" text="Nach Auftragserteilung kurze Umfrage zu Teamgröße und Vorkenntnissen — damit das Training vom ersten Tag an passt." >}}
-{{< card icon="proof" title="Training & Nachweis" text="Praxisnahes Team-Training mit nachweisbaren Kompetenzen nach Artikel 4 KI-VO — remote oder bei Ihnen vor Ort." cta="KI-Training live erleben →" href="/leistungen/ki-training/" >}}
+{{< card icon="proof" title="Training & Nachweis" text="Praxisnahes Team-Training mit nachweisbaren Kompetenzen nach Artikel 4 KI-VO — remote oder bei Ihnen vor Ort." cta="KI-Training live erleben" href="/leistungen/ki-training-live/" >}}
 {{< /cards >}}
 
 {{< kpiStrip k1="Kostenlos" v1="Vorgespräch · 30 Min" k2="Nächster Werktag" v2="Antwortzeit" k3="DACH-weit" v3="DE · AT · CH" k4="Remote & vor Ort" v4="flexibel" >}}

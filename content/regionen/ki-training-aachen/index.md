@@ -51,7 +51,7 @@ Hinzu kommt die geografische Lage: Wer in Aachen sitzt, hat Kunden in Deutschlan
 
 {{< cards cols="3" >}}
 {{< card icon="policy" title="Ingenieurwesen & Dokumentation" text="Technische Berichte, Spezifikationen und Prüfprotokolle schneller erstellen — ohne technische Präzision zu opfern." >}}
-{{< card icon="prompt" title="Startups & Förderanträge" text="Förderanträge (EXIST, NRW-Förderung), Pitchdecks und Investorenkommunikation für RWTH-Ausgründungen professionell aufbauen." href="/leistungen/use-cases/foerderantraege/" cta="Use Case ansehen" >}}
+{{< card icon="prompt" title="Startups & Förderanträge" text="Förderanträge (EXIST, NRW-Förderung), Pitchdecks und Investorenkommunikation für RWTH-Ausgründungen professionell aufbauen." href="/use-cases/" cta="KI Use Cases ansehen" >}}
 {{< card icon="backlog" title="Grenzregion DE/NL/BE" text="Kundenkommunikation, Angebote und Verträge in Deutsch, Englisch, Niederländisch und Französisch effizient produzieren." >}}
 {{< card icon="training" title="Zulieferer & Qualität" text="Qualitätsdokumentation, Lieferantenbewertungen und Prozessbeschreibungen für die Automotive- und Maschinenbaulieferkette standardisieren." >}}
 {{< card icon="backlog" title="Deep-Tech-Kommunikation" text="Technisch komplexe Inhalte für Kunden, Investoren und Öffentlichkeit verständlich und überzeugend formulieren." >}}
