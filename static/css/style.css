@@ -918,21 +918,6 @@ body {
   margin: 48px 0;
 }
 
-.footer {
-  background: var(--bg-dark);
-  color: rgba(255,255,255,0.6);
-  padding: 48px 0;
-  text-align: center;
-  font-size: 13px;
-}
-.footer p { margin-bottom: 8px; }
-.footer a {
-  color: rgba(255,255,255,0.6);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-.footer a:hover { color: white; }
-
 @media (max-width: 900px) {
   .hero-home { min-height: auto; padding: 100px 0 60px; }
   .hero-home-inner { grid-template-columns: 1fr; gap: 40px; }
