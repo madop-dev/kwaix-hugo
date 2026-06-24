@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Seite nicht gefunden — KWAIX</title>
+<meta name="description" content="Diese Seite existiert nicht. Zur KWAIX-Startseite oder zu unseren Leistungen.">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="{{ .Site.Params.colorPrimary }}">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="shortcut icon" href="/favicon.svg">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+{{ partial "header.html" . }}
+<main>
+<article class="page">
+<div class="container">
+  <header class="page-hero reveal">
+    <div class="page-hero-text">
+      <p class="eyebrow">404</p>
+      <h1>Seite nicht gefunden</h1>
+      <p class="page-desc">Die aufgerufene Seite existiert nicht oder wurde verschoben.</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="/">Zur Startseite</a>
+        <a class="btn btn-secondary" href="/leistungen/">Leistungen ansehen</a>
+      </div>
+    </div>
+  </header>
+</div>
+</article>
+</main>
+{{ partial "footer.html" . }}
+<script src="/js/main.js"></script>
+</body>
+</html>
