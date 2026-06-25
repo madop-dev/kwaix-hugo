@@ -11,7 +11,7 @@
   --primary: #0f766e;
   --primary-dark: #115e59;
   --primary-light: #ecfdf5;
-  --accent: #f43f5e;
+  --accent: #0891b2;
   --text: #111827;
   --text-secondary: #4b5563;
   --text-muted: #6b7280;
@@ -208,7 +208,7 @@ body {
 }
 .hero-home-orb--2 {
   width: 400px; height: 400px;
-  background: radial-gradient(circle, #f43f5e, transparent);
+  background: radial-gradient(circle, #0891b2, transparent);
   bottom: -100px; left: -100px;
 }
 .hero-home-grid {
@@ -248,7 +248,7 @@ body {
 }
 .hero-home-h1 em {
   font-style: normal;
-  background: linear-gradient(135deg, #5eead4 0%, #f43f5e 100%);
+  background: linear-gradient(135deg, #5eead4 0%, #0891b2 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -264,7 +264,7 @@ body {
 .btn-hero-primary {
   display: inline-flex;
   align-items: center;
-  background: #f43f5e;
+  background: #0891b2;
   color: #fff;
   font-weight: 700;
   font-size: 1rem;
@@ -3369,7 +3369,7 @@ body {
 }
 .kx-kvc-action:hover { border-color: var(--primary); color: var(--primary) !important; }
 .kx-kvc-action--primary {
-  background: linear-gradient(135deg, #5eead4 0%, #f43f5e 100%);
+  background: linear-gradient(135deg, #5eead4 0%, #0891b2 100%);
   border-color: transparent;
   color: white !important;
 }
