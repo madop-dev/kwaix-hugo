@@ -63,7 +63,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(11,15,40,0.97);
+  background: rgba(8,23,21,0.97);
   backdrop-filter: blur(12px);
   border-bottom: 1px solid rgba(255,255,255,0.08);
   transition: border-color 0.3s, box-shadow 0.3s;
@@ -939,7 +939,7 @@ body {
     top: 72px;
     left: 0;
     right: 0;
-    background: rgba(11,15,40,0.99);
+    background: rgba(8,23,21,0.99);
     flex-direction: column;
     padding: 16px 0 24px;
     border-bottom: 1px solid rgba(255,255,255,0.08);
