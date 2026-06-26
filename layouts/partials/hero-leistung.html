@@ -12,14 +12,6 @@
     <h1 class="leistung-hero-h1 reveal d1">{{ .page.Title }}</h1>
     {{ with (or .page.Params.lede .page.Description) }}<p class="leistung-hero-sub reveal d2">{{ . }}</p>{{ end }}
 
-    {{ if .page.Params.heroCards }}
-    <ul class="leistung-hero-benefits reveal d2">
-      {{ range .page.Params.heroCards }}
-      <li><span class="leistung-hero-check">✓</span>{{ .title }}{{ with .subtitle }} — <em>{{ . }}</em>{{ end }}</li>
-      {{ end }}
-    </ul>
-    {{ end }}
-
     <div class="leistung-hero-buttons reveal d3">
       <a href="{{ .ctaPrimaryHref }}" class="btn-hero-primary">{{ .ctaPrimaryText }}</a>
       <a href="{{ .ctaSecondaryHref }}" class="btn-hero-secondary">{{ .ctaSecondaryText }}</a>
