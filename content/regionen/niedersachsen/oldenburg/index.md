@@ -5,6 +5,7 @@ eyebrow: "Region · Oldenburg"
 lede: "KI-Training für Oldenburger KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/oldenburg/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training

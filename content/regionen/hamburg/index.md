@@ -5,6 +5,7 @@ eyebrow: "Region · Hamburg"
 lede: "KI-Training für Hamburger KMU — remote oder vor Ort, branchenspezifisch, mit Kompetenznachweis."
 draft: false
 canonical: "https://kwaix.de/regionen/hamburg/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training

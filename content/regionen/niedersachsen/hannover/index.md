@@ -5,6 +5,7 @@ eyebrow: "Region · Hannover"
 lede: "KI-Training für Hannoveraner KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/hannover/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training

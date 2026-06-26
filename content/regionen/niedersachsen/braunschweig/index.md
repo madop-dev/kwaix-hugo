@@ -5,6 +5,7 @@ eyebrow: "Region · Braunschweig"
 lede: "KI-Training für Braunschweiger KMU — praxisnah, mit echten Use Cases aus dem Alltag, dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/braunschweig/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training

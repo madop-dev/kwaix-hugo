@@ -5,6 +5,7 @@ eyebrow: "Region · Bremerhaven"
 lede: "KI-Training für Bremerhavener KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/bremen/bremerhaven/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training

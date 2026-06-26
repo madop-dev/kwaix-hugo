@@ -5,6 +5,7 @@ eyebrow: "Region · Verden"
 lede: "KI-Training für Verdener KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/verden/"
+type: leistungen
 schemaType: "service"
 heroCards:
   - type: training
