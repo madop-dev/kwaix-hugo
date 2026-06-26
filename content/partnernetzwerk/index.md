@@ -44,8 +44,7 @@ Gutes KI-Training braucht jemanden, der Ihre Branche kennt — nicht jemanden, d
 ## Unsere Trainer
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="Marion Dopmann" text="Schwerpunkt: KI-Training für KMU & Mittelstand, KI-Automatisierung, EU AI Act & Kompetenznachweis Art. 4. Gründerin KWAIX. Verfügbar: DACH-weit, remote & vor Ort." cta="Training anfragen" href="mailto:info@kwaix.de?subject=Training%20anfragen" >}}
-{{< card icon="default" title="Ihr Schwerpunkt hier" text="KWAIX sucht selbständige KI-Trainer mit Branchenschwerpunkt — Handwerk, HR, Vertrieb, Marketing, Produktion oder KI-Verordnung. Praxiserfahrung und eigene Use Cases sind Voraussetzung." cta="Als Trainer bewerben" href="mailto:info@kwaix.de?subject=KWAIX%20Trainer%20werden" >}}
+{{< card icon="training" title="Marion Dopmann" text="Gründerin KWAIX. Entwickelt den Trainingsstandard und das Zertifizierungsverfahren, nach dem alle Trainer im Netzwerk ausgebildet und freigegeben werden." cta="Trainer-Netzwerk ansehen" href="/ueber-uns/trainer-netzwerk/" >}}
 {{< card icon="default" title="Ihr Schwerpunkt hier" text="KWAIX sucht selbständige KI-Trainer mit Branchenschwerpunkt — Handwerk, HR, Vertrieb, Marketing, Produktion oder KI-Verordnung. Praxiserfahrung und eigene Use Cases sind Voraussetzung." cta="Als Trainer bewerben" href="mailto:info@kwaix.de?subject=KWAIX%20Trainer%20werden" >}}
 {{< /cards >}}
 
