@@ -2,17 +2,25 @@
 <article class="page">
 
 {{/* ── HERO ─────────────────────────────────────────────────────────────── */}}
+{{- $proofCards := slice -}}
+{{- if .Params.heroCards -}}
+  {{- range .Params.heroCards -}}
+    {{- $proofCards = $proofCards | append (dict "num" .title "label" .subtitle "accent" (eq .type "proof")) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $proofCards = (slice
+    (dict "num" "2. Aug.<br>2025" "label" "Artikel 4 KI-VO<br>gilt seit diesem Datum")
+    (dict "num" "Art.&nbsp;4" "label" "Kompetenzpflicht<br>für alle Betreiber" "accent" true)
+    (dict "num" "15 Mio.&nbsp;€" "label" "max. Bußgeld<br>bei Verstoß")
+  ) -}}
+{{- end -}}
 {{ partial "hero-leistung.html" (dict
   "page" .
   "ctaPrimaryText" "Compliance-Fragen klären →"
   "ctaPrimaryHref" (printf "mailto:info@kwaix.de?subject=KI-Verordnung%%20%%E2%%80%%93%%20%s" (.Title | urlquery))
   "ctaSecondaryText" "Kompetenznachweis im Training"
   "ctaSecondaryHref" "/leistungen/ki-training-live/"
-  "proofCards" (slice
-    (dict "num" "2. Aug.<br>2025" "label" "Artikel 4 KI-VO<br>gilt seit diesem Datum")
-    (dict "num" "Art.&nbsp;4" "label" "Kompetenzpflicht<br>für alle Betreiber" "accent" true)
-    (dict "num" "15 Mio.&nbsp;€" "label" "max. Bußgeld<br>bei Verstoß")
-  )
+  "proofCards" $proofCards
 ) }}
 
 {{/* ── CONTENT ──────────────────────────────────────────────────────────── */}}

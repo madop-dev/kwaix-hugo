@@ -8,8 +8,14 @@
   {{- $parts := split $priceRange "-" -}}
   {{- $proofCards = $proofCards | append (dict "num" (printf "ab %s&nbsp;€" (index $parts 0)) "label" "netto · zzgl. MwSt.<br>Teams bis 5 Personen") -}}
 {{- end -}}
-{{- $proofCards = $proofCards | append (dict "num" "Art.&nbsp;4" "label" "KI-Verordnung<br>Kompetenznachweis" "accent" true) -}}
-{{- $proofCards = $proofCards | append (dict "num" "DE · AT · CH" "label" "Remote &amp; vor Ort<br>DE · AT · CH") -}}
+{{- if .Params.heroCards -}}
+  {{- range .Params.heroCards -}}
+    {{- $proofCards = $proofCards | append (dict "num" .title "label" .subtitle "accent" (eq .type "proof")) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $proofCards = $proofCards | append (dict "num" "Art.&nbsp;4" "label" "KI-Verordnung<br>Kompetenznachweis" "accent" true) -}}
+  {{- $proofCards = $proofCards | append (dict "num" "DE · AT · CH" "label" "Remote &amp; vor Ort<br>DE · AT · CH") -}}
+{{- end -}}
 {{ partial "hero-leistung.html" (dict
   "page" .
   "ctaPrimaryText" (default "Kostenloses Vorgespräch anfragen →" .Params.herocta)
