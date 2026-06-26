@@ -2,7 +2,7 @@
 title: "FAQ zur EU KI-Verordnung für KMU"
 description: "Häufige Fragen von KMU zur EU KI-Verordnung: Was gilt seit wann, was kostet Nichtbeachtung, was müssen Unternehmen konkret tun."
 eyebrow: "KI-VO · FAQ"
-lede: "Die häufigsten Fragen zur EU KI-Verordnung — beantwortet für KMU-Verantwortliche, ohne Juristendeutsch. Keine Rechtsberatung, aber klare Orientierung."
+lede: "Die häufigsten Fragen zur EU KI-Verordnung, beantwortet für KMU-Verantwortliche, ohne Juristendeutsch. Keine Rechtsberatung, aber klare Orientierung."
 draft: false
 canonical: "https://kwaix.de/ki-verordnung/faq/"
 url: "/ki-verordnung/faq/"
@@ -10,11 +10,11 @@ schemaType: "faq"
 heroIcon: "proof"
 faqItems:
   - q: "Was ist die EU KI-Verordnung?"
-    a: "Die EU KI-Verordnung (Verordnung (EU) 2024/1689, auch EU AI Act) ist das weltweit erste umfassende KI-Regulierungswerk. Sie trat am 1. August 2024 in Kraft und gilt für alle Unternehmen, die KI-Systeme in der EU entwickeln, vermarkten oder einsetzen — unabhängig davon, ob das Unternehmen seinen Sitz in der EU hat."
+    a: "Die EU KI-Verordnung (Verordnung (EU) 2024/1689, auch EU AI Act) ist das weltweit erste umfassende KI-Regulierungswerk. Sie trat am 1. August 2024 in Kraft und gilt für alle Unternehmen, die KI-Systeme in der EU entwickeln, vermarkten oder einsetzen, unabhängig davon, ob das Unternehmen seinen Sitz in der EU hat."
   - q: "Was gilt seit dem 2. August 2025?"
-    a: "Seit dem 2. August 2025 gilt unter anderem Artikel 4 der KI-Verordnung: Die Kompetenzpflicht. Unternehmen, die KI-Systeme einsetzen, müssen sicherstellen, dass ihre Mitarbeitenden über ausreichende KI-Kompetenz verfügen — und das dokumentieren."
+    a: "Seit dem 2. August 2025 gilt unter anderem Artikel 4 der KI-Verordnung: Die Kompetenzpflicht. Unternehmen, die KI-Systeme einsetzen, müssen sicherstellen, dass ihre Mitarbeitenden über ausreichende KI-Kompetenz verfügen, und das dokumentieren."
   - q: "Gilt die KI-Verordnung auch für kleine Unternehmen?"
-    a: "Ja. Die KI-Verordnung gilt für alle Betreiber von KI-Systemen — unabhängig von der Unternehmensgröße. Für Kleinstunternehmen und KMU gibt es einige Vereinfachungen bei bestimmten Hochrisiko-Pflichten, aber die Grundpflichten (darunter Artikel 4 Kompetenzpflicht) gelten für alle."
+    a: "Ja. Die KI-Verordnung gilt für alle Betreiber von KI-Systemen, unabhängig von der Unternehmensgröße. Für Kleinstunternehmen und KMU gibt es einige Vereinfachungen bei bestimmten Hochrisiko-Pflichten, aber die Grundpflichten (darunter Artikel 4 Kompetenzpflicht) gelten für alle."
   - q: "Was ist ein Hochrisiko-KI-System?"
     a: "Hochrisiko-KI-Systeme sind in Anhang III der KI-Verordnung definiert. Dazu gehören u.a. KI-Systeme in kritischer Infrastruktur, Bildung, Beschäftigung (z.B. KI-gestützte Bewerberauswahl), wesentliche Dienstleistungen und Strafverfolgung. Für Hochrisiko-Systeme gelten deutlich strengere Anforderungen als für allgemeine KI-Tools."
   - q: "Bin ich als KMU Anbieter oder Betreiber?"
@@ -22,9 +22,9 @@ faqItems:
   - q: "Was passiert, wenn wir nichts tun?"
     a: "Bei Verstößen gegen die KI-Verordnung sieht Artikel 99 Geldbußen vor: bis zu 35 Millionen Euro oder 7 % des weltweiten Jahresumsatzes für Verstöße gegen verbotene KI-Praktiken, bis zu 15 Millionen Euro oder 3 % für andere Verstöße (z.B. Betreiberpflichten). Für KMU liegt das Risiko kurzfristig primär in Vertrags- und Haftungsfragen."
   - q: "Müssen wir jetzt sofort alle Mitarbeitenden schulen?"
-    a: "Artikel 4 gilt seit dem 2. August 2025. Wer bereits KI-Tools im Einsatz hat, sollte zeitnah handeln. Ein pragmatischer Einstieg: Zuerst ein KI-Kickoff, um zu klären, welche Mitarbeitenden geschult werden müssen — dann gezielt schulen und dokumentieren."
+    a: "Artikel 4 gilt seit dem 2. August 2025. Wer bereits KI-Tools im Einsatz hat, sollte zeitnah handeln. Ein pragmatischer Einstieg: Zuerst ein KI-Kickoff, um zu klären, welche Mitarbeitenden geschult werden müssen, dann gezielt schulen und dokumentieren."
   - q: "Was ist der Unterschied zwischen KI-Verordnung und DSGVO?"
-    a: "Die DSGVO (seit 2018) regelt den Schutz personenbezogener Daten — auch bei KI-Verarbeitung. Die EU KI-Verordnung (ab 2024) regelt KI-Systeme selbst: ihre Risikostufen, Transparenzanforderungen und Betreiberpflichten. Beide gelten parallel. Ein DSGVO-konformer KI-Einsatz ist nicht automatisch KI-VO-konform — und umgekehrt."
+    a: "Die DSGVO (seit 2018) regelt den Schutz personenbezogener Daten, auch bei KI-Verarbeitung. Die EU KI-Verordnung (ab 2024) regelt KI-Systeme selbst: ihre Risikostufen, Transparenzanforderungen und Betreiberpflichten. Beide gelten parallel. Ein DSGVO-konformer KI-Einsatz ist nicht automatisch KI-VO-konform, und umgekehrt."
   - q: "Brauchen wir eine KI-Policy?"
     a: "Die KI-Verordnung schreibt keine KI-Policy explizit vor. Aber eine Policy ist die praktischste Methode, Betreiberpflichten (Artikel 26) und Kompetenzpflichten (Artikel 4) nachweisbar zu erfüllen. Mehr dazu: KI-Policy für Unternehmen."
   - q: "Wo finde ich den offiziellen Text der EU KI-Verordnung?"
@@ -35,16 +35,16 @@ faqItems:
 
 ## FAQ: EU KI-Verordnung für KMU
 
-Keine Rechtsberatung — aber klare Orientierung für Unternehmen, die wissen wollen, was gilt, für wen und was zu tun ist.
+Keine Rechtsberatung, aber klare Orientierung für Unternehmen, die wissen wollen, was gilt, für wen und was zu tun ist.
 
 **Was ist die EU KI-Verordnung?**
 Die EU KI-Verordnung (Verordnung (EU) 2024/1689, auch EU AI Act) ist das weltweit erste umfassende KI-Regulierungswerk. Sie trat am 1. August 2024 in Kraft und gilt für alle Unternehmen, die KI-Systeme in der EU entwickeln, vermarkten oder einsetzen.
 
 **Was gilt seit dem 2. August 2025?**
-Seit dem 2. August 2025 gilt Artikel 4 der KI-Verordnung: die **Kompetenzpflicht**. Unternehmen, die KI-Systeme einsetzen, müssen sicherstellen, dass ihre Mitarbeitenden über ausreichende KI-Kompetenz verfügen — und das nachweisbar dokumentieren. Details: [Artikel 4 KI-VO](/ki-verordnung/artikel-4-ki-kompetenz/).
+Seit dem 2. August 2025 gilt Artikel 4 der KI-Verordnung: die **Kompetenzpflicht**. Unternehmen, die KI-Systeme einsetzen, müssen sicherstellen, dass ihre Mitarbeitenden über ausreichende KI-Kompetenz verfügen, und das nachweisbar dokumentieren. Details: [Artikel 4 KI-VO](/ki-verordnung/artikel-4-ki-kompetenz/).
 
 **Gilt die KI-Verordnung auch für kleine Unternehmen?**
-Ja. Die KI-Verordnung gilt für alle Betreiber von KI-Systemen — unabhängig von der Unternehmensgröße. Für KMU gibt es einige Vereinfachungen bei Hochrisiko-Pflichten, aber Artikel 4 (Kompetenzpflicht) gilt für alle.
+Ja. Die KI-Verordnung gilt für alle Betreiber von KI-Systemen, unabhängig von der Unternehmensgröße. Für KMU gibt es einige Vereinfachungen bei Hochrisiko-Pflichten, aber Artikel 4 (Kompetenzpflicht) gilt für alle.
 
 **Was ist ein Hochrisiko-KI-System?**
 Hochrisiko-KI-Systeme sind in Anhang III der KI-Verordnung definiert: u.a. KI in kritischer Infrastruktur, Bildung, Beschäftigung (z.B. KI-gestützte Bewerberauswahl) und wesentliche Dienstleistungen. Für allgemeine Büro-KI-Tools (ChatGPT, Copilot) gilt in der Regel keine Hochrisiko-Einstufung.

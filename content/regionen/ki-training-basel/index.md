@@ -2,7 +2,7 @@
 title: "KI-Training Basel: Für Pharma, Life Sciences und Dienstleistung"
 description: "KI-Training Basel: Pharma, Life Sciences, Chemie und Dienstleistung. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO. Remote & vor Ort."
 eyebrow: "Region · Basel"
-lede: "KI-Training für Basler KMU — für Pharma, Life Sciences, Chemie und Dienstleistung."
+lede: "KI-Training für Basler KMU: für Pharma, Life Sciences, Chemie und Dienstleistung."
 draft: false
 url: "/regionen/ki-training-basel/"
 canonical: "https://kwaix.de/regionen/ki-training-basel/"
@@ -20,7 +20,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Bietet KWAIX KI-Training in Basel an?"
-    a: "Ja. Basler Unternehmen betreuen wir remote (Standard) und vor Ort. Basel ist weltweit bekannt für Pharmaindustrie und Life Sciences — regulierte Dokumentation, wissenschaftliche Kommunikation und strenge Qualitätsanforderungen prägen die Use Cases."
+    a: "Ja. Basler Unternehmen betreuen wir remote (Standard) und vor Ort. Basel ist weltweit bekannt für Pharmaindustrie und Life Sciences. Regulierte Dokumentation, wissenschaftliche Kommunikation und strenge Qualitätsanforderungen prägen die Use Cases."
   - q: "Welche Basler Branchen betreut KWAIX?"
     a: "Schwerpunkte: Pharma und Life Sciences (regulierte Dokumentation, SOPs, klinische Berichte), Chemie (Sicherheitsdatenblätter, Prozessdokumentation), Logistik und Spedition (internationale Dokumentation), Messe und Events, Dienstleistung und Beratung."
 ---
@@ -29,9 +29,9 @@ faqItems:
 
 ## KI-Training für Basler Unternehmen
 
-Basel steht weltweit für Exzellenz in Pharmaindustrie und Life Sciences. Regulierte Dokumentation, wissenschaftliche Präzision und internationale Kommunikation sind hier keine Optionen — sie sind Standard. KI-Training kann helfen, diese Standards schneller und einheitlicher zu erreichen.
+Basel steht weltweit für Exzellenz in Pharmaindustrie und Life Sciences. Regulierte Dokumentation, wissenschaftliche Präzision und internationale Kommunikation sind hier keine Optionen, sie sind Standard. KI-Training kann helfen, diese Standards schneller und einheitlicher zu erreichen.
 
-Wir trainieren Basler Teams remote und vor Ort — mit Use Cases aus Pharmaindustrie, Chemie und Dienstleistung.
+Wir trainieren Basler Teams remote und vor Ort, mit Use Cases aus Pharmaindustrie, Chemie und Dienstleistung.
 
 **Was Basler Unternehmen am häufigsten trainieren:**
 - SOPs, Qualitätsberichte und klinische Dokumentation (Pharma & Life Sciences)
@@ -41,10 +41,10 @@ Wir trainieren Basler Teams remote und vor Ort — mit Use Cases aus Pharmaindus
 
 ## Auf einen Blick
 
-- **Remote:** Standard — vollwertig, ohne Qualitätsverlust
+- **Remote:** Standard, vollwertig, ohne Qualitätsverlust
 - **Vor Ort:** möglich in Basel und Nordwestschweiz, nach Absprache
 - **Typische Branchen:** Pharma, Life Sciences, Chemie, Logistik, Messe
-- **Preis:** ab 2.400 € netto für Teams bis 5 Personen — [Preisübersicht](/ki-training-kosten/)
+- **Preis:** ab 2.400 € netto für Teams bis 5 Personen, [Preisübersicht](/ki-training-kosten/)
 
 {{< kpiStrip k1_label="Standort" k1_value="Basel & Nordwestschweiz" k2_label="Format" k2_value="Remote (Standard)" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
@@ -55,12 +55,12 @@ Wir trainieren Basler Teams remote und vor Ort — mit Use Cases aus Pharmaindus
 ## Typische Use Cases für Basler Unternehmen
 
 {{< cards cols="3" >}}
-{{< card icon="policy" title="Regulierte Dokumentation" text="SOPs, Qualitätsberichte und klinische Dokumentation strukturiert und schneller erstellen — nach GxP und pharmazeutischen Standards." >}}
+{{< card icon="policy" title="Regulierte Dokumentation" text="SOPs, Qualitätsberichte und klinische Dokumentation strukturiert und schneller erstellen, nach GxP und pharmazeutischen Standards." >}}
 {{< card icon="backlog" title="Chemie & Sicherheit" text="Sicherheitsdatenblätter, Prozessdokumentation und Risikoberichte einheitlich und effizient formulieren." >}}
 {{< card icon="prompt" title="Wissenschaftliche Kommunikation" text="Abstracts, wissenschaftliche Berichte und Förderkommunikation strukturiert aufbauen." >}}
 {{< card icon="training" title="Internationale Logistik" text="Frachttexte, Lieferantenkommunikation und internationale Dokumentation für Basler Speditionsunternehmen standardisieren." >}}
 {{< card icon="backlog" title="Messe & Events" text="Messekommunikation und Partnerkorrespondenz für internationale Messen (Art Basel, Pharma-Messen) effizient produzieren." >}}
-{{< card icon="proof" title="KI-VO Best Practice" text="EU-Standard als Benchmark — auch für Schweizer Pharma- und Chemieunternehmen." href="/ki-verordnung/kompetenznachweis/" cta="Mehr erfahren" >}}
+{{< card icon="proof" title="KI-VO Best Practice" text="EU-Standard als Benchmark, auch für Schweizer Pharma- und Chemieunternehmen." href="/ki-verordnung/kompetenznachweis/" cta="Mehr erfahren" >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Basel%20anfragen" primaryText="Vorgespräch für Basel anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
@@ -72,7 +72,7 @@ Wir trainieren Basler Teams remote und vor Ort — mit Use Cases aus Pharmaindus
 ## FAQ: KI-Training in Basel
 
 **Kann KI regulierte Pharma-Dokumentation erstellen?**
-KI kann Struktur und Formulierungsvorschläge liefern — die fachliche Prüfung, Validierung und Freigabe durch qualifizierte Personen bleibt Pflicht. Wir trainieren einen Workflow, der Zeit spart, ohne Compliance zu gefährden.
+KI kann Struktur und Formulierungsvorschläge liefern, die fachliche Prüfung, Validierung und Freigabe durch qualifizierte Personen bleibt jedoch Pflicht. Wir trainieren einen Workflow, der Zeit spart, ohne Compliance zu gefährden.
 
 **Wie schnell ist ein Termin möglich?**
 1–3 Wochen nach Auftragserteilung. Remote-Termine oft schneller.

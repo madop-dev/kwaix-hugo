@@ -1,6 +1,6 @@
 ---
 title: "Artikel 4 EU KI-Verordnung: Kompetenzpflicht für Unternehmen"
-description: "Was Artikel 4 der EU KI-Verordnung von Unternehmen fordert: KI-Kompetenz sicherstellen, dokumentieren und nachweisen — verständlich erklärt für KMU."
+description: "Was Artikel 4 der EU KI-Verordnung von Unternehmen fordert: KI-Kompetenz sicherstellen, dokumentieren und nachweisen, verständlich erklärt für KMU."
 eyebrow: "KI-VO · Artikel 4"
 lede: "Artikel 4 der EU KI-Verordnung ist seit dem 2. August 2025 verpflichtend. Er fordert von jedem Unternehmen, das KI-Systeme einsetzt, den Nachweis ausreichender KI-Kompetenz seiner Mitarbeitenden."
 draft: false
@@ -29,14 +29,14 @@ faqItems:
   - q: "Welche Bußgelder drohen bei Verstößen gegen Artikel 4?"
     a: "Die EU KI-Verordnung sieht für Verstöße durch Betreiber Geldbußen von bis zu 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes vor. Für KMU liegt das Risiko primär in zivilrechtlichen Haftungsfragen, Vertragsklauseln und Reputationsschäden."
   - q: "Wie setzt man Artikel 4 KI-VO in einem KMU um?"
-    a: "Pragmatisch in vier Schritten: 1. Inventur — welche KI-Tools werden von wem genutzt? 2. Schulung — praxisnahes KI-Training mit Bezug zu den eingesetzten Tools. 3. Dokumentation — Teilnahmenachweis für alle geschulten Mitarbeitenden. 4. Aktualisierung — Auffrischung bei neuen Tools oder regulatorischen Änderungen."
+    a: "Pragmatisch in vier Schritten: 1. Inventur: welche KI-Tools werden von wem genutzt? 2. Schulung: praxisnahes KI-Training mit Bezug zu den eingesetzten Tools. 3. Dokumentation: Teilnahmenachweis für alle geschulten Mitarbeitenden. 4. Aktualisierung: Auffrischung bei neuen Tools oder regulatorischen Änderungen."
 ---
 
 {{% section tone="plain" %}}
 
 ## Was Artikel 4 KI-Verordnung von Unternehmen fordert
 
-Artikel 4 der **Verordnung (EU) 2024/1689** — der EU KI-Verordnung — lautet im Kern:
+Artikel 4 der **Verordnung (EU) 2024/1689**, also der EU KI-Verordnung, lautet im Kern:
 
 > *„Anbieter und Betreiber von KI-Systemen ergreifen Maßnahmen, um nach besten Kräften sicherzustellen, dass ihr Personal und alle anderen Personen, die in ihrem Auftrag mit dem Betrieb und der Nutzung von KI-Systemen befasst sind, über ein ausreichendes Maß an KI-Kompetenz verfügen."*
 
@@ -47,7 +47,7 @@ Artikel 4 der **Verordnung (EU) 2024/1689** — der EU KI-Verordnung — lautet 
 - **Pflicht:** KI-Kompetenz aller Mitarbeitenden sicherstellen, die KI-Systeme bedienen
 - **Gilt für:** Betreiber (jedes Unternehmen, das KI-Tools beruflich einsetzt) und Anbieter
 - **Was „Kompetenz" bedeutet:** Kritisches Verständnis von Funktionsweise, Risiken und Grenzen von KI
-- **Format Nachweis:** Nicht vorgeschrieben — ein dokumentiertes Training reicht
+- **Format Nachweis:** Nicht vorgeschrieben, ein dokumentiertes Training reicht
 - **Sanktionen bei Verstoß:** Bis zu 15 Mio. € oder 3 % Jahresumsatz
 - **Umsetzung:** [KI-Training Live](/leistungen/ki-training-live/) + [Kompetenznachweis](/ki-verordnung/kompetenznachweis/) bei KWAIX
 
@@ -85,7 +85,7 @@ Die KI-Verordnung definiert KI-Kompetenz in **Artikel 3 Nr. 56** als die Fähigk
 
 {{< cards cols="4" >}}
 {{< card icon="backlog" title="1. Inventur" text="Welche KI-Tools werden von wem genutzt? Welche Mitarbeitenden sind als KI-Betreiber einzustufen?" >}}
-{{< card icon="training" title="2. Schulung" text="Praxisnahes Training mit Bezug zu den eingesetzten Tools — kein allgemeiner Tool-Überblick." >}}
+{{< card icon="training" title="2. Schulung" text="Praxisnahes Training mit Bezug zu den eingesetzten Tools, kein allgemeiner Tool-Überblick." >}}
 {{< card icon="proof" title="3. Dokumentation" text="Teilnahmenachweis für alle geschulten Mitarbeitenden. Wir stellen ihn nach jedem Training aus." >}}
 {{< card icon="platform" title="4. Aktualisierung" text="Auffrischung bei neuen Tools, neuen Mitarbeitenden oder bei Änderungen der regulatorischen Anforderungen." >}}
 {{< /cards >}}

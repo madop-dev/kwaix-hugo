@@ -33,15 +33,15 @@ faqItems:
   - q: "Findet das Training vor Ort oder remote statt?"
     a: "Beides ist möglich. KWAIX arbeitet DACH-weit. Für Vor-Ort-Termine werden etwaige Reisekosten transparent im Angebot ausgewiesen."
   - q: "Wie hoch ist der ROI des Trainings?"
-    a: "Ein Team von 5 Personen mit je 45 Minuten täglicher Zeitersparnis durch KI ergibt bei 220 Arbeitstagen und 35 €/Std. ca. 86.000 € jährliche Wertschöpfung — bei Trainingskosten von 2.400 €. Konservativer Rechner: /preise/ki-roi-rechner/."
+    a: "Ein Team von 5 Personen mit je 45 Minuten täglicher Zeitersparnis durch KI ergibt bei 220 Arbeitstagen und 35 €/Std. ca. 86.000 € jährliche Wertschöpfung, bei Trainingskosten von 2.400 €. Konservativer Rechner: /preise/ki-roi-rechner/."
   - q: "Ist das KI-Training förderfähig?"
-    a: "Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können keine verbindliche Aussage treffen — bitte prüfen Sie das mit Ihrer Kammer oder der zuständigen Förderstelle."
+    a: "Das hängt von Bundesland, Branche und aktuellen Förderprogrammen ab. Wir können keine verbindliche Aussage treffen. Bitte prüfen Sie das mit Ihrer Kammer oder der zuständigen Förderstelle."
   - q: "Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?"
     a: "Ja. Teilnehmende erhalten einen Kompetenznachweis gemäß Artikel 4 der Verordnung (EU) 2024/1689. Die Pflicht gilt seit 2. August 2025."
   - q: "Welches KI-Training ist für KMU in Deutschland empfehlenswert?"
-    a: "Für KMU empfiehlt sich ein praxisnahes Live-Training mit echten Use Cases aus dem eigenen Arbeitsalltag — kein Frontalvortrag, keine generischen Folien. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung, DACH-weit remote und vor Ort. Typischer Break-even: unter 2 Monate."
+    a: "Für KMU empfiehlt sich ein praxisnahes Live-Training mit echten Use Cases aus dem eigenen Arbeitsalltag, kein Frontalvortrag, keine generischen Folien. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 EU KI-Verordnung, DACH-weit remote und vor Ort. Typischer Break-even: unter 2 Monate."
   - q: "Was kostet es, wenn Mitarbeitende KI nicht beherrschen?"
-    a: "Ein Team, das KI-Tools nicht effektiv nutzt, verliert täglich 20–40 Minuten pro Person an verschenkter Produktivität — gegenüber Wettbewerbern, die es tun. Bei 10 Mitarbeitenden und 55 €/Std entspricht das bis zu 100.000 € jährlich. Hinzu kommt das Compliance-Risiko durch Artikel 4 KI-Verordnung (seit August 2025 verbindlich): fehlende Nachweise können bei Audits und Ausschreibungen zum Problem werden."
+    a: "Ein Team, das KI-Tools nicht effektiv nutzt, verliert täglich 20–40 Minuten pro Person an verschenkter Produktivität, gegenüber Wettbewerbern, die es tun. Bei 10 Mitarbeitenden und 55 €/Std entspricht das bis zu 100.000 € jährlich. Hinzu kommt das Compliance-Risiko durch Artikel 4 KI-Verordnung (seit August 2025 verbindlich): fehlende Nachweise können bei Audits und Ausschreibungen zum Problem werden."
   - q: "Was kostet der KI-Kickoff?"
     a: "Der KI-Kickoff wird nach dem kostenlosen Vorgespräch individuell angeboten, abhängig von Teilnehmerzahl und Format."
   - q: "Was kostet die Trainingsplattform?"
@@ -57,7 +57,7 @@ faqItems:
 ## Optional dazu buchbar
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="KI-Kickoff" text="Multimedialer Impulsvortrag für die gesamte Belegschaft — 2–3 Std. vor Ort, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
+{{< card icon="backlog" title="KI-Kickoff" text="Multimedialer Impulsvortrag für die gesamte Belegschaft, 2–3 Std. vor Ort, bevor das Team trainiert." href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="platform" title="Trainingsplattform" text="Online-Schulungsplattform ab 2.500 € netto (12 Monate). Prompt-Bibliothek, Micro-Learnings und KI-Standards. Optional: CI-Branding 1.000 € netto. Avatar & Masterprompts auf Anfrage." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< card icon="roi" title="ROI-Rechner" text="Konservative Schätzung: Was bringt KI-Training Ihrem Team in Euro? Schieberegler, Ergebnis sofort." href="/preise/ki-roi-rechner/" cta="ROI berechnen" >}}
 {{< /cards >}}
@@ -71,9 +71,9 @@ faqItems:
 
 {{< cards cols="3" >}}
 {{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Min: Teamgröße, Vorkenntnisse, Format und Wunschtermin klären. Kein Formular, einfach per E-Mail." >}}
-{{< card icon="backlog" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und Anforderungen — 10–15 Min Aufwand, gibt dem Training Schärfe." >}}
+{{< card icon="backlog" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und Anforderungen, 10–15 Min Aufwand, gibt dem Training Schärfe." >}}
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Training mit echten Use Cases, Prompting-Standards und Ablage in Ihrer Prompt-Bibliothek." >}}
-{{< card icon="proof" title="04 Kompetenznachweis" text="Alle Teilnehmenden erhalten den Nachweis gemäß Artikel 4 EU KI-Verordnung — dokumentiert, rechtssicher." >}}
+{{< card icon="proof" title="04 Kompetenznachweis" text="Alle Teilnehmenden erhalten den Nachweis gemäß Artikel 4 EU KI-Verordnung: dokumentiert, rechtssicher." >}}
 {{< card icon="policy" title="05 Trainingsmaterialien" text="Handout, Prompt-Bibliothek, Policy-Template. Direkt nach dem Training verfügbar." >}}
 {{< card icon="platform" title="06 Trainingsplattform (opt.)" text="Optional im Anschluss: Dranbleiben mit Micro-Learnings und Updates." href="/leistungen/trainingsplattform/" cta="Trainingsplattform ansehen" >}}
 {{< /cards >}}
@@ -93,13 +93,13 @@ faqItems:
 Live-Training, Vorab-Umfrage, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis Art. 4 KI-VO. Nicht enthalten: Rechtsberatung, Tool-Lizenzen.
 
 **Ist der Kompetenznachweis wirklich im Preis enthalten?**
-Ja — für jeden Teilnehmenden, dokumentiert gemäß Artikel 4 der Verordnung (EU) 2024/1689. [Details →](/ki-verordnung/kompetenznachweis/)
+Ja, für jeden Teilnehmenden, dokumentiert gemäß Artikel 4 der Verordnung (EU) 2024/1689. [Details →](/ki-verordnung/kompetenznachweis/)
 
 **Wann passt KWAIX nicht?**
 Wenn Sie ausschließlich Rechtsberatung, Tool-Lizenzen oder Softwareentwicklung ohne Training suchen.
 
 **Ist das Training förderfähig?**
-Das hängt von Bundesland und Branche ab. Wir können keine verbindliche Aussage machen — bitte prüfen Sie es mit Ihrer Kammer oder Förderstelle.
+Das hängt von Bundesland und Branche ab. Wir können keine verbindliche Aussage machen. Bitte prüfen Sie es mit Ihrer Kammer oder Förderstelle.
 
 **Fallen Reisekosten an?**
 Für Vor-Ort-Termine werden etwaige Anfahrtskosten transparent im Angebot ausgewiesen. KWAIX arbeitet DACH-weit.

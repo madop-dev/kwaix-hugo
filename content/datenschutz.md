@@ -21,7 +21,7 @@ Telefon: +49 421 69018929
 
 ---
 
-### 2. Hosting — Cloudflare Pages
+### 2. Hosting: Cloudflare Pages
 
 Diese Website wird über **Cloudflare Pages** (Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, USA) bereitgestellt. Cloudflare verarbeitet beim Aufruf der Website technische Zugriffsdaten (IP-Adresse, Datum und Uhrzeit, aufgerufene URL, Browser, Betriebssystem).
 
@@ -33,7 +33,7 @@ Weitere Informationen: [cloudflare.com/privacypolicy](https://www.cloudflare.com
 
 ---
 
-### 3. Kontaktformular — Formspree
+### 3. Kontaktformular: Formspree
 
 Auf dieser Website steht ein Kontaktformular zur Verfügung. Eingaben werden über den Dienst **Formspree** (Formspree, Inc., 462 1st Ave, Pittsburgh, PA 15219, USA) an unsere E-Mail-Adresse weitergeleitet. Formspree speichert Formulardaten vorübergehend auf seinen Servern.
 
@@ -41,7 +41,7 @@ Verarbeitete Daten: Name, Unternehmen (optional), E-Mail-Adresse, Telefonnummer 
 
 Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragsanbahnung) sowie Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bearbeitung von Anfragen).
 
-Die Daten werden gelöscht, sobald sie für den Zweck ihrer Erhebung nicht mehr erforderlich sind — in der Regel nach Abschluss der Kommunikation, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+Die Daten werden gelöscht, sobald sie für den Zweck ihrer Erhebung nicht mehr erforderlich sind, in der Regel nach Abschluss der Kommunikation, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 Datenschutzinformationen von Formspree: [formspree.io/legal/privacy-policy](https://formspree.io/legal/privacy-policy)
 
@@ -55,7 +55,7 @@ Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragsanbahnung) sowie Art. 6 Abs
 
 ---
 
-### 5. Google Analytics 4 — nur mit Einwilligung
+### 5. Google Analytics 4: nur mit Einwilligung
 
 Diese Website verwendet **Google Analytics 4** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland), einen Webanalysedienst. Google Analytics setzt Cookies und überträgt Nutzungsdaten an Google-Server, die sich auch in den USA befinden können.
 
@@ -100,7 +100,7 @@ Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden perso
 - **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
 - **Datenübertragbarkeit** (Art. 20 DSGVO)
 - **Widerspruch gegen die Verarbeitung** (Art. 21 DSGVO)
-- **Widerruf einer erteilten Einwilligung** (Art. 7 Abs. 3 DSGVO) — jederzeit mit Wirkung für die Zukunft
+- **Widerruf einer erteilten Einwilligung** (Art. 7 Abs. 3 DSGVO), jederzeit mit Wirkung für die Zukunft
 
 Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: info@kwaix.de
 

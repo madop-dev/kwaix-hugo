@@ -20,11 +20,11 @@ faqItems:
     a: "Die EU KI-Verordnung schreibt keine Gültigkeitsdauer vor. Empfohlen wird eine Auffrischung bei wesentlichen Änderungen der genutzten KI-Systeme oder spätestens nach 1–2 Jahren, da sich KI-Tools und deren Risiken schnell weiterentwickeln."
 ---
 
-Seit dem 2. August 2025 gilt die Kompetenzpflicht nach Artikel 4 der EU KI-Verordnung. Unternehmen müssen nachweisen, dass ihre Mitarbeitenden mit KI-Systemen kompetent umgehen können. Der Kompetenznachweis ist das zentrale Dokument dieser Pflicht — aber was muss er enthalten, wer stellt ihn aus, und was passiert ohne ihn?
+Seit dem 2. August 2025 gilt die Kompetenzpflicht nach Artikel 4 der EU KI-Verordnung. Unternehmen müssen nachweisen, dass ihre Mitarbeitenden mit KI-Systemen kompetent umgehen können. Der Kompetenznachweis ist das zentrale Dokument dieser Pflicht. Aber was muss er enthalten, wer stellt ihn aus, und was passiert ohne ihn?
 
 ## Was der Kompetenznachweis leisten muss
 
-Der Kompetenznachweis ist kein Zertifikat im klassischen Sinne. Er ist ein **Dokument, das belegt, dass eine Person eine strukturierte Schulung absolviert hat** — und dass diese Schulung die Anforderungen von Artikel 4 der Verordnung (EU) 2024/1689 abdeckt.
+Der Kompetenznachweis ist kein Zertifikat im klassischen Sinne. Er ist ein **Dokument, das belegt, dass eine Person eine strukturierte Schulung absolviert hat**, die die Anforderungen von Artikel 4 der Verordnung (EU) 2024/1689 abdeckt.
 
 Die Verordnung schreibt keine Musterdokument vor. Sie fordert, dass Unternehmen "nach besten Kräften sicherstellen", dass ihr Personal über ausreichende KI-Kompetenz verfügt. Der Nachweis ist das Instrument, mit dem Unternehmen das belegen.
 
@@ -44,7 +44,7 @@ Ein Nachweis, der nur "KI-Schulung absolviert" bestätigt ohne Inhaltsangabe, is
 
 Die EU KI-Verordnung sieht **keine Akkreditierungspflicht** für Trainingsanbieter vor. Es gibt keine Behörde, die Trainer zertifizieren muss, und keinen amtlichen Stempel, der den Nachweis erst gültig macht.
 
-Das bedeutet: Jeder Anbieter kann einen konformen Nachweis ausstellen — wenn die Schulung inhaltlich die Anforderungen von Artikel 4 erfüllt. Die Verantwortung für die Auswahl eines geeigneten Anbieters liegt beim Unternehmen.
+Das bedeutet: Jeder Anbieter kann einen konformen Nachweis ausstellen, wenn die Schulung inhaltlich die Anforderungen von Artikel 4 erfüllt. Die Verantwortung für die Auswahl eines geeigneten Anbieters liegt beim Unternehmen.
 
 **Worauf Sie bei der Anbieterwahl achten sollten:**
 - Deckt die Schulung alle vier Kompetenzbereiche ab (Grundlagen, Risiken, Datenschutz, Praxisanwendung)?
@@ -54,21 +54,21 @@ Das bedeutet: Jeder Anbieter kann einen konformen Nachweis ausstellen — wenn d
 
 ## Der Nachweis und die Praxis
 
-Ein häufiges Missverständnis: Der Nachweis ist nicht das Ziel — er ist das Ergebnis einer guten Schulung. Unternehmen, die ein 20-minütiges Online-Video absolvieren lassen und dafür ein Zertifikat generieren, haben den Buchstaben der Verordnung erfüllt, aber nicht ihren Zweck.
+Ein häufiges Missverständnis: Der Nachweis ist nicht das Ziel, sondern das Ergebnis einer guten Schulung. Unternehmen, die ein 20-minütiges Online-Video absolvieren lassen und dafür ein Zertifikat generieren, haben den Buchstaben der Verordnung erfüllt, aber nicht ihren Zweck.
 
-Der eigentliche Schutz entsteht durch echte Kompetenz: Mitarbeitende, die verstehen, wie KI-Tools funktionieren, wo ihre Grenzen sind und wie sie sicher im Arbeitsalltag eingesetzt werden. Der Nachweis dokumentiert das — er ersetzt es nicht.
+Der eigentliche Schutz entsteht durch echte Kompetenz: Mitarbeitende, die verstehen, wie KI-Tools funktionieren, wo ihre Grenzen sind und wie sie sicher im Arbeitsalltag eingesetzt werden. Der Nachweis dokumentiert das, er ersetzt es nicht.
 
 ## Was ohne Nachweis passiert
 
-**Bußgeldrisiko:** Die EU KI-Verordnung sieht Bußgelder bis 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes vor. Für Verstöße gegen Artikel 4 sind die Sanktionen im unteren Bereich — aber das Risiko besteht ab dem ersten Tag der Nichteinhaltung.
+**Bußgeldrisiko:** Die EU KI-Verordnung sieht Bußgelder bis 15 Millionen Euro oder 3 % des weltweiten Jahresumsatzes vor. Für Verstöße gegen Artikel 4 sind die Sanktionen im unteren Bereich, aber das Risiko besteht ab dem ersten Tag der Nichteinhaltung.
 
-**Haftungsrisiko:** Verursacht ein Mitarbeitender mit einem KI-Tool einen Schaden — falsche Vertragszahlen, Datenpanne, fehlerhafte Rechtsauskunft — und das Unternehmen kann keinen Schulungsnachweis vorlegen, ist die zivilrechtliche Haftung kaum abzuwehren. Der Nachweis ist Teil der Sorgfaltspflicht.
+**Haftungsrisiko:** Verursacht ein Mitarbeitender mit einem KI-Tool einen Schaden, etwa falsche Vertragszahlen, eine Datenpanne oder fehlerhafte Rechtsauskunft, und das Unternehmen kann keinen Schulungsnachweis vorlegen, ist die zivilrechtliche Haftung kaum abzuwehren. Der Nachweis ist Teil der Sorgfaltspflicht.
 
 **Reputationsrisiko:** In Ausschreibungen, bei Enterprise-Kunden und in Due-Diligence-Prozessen wird KI-Compliance zunehmend abgefragt. Fehlende Nachweise können Aufträge kosten.
 
 ## Kompetenznachweis im KWAIX-Training
 
-Jedes KWAIX-KI-Training schließt mit einem vollständigen Kompetenznachweis für jeden Teilnehmenden ab. Der Nachweis enthält alle relevanten Bestandteile — und ist direkt aufbewahrungsfähig.
+Jedes KWAIX-KI-Training schließt mit einem vollständigen Kompetenznachweis für jeden Teilnehmenden ab. Der Nachweis enthält alle relevanten Bestandteile und ist direkt aufbewahrungsfähig.
 
 Das Training deckt die vier Kompetenzbereiche von Artikel 4 ab:
 1. KI-Grundlagen und Funktionsweise

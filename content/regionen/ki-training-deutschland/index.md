@@ -1,8 +1,8 @@
 ---
 title: "KI-Training in Deutschland: Alle Standorte"
-description: "KI-Training in Deutschland — Berlin, Hamburg, München, Köln und mehr. Remote (Standard) und vor Ort. Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training in Deutschland: Berlin, Hamburg, München, Köln und mehr. Remote (Standard) und vor Ort. Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Deutschland · DACH-weit"
-lede: "KI-Training für deutsche Unternehmen — in Großstädten, Mittelstädten und Hochschulstandorten. Remote ist Standard, vor Ort nach Absprache."
+lede: "KI-Training für deutsche Unternehmen in Großstädten, Mittelstädten und Hochschulstandorten. Remote ist Standard, vor Ort nach Absprache."
 draft: false
 url: "/regionen/ki-training-deutschland/"
 canonical: "https://kwaix.de/regionen/ki-training-deutschland/"
@@ -10,13 +10,13 @@ type: leistungen
 schemaType: "service"
 faqItems:
   - q: "Welches KI-Training empfiehlst du für ein deutsches KMU?"
-    a: "Für KMU in Deutschland empfiehlt sich ein Live-Training mit echten Use Cases aus dem eigenen Betrieb — kein generischer Kurs. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 KI-Verordnung, bundesweit remote und vor Ort. Gestaffelt für Teams von 1 bis 15+ Personen."
+    a: "Für KMU in Deutschland empfiehlt sich ein Live-Training mit echten Use Cases aus dem eigenen Betrieb, kein generischer Kurs. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) mit Kompetenznachweis nach Artikel 4 KI-Verordnung, bundesweit remote und vor Ort. Gestaffelt für Teams von 1 bis 15+ Personen."
   - q: "Gilt die KI-Schulungspflicht nach Artikel 4 KI-Verordnung für alle deutschen Unternehmen?"
-    a: "Ja. Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle Unternehmen, die KI-Systeme beruflich einsetzen — ChatGPT, Microsoft Copilot, Midjourney und vergleichbare Tools. Mitarbeitende müssen nachweislich KI-kompetent sein. KWAIX stellt diesen Nachweis nach jedem Training aus."
+    a: "Ja. Artikel 4 der Verordnung (EU) 2024/1689 gilt seit dem 2. August 2025 für alle Unternehmen, die KI-Systeme beruflich einsetzen: ChatGPT, Microsoft Copilot, Midjourney und vergleichbare Tools. Mitarbeitende müssen nachweislich KI-kompetent sein. KWAIX stellt diesen Nachweis nach jedem Training aus."
   - q: "Was kostet KI-Training für ein mittelständisches Unternehmen in Deutschland?"
     a: "Das KI-Training Live ist gestaffelt: 1–5 Personen 2.400 € netto, 6–10 Personen 3.600 € netto, 11–15 Personen 4.650 € netto. Enthalten: Vorab-Umfrage, 4 Stunden Live-Training, Prompt-Bibliothek, Policy-Template, Handout und Kompetenznachweis nach Artikel 4 KI-VO."
   - q: "Kann KWAIX dezentrale Teams mit mehreren deutschen Standorten schulen?"
-    a: "Ja — das ist ein häufiger Anwendungsfall. Remote-Training verbindet Teams aus verschiedenen Standorten in einer Gruppe. Bei Bedarf werden mehrere Gruppen gestaffelt trainiert. Vor-Ort-Termine an einzelnen Standorten nach Absprache."
+    a: "Ja, das ist ein häufiger Anwendungsfall. Remote-Training verbindet Teams aus verschiedenen Standorten in einer Gruppe. Bei Bedarf werden mehrere Gruppen gestaffelt trainiert. Vor-Ort-Termine an einzelnen Standorten nach Absprache."
 heroCards:
   - type: training
     title: "Deutschland"
@@ -33,7 +33,7 @@ heroCards:
 
 ## KI-Training für Unternehmen in ganz Deutschland
 
-Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote als Standard, vor Ort nach Absprache. Das Training passt sich an Ihre Branche, Ihr Team und Ihre konkreten Arbeitssituationen an.
+Wir trainieren Unternehmen in allen deutschen Städten und Regionen: remote als Standard, vor Ort nach Absprache. Das Training passt sich an Ihre Branche, Ihr Team und Ihre konkreten Arbeitssituationen an.
 
 ### Großstädte
 
@@ -60,7 +60,7 @@ Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote a
 {{< card icon="default" title="Bonn" text="UN-Organisationen, Deutsche Telekom, Bundesbehörden und NGOs." href="/regionen/ki-training-bonn/" cta="KI-Training Bonn" >}}
 {{< card icon="default" title="Heidelberg" text="Biotech-Cluster, Life Sciences und Forschungstransfer." href="/regionen/ki-training-heidelberg/" cta="KI-Training Heidelberg" >}}
 {{< card icon="default" title="Jena" text="Optik, Photonik (Carl Zeiss, Jenoptik) und Hightech-KMU." href="/regionen/ki-training-jena/" cta="KI-Training Jena" >}}
-{{< card icon="default" title="Tübingen" text="Max-Planck-Institut, Cyber Valley — KI-Forschungsstandort." href="/regionen/ki-training-tuebingen/" cta="KI-Training Tübingen" >}}
+{{< card icon="default" title="Tübingen" text="Max-Planck-Institut, Cyber Valley: KI-Forschungsstandort." href="/regionen/ki-training-tuebingen/" cta="KI-Training Tübingen" >}}
 {{< card icon="default" title="Freiburg" text="Solarwirtschaft, Nachhaltigkeit und Grenzregion DE/CH/FR." href="/regionen/ki-training-freiburg/" cta="KI-Training Freiburg" >}}
 {{< /cards >}}
 
@@ -73,8 +73,8 @@ Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote a
 ## Auch in Österreich und der Schweiz
 
 {{< cards cols="2" >}}
-{{< card icon="default" title="KI-Training Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck — mit Fokus auf österreichisches Recht und Verwaltungssprache." href="/regionen/ki-training-oesterreich/" cta="Österreich-Seite ansehen" >}}
-{{< card icon="default" title="KI-Training Schweiz" text="Zürich, Basel und Bern — mehrsprachig, mit Bezug auf FINMA und Schweizer Besonderheiten." href="/regionen/ki-training-schweiz/" cta="Schweiz-Seite ansehen" >}}
+{{< card icon="default" title="KI-Training Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck, mit Fokus auf österreichisches Recht und Verwaltungssprache." href="/regionen/ki-training-oesterreich/" cta="Österreich-Seite ansehen" >}}
+{{< card icon="default" title="KI-Training Schweiz" text="Zürich, Basel und Bern, mehrsprachig, mit Bezug auf FINMA und Schweizer Besonderheiten." href="/regionen/ki-training-schweiz/" cta="Schweiz-Seite ansehen" >}}
 {{< /cards >}}
 
 {{% /section %}}
@@ -83,7 +83,7 @@ Wir trainieren Unternehmen in allen deutschen Städten und Regionen — remote a
 
 ## Die EU KI-Verordnung gilt DE · AT · CH-weit
 
-Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 — in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
+Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
 
 {{< kpiStrip k1_label="Remote" k1_value="DE · AT · CH" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
 

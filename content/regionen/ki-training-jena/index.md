@@ -1,8 +1,8 @@
 ---
 title: "KI-Training Jena: Für Optik, Photonik und Technologieunternehmen"
-description: "KI-Training für Jenaer Unternehmen — Optik, Photonik, Medizintechnik, IT und Forschungstransfer. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
+description: "KI-Training für Jenaer Unternehmen: Optik, Photonik, Medizintechnik, IT und Forschungstransfer. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Jena"
-lede: "Jena steht für Präzisionstechnologie auf Weltklasseniveau — Carl Zeiss, Jenoptik und ein dichtes Netz an Hightech-KMU bringen spezifische Anforderungen an technische Dokumentation und Kommunikation."
+lede: "Jena steht für Präzisionstechnologie auf Weltklasseniveau: Carl Zeiss, Jenoptik und ein dichtes Netz an Hightech-KMU bringen spezifische Anforderungen an technische Dokumentation und Kommunikation."
 draft: false
 url: "/regionen/ki-training-jena/"
 canonical: "https://kwaix.de/regionen/ki-training-jena/"
@@ -20,18 +20,18 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Was macht Jena als Standort für KI-Training besonders?"
-    a: "Jena ist eines der weltweit führenden Zentren für Optik und Photonik. Carl Zeiss, Jenoptik und Hunderte von KMU im Hightech-Umfeld produzieren täglich technische Dokumentation, Qualitätsberichte und Kundenkommunikation — ein Bereich, in dem KI messbaren Zeitgewinn schafft, ohne technische Präzision zu gefährden."
+    a: "Jena ist eines der weltweit führenden Zentren für Optik und Photonik. Carl Zeiss, Jenoptik und Hunderte von KMU im Hightech-Umfeld produzieren täglich technische Dokumentation, Qualitätsberichte und Kundenkommunikation. Das ist ein Bereich, in dem KI messbaren Zeitgewinn schafft, ohne technische Präzision zu gefährden."
   - q: "Wie genau kann KI technische Inhalte aus der Optik/Photonik verarbeiten?"
-    a: "KI kennt keine Physik-Gleichungen aus eigener Kompetenz — aber sie kann technische Texte strukturieren, Wiederholungen vermeiden und Standardformulierungen aus Ihren Vorlagen zuverlässig einsetzen. Das spart Zeit bei Dokumententypen, die hohe Fachkenntnis erfordern, aber repetitiv in der Struktur sind."
+    a: "KI kennt keine Physik-Gleichungen aus eigener Kompetenz, aber sie kann technische Texte strukturieren, Wiederholungen vermeiden und Standardformulierungen aus Ihren Vorlagen zuverlässig einsetzen. Das spart Zeit bei Dokumententypen, die hohe Fachkenntnis erfordern, aber repetitiv in der Struktur sind."
 ---
 
 {{% section tone="plain" %}}
 
-## Hochpräzise Inhalte — effizienter erstellt
+## Hochpräzise Inhalte, effizienter erstellt
 
-Wer in der Optik- und Photonikindustrie arbeitet, weiß: Technische Dokumentation ist kein Randthema, sondern Kernkompetenz. Produktspezifikationen, Qualitätsberichte, Kalibrierprotokolle und Kundensupport-Unterlagen entstehen ständig — und binden Zeit, die in Entwicklung und Innovation fehlt.
+Wer in der Optik- und Photonikindustrie arbeitet, weiß: Technische Dokumentation ist kein Randthema, sondern Kernkompetenz. Produktspezifikationen, Qualitätsberichte, Kalibrierprotokolle und Kundensupport-Unterlagen entstehen ständig und binden Zeit, die in Entwicklung und Innovation fehlt.
 
-KI-Training hilft nicht dabei, technisches Wissen zu ersetzen. Es hilft dabei, die handwerkliche Seite des Schreibens zu beschleunigen: Struktur, Standardformulierungen, Wiederholungselemente. Fachleute bleiben Autoren — aber sie schreiben schneller.
+KI-Training hilft nicht dabei, technisches Wissen zu ersetzen. Es hilft dabei, die handwerkliche Seite des Schreibens zu beschleunigen: Struktur, Standardformulierungen, Wiederholungselemente. Fachleute bleiben Autoren, aber sie schreiben schneller.
 
 Jenseits der Großunternehmen hat Jena eine lebendige KMU-Szene und eine Friedrich-Schiller-Universität, die regelmäßig technologiegetriebene Spin-offs produziert.
 
@@ -67,7 +67,7 @@ Jenseits der Großunternehmen hat Jena eine lebendige KMU-Szene und eine Friedri
 ## FAQ: KI-Training in Jena
 
 **Kann KI bei der Vorbereitung von Patentanmeldungen helfen?**
-Ja — bei der Strukturierung, Beschreibung von Erfindungsoffenbarungen und der Formulierung von Unterlagen für den Anwalt. Die anwaltliche Prüfung und Einreichung bleibt Pflicht und wird durch KI nicht ersetzt.
+Ja, bei der Strukturierung, Beschreibung von Erfindungsoffenbarungen und der Formulierung von Unterlagen für den Anwalt. Die anwaltliche Prüfung und Einreichung bleibt Pflicht und wird durch KI nicht ersetzt.
 
 **Gibt es Fördermöglichkeiten für Thüringer Unternehmen?**
 Ja. Thüringen hat spezifische Digitalisierungs- und Weiterbildungsförderungen für KMU. Wir beraten Sie im Vorgespräch.

@@ -2,7 +2,7 @@
 title: "KI-Training Heidelberg: Für Biotech, Life Sciences und Forschungstransfer"
 description: "KI-Training Heidelberg: Biotech, Life Sciences, Medizintechnik und IT. Praxisnah, mit Kompetenznachweis nach Artikel 4 KI-VO."
 eyebrow: "Hochschulstadt · Heidelberg"
-lede: "Heidelberg vereint Weltklasse-Forschung mit einem wachsenden Biotech-Cluster — KI-Training beschleunigt den Transfer von Wissen in verwertbare Kommunikation."
+lede: "Heidelberg vereint Weltklasse-Forschung mit einem wachsenden Biotech-Cluster: KI-Training beschleunigt den Transfer von Wissen in verwertbare Kommunikation."
 draft: false
 url: "/regionen/ki-training-heidelberg/"
 canonical: "https://kwaix.de/regionen/ki-training-heidelberg/"
@@ -20,7 +20,7 @@ heroCards:
     subtitle: "Kompetenznachweis Art. 4"
 faqItems:
   - q: "Was unterscheidet Heidelberg als KI-Trainingsstandort?"
-    a: "Heidelberg hat eine außergewöhnlich hohe Dichte an Forschungseinrichtungen — Universität, EMBL, DKFZ, Heidelberg Institute for Theoretical Studies und zahlreiche Biotech-Unternehmen. Die Hauptherausforderung ist hier nicht Standardkommunikation, sondern der Transfer komplexer Forschungsinhalte in verständliche, verwertbare Texte."
+    a: "Heidelberg hat eine außergewöhnlich hohe Dichte an Forschungseinrichtungen: Universität, EMBL, DKFZ, Heidelberg Institute for Theoretical Studies und zahlreiche Biotech-Unternehmen. Die Hauptherausforderung ist hier nicht Standardkommunikation, sondern der Transfer komplexer Forschungsinhalte in verständliche, verwertbare Texte."
   - q: "Kann KI wissenschaftliche Texte erstellen?"
     a: "KI kann Strukturen, Abstracts-Erstfassungen und Zusammenfassungen liefern. Für regulierte wissenschaftliche Publikationen (Peer Review, klinische Dokumentation) bleibt die fachliche Autorenschaft entscheidend. Wir trainieren den Unterschied: wo KI spart, und wo Fachkenntnis unersetzbar bleibt."
 ---
@@ -29,9 +29,9 @@ faqItems:
 
 ## Wo Forschung auf Kommunikation trifft
 
-Heidelbergs Forschungslandschaft ist einzigartig: EMBL, DKFZ, Max-Planck und die älteste Universität Deutschlands bilden einen Cluster, der weltweit bekannt ist. Was weniger bekannt ist: Die größte Schwäche vieler Forschungsgruppen und Biotech-Startups ist nicht ihre Wissenschaft — es ist die Kommunikation davon.
+Heidelbergs Forschungslandschaft ist einzigartig: EMBL, DKFZ, Max-Planck und die älteste Universität Deutschlands bilden einen Cluster, der weltweit bekannt ist. Was weniger bekannt ist: Die größte Schwäche vieler Forschungsgruppen und Biotech-Startups ist nicht ihre Wissenschaft, sondern die Kommunikation davon.
 
-Grants, Investorendecks, Pressemitteilungen, Produktdokumentation, regulatorische Einreichungen: All das entsteht häufig nebenbei und unter Zeitdruck. KI-Training adressiert genau diese Lücke — ohne die wissenschaftliche Integrität zu kompromittieren.
+Grants, Investorendecks, Pressemitteilungen, Produktdokumentation, regulatorische Einreichungen: All das entsteht häufig nebenbei und unter Zeitdruck. KI-Training adressiert genau diese Lücke, ohne die wissenschaftliche Integrität zu kompromittieren.
 
 Hinzu kommt eine wachsende IT- und SaaS-Szene im Rhein-Neckar-Dreieck, die eigene Kommunikations- und Dokumentationsbedarfe mitbringt.
 
@@ -50,10 +50,10 @@ Hinzu kommt eine wachsende IT- und SaaS-Szene im Rhein-Neckar-Dreieck, die eigen
 ## Use Cases für Heidelberger Unternehmen und Forschungseinrichtungen
 
 {{< cards cols="3" >}}
-{{< card icon="prompt" title="Grant Writing & Förderanträge" text="EU Horizon, DFG, BMBF — KI liefert Struktur und Erstfassungen, Forschende bringen das Wissen. Förderanträge schneller und überzeugender formulieren." >}}
+{{< card icon="prompt" title="Grant Writing & Förderanträge" text="EU Horizon, DFG, BMBF: KI liefert Struktur und Erstfassungen, Forschende bringen das Wissen. Förderanträge schneller und überzeugender formulieren." >}}
 {{< card icon="backlog" title="Biotech-Kommunikation" text="Investorendeck, Partnerpräsentation und Produktkommunikation für Biotech-Ausgründungen auf dem Weg zur Finanzierungsrunde." >}}
 {{< card icon="policy" title="Regulatorische Dokumentation" text="Technische Dateidokumentation, SOPs und Einreichungsdokumente für Medizintechnik und Life Sciences effizienter vorbereiten." >}}
-{{< card icon="training" title="Wissenschaftsmarketing" text="Pressemitteilungen, Website-Texte und LinkedIn-Inhalte für Forschungsgruppen und Spin-offs — verständlich ohne Tiefe zu verlieren." >}}
+{{< card icon="training" title="Wissenschaftsmarketing" text="Pressemitteilungen, Website-Texte und LinkedIn-Inhalte für Forschungsgruppen und Spin-offs, verständlich ohne Tiefe zu verlieren." >}}
 {{< card icon="backlog" title="IT & SaaS" text="Technische Dokumentation, Onboarding-Materialien und Kundenkommunikation für IT-Unternehmen im Rhein-Neckar-Dreieck." >}}
 {{< card icon="proof" title="KI-VO Nachweis" text="Artikel 4 gilt auch für Spin-offs und Institute, die KI-Systeme einsetzen." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< /cards >}}
@@ -67,10 +67,10 @@ Hinzu kommt eine wachsende IT- und SaaS-Szene im Rhein-Neckar-Dreieck, die eigen
 ## FAQ: KI-Training in Heidelberg
 
 **Darf KI für EU-Förderanträge verwendet werden?**
-Grundsätzlich ja — die EU macht keine Vorgaben gegen KI-Unterstützung beim Schreiben, solange die inhaltliche Verantwortung beim Antragsteller liegt. Einzelne Programme können eigene Richtlinien haben. Wir trainieren einen Workflow, der transparent und klar vertretbar ist.
+Grundsätzlich ja: Die EU macht keine Vorgaben gegen KI-Unterstützung beim Schreiben, solange die inhaltliche Verantwortung beim Antragsteller liegt. Einzelne Programme können eigene Richtlinien haben. Wir trainieren einen Workflow, der transparent und klar vertretbar ist.
 
 **Eignet sich KI für akademische Texte, die in Fachzeitschriften publiziert werden sollen?**
-Nur als Hilfsmittel für Struktur und Erstfassung — viele Journals verlangen Deklaration von KI-Nutzung. Wir trainieren keine vollständige KI-Autorenschaft, sondern das sinnvolle Zusammenspiel.
+Nur als Hilfsmittel für Struktur und Erstfassung, denn viele Journals verlangen Deklaration von KI-Nutzung. Wir trainieren keine vollständige KI-Autorenschaft, sondern das sinnvolle Zusammenspiel.
 
 **Wie schnell ist ein Termin möglich?**
 1–3 Wochen nach Auftragserteilung.

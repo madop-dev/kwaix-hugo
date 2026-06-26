@@ -10,7 +10,7 @@ noindex: true
 
 {{% section tone="plain" %}}
 
-## Vielen Dank — wir melden uns.
+## Vielen Dank, wir melden uns.
 
 Ihre Anfrage ist bei uns eingegangen. Wir melden uns in der Regel innerhalb von 24 Stunden für ein kostenloses Vorgespräch.
 

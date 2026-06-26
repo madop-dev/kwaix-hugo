@@ -2,7 +2,7 @@
 title: "Trainingsprogramm: KI-Kickoff, Live-Training, Trainingsplattform"
 description: "KI-Training für KMU in drei Schritten: KI-Kickoff, KI-Training Live für Teams und Trainingsplattform für dauerhaften Kompetenzaufbau."
 eyebrow: "Alle Formate · Alle Branchen · DACH-weit"
-lede: "Vom ersten Überblick bis zur dauerhaften KI-Kompetenz im Team — in drei aufeinander aufbauenden Schritten."
+lede: "Vom ersten Überblick bis zur dauerhaften KI-Kompetenz im Team: in drei aufeinander aufbauenden Schritten."
 draft: false
 type: leistungen
 canonical: "https://kwaix.de/ki-training/"
@@ -24,7 +24,7 @@ heroCards:
     subtitle: "Dranbleiben & vertiefen"
 faqItems:
   - q: "Aus welchen Bausteinen besteht das KWAIX-Trainingsprogramm?"
-    a: "Das Programm besteht aus drei aufeinander aufbauenden Bausteinen: 1. KI-Kickoff (2–3 Std.) — multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort. 2. KI-Training Live (4 Std.) — praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform (12 Monate, optional) — E-Learning-Module, Prompt-Bibliothek und KI-Assistenten für dauerhaften Kompetenzaufbau."
+    a: "Das Programm besteht aus drei aufeinander aufbauenden Bausteinen: 1. KI-Kickoff (2–3 Std.), multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort. 2. KI-Training Live (4 Std.), praxisnahes Team-Training mit Prompting-Standards, echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung. 3. Trainingsplattform (12 Monate, optional), E-Learning-Module, Prompt-Bibliothek und KI-Assistenten für dauerhaften Kompetenzaufbau."
   - q: "Muss ich alle drei Bausteine buchen?"
     a: "Nein. Das KI-Training Live funktioniert eigenständig und ist das Kernangebot. Der KI-Kickoff ist eine sinnvolle Vorbereitung, wenn noch keine klaren Use Cases priorisiert sind. Die Trainingsplattform ist eine optionale Ergänzung nach dem Training für Teams, die das Gelernte dauerhaft verankern wollen."
   - q: "Für wie viele Personen ist das Training geeignet?"
@@ -32,7 +32,7 @@ faqItems:
   - q: "Benötigen die Teilnehmenden Vorerfahrung mit KI-Tools?"
     a: "Nein. Das Training startet bei den Grundlagen und ist auch für Einsteiger geeignet. Vorab erheben wir per Umfrage den Wissensstand Ihres Teams und passen die Inhalte entsprechend an."
   - q: "Können wir eigene Anwendungsfälle einbringen?"
-    a: "Ja — das ist das Kernprinzip. Im KI-Kickoff oder per Vorab-Umfrage sammeln wir konkrete Aufgaben aus Ihrem Arbeitsalltag. Diese Use Cases werden live im Training bearbeitet. Kein generisches Demo-Training ohne Praxisbezug."
+    a: "Ja, das ist das Kernprinzip. Im KI-Kickoff oder per Vorab-Umfrage sammeln wir konkrete Aufgaben aus Ihrem Arbeitsalltag. Diese Use Cases werden live im Training bearbeitet. Kein generisches Demo-Training ohne Praxisbezug."
   - q: "Erfüllt das Training die Anforderungen der KI-Verordnung (Artikel 4)?"
     a: "Ja. Das Training deckt die KI-Kompetenz-Anforderungen nach Artikel 4 der Verordnung (EU) 2024/1689 ab. Jede teilnehmende Person erhält einen dokumentierten Kompetenznachweis. Die Pflicht gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme betreiben."
   - q: "Findet das Training vor Ort oder remote statt?"
@@ -41,19 +41,19 @@ faqItems:
 
 {{% section tone="plain" %}}
 
-## KI-Kompetenz für Ihr Team — strukturiert und praxisnah
+## KI-Kompetenz für Ihr Team: strukturiert und praxisnah
 
-KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulation. Das KWAIX-Trainingsprogramm besteht aus drei Bausteinen, die aufeinander aufbauen: Zuerst Priorisierung (KI-Kickoff), dann Befähigung (KI-Training Live), dann Verstetigung (Trainingsplattform). Jeder Baustein funktioniert eigenständig — zusammen ergeben sie einen vollständigen Weg zur dauerhaften KI-Kompetenz im Unternehmen.
+KI verändert die tägliche Arbeit, von der E-Mail bis zur Angebotskalkulation. Das KWAIX-Trainingsprogramm besteht aus drei Bausteinen, die aufeinander aufbauen: Zuerst Priorisierung (KI-Kickoff), dann Befähigung (KI-Training Live), dann Verstetigung (Trainingsplattform). Jeder Baustein funktioniert eigenständig, zusammen ergeben sie einen vollständigen Weg zur dauerhaften KI-Kompetenz im Unternehmen.
 
-**Das Kernprinzip:** Kein generischer Überblick ohne Praxisbezug. Im Training arbeiten wir mit echten Use Cases aus Ihrem Arbeitsalltag — konkret, wiederholbar, sofort einsetzbar.
+**Das Kernprinzip:** Kein generischer Überblick ohne Praxisbezug. Im Training arbeiten wir mit echten Use Cases aus Ihrem Arbeitsalltag: konkret, wiederholbar, sofort einsetzbar.
 
 ## Auf einen Blick
 
-- **Baustein 1:** KI-Kickoff — 2–3 Std., multimedialer Impulsvortrag für die gesamte Belegschaft, vor Ort
-- **Baustein 2:** KI-Training Live — Praxistraining für Teams, Kompetenznachweis nach Artikel 4 KI-VO
-- **Baustein 3:** Trainingsplattform — Prompt-Bibliothek und Update-Module (optional)
+- **Baustein 1:** KI-Kickoff, 2–3 Std., multimedialer Impulsvortrag für die gesamte Belegschaft, vor Ort
+- **Baustein 2:** KI-Training Live, Praxistraining für Teams, Kompetenznachweis nach Artikel 4 KI-VO
+- **Baustein 3:** Trainingsplattform, Prompt-Bibliothek und Update-Module (optional)
 - **Kein Abo-Zwang:** Bausteine einzeln oder kombiniert buchbar
-- **Preise:** gestaffelt nach Teamgröße, ab 2.400 € — Details unter [/preise/](/ki-training-kosten/)
+- **Preise:** gestaffelt nach Teamgröße, ab 2.400 €, Details unter [/preise/](/ki-training-kosten/)
 
 {{< kpiStrip k1_label="KI-Kickoff" k1_value="2–3 Stunden" k2_label="Training ab" k2_value="2.400 € netto" k3_label="Plattform" k3_value="12 Monate" k4_label="Nachweis" k4_value="Art. 4 KI-VO" >}}
 
@@ -72,10 +72,10 @@ KI verändert die tägliche Arbeit — von der E-Mail bis zur Angebotskalkulatio
 ## Inhalte des KI-Trainings Live
 
 {{< cards cols="4" >}}
-{{< card icon="prompt" title="Prompting-Standards" text="Einheitliche, erprobte Vorgehensweisen für den täglichen KI-Einsatz — wiederholbar und dokumentierbar." >}}
-{{< card icon="backlog" title="Use Cases live" text="Konkrete Aufgaben aus Ihrem Arbeitsalltag werden gemeinsam bearbeitet — kein Lehrbuch-Beispiel." >}}
+{{< card icon="prompt" title="Prompting-Standards" text="Einheitliche, erprobte Vorgehensweisen für den täglichen KI-Einsatz, wiederholbar und dokumentierbar." >}}
+{{< card icon="backlog" title="Use Cases live" text="Konkrete Aufgaben aus Ihrem Arbeitsalltag werden gemeinsam bearbeitet, kein Lehrbuch-Beispiel." >}}
 {{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 der Verordnung (EU) 2024/1689 für jeden Teilnehmenden." >}}
-{{< card icon="policy" title="KI-Richtlinie" text="Policy-Template als Grundlage für Ihre interne KI-Richtlinie — ein sinnvoller Schritt nach dem Training." >}}
+{{< card icon="policy" title="KI-Richtlinie" text="Policy-Template als Grundlage für Ihre interne KI-Richtlinie: ein sinnvoller Schritt nach dem Training." >}}
 {{< /cards >}}
 
 ## Was Sie nach dem Training haben
@@ -105,13 +105,13 @@ Nein. Das [KI-Training Live](/leistungen/ki-training-live/) ist das Kernangebot 
 Nein. Das Training startet bei den Grundlagen. Vorab erheben wir per Umfrage den Wissensstand und passen die Inhalte entsprechend an.
 
 **Können wir eigene Anwendungsfälle einbringen?**
-Ja — das ist das Kernprinzip. Use Cases werden live im Training bearbeitet, nicht nur erwähnt.
+Ja, das ist das Kernprinzip. Use Cases werden live im Training bearbeitet, nicht nur erwähnt.
 
 **Erfüllt das Training Artikel 4 der KI-Verordnung?**
 Ja. Teilnehmende erhalten einen dokumentierten Kompetenznachweis. Die Pflicht gilt seit 2. August 2025. Details: [/ki-verordnung/kompetenznachweis/](/ki-verordnung/kompetenznachweis/).
 
 **Findet das Training vor Ort oder remote statt?**
-Beides ist möglich. KWAIX arbeitet DACH-weit — DE, AT, CH.
+Beides ist möglich. KWAIX arbeitet DACH-weit, in DE, AT, CH.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespraech%20(30%20Min)%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
 

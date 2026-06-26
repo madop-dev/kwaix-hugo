@@ -1,8 +1,8 @@
 ---
 title: "KI-Training Braunschweig: Für KMU in der Region Ostfalen"
-description: "KI-Training und KI-Kickoff in Braunschweig — remote/vor Ort, für Automotive, Forschung, Industrie und Handel. Inkl. Kompetenznachweis Art. 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Braunschweig, remote oder vor Ort, für Automotive, Forschung, Industrie und Handel. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Braunschweig"
-lede: "KI-Training für Braunschweiger KMU — praxisnah, mit echten Use Cases aus dem Alltag, dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
+lede: "KI-Training für Braunschweiger KMU: praxisnah, mit echten Use Cases aus dem Alltag, dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/braunschweig/"
 type: leistungen
@@ -32,9 +32,9 @@ faqItems:
 
 ## KI-Training für Unternehmen in Braunschweig
 
-Wir begleiten Ihr Team in Braunschweig vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
+Wir begleiten Ihr Team in Braunschweig vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4, mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
-**Format:** Vor Ort in Ihren Räumlichkeiten in Braunschweig oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Situation ab, wird im kostenlosen Vorgespräch geklärt.
+**Format:** Vor Ort in Ihren Räumlichkeiten in Braunschweig oder remote. Beide Formate sind vollwertig. Was passt, hängt von Teamgröße und Situation ab und wird im kostenlosen Vorgespräch geklärt.
 
 **Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Braunschweig%20anfragen) · +49 421 69018929
 
@@ -55,19 +55,19 @@ Wir begleiten Ihr Team in Braunschweig vom ersten Kickoff bis zum Kompetenznachw
 ## Typische Use Cases für Braunschweiger Unternehmen
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="Automotive & Zulieferer" text="Technische Dokumentation, Lieferantenkorrespondenz, Qualitätsberichte und Übergabeprotokolle — präzise, einheitlich und schneller erstellt." >}}
-{{< card icon="prompt" title="Forschung & Technologie" text="Förderanträge vorbereiten, Projektberichte strukturieren, Präsentationen aus Stichpunkten — mehr Zeit für die eigentliche Forschungsarbeit." >}}
-{{< card icon="policy" title="Industrie & Produktion" text="Wartungsberichte, Arbeitssicherheitsunterweisungen, Einarbeitungsunterlagen und Schichtübergaben — Wissen dokumentieren ohne Zeitverlust." >}}
-{{< card icon="training" title="Handel & Einzelhandel" text="Produktbeschreibungen skalierbar erstellen, Kundenanfragen beantworten, Aktionskommunikation — stationär und online." >}}
-{{< card icon="prompt" title="Verwaltung & HR" text="Stellenanzeigen (AGG-konform), Onboarding-Unterlagen, interne Kommunikation — einheitlich und nachweisbar." >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden — seit 2. August 2025 gesetzliche Pflicht." >}}
+{{< card icon="backlog" title="Automotive & Zulieferer" text="Technische Dokumentation, Lieferantenkorrespondenz, Qualitätsberichte und Übergabeprotokolle: präzise, einheitlich und schneller erstellt." >}}
+{{< card icon="prompt" title="Forschung & Technologie" text="Förderanträge vorbereiten, Projektberichte strukturieren, Präsentationen aus Stichpunkten: mehr Zeit für die eigentliche Forschungsarbeit." >}}
+{{< card icon="policy" title="Industrie & Produktion" text="Wartungsberichte, Arbeitssicherheitsunterweisungen, Einarbeitungsunterlagen und Schichtübergaben: Wissen dokumentieren ohne Zeitverlust." >}}
+{{< card icon="training" title="Handel & Einzelhandel" text="Produktbeschreibungen skalierbar erstellen, Kundenanfragen beantworten, Aktionskommunikation, stationär und online." >}}
+{{< card icon="prompt" title="Verwaltung & HR" text="Stellenanzeigen (AGG-konform), Onboarding-Unterlagen, interne Kommunikation: einheitlich und nachweisbar." >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden, seit 2. August 2025 gesetzliche Pflicht." >}}
 {{< /cards >}}
 
 ## Ablauf für Braunschweiger Unternehmen
 
 {{< cards cols="3" >}}
 {{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Min per Video oder Telefon: Teamgröße, Branche, Format (vor Ort/remote), Use Cases und Wunschtermin klären." >}}
-{{< card icon="backlog" title="02 KI-Kickoff (optional)" text="90–120 Min: Use-Case-Priorisierung, Risikocheck, Plan für Ihr Braunschweiger Team — bevor Geld in KI-Projekte fließt." >}}
+{{< card icon="backlog" title="02 KI-Kickoff (optional)" text="90–120 Min: Use-Case-Priorisierung, Risikocheck, Plan für Ihr Braunschweiger Team, bevor Geld in KI-Projekte fließt." >}}
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Braunschweig oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 

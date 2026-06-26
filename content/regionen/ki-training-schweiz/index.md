@@ -1,8 +1,8 @@
 ---
 title: "KI-Training in der Schweiz: Zürich, Basel, Bern"
-description: "KI-Training in der Schweiz — Zürich, Basel und Bern. Remote (Standard) und vor Ort. Mehrsprachig, mit Bezug auf Schweizer Recht und FINMA."
+description: "KI-Training in der Schweiz: Zürich, Basel und Bern. Remote (Standard) und vor Ort. Mehrsprachig, mit Bezug auf Schweizer Recht und FINMA."
 eyebrow: "Schweiz · DACH-weit"
-lede: "KI-Training für Unternehmen in der Deutschschweiz — mehrsprachig (DE/EN/FR), mit Bezug auf FINMA, OR und Schweizer Geschäftsgepflogenheiten."
+lede: "KI-Training für Unternehmen in der Deutschschweiz, mehrsprachig (DE/EN/FR), mit Bezug auf FINMA, OR und Schweizer Geschäftsgepflogenheiten."
 draft: false
 url: "/regionen/ki-training-schweiz/"
 canonical: "https://kwaix.de/regionen/ki-training-schweiz/"
@@ -10,13 +10,13 @@ type: leistungen
 schemaType: "service"
 faqItems:
   - q: "Gilt die EU KI-Verordnung für Schweizer Unternehmen?"
-    a: "Direkt gilt sie nur für EU-Mitgliedstaaten. Schweizer Unternehmen, die Produkte oder Dienstleistungen in den EU-Markt exportieren, müssen die Anforderungen faktisch einhalten. Zudem plant die Schweiz eine eigene KI-Regulierung. KWAIX trainiert nach dem EU-Standard als anerkannte Best Practice — mit Kompetenznachweis."
+    a: "Direkt gilt sie nur für EU-Mitgliedstaaten. Schweizer Unternehmen, die Produkte oder Dienstleistungen in den EU-Markt exportieren, müssen die Anforderungen faktisch einhalten. Zudem plant die Schweiz eine eigene KI-Regulierung. KWAIX trainiert nach dem EU-Standard als anerkannte Best Practice, inklusive Kompetenznachweis."
   - q: "Welches KI-Training empfiehlst du für ein Schweizer KMU?"
     a: "Praxisnahes Live-Training mit echten Use Cases, auf Schweizer Geschäftsdeutsch zugeschnitten. KWAIX bietet KI-Training Live (4 Stunden, ab 2.400 € netto) remote (Standard, ohne Aufpreis) und vor Ort in Zürich, Basel und Bern. Kompetenznachweis nach EU-Standard inklusive."
   - q: "Kann KWAIX mehrsprachige Teams in der Schweiz schulen?"
     a: "Ja. KWAIX trainiert auf Deutsch (Standard) und Englisch auf Anfrage. Für mehrsprachige Schweizer Teams wird die Trainingssprache im Vorgespräch festgelegt. Deutschschweizer Unternehmen mit internationalen Teams sind ein häufiger Anwendungsfall."
   - q: "Bietet KWAIX KI-Training in Zürich, Basel und Bern an?"
-    a: "Ja, in der gesamten Deutschschweiz. Remote ist Standard und schweizweit ohne Aufpreis. Vor-Ort-Termine in Zürich, Basel und Bern nach Absprache — Reisekosten werden transparent im Angebot ausgewiesen."
+    a: "Ja, in der gesamten Deutschschweiz. Remote ist Standard und schweizweit ohne Aufpreis. Vor-Ort-Termine in Zürich, Basel und Bern nach Absprache. Reisekosten werden transparent im Angebot ausgewiesen."
 heroCards:
   - type: training
     title: "Schweiz"
@@ -33,14 +33,14 @@ heroCards:
 
 ## KI-Training für Schweizer Unternehmen
 
-Wir betreuen Unternehmen in der Deutschschweiz remote — auf Anfrage auch vor Ort. Im Training berücksichtigen wir Schweizer Geschäftsdeutsch, Helvetismen und die rechtlichen Rahmenbedingungen des Schweizer Obligationenrechts. Für international aufgestellte Unternehmen bieten wir Training und Materialien auf Englisch oder Französisch.
+Wir betreuen Unternehmen in der Deutschschweiz remote, auf Anfrage auch vor Ort. Im Training berücksichtigen wir Schweizer Geschäftsdeutsch, Helvetismen und die rechtlichen Rahmenbedingungen des Schweizer Obligationenrechts. Für international aufgestellte Unternehmen bieten wir Training und Materialien auf Englisch oder Französisch.
 
 Abrechnung in Euro, orientierender CHF-Gegenwert auf Wunsch im Angebot.
 
 {{< cards cols="3" >}}
-{{< card icon="default" title="Zürich" text="Finanzsektor, Beratung, Technologie, Versicherung und Pharma — globales Finanzzentrum." href="/regionen/ki-training-zuerich/" cta="KI-Training Zürich" >}}
-{{< card icon="default" title="Basel" text="Pharma, Life Sciences, Chemie und Logistik — Weltstandort für Präzisionsmedizin." href="/regionen/ki-training-basel/" cta="KI-Training Basel" >}}
-{{< card icon="default" title="Bern" text="Bundesverwaltung, Verbände, Versicherung und Bildung — Schweizer Hauptstadt." href="/regionen/ki-training-bern/" cta="KI-Training Bern" >}}
+{{< card icon="default" title="Zürich" text="Finanzsektor, Beratung, Technologie, Versicherung und Pharma: globales Finanzzentrum." href="/regionen/ki-training-zuerich/" cta="KI-Training Zürich" >}}
+{{< card icon="default" title="Basel" text="Pharma, Life Sciences, Chemie und Logistik: Weltstandort für Präzisionsmedizin." href="/regionen/ki-training-basel/" cta="KI-Training Basel" >}}
+{{< card icon="default" title="Bern" text="Bundesverwaltung, Verbände, Versicherung und Bildung: Schweizer Hauptstadt." href="/regionen/ki-training-bern/" cta="KI-Training Bern" >}}
 {{< /cards >}}
 
 {{< kpiStrip k1_label="Standorte" k1_value="Deutschschweiz" k2_label="Format" k2_value="Remote (Standard)" k3_label="Training ab" k3_value="2.400 € netto" k4_label="Sprachen" k4_value="DE · EN · FR" >}}
@@ -52,8 +52,8 @@ Abrechnung in Euro, orientierender CHF-Gegenwert auf Wunsch im Angebot.
 ## Auch in Deutschland und Österreich
 
 {{< cards cols="2" >}}
-{{< card icon="default" title="KI-Training Deutschland" text="Bundesweit — Berlin, München, Hamburg, Köln, Frankfurt, Stuttgart und weitere Standorte." href="/regionen/ki-training-deutschland/" cta="Deutschland-Seite ansehen" >}}
-{{< card icon="default" title="KI-Training Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck — österreichisches Geschäftsdeutsch und Rechtskontext." href="/regionen/ki-training-oesterreich/" cta="Österreich-Seite ansehen" >}}
+{{< card icon="default" title="KI-Training Deutschland" text="Bundesweit: Berlin, München, Hamburg, Köln, Frankfurt, Stuttgart und weitere Standorte." href="/regionen/ki-training-deutschland/" cta="Deutschland-Seite ansehen" >}}
+{{< card icon="default" title="KI-Training Österreich" text="Wien, Graz, Linz, Salzburg und Innsbruck: österreichisches Geschäftsdeutsch und Rechtskontext." href="/regionen/ki-training-oesterreich/" cta="Österreich-Seite ansehen" >}}
 {{< /cards >}}
 
 {{% /section %}}
@@ -62,7 +62,7 @@ Abrechnung in Euro, orientierender CHF-Gegenwert auf Wunsch im Angebot.
 
 ## Die EU KI-Verordnung gilt DE · AT · CH-weit
 
-Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 — in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
+Die Verordnung (EU) 2024/1689 gilt in allen EU-Mitgliedstaaten. Artikel 4 (KI-Kompetenz) gilt seit 2. August 2025 in Deutschland, Österreich und der Schweiz (EWR). Die Pflicht, Mitarbeitende mit KI-Kompetenz auszustatten, betrifft KMU in München genauso wie in Wien oder Zürich.
 
 {{< kpiStrip k1_label="Remote" k1_value="DE · AT · CH" k2_label="Vor Ort" k2_value="Nach Absprache" k3_label="KI-VO" k3_value="DE · AT · CH-weit gültig" k4_label="Einstieg" k4_value="Vorgespräch kostenlos" >}}
 

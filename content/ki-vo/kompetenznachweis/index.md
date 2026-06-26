@@ -2,7 +2,7 @@
 title: "KI-Kompetenznachweis nach Artikel 4 KI-Verordnung"
 description: "Was der KI-Kompetenznachweis nach Artikel 4 EU KI-Verordnung für Unternehmen bedeutet, wie er ausgestellt wird und wie KWAIX ihn im Training dokumentiert."
 eyebrow: "KI-VO · Kompetenznachweis"
-lede: "Seit dem 2. August 2025 sind Unternehmen verpflichtet, KI-Kompetenz ihrer Mitarbeitenden sicherzustellen und nachweisbar zu dokumentieren — Artikel 4 EU KI-Verordnung."
+lede: "Seit dem 2. August 2025 sind Unternehmen verpflichtet, KI-Kompetenz ihrer Mitarbeitenden sicherzustellen und nachweisbar zu dokumentieren: Artikel 4 EU KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/ki-verordnung/kompetenznachweis/"
 url: "/ki-verordnung/kompetenznachweis/"
@@ -27,7 +27,7 @@ faqItems:
   - q: "Was muss im Kompetenznachweis dokumentiert sein?"
     a: "Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele und deren Erreichung sowie die ausstellende Person oder Organisation. Nach jedem Training stellen wir ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt."
   - q: "Reicht eine interne Schulung als Nachweis?"
-    a: "Ja — die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele (sicherer, verantwortungsvoller Umgang mit KI) nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen."
+    a: "Ja, die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele (sicherer, verantwortungsvoller Umgang mit KI) nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen."
   - q: "Wie lange ist ein KI-Kompetenznachweis gültig?"
     a: "Die KI-Verordnung legt keine Verfallsdauer fest. Da sich KI-Tools und regulatorische Anforderungen weiterentwickeln, empfehlen wir eine Auffrischung alle 12–18 Monate. Über die KWAIX-Trainingsplattform können Mitarbeitende ihren Wissensstand aktuell halten."
   - q: "Was kostet ein KI-Training mit Kompetenznachweis bei KWAIX?"
@@ -44,14 +44,14 @@ faqItems:
 
 Artikel 4 der **EU KI-Verordnung (Verordnung (EU) 2024/1689)** verpflichtet Unternehmen seit dem **2. August 2025**, sicherzustellen, dass ihre Mitarbeitenden über ausreichende KI-Kompetenz verfügen. Der Kompetenznachweis ist die schriftliche Dokumentation, dass diese Schulung stattgefunden hat.
 
-**Klartext:** Wer im Unternehmen KI-Tools einsetzt — ob ChatGPT, Microsoft Copilot, oder branchenspezifische KI-Anwendungen — unterliegt als Betreiber der Pflicht aus Artikel 4. Das betrifft heute nahezu jedes KMU.
+**Klartext:** Wer im Unternehmen KI-Tools einsetzt, ob ChatGPT, Microsoft Copilot oder branchenspezifische KI-Anwendungen, unterliegt als Betreiber der Pflicht aus Artikel 4. Das betrifft heute nahezu jedes KMU.
 
 ## Auf einen Blick
 
 - **Pflicht seit:** 2. August 2025
 - **Für wen:** Alle Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen (Betreiber i.S.d. KI-VO)
 - **Was dokumentiert wird:** Schulungsdatum, Inhalte, Teilnehmende, erreichte Kompetenzziele
-- **Format:** Kein fixes Format vorgeschrieben — ein strukturiertes Zertifikat ist ausreichend
+- **Format:** Kein fixes Format vorgeschrieben, ein strukturiertes Zertifikat ist ausreichend
 - **Bei KWAIX inkludiert:** Jedes KI-Training Live enthält den Nachweis für alle Teilnehmenden
 - **Preis:** Ab 2.400 € für 1–5 Mitarbeitende ([Preisübersicht](/ki-training-kosten/))
 
@@ -68,7 +68,7 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 **Was „ausreichend" bedeutet:**
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="Technisches Grundverständnis" text="Mitarbeitende verstehen, wie KI-Systeme funktionieren — was sie können, was nicht, und wo Fehler entstehen." >}}
+{{< card icon="training" title="Technisches Grundverständnis" text="Mitarbeitende verstehen, wie KI-Systeme funktionieren: was sie können, was nicht, und wo Fehler entstehen." >}}
 {{< card icon="policy" title="Risikobewusstsein" text="Kenntnisse über Datenschutzrisiken, Bias, Halluzinationen und die Grenzen der eingesetzten KI-Tools." >}}
 {{< card icon="proof" title="Verantwortungsvoller Einsatz" text="Fähigkeit, KI-Outputs zu prüfen, Ergebnisse zu beurteilen und Entscheidungen nicht blind zu delegieren." >}}
 {{< /cards >}}
@@ -76,9 +76,9 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 ## Für wen gilt die Pflicht?
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="KI-Betreiber" text="Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen — von ChatGPT bis zu ERP-Systemen mit KI-Komponenten." >}}
+{{< card icon="backlog" title="KI-Betreiber" text="Unternehmen, die KI-Systeme im beruflichen Kontext einsetzen, von ChatGPT bis zu ERP-Systemen mit KI-Komponenten." >}}
 {{< card icon="policy" title="KI-Anbieter" text="Unternehmen, die KI-Systeme entwickeln, anpassen oder vermarkten." >}}
-{{< card icon="training" title="Beauftragte Dritte" text="Personen, die im Auftrag eines Betreibers KI-Systeme bedienen — auch Dienstleister und Freiberufler." >}}
+{{< card icon="training" title="Beauftragte Dritte" text="Personen, die im Auftrag eines Betreibers KI-Systeme bedienen, auch Dienstleister und Freiberufler." >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
@@ -91,11 +91,11 @@ Artikel 4 der KI-Verordnung lautet (vereinfacht): Anbieter und Betreiber von KI-
 
 {{< cards cols="3" >}}
 {{< card icon="default" title="01 Vorgespräch" text="Teamgröße, eingesetzte KI-Tools, Vorkenntnisse und Format klären. 30 Min, kostenfrei." >}}
-{{< card icon="default" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und KI-Nutzung im Team — Grundlage für das Training." >}}
+{{< card icon="default" title="02 Vorab-Umfrage" text="Kurze Erhebung zu Wissensstand und KI-Nutzung im Team: Grundlage für das Training." >}}
 {{< card icon="training" title="03 Live-Training" text="Praxisnahes Training mit Bezug zu den eingesetzten Tools und realen Use Cases aus Ihrem Unternehmen." >}}
-{{< card icon="proof" title="04 Kompetenznachweis" text="Individuelles Zertifikat für jede teilnehmende Person — Artikel-4-konform, sofort archivierbar." >}}
-{{< card icon="prompt" title="05 Materialien" text="Prompt-Bibliothek, Policy-Template und Handout — Artefakte, die nach dem Training im Unternehmen bleiben." >}}
-{{< card icon="platform" title="06 Plattform (opt.)" text="Auffrischung und Wissensvertiefung über die Trainingsplattform — für neue Mitarbeitende oder bei Tool-Änderungen." >}}
+{{< card icon="proof" title="04 Kompetenznachweis" text="Individuelles Zertifikat für jede teilnehmende Person: Artikel-4-konform, sofort archivierbar." >}}
+{{< card icon="prompt" title="05 Materialien" text="Prompt-Bibliothek, Policy-Template und Handout: Artefakte, die nach dem Training im Unternehmen bleiben." >}}
+{{< card icon="platform" title="06 Plattform (opt.)" text="Auffrischung und Wissensvertiefung über die Trainingsplattform, für neue Mitarbeitende oder bei Tool-Änderungen." >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Kompetenznachweis%20anfragen" primaryText="Training + Nachweis anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
@@ -119,7 +119,7 @@ Für Anbieter (Unternehmen, die KI-Systeme entwickeln oder vermarkten) und Betre
 Die KI-Verordnung schreibt kein fixes Format vor. Dokumentiert werden sollte: Name und Funktion der Teilnehmenden, Schulungsinhalte und -umfang, Datum und Format (Präsenz/Remote), Kompetenzziele sowie die ausstellende Person oder Organisation. Nach jedem Training stellen wir ein standardisiertes Teilnahmezertifikat aus, das diese Anforderungen abdeckt.
 
 **Reicht eine interne Schulung als Nachweis?**
-Ja. Die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen.
+Ja, die KI-Verordnung schreibt keine externe Zertifizierungsstelle vor. Entscheidend ist, dass die Schulung dokumentiert ist und die Kompetenzziele nachvollziehbar abdeckt. KWAIX-Trainings sind so konzipiert, dass Inhalt und Dokumentation den Anforderungen entsprechen.
 
 **Wie lange ist ein KI-Kompetenznachweis gültig?**
 Die KI-Verordnung legt keine Verfallsdauer fest. Da sich KI-Tools und regulatorische Anforderungen weiterentwickeln, empfehlen wir eine Auffrischung alle 12–18 Monate.

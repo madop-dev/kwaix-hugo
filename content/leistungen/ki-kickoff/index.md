@@ -1,10 +1,10 @@
 ---
 title: "KI-Kickoff: Der Auftakt für die gesamte Belegschaft"
-description: "KI-Kickoff: multimedialer Impulsvortrag für die gesamte Belegschaft — Ängste abbauen, Motivation erzeugen, Chancen vermitteln. Vor Ort, 2–3 Stunden."
+description: "KI-Kickoff: multimedialer Impulsvortrag für die gesamte Belegschaft. Ängste abbauen, Motivation erzeugen, Chancen vermitteln. Vor Ort, 2–3 Stunden."
 draft: false
 type: leistungen
 eyebrow: "Vor Ort · Gesamte Belegschaft · Multimedial"
-lede: "KI kommt nicht über Nacht. Wir holen alle ab — mit einem multimedialen Impulsvortrag, der Ihre Belegschaft mitnimmt, bevor das Training beginnt."
+lede: "KI kommt nicht über Nacht. Wir holen alle ab, mit einem multimedialen Impulsvortrag, der Ihre Belegschaft mitnimmt, bevor das Training beginnt."
 herocta: "KI-Kickoff anfragen →"
 canonical: "https://kwaix.de/leistungen/ki-kickoff/"
 schemaType: "service"
@@ -20,25 +20,25 @@ heroCards:
     subtitle: "Ehrlich & verständlich"
 faqItems:
   - q: "Was ist der KI-Kickoff?"
-    a: "Der KI-Kickoff ist ein multimedialer Impulsvortrag für die gesamte Belegschaft — live vor Ort, 2–3 Stunden. Er findet statt, bevor das eigentliche KI-Training beginnt, und vermittelt: Was KI ist, was sie nicht ist, welche Chancen und Risiken sie bietet und warum das Training folgt. Ziel: Vertrauen aufbauen, Vorbehalte abbauen, Motivation erzeugen."
+    a: "Der KI-Kickoff ist ein multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort, 2–3 Stunden. Er findet statt, bevor das eigentliche KI-Training beginnt, und vermittelt: Was KI ist, was sie nicht ist, welche Chancen und Risiken sie bietet und warum das Training folgt. Ziel: Vertrauen aufbauen, Vorbehalte abbauen, Motivation erzeugen."
   - q: "Für wen ist der KI-Kickoff geeignet?"
-    a: "Für die gesamte Belegschaft — nicht nur für Führungskräfte oder Fachbereiche. Der Kickoff holt alle ab: technisch Affine, Skeptiker, Neugierige. Er ist der psychologische Auftakt, damit das anschließende Training auf fruchtbarem Boden stattfindet."
+    a: "Für die gesamte Belegschaft, nicht nur für Führungskräfte oder Fachbereiche. Der Kickoff holt alle ab: technisch Affine, Skeptiker, Neugierige. Er ist der psychologische Auftakt, damit das anschließende Training auf fruchtbarem Boden stattfindet."
   - q: "Was ist der Unterschied zwischen Kickoff und KI-Training Live?"
-    a: "Der Kickoff ist der Auftakt für die gesamte Belegschaft — motivierend, multimedial, ohne Tech-Jargon. Das KI-Training Live (/leistungen/ki-training-live/) folgt danach: 4 Stunden, in Trainingsgruppen, praxisnah mit echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
+    a: "Der Kickoff ist der Auftakt für die gesamte Belegschaft: motivierend, multimedial, ohne Tech-Jargon. Das KI-Training Live (/leistungen/ki-training-live/) folgt danach: 4 Stunden, in Trainingsgruppen, praxisnah mit echten Use Cases und Kompetenznachweis nach Artikel 4 KI-Verordnung."
   - q: "Wie lange dauert der Kickoff?"
     a: "2–3 Stunden, live vor Ort. Format und Ablauf werden im Vorgespräch auf Ihre Unternehmensgröße und Ziele abgestimmt."
   - q: "Findet der Kickoff remote oder vor Ort statt?"
-    a: "Der KI-Kickoff findet primär vor Ort statt — als echter Gemeinschaftsmoment für die Belegschaft. Multimedial aufbereitet, verständlich, ohne Tech-Jargon."
+    a: "Der KI-Kickoff findet primär vor Ort statt, als echter Gemeinschaftsmoment für die Belegschaft. Multimedial aufbereitet, verständlich, ohne Tech-Jargon."
   - q: "Was kostet der KI-Kickoff?"
     a: "Der Preis richtet sich nach Belegschaftsgröße und wird nach dem kostenlosen Vorgespräch (30 Min) individuell angeboten. Das Angebot erhalten Sie zeitnah. Preisübersicht: /ki-training-kosten/."
   - q: "Müssen wir etwas vorbereiten?"
     a: "Kaum. Ein kurzes Gespräch zur Unternehmenskultur und den häufigsten Vorbehalten Ihrer Mitarbeitenden genügt. Den Rest übernehmen wir."
   - q: "Gibt der Kickoff eine rechtlich verbindliche KI-VO-Bewertung?"
-    a: "Nein. Der Kickoff ist kein rechtlicher Workshop. Er vermittelt Chancen, Risiken und Grundlagen — als motivierender Auftakt, nicht als Compliance-Beratung."
+    a: "Nein. Der Kickoff ist kein rechtlicher Workshop. Er vermittelt Chancen, Risiken und Grundlagen, als motivierender Auftakt, nicht als Compliance-Beratung."
   - q: "Wie nehme ich meine Mitarbeitenden bei der KI-Einführung mit?"
-    a: "Der häufigste Fehler bei der KI-Einführung ist, mit dem Training zu starten, bevor Vertrauen und Verständnis da sind. Der KI-Kickoff schafft genau das: 2–3 Stunden Impulsvortrag für die gesamte Belegschaft — ohne IT-Jargon, ohne Druck. Mitarbeitende verstehen, was KI ist, was sie nicht ist und warum das Training folgt. Erst dann ist das Team bereit, wirklich zu lernen."
+    a: "Der häufigste Fehler bei der KI-Einführung ist, mit dem Training zu starten, bevor Vertrauen und Verständnis da sind. Der KI-Kickoff schafft genau das: 2–3 Stunden Impulsvortrag für die gesamte Belegschaft, ohne IT-Jargon, ohne Druck. Mitarbeitende verstehen, was KI ist, was sie nicht ist und warum das Training folgt. Erst dann ist das Team bereit, wirklich zu lernen."
   - q: "Brauche ich einen KI-Kickoff bevor das Team trainiert wird?"
-    a: "Nicht zwingend — aber empfohlen, wenn Teile der Belegschaft KI skeptisch gegenüberstehen oder wenn das Unternehmen erstmals KI-Tools einführt. Der Kickoff spart danach Trainingszeit: Teams, die den Auftakt erlebt haben, bringen weniger Widerstand und mehr Vorwissen ins Training mit."
+    a: "Nicht zwingend, aber empfohlen, wenn Teile der Belegschaft KI skeptisch gegenüberstehen oder wenn das Unternehmen erstmals KI-Tools einführt. Der Kickoff spart danach Trainingszeit: Teams, die den Auftakt erlebt haben, bringen weniger Widerstand und mehr Vorwissen ins Training mit."
 ---
 
 {{% section tone="plain" %}}
@@ -47,11 +47,11 @@ faqItems:
 
 Bevor das Training beginnt, steht Wertschätzung. Der Kick-off ist Ihr Signal an die Belegschaft: **Wir machen das gemeinsam.**
 
-KI kommt nicht über Nacht — und wer seine Mitarbeitenden nicht mitnimmt, verliert sie. Nicht an KI, sondern an Unsicherheit. Der KI-Kickoff schafft den Rahmen, in dem echtes Lernen erst möglich wird.
+KI kommt nicht über Nacht, und wer seine Mitarbeitenden nicht mitnimmt, verliert sie. Nicht an KI, sondern an Unsicherheit. Der KI-Kickoff schafft den Rahmen, in dem echtes Lernen erst möglich wird.
 
 {{< cards cols="3" >}}
 {{< card icon="training" title="Multimedialer Impulsvortrag" text="Live vor Ort, motivierend, verständlich, ohne Tech-Jargon. KI wird greifbar gemacht, nicht übergestülpt." >}}
-{{< card icon="default" title="Ängste abbauen, Motivation erzeugen" text="Viele Mitarbeitende haben Vorbehalte gegenüber KI. Der Kick-off schafft psychologische Sicherheit — die Grundlage für echtes Lernen." >}}
+{{< card icon="default" title="Ängste abbauen, Motivation erzeugen" text="Viele Mitarbeitende haben Vorbehalte gegenüber KI. Der Kick-off schafft psychologische Sicherheit: die Grundlage für echtes Lernen." >}}
 {{< card icon="policy" title="Chancen, Risiken & Herausforderungen" text="Spielerisch und ehrlich vermittelt. Was KI kann, was sie nicht kann und was das für jeden Einzelnen bedeutet." >}}
 {{< /cards >}}
 
@@ -63,11 +63,11 @@ KI kommt nicht über Nacht — und wer seine Mitarbeitenden nicht mitnimmt, verl
 
 ## Auf einen Blick
 
-- **Für wen:** Gesamte Belegschaft — Führungskräfte, Fachbereiche, Skeptiker, Neugierige
+- **Für wen:** Gesamte Belegschaft, Führungskräfte, Fachbereiche, Skeptiker, Neugierige
 - **Format:** Live vor Ort, multimedial aufbereitet, ohne Tech-Jargon
 - **Dauer:** 2–3 Stunden
-- **Zweck:** Psychologische Sicherheit schaffen — als Auftakt vor dem KI-Training Live
-- **Nächster Schritt:** [KI-Training Live](/leistungen/ki-training-live/) für Ihre Teams — in 4 Stunden, mit Kompetenznachweis Art. 4 KI-VO
+- **Zweck:** Psychologische Sicherheit schaffen, als Auftakt vor dem KI-Training Live
+- **Nächster Schritt:** [KI-Training Live](/leistungen/ki-training-live/) für Ihre Teams, in 4 Stunden, mit Kompetenznachweis Art. 4 KI-VO
 
 ## Ablauf
 
@@ -86,10 +86,10 @@ KI kommt nicht über Nacht — und wer seine Mitarbeitenden nicht mitnimmt, verl
 ## FAQ: KI-Kickoff
 
 **Was ist der KI-Kickoff?**
-Ein multimedialer Impulsvortrag für die gesamte Belegschaft — live vor Ort, 2–3 Stunden. Er macht KI greifbar, baut Vorbehalte ab und schafft die psychologische Grundlage für das anschließende Training.
+Ein multimedialer Impulsvortrag für die gesamte Belegschaft, live vor Ort, 2–3 Stunden. Er macht KI greifbar, baut Vorbehalte ab und schafft die psychologische Grundlage für das anschließende Training.
 
 **Für wen ist er gedacht?**
-Für alle — nicht nur für Führungskräfte. Der Kickoff holt die gesamte Belegschaft ab: Skeptiker, Neugierige, Technikaffine und alle dazwischen.
+Für alle, nicht nur für Führungskräfte. Der Kickoff holt die gesamte Belegschaft ab: Skeptiker, Neugierige, Technikaffine und alle dazwischen.
 
 **Was ist der Unterschied zum KI-Training Live?**
 Der Kickoff ist der emotionale Auftakt für alle. Das [KI-Training Live](/leistungen/ki-training-live/) folgt danach: 4 Stunden, in Gruppen, mit echten Use Cases und Kompetenznachweis nach Artikel 4 KI-VO.

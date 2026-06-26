@@ -1,6 +1,6 @@
 ---
 title: "KI-Policy für Unternehmen: Vorlage und Aufbau"
-description: "Was eine KI-Policy für Unternehmen enthält, warum sie seit der EU KI-Verordnung wichtiger wird und wie KWAIX dabei unterstützt — mit Vorlage."
+description: "Was eine KI-Policy für Unternehmen enthält, warum sie seit der EU KI-Verordnung wichtiger wird und wie KWAIX dabei unterstützt: mit Vorlage."
 eyebrow: "KI-VO · KI-Policy"
 lede: "Eine KI-Policy regelt, wer im Unternehmen welche KI-Tools wie und wofür einsetzen darf. Sie ist die Grundlage für compliance-konformen KI-Einsatz und wird im KI-Kickoff gemeinsam entwickelt."
 draft: false
@@ -29,7 +29,7 @@ faqItems:
   - q: "Kann ich eine KI-Policy-Vorlage einfach übernehmen?"
     a: "Eine Vorlage ist ein guter Ausgangspunkt, aber keine KMU-spezifische Lösung. Entscheidend sind die konkret eingesetzten Tools, die Branche (Datenschutzanforderungen variieren stark), die Teamstruktur und die tatsächlichen Use Cases. KWAIX entwickelt die Policy gemeinsam mit Ihnen im KI-Kickoff."
   - q: "Was kostet die Entwicklung einer KI-Policy?"
-    a: "Die KI-Policy ist im KI-Kickoff (ab Einzel-Erstgespräch) und im KI-Training Live enthalten. Sie ist kein separates Produkt, sondern Bestandteil jedes KWAIX-Engagements — als Policy-Template, das Sie intern anpassen und weiterentwickeln."
+    a: "Die KI-Policy ist im KI-Kickoff (ab Einzel-Erstgespräch) und im KI-Training Live enthalten. Sie ist kein separates Produkt, sondern Bestandteil jedes KWAIX-Engagements: als Policy-Template, das Sie intern anpassen und weiterentwickeln."
 ---
 
 {{% section tone="plain" %}}
@@ -48,7 +48,7 @@ Eine **KI-Policy** ist eine interne Unternehmensrichtlinie, die festlegt:
 ## Auf einen Blick
 
 - **Was es ist:** Interne Richtlinie für den KI-Einsatz im Unternehmen
-- **Umfang für KMU:** 1–2 Seiten — präzise, nicht umfassend
+- **Umfang für KMU:** 1–2 Seiten, präzise, nicht umfassend
 - **Inhalt:** Freigegebene Tools, Datenschutzgrenzen, Qualitätsprüfung, Verantwortlichkeiten
 - **Erstellt:** Im [KI-Kickoff](/leistungen/ki-kickoff/) gemeinsam mit Ihrem Team
 - **KI-VO-Bezug:** Unterstützt Compliance mit Artikel 4 (Kompetenz) und Artikel 26 (Betreiberpflichten)
@@ -62,7 +62,7 @@ Eine **KI-Policy** ist eine interne Unternehmensrichtlinie, die festlegt:
 ## Was eine KI-Policy enthalten sollte
 
 {{< cards cols="3" >}}
-{{< card icon="policy" title="Freigegebene Tools" text="Welche KI-Dienste sind für welche Mitarbeitenden und Aufgaben genehmigt — und welche explizit nicht." >}}
+{{< card icon="policy" title="Freigegebene Tools" text="Welche KI-Dienste sind für welche Mitarbeitenden und Aufgaben genehmigt, und welche explizit nicht." >}}
 {{< card icon="policy" title="Datenschutzgrenzen" text="Welche Daten dürfen in welche Tools? Keine Kunden-Personaldaten in öffentliche KI-Dienste ohne Auftragsverarbeitung." >}}
 {{< card icon="training" title="Qualitätssicherung" text="KI-Outputs sind immer zu prüfen. Regelungen zu Haftung und Verantwortung bei KI-generierten Fehlern." >}}
 {{< card icon="proof" title="Schulungspflicht" text="Wer KI-Tools nutzt, ist verpflichtet, das Training absolviert zu haben. Verweis auf Nachweis nach Artikel 4 KI-VO." >}}
@@ -72,7 +72,7 @@ Eine **KI-Policy** ist eine interne Unternehmensrichtlinie, die festlegt:
 
 ## Was eine KI-Policy nicht leisten kann
 
-Eine Policy ersetzt keine Rechtsberatung. Sie gibt keine Garantie für vollständige DSGVO- oder KI-VO-Compliance — dafür ist eine juristische Prüfung durch eine spezialisierte Kanzlei notwendig. KWAIX entwickelt die Policy als praktische Orientierung, nicht als Rechtsdokument.
+Eine Policy ersetzt keine Rechtsberatung. Sie gibt keine Garantie für vollständige DSGVO- oder KI-VO-Compliance: Dafür ist eine juristische Prüfung durch eine spezialisierte Kanzlei notwendig. KWAIX entwickelt die Policy als praktische Orientierung, nicht als Rechtsdokument.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Policy%20anfragen" primaryText="KI-Policy im Kickoff entwickeln" secondaryHref="/leistungen/ki-kickoff/" secondaryText="KI-Kickoff im Detail" >}}
 
@@ -98,7 +98,7 @@ Für KMU empfehlen wir 1–2 Seiten. Zu lange Richtlinien werden nicht gelesen. 
 Eine Vorlage ist ein guter Ausgangspunkt, aber keine unternehmensspezifische Lösung. Entscheidend sind die konkret eingesetzten Tools, die Branche und die tatsächlichen Use Cases.
 
 **Was kostet die Entwicklung einer KI-Policy?**
-Die KI-Policy ist im [KI-Kickoff](/leistungen/ki-kickoff/) und im [KI-Training Live](/leistungen/ki-training-live/) als Policy-Template enthalten — kein separates Produkt.
+Die KI-Policy ist im [KI-Kickoff](/leistungen/ki-kickoff/) und im [KI-Training Live](/leistungen/ki-training-live/) als Policy-Template enthalten, kein separates Produkt.
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Policy%20entwickeln" primaryText="Jetzt anfragen" secondaryHref="/ki-verordnung/artikel-4-ki-kompetenz/" secondaryText="Artikel 4 KI-VO" >}}
 

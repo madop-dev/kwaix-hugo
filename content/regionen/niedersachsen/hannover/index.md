@@ -1,8 +1,8 @@
 ---
 title: "KI-Training Hannover: Für KMU und Mittelstand in der Landeshauptstadt"
-description: "KI-Training und KI-Kickoff in Hannover — remote oder vor Ort, für Messe, Logistik, Handel, Industrie und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
+description: "KI-Training und KI-Kickoff in Hannover, remote oder vor Ort, für Messe, Logistik, Handel, Industrie und Dienstleistung. Inkl. Kompetenznachweis Art. 4 KI-VO."
 eyebrow: "Region · Hannover"
-lede: "KI-Training für Hannoveraner KMU — praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
+lede: "KI-Training für Hannoveraner KMU: praxisnah, ohne IT-Vorkenntnisse, mit dokumentiertem Kompetenznachweis nach Artikel 4 KI-Verordnung."
 draft: false
 canonical: "https://kwaix.de/regionen/niedersachsen/hannover/"
 type: leistungen
@@ -32,9 +32,9 @@ faqItems:
 
 ## KI-Training für Unternehmen in Hannover
 
-Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4 — mit Use Cases aus Ihrer Branche, nicht von der Stange.
+Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis nach Artikel 4, mit Use Cases aus Ihrer Branche, nicht von der Stange.
 
-**Format:** Vor Ort in Ihren Räumlichkeiten in Hannover oder remote. Beide Formate sind vollwertig — das Richtige hängt von Teamgröße und Standort ab, wird im kostenlosen Vorgespräch geklärt.
+**Format:** Vor Ort in Ihren Räumlichkeiten in Hannover oder remote. Beide Formate sind vollwertig. Was passt, hängt von Teamgröße und Standort ab und wird im kostenlosen Vorgespräch geklärt.
 
 **Kontakt:** [info@kwaix.de](mailto:info@kwaix.de?subject=KI-Training%20Hannover%20anfragen) · +49 421 69018929
 
@@ -55,19 +55,19 @@ Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis 
 ## Typische Use Cases für Hannoveraner Unternehmen
 
 {{< cards cols="3" >}}
-{{< card icon="backlog" title="Industrie & Maschinenbau" text="Technische Dokumentation aus Stichpunkten, Wartungsberichte, Lieferantenkommunikation und Qualitätsberichte — überall dort, wo Wissen dokumentiert wird." >}}
-{{< card icon="prompt" title="Messe & Veranstaltungen" text="Briefings, Angebote, Kundenkommunikation und Nachberichte für Messebeteiligungen — schneller fertig, einheitlicher im Ton." >}}
-{{< card icon="policy" title="Handel & Einzelhandel" text="Produktbeschreibungen skalierbar erstellen, Kundenanfragen beantworten, Aktionskommunikation — stationär und online." >}}
+{{< card icon="backlog" title="Industrie & Maschinenbau" text="Technische Dokumentation aus Stichpunkten, Wartungsberichte, Lieferantenkommunikation und Qualitätsberichte: überall dort, wo Wissen dokumentiert wird." >}}
+{{< card icon="prompt" title="Messe & Veranstaltungen" text="Briefings, Angebote, Kundenkommunikation und Nachberichte für Messebeteiligungen, schneller fertig, einheitlicher im Ton." >}}
+{{< card icon="policy" title="Handel & Einzelhandel" text="Produktbeschreibungen skalierbar erstellen, Kundenanfragen beantworten, Aktionskommunikation, stationär und online." >}}
 {{< card icon="training" title="IT-Dienstleistungen" text="Angebote, Projektberichte, technische Dokumentation und Kundenpräsentationen 40–70 % schneller ohne Qualitätsverlust." >}}
-{{< card icon="prompt" title="Verwaltung & HR" text="Stellenanzeigen (AGG-konform), Onboarding-Unterlagen, Unterweisungsprotokolle — einheitlich und nachweisbar." >}}
-{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden — seit 2. August 2025 gesetzliche Pflicht." >}}
+{{< card icon="prompt" title="Verwaltung & HR" text="Stellenanzeigen (AGG-konform), Onboarding-Unterlagen, Unterweisungsprotokolle: einheitlich und nachweisbar." >}}
+{{< card icon="proof" title="Kompetenznachweis" text="Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden, seit 2. August 2025 gesetzliche Pflicht." >}}
 {{< /cards >}}
 
 ## Ablauf für Hannoveraner Unternehmen
 
 {{< cards cols="3" >}}
 {{< card icon="default" title="01 Vorgespräch (kostenlos)" text="30 Min per Video oder Telefon: Teamgröße, Branche, Format (vor Ort/remote), Use Cases und Wunschtermin klären." >}}
-{{< card icon="backlog" title="02 KI-Kickoff (optional)" text="90–120 Min: Use-Case-Priorisierung, Risikocheck, Plan für Ihr Hannoveraner Team — bevor Geld in KI-Projekte fließt." >}}
+{{< card icon="backlog" title="02 KI-Kickoff (optional)" text="90–120 Min: Use-Case-Priorisierung, Risikocheck, Plan für Ihr Hannoveraner Team, bevor Geld in KI-Projekte fließt." >}}
 {{< card icon="training" title="03 KI-Training Live" text="Praxisnahes Team-Training mit Ihren konkreten Use Cases. Vor Ort in Hannover oder remote. Kompetenznachweis inklusive." >}}
 {{< /cards >}}
 
@@ -83,7 +83,7 @@ Wir begleiten Ihr Team in Hannover vom ersten Kickoff bis zum Kompetenznachweis 
 Ja. Wir kommen zu Ihnen nach Hannover oder trainieren remote. Beide Formate sind vollwertig; für kleinere Teams bis 5 Personen ist Remote oft effizienter.
 
 **Welche Branchen betreut KWAIX in Hannover?**
-Industrie und Maschinenbau, Messe und Veranstaltungsbranche, Handel, IT-Dienstleistungen und Verwaltung. Die Use Cases werden an Ihre Branche angepasst — das Trainingskonzept (echte Aufgaben, Standards, Nachweis) bleibt dasselbe.
+Industrie und Maschinenbau, Messe und Veranstaltungsbranche, Handel, IT-Dienstleistungen und Verwaltung. Die Use Cases werden an Ihre Branche angepasst, das Trainingskonzept (echte Aufgaben, Standards, Nachweis) bleibt dasselbe.
 
 **Was kostet KI-Training in Hannover?**
 Das Training kostet ab 2.400 € netto für Teams bis 5 Personen, für 6–10 Personen 3.600 € netto, für 11–15 Personen 4.650 € netto. Reisekosten nach Hannover werden transparent im Angebot ausgewiesen. Details unter [/preise/](/ki-training-kosten/).

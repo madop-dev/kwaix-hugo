@@ -1,6 +1,6 @@
 ---
 title: "KI Training für KMU und Mittelstand"
-description: "Kostenloses Erstgespräch — 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
+description: "Kostenloses Erstgespräch: 30 Minuten, unverbindlich. KI-Beratung für Ihr Unternehmen."
 draft: true
 ---
 
@@ -13,10 +13,10 @@ draft: true
 
 ## Was Sie erwarten können
 
-- **Kostenloses Erstgespräch** — 30 Minuten, unverbindlich
-- **Ehrliche Beratung** — Nicht jedes Projekt passt. Wir sagen es Ihnen.
-- **Schnelle Rückmeldung** — In der Regel am nächsten Werktag
-- **Keine versteckten Kosten** — Transparente Preise von Anfang an
+- **Kostenloses Erstgespräch:** 30 Minuten, unverbindlich
+- **Ehrliche Beratung:** Nicht jedes Projekt passt. Wir sagen es Ihnen.
+- **Schnelle Rückmeldung:** In der Regel am nächsten Werktag
+- **Keine versteckten Kosten:** Transparente Preise von Anfang an
 
 ## Häufige Fragen
 

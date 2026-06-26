@@ -2,14 +2,14 @@
 title: "Barrierefreiheit"
 description: "Erklärung zur Barrierefreiheit der KWAIX-Website."
 eyebrow: "Erklärung · WCAG-Standards"
-lede: "Wir arbeiten kontinuierlich daran, dass kwaix.de für möglichst viele Menschen gut nutzbar ist — unabhängig von Endgerät, Browser oder eingeschränkter Wahrnehmung."
+lede: "Wir arbeiten kontinuierlich daran, dass kwaix.de für möglichst viele Menschen gut nutzbar ist, unabhängig von Endgerät, Browser oder eingeschränkter Wahrnehmung."
 draft: false
 heroIcon: "policy"
 ---
 
 ## Unser Anspruch
 
-KWAIX bemüht sich, diese Website so zu gestalten, dass sie für möglichst viele Menschen gut nutzbar ist — unabhängig von Endgerät, Browser oder eingeschränkter Wahrnehmung. Wir orientieren uns dabei an den Standards der Web Content Accessibility Guidelines (WCAG).
+KWAIX bemüht sich, diese Website so zu gestalten, dass sie für möglichst viele Menschen gut nutzbar ist, unabhängig von Endgerät, Browser oder eingeschränkter Wahrnehmung. Wir orientieren uns dabei an den Standards der Web Content Accessibility Guidelines (WCAG).
 
 ## Aktueller Stand
 

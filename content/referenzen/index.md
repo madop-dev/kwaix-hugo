@@ -1,8 +1,8 @@
 ---
 title: "Referenzen & Erfahrungen"
-description: "Erfahrungen aus KI-Trainings und KI-Kickoffs mit KMU — anonymisiert, konkret, ohne Hochglanz-Testimonials."
+description: "Erfahrungen aus KI-Trainings und KI-Kickoffs mit KMU: anonymisiert, konkret, ohne Hochglanz-Testimonials."
 eyebrow: "Echte Ergebnisse aus der Praxis"
-lede: "Keine Hochglanz-Testimonials. Nur konkrete Einblicke, was KI-Training in der Praxis bringt — und was nicht."
+lede: "Keine Hochglanz-Testimonials. Nur konkrete Einblicke, was KI-Training in der Praxis bringt, und was nicht."
 draft: false
 canonical: "https://kwaix.de/referenzen/"
 heroIcon: "proof"
@@ -12,7 +12,7 @@ heroIcon: "proof"
 
 ## Aus der Praxis
 
-KWAIX arbeitet mit KMU und Mittelstandsunternehmen aus verschiedenen Branchen. Referenzen werden auf Wunsch anonymisiert — weil viele Unternehmen ihre KI-Aktivitäten nicht öffentlich kommunizieren wollen. Das respektieren wir.
+KWAIX arbeitet mit KMU und Mittelstandsunternehmen aus verschiedenen Branchen. Referenzen werden auf Wunsch anonymisiert, weil viele Unternehmen ihre KI-Aktivitäten nicht öffentlich kommunizieren wollen. Das respektieren wir.
 
 Was wir zeigen können: typische Ausgangssituationen, Ergebnisse und Einschätzungen.
 
@@ -29,7 +29,7 @@ Was wir zeigen können: typische Ausgangssituationen, Ergebnisse und Einschätzu
 ## Was KI-Training realistisch leistet
 
 {{< cards cols="3" >}}
-{{< card icon="roi" title="Zeitersparnis" text="30–60 Min täglich bei Routinetextaufgaben sind realistisch — konservativ berechnet. Kein Versprechen, aber ein häufiges Ergebnis." >}}
+{{< card icon="roi" title="Zeitersparnis" text="30–60 Min täglich bei Routinetextaufgaben sind realistisch, konservativ berechnet. Kein Versprechen, aber ein häufiges Ergebnis." >}}
 {{< card icon="proof" title="Compliance" text="Der Kompetenznachweis nach Artikel 4 KI-VO ist ein konkretes, dokumentierbares Ergebnis jedes Trainings." >}}
 {{< card icon="policy" title="Standards" text="Prompt-Bibliothek und KI-Policy-Vorlage: Artefakte, die nach dem Training im Unternehmen bleiben und genutzt werden." >}}
 {{< /cards >}}

@@ -1,5 +1,5 @@
 ---
-title: "KI-Training für Unternehmen — KWAIX"
+title: "KI-Training für Unternehmen | KWAIX"
 description: "KI-Training für KMU im DACH-Raum: Team-Training, Kompetenznachweis nach Artikel 4 KI-Verordnung, KI-Kickoff und Trainingsplattform. Ab 2.400 € netto."
 schemaType: "service"
 priceRange: "2400-4650"
@@ -11,11 +11,11 @@ faqItems:
   - q: "Gilt die EU KI-Verordnung für alle Unternehmen?"
     a: "Ja. Artikel 4 der Verordnung (EU) 2024/1689 gilt seit 2. August 2025 für alle Unternehmen, die KI-Systeme beruflich einsetzen (Betreiber nach Artikel 3 Nr. 4). Das umfasst jedes Unternehmen, das ChatGPT, Microsoft Copilot oder vergleichbare Tools im Arbeitsalltag nutzt."
   - q: "Was ist der Kompetenznachweis nach Artikel 4 KI-Verordnung?"
-    a: "Ein dokumentierter Nachweis, dass ein Mitarbeitender die KI-Kompetenz gemäß Artikel 3 Nr. 56 der Verordnung (EU) 2024/1689 erworben hat — also die Fähigkeit, KI-Systeme sachkundig einzusetzen und Chancen, Risiken und Schäden zu verstehen. Wir stellen ihn nach jedem Training aus."
+    a: "Ein dokumentierter Nachweis, dass ein Mitarbeitender die KI-Kompetenz gemäß Artikel 3 Nr. 56 der Verordnung (EU) 2024/1689 erworben hat, also die Fähigkeit, KI-Systeme sachkundig einzusetzen und Chancen, Risiken und Schäden zu verstehen. Wir stellen ihn nach jedem Training aus."
   - q: "Wie schnell spart ein Team Zeit durch KI?"
     a: "Ein gut geschultes Team mit klaren Use Cases und Prompting-Standards spart 8–20 Minuten pro Person täglich. Bei 8 Mitarbeitenden entspricht das ca. 32 Stunden pro Monat oder rund 21.000 € jährliche Wertschöpfung (bei 55 €/Std). Break-even des Trainings: ca. 2 Monate."
   - q: "Arbeitet KWAIX nur in Bremen oder DACH-weit?"
-    a: "KWAIX arbeitet DACH-weit — remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote-Training ist Standard; Vor-Ort-Termine werden individuell abgestimmt."
+    a: "KWAIX arbeitet DACH-weit: remote und vor Ort in Deutschland, Österreich und der Schweiz. Remote-Training ist Standard; Vor-Ort-Termine werden individuell abgestimmt."
   - q: "Was ist der KI-Kickoff?"
     a: "Der KI-Kickoff ist ein 90–120-minütiger Workshop mit Geschäftsführung und Fachbereichen. Ergebnis: priorisierte Use-Case-Shortlist, orientierende Datenschutz- und KI-VO-Einordnung, konkreter Plan für die nächsten 30 Tage. Empfohlen vor dem KI-Training, wenn noch keine klare Use-Case-Priorisierung vorhanden ist."
 ---
