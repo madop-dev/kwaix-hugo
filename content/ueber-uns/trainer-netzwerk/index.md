@@ -5,6 +5,7 @@ eyebrow: "Trainer-Netzwerk · DACH-weit"
 lede: "KWAIX skaliert KI-Training nicht über eine Person, sondern über ein Netzwerk geprüfter, KWAIX-zertifizierter Trainer — damit jedes Unternehmen zeitnah einen Termin in seiner Region bekommt."
 draft: false
 canonical: "https://kwaix.de/ueber-uns/trainer-netzwerk/"
+type: leistungen
 schemaType: "service"
 faqItems:
   - q: "Trainiert Marion Dopmann persönlich bei KWAIX?"
