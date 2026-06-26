@@ -616,7 +616,7 @@ collections:
     files:
       - name: ueber_uns
         label: "Ueber uns"
-        file: content/ueber-uns/index.md
+        file: content/ueber-uns/_index.md
         fields:
           - { label: "Titel", name: title, widget: string }
           - { label: "Beschreibung", name: description, widget: text }
