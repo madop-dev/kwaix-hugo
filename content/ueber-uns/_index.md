@@ -98,9 +98,9 @@ Das Ziel ist: Ihr Team setzt KI-Tools ein, weil es weiß, wann es sinnvoll ist, 
 
 ## Team
 
-KWAIX wird von **Marion Dopmann** geführt. Sie ist KI-Trainerin mit Schwerpunkt auf praxisnahes KI-Enablement für KMU und Mittelstand im DACH-Raum. Das Angebot wird je nach Projekt durch ein flexibles Netzwerk aus KI-Trainern, Automatisierungs-Spezialisten und Beratern ergänzt.
+KWAIX wurde von **Marion Dopmann** gegründet. Sie hat das Trainingscurriculum und den Zertifizierungsstandard entwickelt, nach dem das KWAIX-Trainer-Netzwerk arbeitet. Trainiert wird nicht von einer einzelnen Person, sondern von KWAIX-zertifizierten Trainern in mehreren Regionen — damit Unternehmen DACH-weit zeitnah einen Termin bekommen.
 
-[Mehr über Marion Dopmann →](/ueber-uns/marion-dopmann/)
+[Mehr über das Trainer-Netzwerk →](/ueber-uns/trainer-netzwerk/)
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=Vorgespräch%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training ansehen" >}}
 

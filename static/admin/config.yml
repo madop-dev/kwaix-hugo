@@ -623,9 +623,9 @@ collections:
           - { label: "Eyebrow", name: eyebrow, widget: string, required: false }
           - { label: "Lede", name: lede, widget: text, required: false }
           - { label: "Inhalt", name: body, widget: markdown }
-      - name: marion_dopmann
-        label: "Marion Dopmann"
-        file: content/ueber-uns/marion-dopmann/index.md
+      - name: trainer_netzwerk
+        label: "Trainer-Netzwerk"
+        file: content/ueber-uns/trainer-netzwerk/index.md
         fields:
           - { label: "Titel", name: title, widget: string }
           - { label: "Beschreibung", name: description, widget: text }
