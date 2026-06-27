@@ -1,4 +1,6 @@
 // Scroll reveal
+document.documentElement.classList.add('js-reveal');
+
 var observer = new IntersectionObserver(function(entries) {
   entries.forEach(function(entry) {
     if (entry.isIntersecting) {
