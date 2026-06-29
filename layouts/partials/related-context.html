@@ -1,0 +1,42 @@
+{{/*
+  Pilot: automatische Querverlinkung über das "dimension"-Frontmatter-Feld.
+  Erwartet .Params.dimension mit optionalen Feldern region, branche, gewerk
+  (jeweils vollständiger Content-Pfad, z.B. "/branchen/handwerk") sowie
+  tools, usecases (Listen von Content-Pfaden).
+  Rendert nichts, wenn dimension fehlt oder keine Pfade aufgelöst werden
+  können — bestehende Seiten ohne dieses Feld bleiben unverändert.
+*/}}
+{{- $current := . -}}
+{{- $dim := .Params.dimension -}}
+{{- if $dim -}}
+  {{- $pages := slice -}}
+  {{- with $dim.region -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- with $dim.branche -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- with $dim.gewerk -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- range $dim.tools -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- range $dim.usecases -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- $pages := where $pages "Permalink" "!=" $current.Permalink -}}
+  {{- if $pages -}}
+<section class="kx-section kx-section--tint">
+  <div class="container">
+    <h2 class="kx-section-title">Verwandte Seiten</h2>
+    <div class="cards-grid" style="--cols: 3">
+      {{- range $pages }}
+      <div class="card card--default">
+        <div class="card-icon card-icon--default">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="3" y="3" width="18" height="18" rx="3"/>
+            <line x1="9" y1="12" x2="15" y2="12"/>
+            <line x1="12" y1="9" x2="12" y2="15"/>
+          </svg>
+        </div>
+        <p class="card-title">{{ .Title }}</p>
+        {{- with .Params.lede }}<p class="card-text">{{ . }}</p>{{ end }}
+        <a href="{{ .Permalink }}" class="card-cta">Mehr erfahren →</a>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</section>
+  {{- end -}}
+{{- end -}}

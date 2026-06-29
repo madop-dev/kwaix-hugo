@@ -8,6 +8,9 @@ url: "/regionen/ki-training-freiburg/"
 canonical: "https://kwaix.de/regionen/ki-training-freiburg/"
 type: leistungen
 schemaType: "service"
+dimension:
+  region: "/regionen/ki-training-freiburg"
+  branche: "/branchen/handwerk"
 heroCards:
   - type: training
     title: "Freiburg"
