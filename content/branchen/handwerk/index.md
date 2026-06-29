@@ -65,6 +65,12 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 {{< card icon="proof" title="Ausbildung & Onboarding" text="Lernunterlagen, Einarbeitungspläne und Prüfungsvorbereitung mit KI-Unterstützung erstellen und aktuell halten." >}}
 {{< /cards >}}
 
+## Regionale Trainingsangebote
+
+{{< cards cols="3" >}}
+{{< card icon="training" title="Handwerk in Freiburg" text="Pilotcluster für SHK, Elektro, Dachdecker, Maler und Holzbau, zugeschnitten auf den Solar- und Ökobau-Boom der Region." href="/ki-training-handwerk-freiburg/" cta="Freiburger Handwerk ansehen" >}}
+{{< /cards >}}
+
 ## Für wen passt es
 
 {{< cards cols="3" >}}

@@ -57,6 +57,7 @@ Genau diese Unternehmen kämpfen oft mit begrenzten Ressourcen und hohem Textkom
 {{< card icon="training" title="Kleine Teams & Solo" text="Für Solopreneure und 2–5-Personen-Teams: KI als verlässlicher Kommunikationspartner, der Kapazität schafft ohne Personal aufzubauen." >}}
 {{< card icon="backlog" title="Sozialwirtschaft & NGOs" text="Spendenaufrufe, Förderanträge und Öffentlichkeitskommunikation für Freiburger Sozialunternehmen und Organisationen." >}}
 {{< card icon="proof" title="KI-VO Nachweis" text="Artikel 4 gilt auch für Nachhaltigkeitsunternehmen und NGOs, die KI-Systeme einsetzen." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
+{{< card icon="training" title="Handwerk in Freiburg" text="SHK, Elektro, Dachdecker, Maler und Holzbau: eigene Trainingsseiten für Freiburger Handwerksbetriebe mit gewerkespezifischen Use Cases." href="/ki-training-handwerk-freiburg/" cta="Handwerk-Training ansehen" >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Freiburg%20anfragen" primaryText="Vorgespräch für Freiburg anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
