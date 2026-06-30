@@ -1,0 +1,17 @@
+id: mandantenkommunikation
+entitaetstyp: use-case
+name: "Mandantenkommunikation"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:kundenservice"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:steuerberatung"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 0

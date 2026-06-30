@@ -75,7 +75,7 @@ Ob stationäres Fachgeschäft, Großhandel oder Online-Shop: Die Aufgaben, die t
 {{< card icon="default" title="01 Vorgespräch" text="Sortiment, Teamstruktur, bestehende Systeme und konkrete Aufgaben, 30 Min, kostenfrei." href="/kontakt/" cta="Vorgespräch anfragen" >}}
 {{< card icon="backlog" title="02 KI-Kickoff" text="Use Cases aus Ihrem Sortiment und Betrieb priorisieren. Welche Aufgaben bringen den größten Hebel?" href="/leistungen/ki-kickoff/" cta="KI-Kickoff ansehen" >}}
 {{< card icon="training" title="03 Training" text="Live-Training mit Ihren Produkten, Kategorien und echten Texten, nicht mit Dummy-Daten." href="/leistungen/ki-training-live/" cta="KI-Training Live ansehen" >}}
-{{< card icon="prompt" title="04 Prompt-Vorlagen" text="Einsatzbereite Vorlagen für Produkttexte, Kundenanfragen und Aktionskommunikation." href="/use-cases/kundenservice/" cta="KI Use Cases Handel ansehen" >}}
+{{< card icon="prompt" title="04 Prompt-Vorlagen" text="Einsatzbereite Vorlagen für Produkttexte, Kundenanfragen und Aktionskommunikation." href="/use-cases/ki-kundenservice/" cta="KI Use Cases Handel ansehen" >}}
 {{< card icon="proof" title="05 Nachweis" text="Kompetenznachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden." href="/ki-verordnung/kompetenznachweis/" cta="Kompetenznachweis ansehen" >}}
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) zur Einarbeitung neuer Mitarbeitender." >}}
 {{< /cards >}}

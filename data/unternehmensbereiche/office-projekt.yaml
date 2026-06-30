@@ -6,7 +6,7 @@ schicht: "2"
 hat_eigene_seite: true
 seiten_pfad: "/use-cases/ki-office-projekt/"
 
-# Validierungsregel 4 verletzt: nur 1 von 3 Pflicht-Referenzen vorhanden.
-# Siehe Validierungsbericht.
 usecase_refs:
   - "use-case:baustellendokumentation"
+  - "use-case:projektstatusberichte"
+  - "use-case:terminkoordination"

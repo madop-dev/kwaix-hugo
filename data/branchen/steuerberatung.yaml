@@ -1,0 +1,13 @@
+id: steuerberatung
+entitaetstyp: branche
+name: "Steuerberatung"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/steuerberatung/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:mandantenkommunikation"
+suchvolumen_indikator: mittel

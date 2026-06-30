@@ -6,8 +6,7 @@ schicht: "2"
 hat_eigene_seite: true
 seiten_pfad: "/use-cases/ki-hr-personal/"
 
-# Validierungsregel 4 (Schema Abschnitt 13) verletzt: usecase_refs hat nur 1
-# Eintrag, Pflicht waeren >=3. Grund: aktuell existiert nur ein einziger
-# atomarer Use-Case (Recruiting), der HR zugeordnet ist. Siehe Validierungsbericht.
 usecase_refs:
   - "use-case:recruiting"
+  - "use-case:onboarding"
+  - "use-case:mitarbeitergespraeche"
