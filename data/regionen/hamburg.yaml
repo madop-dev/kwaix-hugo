@@ -1,0 +1,15 @@
+id: hamburg
+entitaetstyp: region
+name: "Hamburg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/hamburg/"
+
+land: DE
+bundesland_kanton: "Hamburg"
+wirtschaftsprofil: "Logistik, Medien, Handel und Dienstleistung in der Metropolregion"
+branchenschwerpunkte:
+  - "branche:handel"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

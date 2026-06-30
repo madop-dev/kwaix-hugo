@@ -1,0 +1,14 @@
+id: berlin
+entitaetstyp: region
+name: "Berlin"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-berlin/"
+
+land: DE
+bundesland_kanton: "Berlin"
+wirtschaftsprofil: "Kreativwirtschaft bis Tech-Unternehmen, breite Branchenmischung im Mittelstand"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

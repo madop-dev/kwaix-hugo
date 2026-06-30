@@ -1,0 +1,14 @@
+id: baugpt
+entitaetstyp: ki-tool
+name: "BauGPT"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+klasse: vertikal
+anbieter: "BauGPT"
+domaene: "Bau/Handwerk"
+vergleichbare_tools: []
+ist_automatisierungstool: false
+verwendungs_zaehler: 6

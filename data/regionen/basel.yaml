@@ -1,0 +1,15 @@
+id: basel
+entitaetstyp: region
+name: "Basel"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-basel/"
+
+land: CH
+bundesland_kanton: "Basel-Stadt"
+wirtschaftsprofil: "Pharma, Life Sciences, Chemie und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

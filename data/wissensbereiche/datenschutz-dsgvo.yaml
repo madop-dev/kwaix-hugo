@@ -1,0 +1,16 @@
+id: datenschutz-dsgvo
+entitaetstyp: wissensbereich
+name: "Datenschutz & DSGVO im KI-Kontext"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-verordnung/datenschutz-dsgvo/"
+
+kategorie: recht-compliance
+definition_kurz: "Ob ein KI-Tool DSGVO-konform genutzt wird, hängt vom Tool, der Konfiguration und der Nutzung ab, nicht von einer pauschalen Regel."
+verwandte_begriffe:
+  - "wissensbereich:artikel-4-ki-vo"
+artikel_norm: "DSGVO"
+inkrafttretensdatum: null
+pflichtadressat: "Unternehmen, die personenbezogene Daten mit KI-Tools verarbeiten"
+erklaert_fuer_refs: []

@@ -1,0 +1,16 @@
+id: duesseldorf
+entitaetstyp: region
+name: "Düsseldorf"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-duesseldorf/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "Handel, Mode, Werbung, Beratung und Industrie"
+branchenschwerpunkte:
+  - "branche:handel"
+  - "branche:dienstleistung"
+  - "branche:industrie"
+suchvolumen_indikator: hoch

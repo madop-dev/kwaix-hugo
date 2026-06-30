@@ -1,0 +1,13 @@
+id: kundenservice
+entitaetstyp: unternehmensbereich
+name: "Kundenservice"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/use-cases/ki-kundenservice/"
+
+usecase_refs:
+  - "use-case:kundenkommunikation"
+  - "use-case:leistungsdokumentation"
+  - "use-case:beratungsdokumentation"
+  - "use-case:buergerkommunikation"

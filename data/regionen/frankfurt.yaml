@@ -1,0 +1,15 @@
+id: frankfurt
+entitaetstyp: region
+name: "Frankfurt"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-frankfurt/"
+
+land: DE
+bundesland_kanton: "Hessen"
+wirtschaftsprofil: "Finanzsektor, Beratung, Rechtsdienstleistung und Logistik"
+branchenschwerpunkte:
+  - "branche:finanzen"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

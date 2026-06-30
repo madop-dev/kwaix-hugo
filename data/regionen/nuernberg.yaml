@@ -1,0 +1,16 @@
+id: nuernberg
+entitaetstyp: region
+name: "Nürnberg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-nuernberg/"
+
+land: DE
+bundesland_kanton: "Bayern"
+wirtschaftsprofil: "Industrie, Elektronik, Handel, Messe und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:handel"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

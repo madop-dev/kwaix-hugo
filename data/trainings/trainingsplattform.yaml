@@ -1,0 +1,17 @@
+id: trainingsplattform
+entitaetstyp: training
+name: "Trainingsplattform"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/leistungen/trainingsplattform/"
+
+preis_von: null
+preis_bis: null
+format: remote
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+zertifizierung_ref: "zertifizierung:kompetenznachweis-art4"
+dimension_branche_ref: null
+dimension_region_ref: null

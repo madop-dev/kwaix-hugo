@@ -1,0 +1,15 @@
+id: microsoft-copilot
+entitaetstyp: ki-tool
+name: "Microsoft Copilot"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+klasse: allgemein
+anbieter: "Microsoft"
+domaene: null
+vergleichbare_tools:
+  - "ki-tool:chatgpt"
+ist_automatisierungstool: false
+verwendungs_zaehler: 6

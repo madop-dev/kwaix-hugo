@@ -1,0 +1,15 @@
+id: geo-ki-sichtbarkeit
+entitaetstyp: wissensbereich
+name: "GEO: KI-Sichtbarkeit für Unternehmen"
+status: aktiv
+schicht: "3"
+hat_eigene_seite: true
+seiten_pfad: "/ki-ratgeber/"
+
+kategorie: begriffsdefinition
+definition_kurz: "GEO (Generative Engine Optimization) bezeichnet die Optimierung von Inhalten dafür, von KI-Suchassistenten wie ChatGPT oder Perplexity zitiert zu werden, ergänzend zur klassischen Google-Suchoptimierung."
+verwandte_begriffe: []
+artikel_norm: null
+inkrafttretensdatum: null
+pflichtadressat: null
+erklaert_fuer_refs: []

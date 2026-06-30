@@ -1,0 +1,16 @@
+id: elektro
+entitaetstyp: gewerk
+name: "Elektro"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+branche_ref: "branche:handwerk"
+typische_projektgroesse: "2-25 MA"
+foerderrelevanz: false
+usecase_refs:
+  - "use-case:angebotserstellung"
+  - "use-case:baustellendokumentation"
+  - "use-case:recruiting"
+suchvolumen_indikator: mittel

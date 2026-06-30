@@ -1,0 +1,13 @@
+id: deutschland
+entitaetstyp: region
+name: "Deutschland"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-deutschland/"
+
+land: DE
+bundesland_kanton: null
+wirtschaftsprofil: "KI-Training für deutsche Unternehmen in Großstädten, Mittelstädten und Hochschulstandorten, remote als Standard, vor Ort nach Absprache"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

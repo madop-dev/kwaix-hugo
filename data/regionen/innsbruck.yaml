@@ -1,0 +1,14 @@
+id: innsbruck
+entitaetstyp: region
+name: "Innsbruck"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-innsbruck/"
+
+land: AT
+bundesland_kanton: "Tirol"
+wirtschaftsprofil: "Alpintourismus, Sporttechnologie, Universität und wissensbasierte Dienstleistung"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+suchvolumen_indikator: mittel

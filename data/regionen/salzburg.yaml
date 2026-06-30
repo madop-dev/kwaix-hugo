@@ -1,0 +1,15 @@
+id: salzburg
+entitaetstyp: region
+name: "Salzburg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-salzburg/"
+
+land: AT
+bundesland_kanton: "Salzburg"
+wirtschaftsprofil: "Tourismus, Hotellerie, Handel und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:handel"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

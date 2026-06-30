@@ -1,0 +1,17 @@
+id: wissensmanagement
+entitaetstyp: use-case
+name: "Wissensmanagement"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:management"
+branchenreichweite: universell
+branchen_refs: []
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+  - "ki-tool:baugpt"
+suchintention: informational
+verwendungs_zaehler: 4

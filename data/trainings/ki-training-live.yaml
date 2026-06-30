@@ -1,0 +1,17 @@
+id: ki-training-live
+entitaetstyp: training
+name: "KI-Training Live"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/leistungen/ki-training-live/"
+
+preis_von: 2400
+preis_bis: 4650
+format: beides
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+zertifizierung_ref: "zertifizierung:kompetenznachweis-art4"
+dimension_branche_ref: null
+dimension_region_ref: null

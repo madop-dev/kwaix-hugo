@@ -1,0 +1,16 @@
+id: artikel-4-ki-vo
+entitaetstyp: wissensbereich
+name: "Artikel 4 EU KI-Verordnung"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-verordnung/artikel-4-ki-kompetenz/"
+
+kategorie: recht-compliance
+definition_kurz: "Artikel 4 der EU KI-Verordnung verpflichtet seit dem 2. August 2025 jedes Unternehmen, das KI-Systeme einsetzt, die KI-Kompetenz seiner Mitarbeitenden sicherzustellen und nachweisbar zu dokumentieren."
+verwandte_begriffe: []
+artikel_norm: "Art. 4, Verordnung (EU) 2024/1689"
+inkrafttretensdatum: "2025-08-02"
+pflichtadressat: "Unternehmen, die KI-Systeme einsetzen"
+erklaert_fuer_refs:
+  - "zertifizierung:kompetenznachweis-art4"

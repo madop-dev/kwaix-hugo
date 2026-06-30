@@ -1,0 +1,14 @@
+id: dienstleistung
+entitaetstyp: branche
+name: "Dienstleistung"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/dienstleistung/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:kundenkommunikation"
+  - "use-case:leistungsdokumentation"
+suchvolumen_indikator: mittel

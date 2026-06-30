@@ -1,0 +1,13 @@
+id: oeffentliche-hand
+entitaetstyp: branche
+name: "Öffentliche Hand"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/oeffentliche-hand/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:buergerkommunikation"
+suchvolumen_indikator: mittel

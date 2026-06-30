@@ -1,0 +1,15 @@
+id: muenchen
+entitaetstyp: region
+name: "München"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-muenchen/"
+
+land: DE
+bundesland_kanton: "Bayern"
+wirtschaftsprofil: "Automotive, Finanzen, IT und Industrie, branchenspezifisch ausgerichteter Mittelstand"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:finanzen"
+suchvolumen_indikator: hoch

@@ -1,0 +1,17 @@
+id: handwerk
+entitaetstyp: branche
+name: "Handwerk"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/ki-training-handwerk/"
+
+hat_gewerke: true
+typische_teamgroesse: "3-50 MA"
+standard_tools:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+standard_usecases:
+  - "use-case:angebotserstellung"
+  - "use-case:kundenkommunikation"
+suchvolumen_indikator: hoch

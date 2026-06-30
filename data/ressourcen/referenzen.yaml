@@ -1,0 +1,11 @@
+id: referenzen
+entitaetstyp: ressource
+name: "Referenzen & Erfahrungen"
+status: aktiv
+schicht: "3"
+hat_eigene_seite: true
+seiten_pfad: "/referenzen/"
+
+ressourcentyp: vorlage
+unterstuetzt_training_ref: null
+fasst_zusammen_refs: []

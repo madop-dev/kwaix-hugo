@@ -1,0 +1,14 @@
+id: stuttgart
+entitaetstyp: region
+name: "Stuttgart"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-stuttgart/"
+
+land: DE
+bundesland_kanton: "Baden-Württemberg"
+wirtschaftsprofil: "Automotive, Maschinenbau, Industrie und Ingenieurbüros"
+branchenschwerpunkte:
+  - "branche:industrie"
+suchvolumen_indikator: hoch

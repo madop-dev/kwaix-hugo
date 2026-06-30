@@ -1,0 +1,17 @@
+id: buergerkommunikation
+entitaetstyp: use-case
+name: "Bürgerkommunikation"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:kundenservice"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:oeffentliche-hand"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 0

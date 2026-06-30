@@ -1,0 +1,15 @@
+id: heidelberg
+entitaetstyp: region
+name: "Heidelberg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-heidelberg/"
+
+land: DE
+bundesland_kanton: "Baden-Württemberg"
+wirtschaftsprofil: "Biotech, Life Sciences, Medizintechnik und IT, wachsender Forschungstransfer"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:dienstleistung"
+suchvolumen_indikator: mittel

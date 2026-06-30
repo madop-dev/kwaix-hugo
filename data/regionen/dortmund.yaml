@@ -1,0 +1,14 @@
+id: dortmund
+entitaetstyp: region
+name: "Dortmund"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-dortmund/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "Logistik, IT, Gesundheitswesen und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

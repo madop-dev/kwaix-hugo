@@ -1,0 +1,15 @@
+id: bonn
+entitaetstyp: region
+name: "Bonn"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-bonn/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "UN-Agenturen, Deutsche Telekom, Bundesbehörden und NGOs, Zentrum für internationale Kommunikation und Verwaltung"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+  - "branche:oeffentliche-hand"
+suchvolumen_indikator: mittel

@@ -1,0 +1,15 @@
+id: linz
+entitaetstyp: region
+name: "Linz"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-linz/"
+
+land: AT
+bundesland_kanton: "Oberösterreich"
+wirtschaftsprofil: "Industrie, Stahl, Chemie, IT und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

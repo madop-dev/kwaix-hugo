@@ -1,0 +1,13 @@
+id: oesterreich
+entitaetstyp: region
+name: "Österreich"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-oesterreich/"
+
+land: AT
+bundesland_kanton: null
+wirtschaftsprofil: "KI-Training für Unternehmen in ganz Österreich, branchenspezifisch, remote als Standard oder vor Ort, mit österreichischem Geschäftsdeutsch und Rechtskontext"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

@@ -1,0 +1,14 @@
+id: tuebingen
+entitaetstyp: region
+name: "Tübingen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-tuebingen/"
+
+land: DE
+bundesland_kanton: "Baden-Württemberg"
+wirtschaftsprofil: "Führender Standort für KI-Grundlagenforschung, Max-Planck-Institut, Biomedizin, Softwareunternehmen und wissensbasierte KMU"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+suchvolumen_indikator: mittel

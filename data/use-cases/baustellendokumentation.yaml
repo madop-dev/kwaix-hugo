@@ -1,0 +1,19 @@
+id: baustellendokumentation
+entitaetstyp: use-case
+name: "Baustellendokumentation"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:office-projekt"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:handwerk"
+  - "branche:industrie"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+  - "ki-tool:baugpt"
+suchintention: transaktional
+verwendungs_zaehler: 5

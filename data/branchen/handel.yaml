@@ -1,0 +1,14 @@
+id: handel
+entitaetstyp: branche
+name: "Handel"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/handel/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:kundenkommunikation"
+  - "use-case:produktbeschreibungen"
+suchvolumen_indikator: hoch

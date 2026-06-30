@@ -1,0 +1,13 @@
+id: marketing
+entitaetstyp: unternehmensbereich
+name: "Marketing"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/use-cases/ki-marketing/"
+
+# Validierungsregel 4 weiterhin verletzt: 1 von 3 Pflicht-Referenzen vorhanden.
+# Content-/Marketingtexte ist erst Phase 1 im Masterkatalog v1.0, noch nicht
+# produktiv. Siehe Validierungsbericht.
+usecase_refs:
+  - "use-case:produktbeschreibungen"

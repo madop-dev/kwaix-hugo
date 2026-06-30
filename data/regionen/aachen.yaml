@@ -1,0 +1,17 @@
+id: aachen
+entitaetstyp: region
+name: "Aachen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-aachen/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "RWTH-Ausgründungen, Ingenieurbüros und Zulieferer, Grenzregion DE/NL/BE"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:dienstleistung"
+sprachen:
+  - "nl"
+suchvolumen_indikator: mittel

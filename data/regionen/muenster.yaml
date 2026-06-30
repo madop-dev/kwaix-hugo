@@ -1,0 +1,15 @@
+id: muenster
+entitaetstyp: region
+name: "Münster"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-muenster/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "Rechtsdienstleistung, Finanzwirtschaft, Versicherung und westfälischer Mittelstand"
+branchenschwerpunkte:
+  - "branche:finanzen"
+  - "branche:dienstleistung"
+suchvolumen_indikator: mittel

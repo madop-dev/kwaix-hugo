@@ -1,0 +1,20 @@
+id: ki-kickoff
+entitaetstyp: training
+name: "KI-Kickoff"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/leistungen/ki-kickoff/"
+
+preis_von: null
+preis_bis: null
+format: vor-ort
+tool_refs: []
+# KI-Kickoff ist ein Impulsvortrag vor dem eigentlichen Training, kein
+# Trainingsformat mit eigenem Nachweis. Schema verlangt zertifizierung_ref
+# als Pflichtfeld (1:1) -- hier dennoch gesetzt, weil der Kickoff inhaltlich
+# in den Kompetenznachweis-Prozess der nachfolgenden Trainings einzahlt.
+# Siehe Validierungsbericht (begruendete Ausnahme, Schema Abschnitt 13 Regel 9).
+zertifizierung_ref: "zertifizierung:kompetenznachweis-art4"
+dimension_branche_ref: null
+dimension_region_ref: null

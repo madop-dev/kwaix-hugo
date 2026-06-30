@@ -1,0 +1,16 @@
+id: maler
+entitaetstyp: gewerk
+name: "Maler"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+branche_ref: "branche:handwerk"
+typische_projektgroesse: "2-20 MA"
+foerderrelevanz: false
+usecase_refs:
+  - "use-case:angebotserstellung"
+  - "use-case:kundenkommunikation"
+  - "use-case:wissensmanagement"
+suchvolumen_indikator: mittel

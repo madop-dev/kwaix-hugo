@@ -1,0 +1,16 @@
+id: koeln
+entitaetstyp: region
+name: "Köln"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-koeln/"
+
+land: DE
+bundesland_kanton: "Nordrhein-Westfalen"
+wirtschaftsprofil: "Medien, Versicherung, Handel und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:finanzen"
+  - "branche:handel"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

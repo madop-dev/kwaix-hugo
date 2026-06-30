@@ -1,0 +1,15 @@
+id: zuerich
+entitaetstyp: region
+name: "Zürich"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-zuerich/"
+
+land: CH
+bundesland_kanton: "Zürich"
+wirtschaftsprofil: "Finanzsektor, Beratung, Technologie und Versicherung"
+branchenschwerpunkte:
+  - "branche:finanzen"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

@@ -1,0 +1,10 @@
+id: kompetenznachweis-art4
+entitaetstyp: zertifizierung
+name: "Kompetenznachweis nach Artikel 4 KI-VO"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-verordnung/kompetenznachweis/"
+
+rechtsgrundlage_ref: "wissensbereich:artikel-4-ki-vo"
+gueltigkeitsbedingung: "pro Teilnehmendem, pro Trainingsdurchlauf"

@@ -1,0 +1,16 @@
+id: wien
+entitaetstyp: region
+name: "Wien"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-wien/"
+
+land: AT
+bundesland_kanton: "Wien"
+wirtschaftsprofil: "Finanzdienstleistung, Handel, Beratung und Tourismus"
+branchenschwerpunkte:
+  - "branche:finanzen"
+  - "branche:handel"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

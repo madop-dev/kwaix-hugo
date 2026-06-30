@@ -1,0 +1,14 @@
+id: leipzig
+entitaetstyp: region
+name: "Leipzig"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-leipzig/"
+
+land: DE
+bundesland_kanton: "Sachsen"
+wirtschaftsprofil: "Logistik, Kreativwirtschaft, Medien und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

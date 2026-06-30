@@ -1,0 +1,18 @@
+id: freiburg
+entitaetstyp: region
+name: "Freiburg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-freiburg/"
+
+land: DE
+bundesland_kanton: "Baden-Württemberg"
+wirtschaftsprofil: "Solarwirtschaft und Nachhaltigkeitsunternehmen, Universitätsstadt, Grenzlage zu Frankreich und der Schweiz (mehrsprachige Kommunikation DE/FR/EN)"
+branchenschwerpunkte:
+  - "branche:handwerk"
+  - "branche:dienstleistung"
+sprachen:
+  - "fr"
+  - "en"
+suchvolumen_indikator: mittel

@@ -1,0 +1,16 @@
+id: kundenkommunikation
+entitaetstyp: use-case
+name: "Kundenkommunikation"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:kundenservice"
+branchenreichweite: universell
+branchen_refs: []
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 3

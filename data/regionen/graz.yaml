@@ -1,0 +1,15 @@
+id: graz
+entitaetstyp: region
+name: "Graz"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-graz/"
+
+land: AT
+bundesland_kanton: "Steiermark"
+wirtschaftsprofil: "Automotive, Maschinenbau, Forschung und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:industrie"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

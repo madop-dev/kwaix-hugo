@@ -1,0 +1,14 @@
+id: jena
+entitaetstyp: region
+name: "Jena"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-jena/"
+
+land: DE
+bundesland_kanton: "Thüringen"
+wirtschaftsprofil: "Optik, Photonik, Medizintechnik, IT und Forschungstransfer, Carl Zeiss und Jenoptik als Anker"
+branchenschwerpunkte:
+  - "branche:industrie"
+suchvolumen_indikator: mittel

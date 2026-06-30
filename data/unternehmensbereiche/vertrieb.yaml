@@ -1,0 +1,12 @@
+id: vertrieb
+entitaetstyp: unternehmensbereich
+name: "Vertrieb"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/use-cases/ki-vertrieb/"
+
+# Validierungsregel 4 verletzt: nur 1 von 3 Pflicht-Referenzen vorhanden.
+# Siehe Validierungsbericht.
+usecase_refs:
+  - "use-case:angebotserstellung"

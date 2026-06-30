@@ -1,0 +1,17 @@
+id: produktbeschreibungen
+entitaetstyp: use-case
+name: "Produktbeschreibungen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+unternehmensbereich_ref: "unternehmensbereich:marketing"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:handel"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 0

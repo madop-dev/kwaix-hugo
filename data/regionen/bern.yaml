@@ -1,0 +1,16 @@
+id: bern
+entitaetstyp: region
+name: "Bern"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-bern/"
+
+land: CH
+bundesland_kanton: "Bern"
+wirtschaftsprofil: "Bundesverwaltung, Beratung, Versicherung, Bildung und Dienstleistung"
+branchenschwerpunkte:
+  - "branche:oeffentliche-hand"
+  - "branche:finanzen"
+  - "branche:dienstleistung"
+suchvolumen_indikator: hoch

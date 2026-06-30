@@ -1,0 +1,16 @@
+id: ki-policy
+entitaetstyp: wissensbereich
+name: "KI-Policy"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-verordnung/ki-policy/"
+
+kategorie: recht-compliance
+definition_kurz: "Eine KI-Policy regelt, wer im Unternehmen welche KI-Tools wie und wofür einsetzen darf. Sie ist Grundlage für compliance-konformen KI-Einsatz und wird im KI-Kickoff gemeinsam entwickelt."
+verwandte_begriffe:
+  - "wissensbereich:artikel-4-ki-vo"
+artikel_norm: null
+inkrafttretensdatum: null
+pflichtadressat: "Unternehmen, die KI-Tools einsetzen"
+erklaert_fuer_refs: []

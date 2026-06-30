@@ -1,0 +1,15 @@
+id: chatgpt
+entitaetstyp: ki-tool
+name: "ChatGPT"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+klasse: allgemein
+anbieter: "OpenAI"
+domaene: null
+vergleichbare_tools:
+  - "ki-tool:microsoft-copilot"
+ist_automatisierungstool: false
+verwendungs_zaehler: 6

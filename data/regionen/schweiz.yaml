@@ -1,0 +1,16 @@
+id: schweiz
+entitaetstyp: region
+name: "Schweiz"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-schweiz/"
+
+land: CH
+bundesland_kanton: null
+wirtschaftsprofil: "KI-Training für Unternehmen in der Deutschschweiz, mehrsprachig, mit Bezug auf FINMA, OR und Schweizer Geschäftsgepflogenheiten"
+branchenschwerpunkte: []
+sprachen:
+  - "fr"
+  - "en"
+suchvolumen_indikator: hoch

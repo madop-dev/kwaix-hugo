@@ -1,0 +1,13 @@
+id: industrie
+entitaetstyp: branche
+name: "Industrie"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/industrie/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:baustellendokumentation"
+suchvolumen_indikator: hoch

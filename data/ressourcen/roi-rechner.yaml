@@ -1,0 +1,11 @@
+id: roi-rechner
+entitaetstyp: ressource
+name: "KI-ROI-Rechner"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/preise/ki-roi-rechner/"
+
+ressourcentyp: rechner
+unterstuetzt_training_ref: "training:ki-training-live"
+fasst_zusammen_refs: []

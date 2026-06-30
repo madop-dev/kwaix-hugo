@@ -1,0 +1,18 @@
+id: ki-automatisierung-abgrenzung
+entitaetstyp: wissensbereich
+name: "KI-Automatisierung (Abgrenzung zu KI-Training)"
+status: aktiv
+schicht: "3"
+hat_eigene_seite: true
+seiten_pfad: "/ki-ratgeber/"
+
+# hat_eigene_seite=true, aber ohne dedizierte Unterseite: der Begriff wird
+# innerhalb des Wissen-Hubs (content/wissen/_index.md) behandelt, nicht auf
+# einer eigenen URL. seiten_pfad verweist deshalb auf den gemeinsamen Hub.
+kategorie: begriffsdefinition
+definition_kurz: "KI-Automatisierung (z. B. n8n, Make, Zapier) verkettet KI-Bausteine zu automatisierten Workflows ohne menschliche Eingabe pro Durchlauf. KI-Training vermittelt dagegen Kompetenz für den direkten, menschlich gesteuerten KI-Einsatz. KWAIX trainiert Letzteres."
+verwandte_begriffe: []
+artikel_norm: null
+inkrafttretensdatum: null
+pflichtadressat: null
+erklaert_fuer_refs: []
