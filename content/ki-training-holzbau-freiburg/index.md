@@ -10,14 +10,13 @@ schemaType: "service"
 dimension:
   region: "/regionen/ki-training-freiburg"
   branche: "/branchen/handwerk"
+  gewerk: "/gewerke/holzbau"
   tools:
     - "/ki-tools/baugpt"
     - "/ki-tools/chatgpt"
     - "/ki-tools/microsoft-copilot"
   usecases:
-    - "/use-cases/angebotserstellung"
-    - "/use-cases/baustellendokumentation"
-    - "/use-cases/wissensmanagement"
+    - "/ki-anwendungsfaelle/baustellendokumentation"
 herocta: "KI-Training für Holzbau in Freiburg anfragen →"
 herocta2: "ROI berechnen"
 herocta2href: "/preise/ki-roi-rechner/"

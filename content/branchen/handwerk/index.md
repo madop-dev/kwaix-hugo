@@ -65,6 +65,12 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 {{< card icon="proof" title="Ausbildung & Onboarding" text="Lernunterlagen, Einarbeitungspläne und Prüfungsvorbereitung mit KI-Unterstützung erstellen und aktuell halten." >}}
 {{< /cards >}}
 
+## Gewerke
+
+{{< cards cols="3" >}}
+{{< card icon="training" title="Holzbau" text="Angebote, Bauteildokumentation und Förderanträge für Holzrahmenbau-Betriebe." href="/branchen/handwerk/holzbau/" cta="Gewerk ansehen" >}}
+{{< /cards >}}
+
 ## Regionale Trainingsangebote
 
 {{< cards cols="3" >}}

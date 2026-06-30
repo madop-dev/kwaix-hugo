@@ -61,6 +61,7 @@ Industrieunternehmen haben ein besonderes Problem: Wissen steckt in Köpfen erfa
 {{< card icon="training" title="Wissenstransfer" text="Erfahrungswissen erfahrener Mitarbeitender strukturiert dokumentieren und für Nachfolger aufbereiten." >}}
 {{< card icon="backlog" title="Einkauf & Lieferanten" text="Anfragen, Spezifikationen und Korrespondenz mit Lieferanten und Dienstleistern beschleunigen." >}}
 {{< card icon="proof" title="HR & Onboarding" text="Stellenbeschreibungen, Einarbeitungspläne und Unterweisungsnachweise effizienter erstellen." >}}
+{{< card icon="backlog" title="Baustellendokumentation" text="Montage-, Inbetriebnahme- und Abnahmeprotokolle bei Anlagenprojekten vor Ort strukturieren." href="/branchen/industrie/baustellendokumentation/" cta="Anwendungsfall ansehen" >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20Industrie%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}

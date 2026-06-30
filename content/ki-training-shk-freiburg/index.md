@@ -1,6 +1,6 @@
 ---
 title: "KI-Training SHK Freiburg: Wärmepumpen, Solarthermie, Wartung"
-description: "KI-Training für SHK-Betriebe in Freiburg: Angebote für Wärmepumpen, Wartungsprotokolle und Kundenkommunikation schneller erstellen. Mit Kompetenznachweis Art. 4 KI-VO."
+description: "KI-Training für SHK-Betriebe in Freiburg: Angebote für Wärmepumpen und Wartungsprotokolle schneller erstellen. Mit Nachweis nach Art. 4 KI-VO."
 eyebrow: "Gewerk · SHK Freiburg"
 lede: "Freiburg treibt die Wärmewende wie kaum eine andere Stadt, das füllt die Auftragsbücher von SHK-Betrieben und gleichzeitig die Schreibtische mit Angeboten, Wartungsprotokollen und Förderanfragen."
 draft: false
@@ -40,6 +40,8 @@ faqItems:
     a: "Tool-agnostisch: ChatGPT und Microsoft Copilot für allgemeine Textaufgaben, ergänzend kann das auf Bauprozesse spezialisierte BauGPT für baunahe Dokumentation sinnvoll sein. Die Auswahl klären wir im Vorgespräch anhand Ihrer bestehenden Software."
   - q: "Was kostet das SHK-Training in Freiburg?"
     a: "Ab 2.400 € netto für Teams bis 5 Personen, gestaffelt nach Teamgröße. Details unter [/preise/](/ki-training-kosten/)."
+  - q: "Was ist der Kompetenznachweis nach Artikel 4 KI-Verordnung?"
+    a: "Seit 2. August 2025 müssen Unternehmen nachweisbar sicherstellen, dass Mitarbeitende mit KI-Kompetenz ausgestattet sind (Artikel 4, Verordnung (EU) 2024/1689). Unser Training liefert diesen Nachweis für jeden Teilnehmenden. Details: [Kompetenznachweis](/ki-verordnung/kompetenznachweis/)."
 ---
 
 {{% section tone="plain" %}}

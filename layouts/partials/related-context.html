@@ -13,6 +13,7 @@
   {{- with $dim.region -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
   {{- with $dim.branche -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
   {{- with $dim.gewerk -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
+  {{- with $dim.unternehmensbereich -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
   {{- range $dim.tools -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
   {{- range $dim.usecases -}}{{- with site.GetPage . -}}{{- $pages = $pages | append . -}}{{- end -}}{{- end -}}
   {{- $pages := where $pages "Permalink" "!=" $current.Permalink -}}

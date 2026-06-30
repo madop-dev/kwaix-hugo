@@ -208,6 +208,24 @@
         "priceRange": "{{ . }}"
       }{{ end }}
     }
+    {{- else if eq $type "howto" }},
+    {
+      "@type": "HowTo",
+      "@id": "{{ $page.Permalink }}#howto",
+      "name": {{ $page.Title | jsonify | safeJS }},
+      "description": {{ $page.Description | jsonify | safeJS }},
+      "url": "{{ $page.Permalink }}",
+      "inLanguage": "de-DE"
+    }
+    {{- else if eq $type "softwareapplication" }},
+    {
+      "@type": "SoftwareApplication",
+      "@id": "{{ $page.Permalink }}#softwareapplication",
+      "name": {{ $page.Title | jsonify | safeJS }},
+      "description": {{ $page.Description | jsonify | safeJS }},
+      "url": "{{ $page.Permalink }}",
+      "applicationCategory": "BusinessApplication"
+    }
     {{- end }}{{ end }}{{ with .Params.faqItems }},
     {
       "@type": "FAQPage",
