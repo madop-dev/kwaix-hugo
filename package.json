@@ -1,0 +1,13 @@
+{
+  "name": "kwaix-content-factory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KWAIX Content Factory: Generator fuer Region/Branche/Gewerk/Unternehmensbereich/Use-Case/KI-Tool-Kombinationsseiten aus Masterdaten.",
+  "scripts": {
+    "factory": "node scripts/content-factory/generate.js",
+    "factory:dry": "node scripts/content-factory/generate.js --dry-run"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

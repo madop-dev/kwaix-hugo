@@ -3,3 +3,4 @@
 .DS_Store
 .netlify/
 .hugo_build.lock
+node_modules/
