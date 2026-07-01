@@ -1,0 +1,9 @@
+id: claude
+entitaetstyp: ki-tool
+name: "Claude (Anthropic)"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-tools/claude/"
+klasse: universell
+domaene: null

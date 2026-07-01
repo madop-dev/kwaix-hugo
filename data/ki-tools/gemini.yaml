@@ -1,0 +1,9 @@
+id: gemini
+entitaetstyp: ki-tool
+name: "Google Gemini"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-tools/gemini/"
+klasse: universell
+domaene: null
