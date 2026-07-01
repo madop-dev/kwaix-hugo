@@ -19,10 +19,12 @@ const GEWERKE = fs.readdirSync(path.join(DATA_ROOT, "gewerke"))
   .filter(f => f.endsWith(".yaml"))
   .map(f => f.replace(".yaml", ""));
 
-// Ermittle alle offenen Kombinationen
+const includeNational = process.argv.includes("--include-national");
+
+// Ermittle alle offenen Kombinationen (national optional)
 const regionen = fs.readdirSync(path.join(__dirname, "../../data/regionen"))
   .map(f => f.replace(".yaml", ""))
-  .filter(id => !NATIONAL.has(id));
+  .filter(id => includeNational || !NATIONAL.has(id));
 
 const existing = new Set(
   fs.readdirSync(CONTENT_ROOT)
