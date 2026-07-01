@@ -1,0 +1,16 @@
+id: content-marketingtexte
+entitaetstyp: use-case
+name: "Content- und Marketingtexte"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/ki-anwendungsfaelle/content-marketingtexte/"
+
+unternehmensbereich_ref: "unternehmensbereich:geschaeftsfuehrung"
+branchenreichweite: universell
+branchen_refs: []
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 0

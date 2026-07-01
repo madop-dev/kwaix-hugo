@@ -1,0 +1,12 @@
+id: finanzen-controlling
+entitaetstyp: unternehmensbereich
+name: "Finanzen & Controlling"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/use-cases/ki-finanzen-controlling/"
+
+usecase_refs:
+  - "use-case:rechnungswesen"
+  - "use-case:finanzberichte"
+  - "use-case:budget-kommunikation"

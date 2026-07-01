@@ -1,0 +1,12 @@
+id: geschaeftsfuehrung
+entitaetstyp: unternehmensbereich
+name: "Geschäftsführung"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/use-cases/ki-geschaeftsfuehrung/"
+
+usecase_refs:
+  - "use-case:content-marketingtexte"
+  - "use-case:stakeholder-kommunikation"
+  - "use-case:strategiepapiere"

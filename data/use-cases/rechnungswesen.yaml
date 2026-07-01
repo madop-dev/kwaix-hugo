@@ -1,0 +1,16 @@
+id: rechnungswesen
+entitaetstyp: use-case
+name: "Rechnungswesen/Controlling"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/ki-anwendungsfaelle/rechnungswesen/"
+
+unternehmensbereich_ref: "unternehmensbereich:finanzen-controlling"
+branchenreichweite: universell
+branchen_refs: []
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: informational
+verwendungs_zaehler: 0

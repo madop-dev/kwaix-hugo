@@ -1,0 +1,15 @@
+id: finanzberichte
+entitaetstyp: use-case
+name: "Finanzberichte und Reportings"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+unternehmensbereich_ref: "unternehmensbereich:finanzen-controlling"
+branchenreichweite: universell
+branchen_refs: []
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: informational
+verwendungs_zaehler: 0
