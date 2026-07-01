@@ -1,0 +1,7 @@
+id: trainer-zertifizierung
+entitaetstyp: zertifizierung
+name: "KWAIX Trainer-Zertifizierung"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/leistungen/trainer-zertifizierung/"
