@@ -10,3 +10,5 @@ usecase_refs:
   - "use-case:angebotserstellung"
   - "use-case:vertriebsunterlagen"
   - "use-case:leadqualifizierung"
+  - "use-case:ausschreibungsunterlagen"
+  - "use-case:dienstleistungsangebote"

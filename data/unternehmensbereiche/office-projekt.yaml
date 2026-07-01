@@ -11,3 +11,6 @@ usecase_refs:
   - "use-case:projektstatusberichte"
   - "use-case:terminkoordination"
   - "use-case:abnahmedokumentation"
+  - "use-case:foerderantraege"
+  - "use-case:technische-dokumentation"
+  - "use-case:vergabedokumentation"

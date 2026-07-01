@@ -1,0 +1,16 @@
+id: foerderantraege
+entitaetstyp: use-case
+name: "Förderanträge"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+unternehmensbereich_ref: "unternehmensbereich:office-projekt"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:handwerk"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: transaktional
+verwendungs_zaehler: 0

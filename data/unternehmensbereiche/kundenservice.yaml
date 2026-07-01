@@ -13,3 +13,6 @@ usecase_refs:
   - "use-case:buergerkommunikation"
   - "use-case:mandantenkommunikation"
   - "use-case:pflegedokumentation"
+  - "use-case:angehoerigenkommunikation"
+  - "use-case:kundenbewertungsantworten"
+  - "use-case:steuerbescheid-erlaeuterungen"

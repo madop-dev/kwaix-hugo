@@ -36,7 +36,14 @@ function buildRegionGewerkDescription(gewerk, region) {
 //  branchenspezifischen Anwendungsfällen und Kompetenznachweis Art. 4 KI-VO."
 // Längenspanne: Industrie/Handwerk + Baustellendokumentation ≈ 153–154 Zeichen.
 function buildBrancheUseCaseDescription(branche, usecase) {
-  const desc = `${usecase.name} mit KI für ${branche.name}-Betriebe: Praxisnahes Training mit branchenspezifischen Anwendungsfällen und Kompetenznachweis Art. 4 KI-VO.`;
+  // Längeres Suffix für kurze Namen, kürzeres für lange Namen (> 40 Zeichen kombiniert)
+  const combined = usecase.name.length + branche.name.length;
+  // Langer Suffix (98 Zeichen) passt wenn combined <= 42 (Total <= 160)
+  // Kurzer Suffix (55 Zeichen) für combined > 42 (Total >= 120)
+  const suffix = combined > 42
+    ? "Praxisnahes KI-Training mit Nachweis nach Art. 4 KI-VO."
+    : "Praxisnahes Training mit branchenspezifischen Anwendungsfällen und Nachweis nach Art. 4 KI-VO.";
+  const desc = `${usecase.name} mit KI für ${branche.name}-Betriebe: ${suffix}`;
   assertLength(desc, branche.id, usecase.id);
   return desc;
 }

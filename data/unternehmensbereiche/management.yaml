@@ -10,3 +10,4 @@ usecase_refs:
   - "use-case:wissensmanagement"
   - "use-case:besprechungsprotokolle"
   - "use-case:entscheidungsvorlagen"
+  - "use-case:compliance-korrespondenz"

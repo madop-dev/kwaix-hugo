@@ -1,0 +1,16 @@
+id: compliance-korrespondenz
+entitaetstyp: use-case
+name: "Compliance-Korrespondenz"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+unternehmensbereich_ref: "unternehmensbereich:management"
+branchenreichweite: branchenspezifisch
+branchen_refs:
+  - "branche:finanzen"
+tool_refs:
+  - "ki-tool:chatgpt"
+  - "ki-tool:microsoft-copilot"
+suchintention: informational
+verwendungs_zaehler: 0
