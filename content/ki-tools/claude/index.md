@@ -53,7 +53,7 @@ Claude von Anthropic ist ein KI-Assistent, der besonders bei langen, strukturier
 {{< cards cols="3" >}}
 {{< card icon="backlog" title="Umfangreiche Dokumente" text="Für Unternehmen, die regelmäßig lange Berichte, Analysen oder umfangreiche Zusammenfassungen erstellen." >}}
 {{< card icon="prompt" title="Strukturierte Texte" text="Claude liefert besonders klar strukturierte, ausführliche Antworten, nützlich für Berichte und Strategiedokumente." >}}
-{{< card icon="training" title: "Im Training kombinierbar" text="KWAIX-Training richtet sich nach dem vorhandenen Tool-Set. Claude kann neben oder statt ChatGPT eingesetzt werden." >}}
+{{< card icon="training" title="Im Training kombinierbar" text="KWAIX-Training richtet sich nach dem vorhandenen Tool-Set. Claude kann neben oder statt ChatGPT eingesetzt werden." >}}
 {{< /cards >}}
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="KI-Training Live ansehen" >}}
