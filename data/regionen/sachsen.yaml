@@ -1,0 +1,12 @@
+id: sachsen
+entitaetstyp: region
+name: "Sachsen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-sachsen/"
+
+land: DE
+wirtschaftsprofil: "Industrie, IT, Kreativwirtschaft und wachsende Mittelstandslandschaft im Osten"
+branchenschwerpunkte: []
+suchvolumen_indikator: mittel

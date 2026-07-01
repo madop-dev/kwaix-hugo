@@ -1,0 +1,12 @@
+id: bawue
+entitaetstyp: region
+name: "Baden-Württemberg"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-bawue/"
+
+land: DE
+wirtschaftsprofil: "Maschinenbau, Automotive, Medizintechnik und innovativer Mittelstand im Südwesten"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

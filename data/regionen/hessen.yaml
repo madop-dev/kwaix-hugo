@@ -1,0 +1,12 @@
+id: hessen
+entitaetstyp: region
+name: "Hessen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-hessen/"
+
+land: DE
+wirtschaftsprofil: "Finanzplatz Frankfurt, Logistik, IT und Dienstleistung im Herzen Deutschlands"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

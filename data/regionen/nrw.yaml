@@ -1,0 +1,12 @@
+id: nrw
+entitaetstyp: region
+name: "Nordrhein-Westfalen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-nrw/"
+
+land: DE
+wirtschaftsprofil: "Industrie, Handel, Medien und Dienstleistung im bevölkerungsreichsten deutschen Bundesland"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

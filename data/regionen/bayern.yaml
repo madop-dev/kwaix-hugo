@@ -1,0 +1,12 @@
+id: bayern
+entitaetstyp: region
+name: "Bayern"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/regionen/ki-training-bayern/"
+
+land: DE
+wirtschaftsprofil: "Automotive, IT, Maschinenbau und starker Mittelstand im südostdeutschen Wirtschaftsraum"
+branchenschwerpunkte: []
+suchvolumen_indikator: hoch

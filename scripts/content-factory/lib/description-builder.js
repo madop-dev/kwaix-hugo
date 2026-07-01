@@ -26,7 +26,12 @@ function buildRegionGewerkDescription(gewerk, region) {
   // Sonderformel für Gewerke mit sehr langem Namen (> 12 Zeichen):
   // "-Betriebe" entfällt, damit die Description unter 160 Zeichen bleibt.
   const betriebe = gewerk.name.length > 12 ? "" : "-Betriebe";
-  const desc = `KI-Training für ${gewerk.name}${betriebe} in ${region.name}: ${schwerpunkt} mit KI-Tools vereinfachen und Nachweis nach Art. 4 KI-VO.`;
+  // Kürzeres Suffix wenn Region- + Gewerk-Name zusammen sehr lang (z.B. Nordrhein-Westfalen)
+  const prefix = `KI-Training für ${gewerk.name}${betriebe} in ${region.name}: `;
+  const suffix = prefix.length > 52
+    ? `${schwerpunkt} vereinfachen. Art. 4 KI-VO-Nachweis.`
+    : `${schwerpunkt} mit KI-Tools vereinfachen und Nachweis nach Art. 4 KI-VO.`;
+  const desc = prefix + suffix;
   assertLength(desc, gewerk.id, region.id);
   return desc;
 }
