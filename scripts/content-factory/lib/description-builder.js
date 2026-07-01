@@ -10,6 +10,8 @@ const GEWERK_SCHWERPUNKT = {
   dachdecker: "Aufmaße, Angebote und Baudokumentation",
   elektro:    "Aufmaße, Messberichte und Kundenkommunikation",
   maler:      "Angebote, Raumbücher und Kundenkommunikation",
+  tischler:   "Angebote, Maßpläne und Kundenkommunikation",
+  "garten-landschaftsbau": "Angebote und Projektdokumentation",
 };
 
 // Formel Region×Gewerk:
@@ -21,7 +23,10 @@ const GEWERK_SCHWERPUNKT = {
 function buildRegionGewerkDescription(gewerk, region) {
   const schwerpunkt = GEWERK_SCHWERPUNKT[gewerk.id];
   if (!schwerpunkt) throw new Error(`Kein Schwerpunkt definiert für Gewerk-ID: ${gewerk.id}`);
-  const desc = `KI-Training für ${gewerk.name}-Betriebe in ${region.name}: ${schwerpunkt} mit KI-Tools vereinfachen und Kompetenznachweis Art. 4 erwerben.`;
+  // Sonderformel für Gewerke mit sehr langem Namen (> 12 Zeichen):
+  // "-Betriebe" entfällt, damit die Description unter 160 Zeichen bleibt.
+  const betriebe = gewerk.name.length > 12 ? "" : "-Betriebe";
+  const desc = `KI-Training für ${gewerk.name}${betriebe} in ${region.name}: ${schwerpunkt} mit KI-Tools vereinfachen und Nachweis nach Art. 4 KI-VO.`;
   assertLength(desc, gewerk.id, region.id);
   return desc;
 }

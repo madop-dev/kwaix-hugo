@@ -1,442 +1,252 @@
 module.exports = [
   {
     "type": "region-gewerk",
-    "gewerk": "holzbau",
+    "gewerk": "garten-landschaftsbau",
     "region": "aachen"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "holzbau",
+    "gewerk": "garten-landschaftsbau",
     "region": "basel"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "bonn"
+    "gewerk": "garten-landschaftsbau",
+    "region": "berlin"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "dortmund"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "duesseldorf"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "frankfurt"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "graz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "heidelberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "innsbruck"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "jena"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "leipzig"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "linz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "nuernberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "salzburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "stuttgart"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "tuebingen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "holzbau",
-    "region": "zuerich"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "aachen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "basel"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "bern"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "bonn"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "dortmund"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "duesseldorf"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "frankfurt"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
+    "region": "freiburg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "garten-landschaftsbau",
     "region": "graz"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
+    "region": "hamburg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "garten-landschaftsbau",
     "region": "heidelberg"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
+    "region": "innsbruck"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "garten-landschaftsbau",
     "region": "jena"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "koeln"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
+    "gewerk": "garten-landschaftsbau",
     "region": "leipzig"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "muenster"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "nuernberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "stuttgart"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "tuebingen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "shk",
-    "region": "zuerich"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "aachen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "basel"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "bonn"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "dortmund"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "duesseldorf"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "frankfurt"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "graz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "hamburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "heidelberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "innsbruck"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "jena"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "koeln"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "leipzig"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
+    "gewerk": "garten-landschaftsbau",
     "region": "linz"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "muenster"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "nuernberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "salzburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "dachdecker",
-    "region": "tuebingen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "aachen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "basel"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "bern"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "bonn"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "dortmund"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "duesseldorf"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "frankfurt"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "hamburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "heidelberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "innsbruck"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "jena"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "leipzig"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "linz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "muenster"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "nuernberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "salzburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "stuttgart"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "elektro",
-    "region": "tuebingen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "aachen"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "bern"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "bonn"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "dortmund"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "duesseldorf"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "graz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "hamburg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "heidelberg"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "innsbruck"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "jena"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "leipzig"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
-    "region": "linz"
-  },
-  {
-    "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "muenchen"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "muenster"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "nuernberg"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "salzburg"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "stuttgart"
   },
   {
     "type": "region-gewerk",
-    "gewerk": "maler",
+    "gewerk": "garten-landschaftsbau",
     "region": "tuebingen"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "garten-landschaftsbau",
+    "region": "wien"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "garten-landschaftsbau",
+    "region": "zuerich"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "aachen"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "basel"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "berlin"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "bern"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "bonn"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "dortmund"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "duesseldorf"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "frankfurt"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "freiburg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "graz"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "hamburg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "heidelberg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "innsbruck"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "jena"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "koeln"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "leipzig"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "linz"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "muenchen"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "muenster"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "nuernberg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "salzburg"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "stuttgart"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "tuebingen"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "wien"
+  },
+  {
+    "type": "region-gewerk",
+    "gewerk": "tischler",
+    "region": "zuerich"
   }
 ];

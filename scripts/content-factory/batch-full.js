@@ -12,8 +12,12 @@ const path = require("path");
 const { loadEntity } = require("./lib/data-loader");
 
 const CONTENT_ROOT = path.join(__dirname, "..", "..", "content");
+const DATA_ROOT = path.join(__dirname, "..", "..", "data");
 const NATIONAL = new Set(["deutschland", "oesterreich", "schweiz"]);
-const GEWERKE = ["holzbau", "shk", "dachdecker", "elektro", "maler"];
+// Dynamisch aus Masterdaten lesen -- erkennt neue Gewerke automatisch
+const GEWERKE = fs.readdirSync(path.join(DATA_ROOT, "gewerke"))
+  .filter(f => f.endsWith(".yaml"))
+  .map(f => f.replace(".yaml", ""));
 
 // Ermittle alle offenen Kombinationen
 const regionen = fs.readdirSync(path.join(__dirname, "../../data/regionen"))

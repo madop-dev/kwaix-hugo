@@ -20,6 +20,10 @@ function gewerkChallenge(gewerk, region) {
       return `${n} mit seiner Wirtschaftsstruktur aus ${wp} bringt Elektrobetrieben ein breites Kundenprofil: von anspruchsvollen Gewerbekunden bis zu privaten Bauherren mit hohen Erwartungen. Gleichzeitig ist der Arbeitsmarkt für Elektrofachkräfte eng, die Konkurrenz um Nachwuchs real. KI-Training hilft bei Angeboten, Dokumentation und Stellenausschreibungen.`;
     case "maler":
       return `${n}s Wirtschaftsstruktur, geprägt von ${wp}, bestimmt das Kundenprofil von Maler-Betrieben: von terminkritischen Gewerbeprojekten bis zu qualitätsbewussten Privatkunden. Angebote, Raumbücher und Kundenkommunikation müssen dem Tempo und Anspruch dieser Kundschaft entsprechen. KI-Training hilft, diesen Standard ohne Mehraufwand zu halten.`;
+    case "tischler":
+      return `${n} mit seiner Wirtschaft aus ${wp} bringt Tischler-Betrieben Kunden, die individuelle Lösungen und handwerkliche Präzision erwarten, von Einbauküchen und Maßmöbeln bis zu Ladenausbau und Inneneinrichtungen. Detaillierte Angebote und klare Kundenkommunikation sind der Schlüssel zu Folgeaufträgen. KI-Training hilft, beides schneller und konsistenter zu liefern.`;
+    case "garten-landschaftsbau":
+      return `${n}s wirtschaftliches Umfeld, geprägt von ${wp}, formt die Auftraggeber im Garten- und Landschaftsbau: von anspruchsvollen Privatkunden mit gehobenen Außenanlagen bis zu Gewerbekunden mit Firmengeländen und öffentlichen Einrichtungen. Saisonale Planung, präzise Angebote und terminsichere Kommunikation bestimmen, ob ein Betrieb als Partner empfohlen wird. KI-Training setzt genau dort an.`;
     default:
       return `${n}, bekannt für ${wp}, stellt ${g}-Betriebe vor spezifische Anforderungen an Angebote, Dokumentation und Kundenkommunikation. KI-Training setzt genau dort an.`;
   }
@@ -75,6 +79,24 @@ function gewerkCards(gewerk, region) {
         { icon: "policy", title: "Farbberatung dokumentieren", text: `Beratungsgespräche zu Farbkonzepten nachvollziehbar zusammenfassen.` },
         { icon: "proof", title: "Kompetenznachweis", text: `Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden.` },
       ];
+    case "tischler":
+      return [
+        { icon: "prompt", title: "Angebote für Maßanfertigungen", text: `Angebote für individuelle Möbel, Einbauküchen und Ladeneinbauten schnell und präzise aus Aufmaßdaten formulieren.` },
+        { icon: "backlog", title: "Projektdokumentation", text: `Konstruktionsschritte und Übergaben strukturiert und nachvollziehbar festhalten.` },
+        { icon: "training", title: "Wissensmanagement Materialien", text: `Erfahrungswissen zu Holzarten, Beschlägen und Oberflächenbehandlungen systematisch dokumentieren.` },
+        { icon: "prompt", title: "Kundenkommunikation", text: `Terminabsprachen, Planungsrunden und Statusupdates für anspruchsvolle Privat- und Gewerbekunden klar formulieren.` },
+        { icon: "policy", title: "Aufmaß und Maßpläne kommunizieren", text: `Maßpläne und Konstruktionsentscheidungen für Kunden verständlich erläutern.` },
+        { icon: "proof", title: "Kompetenznachweis", text: `Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden.` },
+      ];
+    case "garten-landschaftsbau":
+      return [
+        { icon: "prompt", title: "Angebote für Außenanlagen", text: `Angebote für Garten- und Landschaftsprojekte aus Aufmaß- und Planungsdaten schnell und überzeugend formulieren.` },
+        { icon: "backlog", title: "Projektdokumentation", text: `Bauabschnitte, Pflanzenplanung und Übergaben strukturiert und nachvollziehbar festhalten.` },
+        { icon: "prompt", title: "Saisonale Kundenkommunikation", text: `Pflege- und Wartungskorrespondenz mit Bestands­kunden saisonal organisiert und professionell gestalten.` },
+        { icon: "policy", title: "Pflegeberichte", text: `Wartungseinsätze und Pflegemaßnahmen einheitlich und nachvollziehbar dokumentieren.` },
+        { icon: "training", title: "Förderdokumentation", text: `Unterlagen für Begrünungs- und Umweltförderprogramme inhaltlich vorbereiten.` },
+        { icon: "proof", title: "Kompetenznachweis", text: `Dokumentierter Nachweis nach Artikel 4 KI-Verordnung für alle Teilnehmenden.` },
+      ];
     default:
       return [
         { icon: "prompt", title: "Angebote", text: `Angebote aus Aufmaßdaten schnell und überzeugend formulieren.` },
@@ -118,6 +140,18 @@ function gewerkBodyFaq(gewerk, region) {
         { q: `Ersetzt KI die handwerkliche Ausführung?`, a: `Nein. KI unterstützt bei Angeboten, Raumbüchern und Kommunikation, die handwerkliche Ausführung bleibt beim Fachpersonal.` },
         { q: `Lohnt sich das auch für kleine Maler-Betriebe?`, a: `Ja, gerade bei 2–5 Personen ist die Inhaberin oder der Meister oft selbst für Angebote zuständig, dort wirkt die Zeitersparnis am direktesten.` },
         { q: `Klingen KI-generierte Angebote nicht alle gleich?`, a: `Mit den richtigen Vorlagen und der eigenen Tonalität entsteht konsistente Qualität ohne Austauschbarkeit. Das ist Teil des Trainings.` },
+      ];
+    case "tischler":
+      return [
+        { q: `Ersetzt KI die handwerkliche Planung und Ausführung?`, a: `Nein. KI unterstützt bei Angeboten, Maßpläne erläutern und Kundenkommunikation, die handwerkliche Planung und Ausführung bleibt beim Fachpersonal.` },
+        { q: `Lohnt sich das auch für kleine Tischler-Betriebe?`, a: `Ja, gerade bei Einzelmeisterbetrieben ist die Inhaberin oder der Meister oft selbst für alle Angebote zuständig, dort wirkt die Zeitersparnis am direktesten.` },
+        { q: `Wie hilft KI bei komplexen Maßanfertigungen mit vielen Varianten?`, a: `KI hilft, Angebote aus Varianten schnell und konsistent zu formulieren, etwa wenn Kunden zwischen Holzarten, Beschlägen und Oberflächen wählen. Die technische Kalkulation bleibt beim Fachbetrieb.` },
+      ];
+    case "garten-landschaftsbau":
+      return [
+        { q: `Ersetzt KI die Planung oder Ausführung von Außenanlagen?`, a: `Nein. KI unterstützt bei Angeboten, Projektdokumentation und Kundenkommunikation, die fachliche Planung und Ausführung bleibt beim Fachpersonal.` },
+        { q: `Lohnt sich das auch für kleine Garten- und Landschaftsbau-Betriebe?`, a: `Ja, besonders in der saisonalen Spitzenzeit, wenn viele Angebote gleichzeitig erstellt und viele Kunden koordiniert werden müssen.` },
+        { q: `Wie hilft KI bei der saisonalen Kundenkommunikation?`, a: `KI hilft, wiederkehrende Pflegehinweise, Saisonangebote und Wartungskorrespondenz schnell und konsistent zu formulieren, ohne jedes Mal neu anzufangen.` },
       ];
     default:
       return [

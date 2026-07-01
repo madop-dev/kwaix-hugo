@@ -1,0 +1,16 @@
+id: garten-landschaftsbau
+entitaetstyp: gewerk
+name: "Garten- und Landschaftsbau"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: false
+seiten_pfad: null
+
+branche_ref: "branche:handwerk"
+typische_projektgroesse: "2-25 MA"
+foerderrelevanz: true
+usecase_refs:
+  - "use-case:angebotserstellung"
+  - "use-case:baustellendokumentation"
+  - "use-case:kundenkommunikation"
+suchvolumen_indikator: hoch
