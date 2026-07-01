@@ -98,4 +98,12 @@ Stand 2026: keine generelle Kennzeichnungspflicht für KI-generierten Marketing-
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Produktbeschreibungen Handel" text="Produkttexte fuer Haendler in der eigenen Markenstimme skalierbar erstellen." href="/branchen/handel/produktbeschreibungen/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

@@ -150,4 +150,13 @@ Das [KI-Training Live](/leistungen/ki-training-live/) dauert einen halben Tag (3
 
 {{< cta primaryHref="mailto:info@kwaix.de?subject=KI-Training%20%C3%B6ffentliche%20Hand%20anfragen" primaryText="Vorgespräch anfragen" secondaryHref="/ki-training-kosten/" secondaryText="Preise ansehen" >}}
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Buergerkommunikation" text="Buergeranfragen rechtssicher und verstaendlich beantworten." href="/branchen/oeffentliche-hand/buergerkommunikation/" cta="Ansehen" >}}
+{{< card icon="backlog" title="Vergabedokumentation" text="Vergabevermerke und Zuschlagsbegruendungen nach VgV/UVgO strukturieren." href="/branchen/oeffentliche-hand/vergabedokumentation/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

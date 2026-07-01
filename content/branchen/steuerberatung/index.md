@@ -100,4 +100,12 @@ Im Training arbeiten wir mit anonymisierten Beispielen, welche Daten in welche T
 **Gilt das auch für Sozietäten mit mehreren Standorten?**
 Ja, für Schulungen mehrerer Standorte sprechen Sie uns auf ein maßgeschneidertes Angebot an.
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Steuerbescheid-Erlaeuterungen" text="Steuerbescheide fuer Mandanten verstaendlich und zeiteffizient erlaeutern." href="/branchen/steuerberatung/steuerbescheid-erlaeuterungen/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

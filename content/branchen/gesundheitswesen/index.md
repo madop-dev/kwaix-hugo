@@ -80,4 +80,12 @@ Ja, gerade bei kleinen Teams, wo jede Pflegefachkraft selbst dokumentiert, ist d
 **Wie stellen wir den Datenschutz sicher?**
 Datenschutz und Patientenvertraulichkeit sind fester Bestandteil jedes Trainings. Wir klären im Kickoff gemeinsam mit dem Datenschutzbeauftragten, was erlaubt ist.
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Angehoerigenkommunikation" text="Angehoerige einfu hlsam und einheitlich informieren." href="/branchen/gesundheitswesen/angehoerigenkommunikation/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

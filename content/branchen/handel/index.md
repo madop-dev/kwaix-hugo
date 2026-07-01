@@ -100,4 +100,13 @@ Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Pre
 **Gilt das auch für Franchise-Systeme mit mehreren Standorten?**
 Ja, für Schulungen mehrerer Standorte sprechen Sie uns auf ein maßgeschneidertes Angebot an.
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Produktbeschreibungen" text="Sortimenttexte fuer viele Artikel schnell in der eigenen Markenstimme erstellen." href="/branchen/handel/produktbeschreibungen/" cta="Ansehen" >}}
+{{< card icon="backlog" title="Kundenbewertungsantworten" text="Auf Bewertungen bei Google, Amazon und Trustpilot professionell reagieren." href="/branchen/handel/kundenbewertungsantworten/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

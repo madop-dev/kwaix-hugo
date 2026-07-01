@@ -95,4 +95,12 @@ Kundendaten ohne AVV nicht in öffentliche KI-Tools. Pragmatische Lösung: Platz
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Pflegedokumentation" text="Pflegeberichte SGB XI-konform aus Stichpunkten erstellen." href="/branchen/gesundheitswesen/pflegedokumentation/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

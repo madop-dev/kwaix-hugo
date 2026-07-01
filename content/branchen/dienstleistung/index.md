@@ -108,4 +108,13 @@ Wir arbeiten mit Beispielen aus Ihrem konkreten Arbeitsalltag, keine generischen
 **Wie viel kostet das Training?**
 Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Details: [Preise](/ki-training-kosten/).
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Leistungsdokumentation" text="Erbrachte Leistungen fuer wiederkehrende Vertraege strukturiert dokumentieren." href="/branchen/dienstleistung/leistungsdokumentation/" cta="Ansehen" >}}
+{{< card icon="backlog" title="Dienstleistungsangebote" text="SLA-konforme Angebote strukturiert aus Referenzprojekten aufbauen." href="/branchen/dienstleistung/dienstleistungsangebote/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

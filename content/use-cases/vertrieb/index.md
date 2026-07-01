@@ -87,6 +87,13 @@ Bei einem Vertriebsteam von 5 Personen entspricht das **12–25 Stunden zurückg
 {{< card icon="platform" title="06 Plattform (opt.)" text="[Trainingsplattform](/leistungen/trainingsplattform/) für neue Vertriebsmitarbeitende und Auffrischung." >}}
 {{< /cards >}}
 
+
+## Branchenspezifische Anwendungsfaelle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Ausschreibungsunterlagen Bau" text="Leistungsverzeichnisse nach HOAI und VOB strukturiert aufbauen." href="/branchen/bau/ausschreibungsunterlagen/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/preise/" secondaryText="Preise ansehen" >}}
 
 {{< /section >}}
@@ -110,6 +117,7 @@ Durch unternehmensspezifische Prompt-Vorlagen mit Tonalität, Firmensprache und 
 **Was müssen Vertriebsteams über Datenschutz wissen?**
 Kundendaten dürfen ohne Auftragsverarbeitungsvertrag (AVV) nicht in öffentliche KI-Tools. Mit AVV (z.B. Microsoft Copilot Enterprise) unter den Bedingungen des Vertrags möglich. Details: [Datenschutz & DSGVO](/ki-verordnung/datenschutz-dsgvo/).
 
-{{< cta primaryHref="mailto:info@kwaix.de?subject=KI%20Vertrieb%20anfragen" primaryText="Jetzt anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
+
+ primaryText="Jetzt anfragen" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training im Detail" >}}
 
 {{< /section >}}

@@ -77,4 +77,12 @@ Ja, gerade bei Bauleitern, die Dokumentation nebenbei erledigen, spart strukturi
 **Wie geht KI mit vertraulichen Projektdaten um?**
 Im Training arbeiten wir mit anonymisierten Beispielen. Welche Projektdaten in welche Tools eingegeben werden dürfen, klären wir im Kickoff.
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Ausschreibungsunterlagen" text="Leistungsverzeichnisse nach HOAI und VOB strukturiert aufbauen." href="/branchen/bau/ausschreibungsunterlagen/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

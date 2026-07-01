@@ -96,4 +96,12 @@ Ja, Mahnungen, Absagen, Eskalationen, Kritik. KI formuliert sachlich und deeskal
 
 {{< cta primaryHref="/leistungen/ki-kickoff/" primaryText="Mit KI-Kickoff starten" secondaryHref="/leistungen/ki-training-live/" secondaryText="Training buchen" >}}
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Abnahmedokumentation Bau" text="VOB-konforme Abnahmeprotokolle und Maengellisten erstellen." href="/branchen/bau/abnahmedokumentation/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

@@ -114,4 +114,13 @@ Für 6–10 Personen: 3.600 € netto. Enthalten: Vorab-Umfrage, 4 Stunden Live-
 **Zählt das Training als Fortbildung für Steuerberater?**
 Das ist steuerberufsrechtlich individuell zu prüfen. Wir stellen eine Teilnahmebestätigung mit Inhaltsbeschreibung aus, die als Grundlage für die Anrechnung gegenüber der Kammer vorgelegt werden kann.
 
+
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Beratungsdokumentation" text="Beratungsgespraeche schnell und rechtssicher dokumentieren." href="/branchen/finanzen/beratungsdokumentation/" cta="Ansehen" >}}
+{{< card icon="backlog" title="Compliance-Korrespondenz" text="Ausschussprotokolle und BaFin-Korrespondenz praezise formulieren." href="/branchen/finanzen/compliance-korrespondenz/" cta="Ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}

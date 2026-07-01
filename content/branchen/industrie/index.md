@@ -101,4 +101,11 @@ Ja, Verwaltung und technische Teams werden häufig in getrennten Modulen geschul
 **Was kostet das Training?**
 Staffelung nach Teamgröße, ab 2.400 € für 1–5 Teilnehmende. Für größere Teams auf Anfrage. Details: [Preise](/ki-training-kosten/).
 
+
+## Branchenspezifische Anwendungsfälle
+
+{{< cards cols="3" >}}
+{{< card icon="backlog" title="Technische Dokumentation" text="Betriebsanleitungen, CE-Dokumentation und Wartungshandbücher normgerecht erstellen." href="/branchen/industrie/technische-dokumentation/" cta="Anwendungsfall ansehen" >}}
+{{< /cards >}}
+
 {{% /section %}}
