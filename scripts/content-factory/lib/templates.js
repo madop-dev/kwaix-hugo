@@ -139,8 +139,9 @@ function kiToolHubFrontmatter(tool) {
   };
 }
 
-function toFrontmatterYaml(fm) {
-  return `---\n${yaml.dump(fm, { lineWidth: 120, noRefs: true })}---\n\n[REDAKTIONELL: Body-Sections (section/cards/cta-Shortcodes) nach Goldstandard-Muster ergaenzen.]\n`;
+function toFrontmatterYaml(fm, body) {
+  const bodyContent = body || "[REDAKTIONELL: Body-Sections (section/cards/cta-Shortcodes) nach Goldstandard-Muster ergaenzen.]";
+  return `---\n${yaml.dump(fm, { lineWidth: 120, noRefs: true })}---\n\n${bodyContent}\n`;
 }
 
 module.exports = { regionGewerkFrontmatter, bracheUseCaseFrontmatter, ueseCaseHubFrontmatter, kiToolHubFrontmatter, toFrontmatterYaml, pflichtFaqArt4 };

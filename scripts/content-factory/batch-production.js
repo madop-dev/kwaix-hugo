@@ -14,6 +14,7 @@ const yaml = require("js-yaml");
 const { loadEntity, resolveRef, resolveRefs } = require("./lib/data-loader");
 const { checkThresholds, checkDifferentiation } = require("./lib/thresholds");
 const { regionGewerkFrontmatter, bracheUseCaseFrontmatter, toFrontmatterYaml } = require("./lib/templates");
+const { buildRegionGewerkBody } = require("./lib/body-builder");
 const qa = require("./lib/qa");
 
 const CONTENT_ROOT = path.join(__dirname, "..", "..", "content");
@@ -21,9 +22,8 @@ const DOCS_ROOT = path.join(__dirname, "..", "..", "docs");
 
 const args = process.argv.slice(2);
 const write = args.includes("--write");
-// --update: wie --write, überschreibt aber bestehende Ordner (kein Slug-Eindeutigkeit-FAIL).
-// Verwendung ausschliesslich fuer Regeneration mit geaendertem Template.
 const update = args.includes("--update");
+const fullBatch = args.includes("--full-batch");
 const reportArg = args.find((a) => a.startsWith("--report="));
 const reportFilename = reportArg ? reportArg.split("=")[1] : "PRODUKTIONSBERICHT-BATCH-01.md";
 
@@ -61,6 +61,11 @@ const BATCH = [
   { type: "region-gewerk", region: "koeln",     gewerk: "maler" },
   { type: "region-gewerk", region: "zuerich",   gewerk: "maler" },
 ];
+
+// --full-batch laedt alle noch offenen Kombinationen dynamisch
+const ACTIVE_BATCH = fullBatch
+  ? require("./_batch_full_list.js")
+  : BATCH;
 
 function buildCombo(spec) {
   if (spec.type === "region-gewerk") {
@@ -228,7 +233,7 @@ console.log(`Modus: ${mode} · ${BATCH.length} Kombinationen\n`);
 
 const results = [];
 
-for (const spec of BATCH) {
+for (const spec of ACTIVE_BATCH) {
   const label = comboLabel(spec);
   const result = { label, slug: null, status: "OK", stoppedAt: null, qaChecks: [], warnings: [], verbesserungsvorschlaege: [], frontmatter: null };
 
@@ -296,11 +301,14 @@ for (const spec of BATCH) {
       });
     }
 
-    // Schreiben
+    // Schreiben (Body automatisch aus body-builder.js wenn Region×Gewerk)
     if (write || update) {
       const targetDir = path.join(CONTENT_ROOT, slug);
       if (!fs.existsSync(targetDir)) fs.mkdirSync(targetDir, { recursive: true });
-      fs.writeFileSync(path.join(targetDir, "index.md"), toFrontmatterYaml(frontmatter), "utf8");
+      const body = spec.type === "region-gewerk" ? buildRegionGewerkBody(combo) : null;
+      // draft:false setzen, da Body jetzt vollständig generiert ist
+      frontmatter.draft = false;
+      fs.writeFileSync(path.join(targetDir, "index.md"), toFrontmatterYaml(frontmatter, body), "utf8");
     }
 
     console.log(`[${result.status}] ${label} → ${slug}${write ? " (geschrieben)" : " (dry-run)"}`);

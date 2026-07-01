@@ -6,7 +6,7 @@
 // (X, Y und Z) eine natürliche Listenform, keine SEO-Stapelung.
 const GEWERK_SCHWERPUNKT = {
   holzbau:    "Aufmaße, Angebote und Projektdokumentation",
-  shk:        "Angebote, Wartungsprotokolle und Kundenkommunikation",
+  shk:        "Angebote, Wartungsberichte und Kundenkommunikation",
   dachdecker: "Aufmaße, Angebote und Baudokumentation",
   elektro:    "Aufmaße, Messberichte und Kundenkommunikation",
   maler:      "Angebote, Raumbücher und Kundenkommunikation",
