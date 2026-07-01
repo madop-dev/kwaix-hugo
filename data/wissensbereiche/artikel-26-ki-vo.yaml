@@ -1,0 +1,7 @@
+id: artikel-26-ki-vo
+entitaetstyp: wissensbereich
+name: "Artikel 26 EU KI-Verordnung (Hochrisiko-KI)"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-verordnung/artikel-26-hochrisiko/"

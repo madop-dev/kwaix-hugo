@@ -1,0 +1,7 @@
+id: ki-grundbegriffe-mittelstand
+entitaetstyp: wissensbereich
+name: "KI-Grundbegriffe für den Mittelstand"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ki-grundbegriffe/"
