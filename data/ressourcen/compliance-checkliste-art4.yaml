@@ -1,0 +1,7 @@
+id: compliance-checkliste-art4
+entitaetstyp: ressource
+name: "Compliance-Checkliste Artikel 4 KI-VO"
+status: aktiv
+schicht: "4"
+hat_eigene_seite: true
+seiten_pfad: "/ressourcen/compliance-checkliste-artikel-4/"
