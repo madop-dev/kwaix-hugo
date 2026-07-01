@@ -1,0 +1,13 @@
+id: gesundheitswesen
+entitaetstyp: branche
+name: "Gesundheitswesen"
+status: aktiv
+schicht: "2"
+hat_eigene_seite: true
+seiten_pfad: "/branchen/gesundheitswesen/"
+
+hat_gewerke: false
+standard_tools: []
+standard_usecases:
+  - "use-case:pflegedokumentation"
+suchvolumen_indikator: hoch

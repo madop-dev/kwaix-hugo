@@ -12,3 +12,4 @@ usecase_refs:
   - "use-case:beratungsdokumentation"
   - "use-case:buergerkommunikation"
   - "use-case:mandantenkommunikation"
+  - "use-case:pflegedokumentation"

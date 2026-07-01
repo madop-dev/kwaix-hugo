@@ -10,3 +10,4 @@ usecase_refs:
   - "use-case:baustellendokumentation"
   - "use-case:projektstatusberichte"
   - "use-case:terminkoordination"
+  - "use-case:abnahmedokumentation"
