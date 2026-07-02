@@ -57,13 +57,13 @@ KI ist kein Thema für große Konzerne. Gerade in Handwerksbetrieben stecken die
 ## Gewerke — gewerke-spezifische Trainingsseiten
 
 {{< cards cols="3" >}}
-{{< card icon="training" title="SHK" text="Angebote für Wärmepumpen, Wartungsprotokolle und Förderanträge für SHK-Betriebe." href="/ki-training-shk-freiburg/" cta="Gewerk ansehen" >}}
-{{< card icon="training" title="Elektro" text="Angebote, Messberichte, Recruiting und Stellenausschreibungen für Elektrobetriebe." href="/ki-training-elektro-zuerich/" cta="Gewerk ansehen" >}}
-{{< card icon="training" title="Dachdecker" text="Aufmaße, Angebote, Baudokumentation und Fördernachweise für Dachdecker-Betriebe." href="/ki-training-dachdecker-berlin/" cta="Gewerk ansehen" >}}
-{{< card icon="training" title="Maler" text="Angebote, Raumbücher und Kundenkommunikation für Maler-Betriebe." href="/ki-training-maler-wien/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="SHK" text="Angebote für Wärmepumpen, Wartungsprotokolle und Förderanträge für SHK-Betriebe." href="/branchen/handwerk/shk/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="Elektro" text="Angebote, Messberichte, Recruiting und Stellenausschreibungen für Elektrobetriebe." href="/branchen/handwerk/elektro/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="Dachdecker" text="Aufmaße, Angebote, Baudokumentation und Fördernachweise für Dachdecker-Betriebe." href="/branchen/handwerk/dachdecker/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="Maler" text="Angebote, Raumbücher und Kundenkommunikation für Maler-Betriebe." href="/branchen/handwerk/maler/" cta="Gewerk ansehen" >}}
 {{< card icon="training" title="Holzbau" text="Aufmaße, Projektdokumentation, Wissensmanagement und Förderanträge für Holzbau-Betriebe." href="/ki-training-holzbau-hamburg/" cta="Gewerk ansehen" >}}
-{{< card icon="training" title="Tischler" text="Angebote für Maßanfertigungen, Maßpläne und Kundenkommunikation für Tischler-Betriebe." href="/ki-training-tischler-berlin/" cta="Gewerk ansehen" >}}
-{{< card icon="training" title="Garten- und Landschaftsbau" text="Angebote, Projektdokumentation und saisonale Kundenkommunikation für GaLaBau-Betriebe." href="/ki-training-garten-landschaftsbau-hamburg/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="Tischler" text="Angebote für Maßanfertigungen, Maßpläne und Kundenkommunikation für Tischler-Betriebe." href="/branchen/handwerk/tischler/" cta="Gewerk ansehen" >}}
+{{< card icon="training" title="Garten- und Landschaftsbau" text="Angebote, Projektdokumentation und saisonale Kundenkommunikation für GaLaBau-Betriebe." href="/branchen/handwerk/garten-landschaftsbau/" cta="Gewerk ansehen" >}}
 {{< /cards >}}
 
 ## Branchenspezifische Anwendungsfälle
