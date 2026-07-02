@@ -271,7 +271,7 @@ body {
 .btn-hero-primary {
   display: inline-flex;
   align-items: center;
-  background: #f43f5e;
+  background: #be123c;
   color: #fff;
   font-weight: 700;
   font-size: 1rem;
@@ -279,9 +279,9 @@ body {
   border-radius: var(--radius);
   text-decoration: none;
   transition: background 0.2s, transform 0.2s;
-  box-shadow: 0 4px 20px rgba(244,63,94,0.4);
+  box-shadow: 0 4px 20px rgba(190,18,60,0.4);
 }
-.btn-hero-primary:hover { background: #e11d48; transform: translateY(-2px); }
+.btn-hero-primary:hover { background: #9f1239; transform: translateY(-2px); }
 .btn-hero-secondary {
   display: inline-flex;
   align-items: center;
@@ -2436,6 +2436,11 @@ body {
 @media (max-width: 600px) {
   .leistung-hero { padding: 56px 0 52px; }
   .leistung-hero-h1 { font-size: 26px; }
+  .leistung-hero-proof { flex-direction: row; flex-wrap: nowrap; gap: 10px; }
+  .leistung-proof-card { flex: 1; min-width: 0; padding: 14px 16px; }
+  .leistung-proof-card:nth-child(n+3) { display: none; }
+  .leistung-proof-num { font-size: 20px; }
+  .leistung-proof-label { font-size: 11px; hyphens: none; }
 }
 
 /* ===== SECTION EYEBROW ===== */
